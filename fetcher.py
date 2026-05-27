@@ -50,12 +50,14 @@ def fetch_all_articles():
                 if not title:
                     continue
 
+                url = entry.get("link", "") or entry.get("id", "")
                 articles.append({
                     "source": feed["name"],
                     "category": feed["category"],
                     "title": title,
                     "summary": summary[:500],
-                    "link": entry.get("link", ""),
+                    "url": url,
+                    "link": url,  # kept for backward compatibility
                     "published": published.isoformat() if published else "",
                 })
         except Exception as e:

@@ -47,12 +47,15 @@ def build_and_send(slot: str):
         return
 
     sources = sorted({a["source"] for a in articles})
-    sources_line = ", ".join(sources[:6])
+    sources_line = ", ".join(sources[:8])
+
+    divider = "━" * 20
 
     message = (
-        f"{header_emoji} <b>{title}</b> — {date_str}\n\n"
-        f"{body}\n\n"
-        f"───────────────\n"
+        f"{header_emoji} **{title}** — {date_str}\n"
+        f"{divider}\n"
+        f"{body}\n"
+        f"{divider}\n"
         f"Sources: {sources_line}"
     )
 
