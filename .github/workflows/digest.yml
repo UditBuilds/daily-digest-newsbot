@@ -1,0 +1,45 @@
+name: Daily Digest
+
+on:
+  repository_dispatch:
+    types: [morning_digest, evening_digest]
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'morning or evening'
+        required: true
+        default: 'morning'
+
+concurrency:
+  group: digest-${{ github.event_name }}
+  cancel-in-progress: false
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine slot
+        id: slot
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "slot=${{ github.event.action == 'morning_digest' && 'morning' || 'evening' }}" >> $GITHUB_OUTPUT
+          else
+            echo "slot=${{ github.event.inputs.slot }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run digest
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py --run-now ${{ steps.slot.outputs.slot }}
