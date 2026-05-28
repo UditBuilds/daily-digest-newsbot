@@ -24,10 +24,12 @@ RSS_FEEDS = [
     {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "ai"},
     {"name": "Google News AI", "url": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-IN&gl=IN&ceid=IN:en", "category": "ai"},
     # India Business / D2C / Startups
-    {"name": "Economic Times Markets", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "category": "india_business"},
     {"name": "Inc42", "url": "https://inc42.com/feed/", "category": "india_business"},
     {"name": "Entrackr", "url": "https://entrackr.com/feed/", "category": "india_business"},
-    {"name": "Google News India Business", "url": "https://news.google.com/rss/search?q=india+business+startup&hl=en-IN&gl=IN&ceid=IN:en", "category": "india_business"},
+    {"name": "YourStory", "url": "https://yourstory.com/feed", "category": "india_business"},
+    {"name": "VCCircle", "url": "https://www.vccircle.com/feed", "category": "india_business"},
+    {"name": "The Ken", "url": "https://the-ken.com/feed/", "category": "india_business"},
+    {"name": "Google News Indian Startups", "url": "https://news.google.com/rss/search?q=indian+startup+funding+D2C+ecommerce&hl=en-IN&gl=IN&ceid=IN:en", "category": "india_business"},
     {"name": "Google News India Startups", "url": "https://news.google.com/rss/search?q=india+startup+D2C&hl=en-IN&gl=IN&ceid=IN:en", "category": "india_business"},
     # India News (national-level events)
     {"name": "NDTV Top Stories", "url": "https://feeds.feedburner.com/ndtvnews-top-stories", "category": "india_news"},
@@ -56,6 +58,8 @@ SYSTEM_PROMPT = (
     "INDIA NEWS — strict filter:\n"
     "ONLY include: Supreme Court verdicts affecting millions, major central government policy (not state-level), national infrastructure announcements, India's position in global events, major national security developments, Parliament decisions with national impact.\n"
     "NEVER include: state-level political gossip, which politician is meeting whom, party alliance rumours, individual politician's career moves, postponed meetings, regional election speculation.\n"
+    "NEVER include: state chief minister reshuffles or resignations unless it triggers a national constitutional crisis, state governor meetings, Karnataka/Tamil Nadu/any single state political moves unless they directly affect national Parliament or central government policy.\n"
+    "If you are unsure whether an India News story is national or state-level, skip it. When in doubt, leave it out.\n"
     "If no strong India News story exists today, skip this category entirely rather than filling it with weak stories.\n\n"
     "QUALITY OVER QUANTITY RULE: It is better to publish 5 strong stories than 9 weak ones. If a category has no genuinely important news today, skip it completely. Never pad with weak stories to fill space.\n\n"
     "FORMATTING & EXTRAS:\n"
