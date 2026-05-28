@@ -1,9 +1,24 @@
 services:
-  - type: worker
-    name: daily-digest-newsbot
+  - type: cron
+    name: digest-morning
     runtime: python
+    schedule: "15 0 * * *"   # 00:15 UTC = 05:45 IST
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python bot.py --run-now morning
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_CHAT_ID
+        sync: false
+
+  - type: cron
+    name: digest-evening
+    runtime: python
+    schedule: "15 12 * * *"  # 12:15 UTC = 17:45 IST
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py --run-now evening
     envVars:
       - key: GROQ_API_KEY
         sync: false
