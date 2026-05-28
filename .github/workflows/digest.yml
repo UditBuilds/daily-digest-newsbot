@@ -2,10 +2,10 @@ name: Daily Digest
 
 on:
   schedule:
-    # 00:30 UTC = 06:00 IST (morning brief)
-    - cron: "30 0 * * *"
-    # 12:30 UTC = 18:00 IST (evening brief)
-    - cron: "30 12 * * *"
+    # 00:15 UTC = 05:45 IST — 15 min buffer before 06:00 IST target
+    - cron: "15 0 * * *"
+    # 12:15 UTC = 17:45 IST — 15 min buffer before 18:00 IST target
+    - cron: "15 12 * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -16,6 +16,10 @@ on:
         options:
           - morning
           - evening
+
+concurrency:
+  group: digest-${{ github.event.schedule }}
+  cancel-in-progress: false
 
 jobs:
   digest:
@@ -41,7 +45,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "30 0 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "15 0 * * *" ]; then
             echo "slot=morning" >> "$GITHUB_OUTPUT"
           else
             echo "slot=evening" >> "$GITHUB_OUTPUT"
