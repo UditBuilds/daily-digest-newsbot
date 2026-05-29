@@ -59,7 +59,7 @@ A fully automated personal news agent that fetches from 15+ RSS sources, filters
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Uditkumar05ai/daily-digest-newsbot
+git clone https://github.com/Uditbuilds/daily-digest-newsbot
 cd daily-digest-newsbot
 pip install -r requirements.txt
 ```
@@ -132,7 +132,7 @@ daily-digest-newsbot/
 | `weekly.yml` | Every Sunday | Week in review |
 
 ## Sister Project
-🤖 [AI Intelligence Daily](https://github.com/Uditkumar05ai/AI-Intelligence-Daily) — founder-focused daily AI brief
+🤖 [AI Intelligence Daily](https://github.com/Uditbuilds/AI-Intelligence-Daily) — founder-focused daily AI brief
 
 ## License
 MIT
