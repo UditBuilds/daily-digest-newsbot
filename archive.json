@@ -1,3 +1,56 @@
 {
-  "briefs": []
+  "briefs": [
+    {
+      "date": "2026-05-29",
+      "slot": "evening",
+      "theme": "Trump holds a meeting to make a final determination on the US-Iran draft truce deal, while Anthropic launches Claude Opus 4.8, and Brussels starts a tougher China trade policy.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump holds meeting to make final determination on US-Iran draft truce deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic launches Claude Opus 4.8 with stronger coding performance"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Blinkit commands 50% of Indian quick commerce market"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Russia signs military pact deal with Taliban, may benefit India and unsettle Pakistan"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "New Glenn incident at Cape Canaveral Space Force Station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-05-29T22:48:17+05:30"
+    }
+  ]
 }

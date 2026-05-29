@@ -1,3 +1,28 @@
 {
-  "sent": []
+  "sent": [
+    {
+      "headline": "Trump holds meeting to make final determination on US-Iran draft truce deal",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Opus 4.8 with stronger coding performance",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    },
+    {
+      "headline": "Blinkit commands 50% of Indian quick commerce market",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    },
+    {
+      "headline": "Russia signs military pact deal with Taliban, may benefit India and unsettle Pakistan",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    },
+    {
+      "headline": "New Glenn incident at Cape Canaveral Space Force Station",
+      "sent_at": "2026-05-29T17:18:17.331982+00:00"
+    }
+  ]
 }
