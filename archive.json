@@ -295,6 +295,50 @@
         "YourStory"
       ],
       "sent_at": "2026-05-31T18:01:07+05:30"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "evening",
+      "theme": "India and China are making significant moves in AI and tech, while geopolitics sees the US playing a long game against China on energy dominance.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US quietly plays the long game on energy dominance against China"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SoftBank plans 75 billion euros of AI investments in France"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Women in India top AI-related skills globally, higher than US: Report"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "UP gets permanent DGP after 4 years, Rajeev Krishna appointed state police chief"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-05-31T18:12:37+05:30"
     }
   ]
 }
