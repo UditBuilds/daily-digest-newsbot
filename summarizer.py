@@ -17,6 +17,44 @@ IST = pytz.timezone(IST_TIMEZONE)
 # Story headlines in the digest are wrapped in **bold**.
 _HEADLINE_RE = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
 _THEME_RE = re.compile(r"Today'?s Theme:\s*(.+)", re.IGNORECASE)
+_TRENDING_RE = re.compile(r"(🔍\s*Trending Topics:)\s*(.*)", re.IGNORECASE | re.DOTALL)
+
+# Generic words that must never appear in Trending Topics.
+_GENERIC_TRENDING = {
+    "analysis", "reports", "report", "data", "research", "trends", "updates",
+    "update", "insights", "perspectives", "recommendations", "statistics",
+    "graphs", "charts", "tables", "studies", "findings", "results",
+    "conclusions", "suggestions", "ideas", "opinions", "views", "editorials",
+    "articles", "columns", "blogs", "news", "story", "stories",
+}
+_MAX_TRENDING = 7
+
+
+def _sanitize_trending(digest: str) -> str:
+    """Replace a possibly-runaway Trending Topics line with a clean, deduped,
+    capped one. Guards against the model's repetition-loop hallucination."""
+    m = _TRENDING_RE.search(digest)
+    if not m:
+        return digest
+
+    raw = m.group(2)
+    seen = set()
+    clean = []
+    for token in raw.split("·"):
+        t = token.strip().strip("*").strip()
+        if not t or len(t) > 40:
+            continue
+        key = t.lower()
+        if key in _GENERIC_TRENDING or key in seen:
+            continue
+        seen.add(key)
+        clean.append(t)
+        if len(clean) >= _MAX_TRENDING:
+            break
+
+    new_line = f"{m.group(1)} " + " · ".join(clean)
+    # Trending Topics is the last line; drop anything the model ran on after it.
+    return digest[:m.start()] + new_line
 
 CATEGORY_LABELS = {
     "geopolitics": "GEOPOLITICS",
@@ -121,8 +159,13 @@ def summarize(articles, slot: str = "morning"):
         ],
         temperature=0.4,
         max_tokens=2000,
+        # Penalise token repetition to break the Trending Topics runaway loop.
+        frequency_penalty=0.6,
     )
     digest = resp.choices[0].message.content.strip()
+
+    # Deterministic guard against the Trending Topics repetition hallucination.
+    digest = _sanitize_trending(digest)
 
     # Record headlines so the next brief can skip these stories.
     add_headlines(_extract_headlines(digest))
