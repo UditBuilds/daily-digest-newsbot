@@ -201,6 +201,55 @@
         "YourStory"
       ],
       "sent_at": "2026-05-30T18:01:08+05:30"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "morning",
+      "theme": "Russia and Ukraine escalate tensions as a Ukrainian drone strikes the Zaporizhzhia nuclear plant, while OpenAI updates its GPT-5.5 model for improved style and quality.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia says Ukraine drone struck Zaporizhzhia nuclear plant"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SoftBank says it will invest up to €75 billion to build French data centers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Updates GPT-5.5 Instant for Style and Quality"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Menhood FY26: Revenue Zooms 75% YoY To ₹41 Cr, Profit Up 20% YoY"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "CDS Gen Chauhan wraps up tenure marked by Op Sindoor, tri-services integration"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Tales of Space, Dino Dilemmas, and Ancestral Restitution"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-05-31T06:01:11+05:30"
     }
   ]
 }
