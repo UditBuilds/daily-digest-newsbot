@@ -56,6 +56,35 @@ def _sanitize_trending(digest: str) -> str:
     # Trending Topics is the last line; drop anything the model ran on after it.
     return digest[:m.start()] + new_line
 
+
+# Deterministic filler scrub. Longer patterns first so e.g. "will likely be"
+# is removed whole before "will likely" can match a fragment. (pattern, repl).
+_FILLER_SUBS = [
+    (r"will likely be ", ""),
+    (r"will likely ", ""),
+    (r"is likely to ", ""),
+    (r"are likely to ", ""),
+    (r"in the coming months", ""),
+    (r"in the coming weeks", ""),
+    (r"in the coming days", ""),
+    (r"is expected to ", ""),
+    (r"are expected to ", ""),
+    (r"aiming to ", ""),
+    (r"with a focus on ", ""),
+    (r"in order to ", "to "),
+]
+
+
+def _scrub_filler(digest: str) -> str:
+    """Delete/replace the most common filler phrases, then tidy whitespace."""
+    for pattern, repl in _FILLER_SUBS:
+        digest = re.sub(pattern, repl, digest, flags=re.IGNORECASE)
+    # Tidy artifacts left by deletions: collapse runs of spaces and remove
+    # spaces left before sentence punctuation.
+    digest = re.sub(r"[ \t]{2,}", " ", digest)
+    digest = re.sub(r" +([.,;:])", r"\1", digest)
+    return digest
+
 CATEGORY_LABELS = {
     "geopolitics": "GEOPOLITICS",
     "ai": "AI & TECH",
@@ -166,6 +195,9 @@ def summarize(articles, slot: str = "morning"):
 
     # Deterministic guard against the Trending Topics repetition hallucination.
     digest = _sanitize_trending(digest)
+
+    # Strip the most common filler phrases the model still emits.
+    digest = _scrub_filler(digest)
 
     # Record headlines so the next brief can skip these stories.
     add_headlines(_extract_headlines(digest))
