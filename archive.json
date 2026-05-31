@@ -250,6 +250,51 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-05-31T06:01:11+05:30"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "evening",
+      "theme": "Japan's defence minister rejects China's 'new militarism' label, while India's AI revolution accelerates with billion-dollar investments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japanese defence minister rejects ‘new militarism’ label from China"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India’s AI Revolution Accelerates as Billion-Dollar Investments Reshape the Artificial Intelligence Market"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Real Money Gaming’s GST Soup: Beating A Dead Horse"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "CBSE vs students: Board admits flaws after teen hacker exposes website vulnerabilities"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science and space news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-05-31T18:01:07+05:30"
     }
   ]
 }
