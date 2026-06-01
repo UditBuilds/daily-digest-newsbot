@@ -339,6 +339,54 @@
         "YourStory"
       ],
       "sent_at": "2026-05-31T18:12:37+05:30"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "morning",
+      "theme": "Colombia's presidential election heats up as Cepeda and de la Espriella advance to a runoff, while the US takes steps to halt Nvidia AI chip shipments to Chinese firms.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Cepeda, de la Espriella advance in Colombia’s presidential election"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US takes step to halt Nvidia AI chip shipments to Chinese overseas subsidiaries"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Opus 4.8 for coding agents"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Big drop in VC inflow; MeMeraki, a tech platform for artisans"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "CBSE crisis deepens: Student data exposed, say cyber activists"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Registration for Youth Astronomy and Space Science Congress opens today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-01T06:01:04+05:30"
     }
   ]
 }
