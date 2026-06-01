@@ -387,6 +387,55 @@
         "YourStory"
       ],
       "sent_at": "2026-06-01T06:01:04+05:30"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "evening",
+      "theme": "France seizes a Russian oil tanker, while Anthropic launches a new AI model and Simple Energy raises ₹250 Cr in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "French Navy seizes Russian oil tanker"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia announces new AI chip for personal computers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Opus 4.8 with improved reasoning capabilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Simple Energy raises ₹250 Cr in mix of debt & equity"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "BJP hits back at Kapil Sibal over 'ashamed to live in India' remark"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists Find Cosmic 'Rosetta Stone' To Decode Baffling Signals From Deep Space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-01T18:02:19+05:30"
     }
   ]
 }
