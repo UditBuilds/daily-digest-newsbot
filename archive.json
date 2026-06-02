@@ -436,6 +436,58 @@
         "YourStory"
       ],
       "sent_at": "2026-06-01T18:02:19+05:30"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta invests $15B in social media, and Anthropic files for an IPO.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Senators blast Trump for allowing AI chips to be sent to overseas units of Chinese firms"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic files to go public"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic to offer EU access to its advanced Mythos model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric Opens QIP, Sets Floor Price Of ₹37.74"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Won’t allow territory to be used against India: Myanmar president"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-02T06:01:03+05:30"
     }
   ]
 }
