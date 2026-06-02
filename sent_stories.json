@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
-      "headline": "US takes step to halt Nvidia AI chip shipments to Chinese overseas subsidiaries",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Opus 4.8 for coding agents",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
-      "headline": "Big drop in VC inflow; MeMeraki, a tech platform for artisans",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
-      "headline": "CBSE crisis deepens: Student data exposed, say cyber activists",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
-      "headline": "Registration for Youth Astronomy and Space Science Congress opens today",
-      "sent_at": "2026-06-01T00:31:04.838832+00:00"
-    },
-    {
       "headline": "French Navy seizes Russian oil tanker",
       "sent_at": "2026-06-01T12:32:19.953446+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-06-02T00:31:03.636676+00:00"
+    },
+    {
+      "headline": "South Korea and Japan eye military logistics pact",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude AI chatbot faces global outage",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
+    },
+    {
+      "headline": "Codex becomes a productivity tool for everyone",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
+    },
+    {
+      "headline": "ONDC raises ₹220 Cr from Uber, Zoho, and Paytm",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
+    },
+    {
+      "headline": "India hits out at Pak-EU joint statement for J&K reference",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
+    },
+    {
+      "headline": "Rusty, orange water 'bleeds' across Bolivian lagoon",
+      "sent_at": "2026-06-02T12:31:45.261269+00:00"
     }
   ]
 }

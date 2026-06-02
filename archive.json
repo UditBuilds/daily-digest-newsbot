@@ -488,6 +488,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-02T06:01:03+05:30"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "evening",
+      "theme": "South Korea and Japan are eyeing a military logistics pact, while Anthropic's AI chatbot Claude faces a global outage due to capacity constraints.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South Korea and Japan eye military logistics pact"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic's Claude AI chatbot faces global outage"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Codex becomes a productivity tool for everyone"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ONDC raises ₹220 Cr from Uber, Zoho, and Paytm"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India hits out at Pak-EU joint statement for J&K reference"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Rusty, orange water 'bleeds' across Bolivian lagoon"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-02T18:01:45+05:30"
     }
   ]
 }
