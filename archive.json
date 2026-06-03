@@ -589,6 +589,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-03T06:01:09+05:30"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": "evening",
+      "theme": "India faces a hotel fire tragedy, while Anthropic expands its AI model access to India, and the EU and China prepare for trade talks.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "EU and China set for Paris talks this week amid mounting trade war fears"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google must let publishers opt out of AI Search features, rules UK"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic expands Claude Mythos access to India; Adds 15 other countries and 150 organisations"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Fraganote Raises $3M Series A to Expand D2C Fragrance Brand"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian national killed in Iranian drone attack on Kuwait airport"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-03T18:01:18+05:30"
     }
   ]
 }
