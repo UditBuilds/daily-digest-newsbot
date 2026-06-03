@@ -538,6 +538,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-02T18:01:45+05:30"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": "morning",
+      "theme": "Israel escalates in Lebanon while Meta bets $15B that users will pay for social media, and Anthropic scales Claude Mythos to critical infrastructure in 15+ countries.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran launches strikes on US bases in Kuwait"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amazon Rolls Out Ads On Prime Music"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi to chair June 11 Niti governing council meet"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Creepy red dots in space look like an ‘evil eye’ — and scientists had no idea what they were until now"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-03T06:01:09+05:30"
     }
   ]
 }
