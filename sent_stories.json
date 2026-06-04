@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran launches strikes on US bases in Kuwait",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
-      "headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
-      "headline": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
-      "headline": "Amazon Rolls Out Ads On Prime Music",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
-      "headline": "PM Modi to chair June 11 Niti governing council meet",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
-      "headline": "Creepy red dots in space look like an ‘evil eye’ — and scientists had no idea what they were until now",
-      "sent_at": "2026-06-03T00:31:09.102571+00:00"
-    },
-    {
       "headline": "EU and China set for Paris talks this week amid mounting trade war fears",
       "sent_at": "2026-06-03T12:31:18.699126+00:00"
     },
@@ -71,6 +47,26 @@
     {
       "headline": "NASA declares its Mars Maven spacecraft dead after 6 months of silence",
       "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "sent_at": "2026-06-04T12:31:12.742582+00:00"
+    },
+    {
+      "headline": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "sent_at": "2026-06-04T12:31:12.742582+00:00"
+    },
+    {
+      "headline": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+      "sent_at": "2026-06-04T12:31:12.742582+00:00"
+    },
+    {
+      "headline": "PhysicsWallah Reverses Course On Student Lending; Shares Surge Nearly 18%",
+      "sent_at": "2026-06-04T12:31:12.742582+00:00"
+    },
+    {
+      "headline": "SC Proposes Complete Ban On AI-Driven Adjudication",
+      "sent_at": "2026-06-04T12:31:12.742582+00:00"
     }
   ]
 }

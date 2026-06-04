@@ -693,6 +693,52 @@
         "YourStory"
       ],
       "sent_at": "2026-06-04T06:01:06+05:30"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "evening",
+      "theme": "Israel and Lebanon agree to a ceasefire, while China sees growth in its overseas car sales and India's PhysicsWallah reverses course on student lending.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI leaders call for tougher protections against AI-aided bioweapons"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PhysicsWallah Reverses Course On Student Lending; Shares Surge Nearly 18%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC Proposes Complete Ban On AI-Driven Adjudication"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-04T18:01:12+05:30"
     }
   ]
 }
