@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "South Korea and Japan eye military logistics pact",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude AI chatbot faces global outage",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
-      "headline": "Codex becomes a productivity tool for everyone",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
-      "headline": "ONDC raises ₹220 Cr from Uber, Zoho, and Paytm",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
-      "headline": "India hits out at Pak-EU joint statement for J&K reference",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
-      "headline": "Rusty, orange water 'bleeds' across Bolivian lagoon",
-      "sent_at": "2026-06-02T12:31:45.261269+00:00"
-    },
-    {
       "headline": "Iran launches strikes on US bases in Kuwait",
       "sent_at": "2026-06-03T00:31:09.102571+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-06-03T12:31:18.699126+00:00"
+    },
+    {
+      "headline": "Israel and Lebanon agree to renew fragile ceasefire, create Hezbollah-free zones",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "Introducing new capabilities to GPT-Rosalind",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "FirstClub nets $55 Mn to expand store footprint, widen product range",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "US moots 12.5% tariff on India, 53 others over ‘forced labour’",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
+    },
+    {
+      "headline": "NASA declares its Mars Maven spacecraft dead after 6 months of silence",
+      "sent_at": "2026-06-04T00:31:06.463450+00:00"
     }
   ]
 }

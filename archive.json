@@ -640,6 +640,59 @@
         "YourStory"
       ],
       "sent_at": "2026-06-03T18:01:18+05:30"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "morning",
+      "theme": "Israel and Lebanon agree to renew fragile ceasefire, while India faces a potential 12.5% tariff from the US over 'forced labour' concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel and Lebanon agree to renew fragile ceasefire, create Hezbollah-free zones"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Introducing new capabilities to GPT-Rosalind"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "FirstClub nets $55 Mn to expand store footprint, widen product range"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US moots 12.5% tariff on India, 53 others over ‘forced labour’"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA declares its Mars Maven spacecraft dead after 6 months of silence"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-04T06:01:06+05:30"
     }
   ]
 }
