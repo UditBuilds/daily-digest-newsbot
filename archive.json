@@ -783,6 +783,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-05T06:01:10+05:30"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "evening",
+      "theme": "India and the US make progress on a trade deal, while China strengthens its position in the global AI market.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India and US near trade deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic warns of self-improving AI risks"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta AI focuses on health-related capabilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Innefu Labs raises $30 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India slams Pakistan's election plans in Gilgit-Baltistan"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Meta AI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-05T18:01:16+05:30"
     }
   ]
 }
