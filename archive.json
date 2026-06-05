@@ -739,6 +739,50 @@
         "YourStory"
       ],
       "sent_at": "2026-06-04T18:01:12+05:30"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta and Apple make significant moves in the tech world.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta rolls out a new AI creator assistant on Facebook"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Dreaming: Better memory for a more helpful ChatGPT"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric Closes QIP By Issuing Shares At ₹35.86 Apiece"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Monsoon arrives in Kerala, after 3-day delay"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-05T06:01:10+05:30"
     }
   ]
 }
