@@ -887,6 +887,53 @@
         "YourStory"
       ],
       "sent_at": "2026-06-06T06:01:05+05:30"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": "evening",
+      "theme": "Ukraine targets St Petersburg with drones after Putin rejects Zelensky's offer, while India's startup ecosystem sees significant funding and developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Ukrainian drones target St Petersburg after Putin rejects Zelensky’s offer"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump Calls For Military To Accelerate AI Use While Protecting Americans"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "From FirstClub To Innefu— Indian Startups Raised $187 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Challenges ahead': Surya breaks silence after India snub as Iyer named captain"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA astronauts on ISS briefly sheltered during unfinished air leak repairs"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-06T18:01:07+05:30"
     }
   ]
 }
