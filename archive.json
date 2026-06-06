@@ -834,6 +834,59 @@
         "YourStory"
       ],
       "sent_at": "2026-06-05T18:01:16+05:30"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": "morning",
+      "theme": "Russia-Ukraine conflict escalates as Putin refuses to meet Zelensky, while Google pays SpaceX $920M per month for compute, and India's economy surges by 7.8% in Q4.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Putin refuses to meet Zelensky"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google pays SpaceX $920M per month for compute"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "DeepMind releases Gemma 4 QAT checkpoints"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ixigo to acquire majority stake in Brevistay"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India's economy surges by 7.8% in Q4"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA reverses evacuation alert for astronauts"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-06T06:01:05+05:30"
     }
   ]
 }
