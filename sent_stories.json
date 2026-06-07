@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India and US near trade deal",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "Anthropic warns of self-improving AI risks",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "Meta AI focuses on health-related capabilities",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "Innefu Labs raises $30 million in funding",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "India slams Pakistan's election plans in Gilgit-Baltistan",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-05T12:31:16.010926+00:00"
-    },
-    {
-      "headline": "Putin refuses to meet Zelensky",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
-      "headline": "Google pays SpaceX $920M per month for compute",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
-      "headline": "DeepMind releases Gemma 4 QAT checkpoints",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
-      "headline": "ixigo to acquire majority stake in Brevistay",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
-      "headline": "India's economy surges by 7.8% in Q4",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
-      "headline": "NASA reverses evacuation alert for astronauts",
-      "sent_at": "2026-06-06T00:31:05.243414+00:00"
-    },
-    {
       "headline": "Ukrainian drones target St Petersburg after Putin rejects Zelensky’s offer",
       "sent_at": "2026-06-06T12:31:07.791210+00:00"
     },
@@ -71,6 +23,34 @@
     {
       "headline": "NASA astronauts on ISS briefly sheltered during unfinished air leak repairs",
       "sent_at": "2026-06-06T12:31:07.791210+00:00"
+    },
+    {
+      "headline": "Israeli attack on Gaza City tent camp kills several Palestinians",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "Meta made its own AI-generated clickbait news feed",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "New-Age Tech Stocks: BlueStone, ideaForge Lead Weekly Gains; PB Fintech, Meesho Slip",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "PM reiterates need to 'add more momentum' to reforms at EAC meet",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-07T00:31:11.568790+00:00"
     }
   ]
 }

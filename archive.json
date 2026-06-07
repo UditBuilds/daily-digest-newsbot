@@ -934,6 +934,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-06T18:01:07+05:30"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": "morning",
+      "theme": "Israel escalates conflict in Gaza, while tech giants unveil new AI features and India's government pushes for reforms.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli attack on Gaza City tent camp kills several Palestinians"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta made its own AI-generated clickbait news feed"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "New-Age Tech Stocks: BlueStone, ideaForge Lead Weekly Gains; PB Fintech, Meesho Slip"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM reiterates need to 'add more momentum' to reforms at EAC meet"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-07T06:01:11+05:30"
     }
   ]
 }
