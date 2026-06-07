@@ -984,6 +984,53 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-07T06:01:11+05:30"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": "evening",
+      "theme": "Global geopolitics sees heightened tensions as the US-Israel war on Iran enters its 100th day, while India's startup ecosystem experiences a rebound in venture capital funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "How have countries around the world responded to the US-Israel war on Iran?"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea says its nuclear programme is ‘irreversible’ ahead of Chinese leader’s visit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI ‘content creators’ are getting harder to spot"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Investor appetite rebounds after a dull week; Mumbai’s local train app"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "INDIA bloc huddle in Delhi: TMC among 23 parties to attend June 8 meet; DMK, AAP may skip"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-07T18:04:38+05:30"
     }
   ]
 }
