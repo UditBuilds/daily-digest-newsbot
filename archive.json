@@ -1031,6 +1031,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-07T18:04:38+05:30"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "morning",
+      "theme": "Iran fires missiles at Israel, escalating Middle East tensions, while Indian startups raise over $77 million in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran fires missiles at Israel after Beirut attack"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI is still working on that ‘super app’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic wants caution but the market wants more AI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "18 Indian startups raise over $77 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "INDIA bloc eyes reset after DMK and TMC changes"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-08T06:01:13+05:30"
     }
   ]
 }
