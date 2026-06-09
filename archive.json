@@ -1173,6 +1173,57 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-09T06:01:11+05:30"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta and Anthropic make significant moves in the AI space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and China engage in high-level talks over Chagos Islands"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple's slow-and-steady AI approach gains traction"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic to release Mythos AI publicly on June 9"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ex-Mirae Asset CEO Ashish Dave floats ₹1,000 Cr fund for growth stage startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India deploys 12 nuclear warheads for the first time"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists propose 'space airbags' to protect Earth from solar storms"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-09T18:01:19+05:30"
     }
   ]
 }
