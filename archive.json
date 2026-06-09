@@ -1125,6 +1125,54 @@
         "YourStory"
       ],
       "sent_at": "2026-06-08T18:01:12+05:30"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": "morning",
+      "theme": "Trump nominates Todd Blanche as attorney general, teeing up a US Senate fight, while OpenAI files confidentially for IPO, and Zepto plans a ₹8,010 Cr fresh issue.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US sanctions over 100 Nicaraguan officials and relatives with travel ban"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI files confidentially for IPO, following Anthropic"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI confirms confidential S-1 submission to the SEC"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zepto files UDRHP, plans ₹8,010 Cr fresh issue"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Mamata & Abhishek Banerjee in Delhi, TMC mutiny spreads to Parliament"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-09T06:01:11+05:30"
     }
   ]
 }
