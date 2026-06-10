@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US sanctions over 100 Nicaraguan officials and relatives with travel ban",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
-      "headline": "OpenAI files confidentially for IPO, following Anthropic",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
-      "headline": "OpenAI confirms confidential S-1 submission to the SEC",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
-      "headline": "Zepto files UDRHP, plans ₹8,010 Cr fresh issue",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
-      "headline": "Mamata & Abhishek Banerjee in Delhi, TMC mutiny spreads to Parliament",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-09T00:31:11.176036+00:00"
-    },
-    {
       "headline": "US and China engage in high-level talks over Chagos Islands",
       "sent_at": "2026-06-09T12:31:19.489222+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "NASA announces Artemis III test flight astronauts",
       "sent_at": "2026-06-10T00:31:10.704402+00:00"
+    },
+    {
+      "headline": "US-China tensions rise over trade and technology",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
+    },
+    {
+      "headline": "Meta signs first AI data center deal in India with Reliance",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Fable 5, a restricted version of its Mythos-class AI model",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
+    },
+    {
+      "headline": "Zoho launches in-house server to lower AI inference costs",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
+    },
+    {
+      "headline": "President congratulates PM Modi on becoming longest-serving elected Prime Minister",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
+    },
+    {
+      "headline": "Prada joins Axiom Space to design garments for the Moon",
+      "sent_at": "2026-06-10T12:31:18.001991+00:00"
     }
   ]
 }

@@ -1274,6 +1274,55 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-10T06:01:10+05:30"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "evening",
+      "theme": "Anthropic releases Claude Fable 5, a restricted version of its Mythos-class AI model, while Meta signs a deal with Reliance to build an AI data center in India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US-China tensions rise over trade and technology"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta signs first AI data center deal in India with Reliance"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Fable 5, a restricted version of its Mythos-class AI model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zoho launches in-house server to lower AI inference costs"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "President congratulates PM Modi on becoming longest-serving elected Prime Minister"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Prada joins Axiom Space to design garments for the Moon"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-10T18:01:18+05:30"
     }
   ]
 }
