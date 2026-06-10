@@ -1224,6 +1224,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-09T18:01:19+05:30"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "morning",
+      "theme": "Anthropic releases a 'safe' version of its Claude Mythos AI model to the public, while India's D2C startups attract significant funding and the US strikes Iran after a helicopter downing near Hormuz.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US strikes Iran after helicopter downing near Hormuz"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google makes its budget AI subscription tier significantly cheaper"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India’s D2C startups attract $757 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Congress fumes as Natarajan’s Rajya Sabha nomination is nixed"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA announces Artemis III test flight astronauts"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-10T06:01:10+05:30"
     }
   ]
 }
