@@ -1323,6 +1323,58 @@
         "YourStory"
       ],
       "sent_at": "2026-06-10T18:01:18+05:30"
+    },
+    {
+      "date": "2026-06-11",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta bets big on paid social media and Anthropic releases a new AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "FBI disables 13 Chinese suspected spying websites targeting US officials"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases first Mythos-level model for general use"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "4baseCare Bags ₹38 Cr To Close Series B Round At ₹128 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Trump congratulates Modi on becoming India's longest-serving elected PM"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronauts Could Grow Their Own Medicines in Space Using Plants"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-11T06:01:09+05:30"
     }
   ]
 }
