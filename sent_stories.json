@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US strikes Iran after helicopter downing near Hormuz",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "Google makes its budget AI subscription tier significantly cheaper",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "India’s D2C startups attract $757 million in funding",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "Congress fumes as Natarajan’s Rajya Sabha nomination is nixed",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "NASA announces Artemis III test flight astronauts",
-      "sent_at": "2026-06-10T00:31:10.704402+00:00"
-    },
-    {
-      "headline": "US-China tensions rise over trade and technology",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
-      "headline": "Meta signs first AI data center deal in India with Reliance",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Fable 5, a restricted version of its Mythos-class AI model",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
-      "headline": "Zoho launches in-house server to lower AI inference costs",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
-      "headline": "President congratulates PM Modi on becoming longest-serving elected Prime Minister",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
-      "headline": "Prada joins Axiom Space to design garments for the Moon",
-      "sent_at": "2026-06-10T12:31:18.001991+00:00"
-    },
-    {
       "headline": "FBI disables 13 Chinese suspected spying websites targeting US officials",
       "sent_at": "2026-06-11T00:31:09.055678+00:00"
     },
@@ -71,6 +23,30 @@
     {
       "headline": "Astronauts Could Grow Their Own Medicines in Space Using Plants",
       "sent_at": "2026-06-11T00:31:09.055678+00:00"
+    },
+    {
+      "headline": "Three Indian sailors confirmed dead in US strike off Oman",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "D2C brand Manam Chocolate nets $9 Mn to expand retail footprint",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "'Human shield' on India border: Bangladesh opposition to launch protest over alleged 'push-ins'",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-11T12:31:18.961503+00:00"
     }
   ]
 }
