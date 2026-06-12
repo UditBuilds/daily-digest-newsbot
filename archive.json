@@ -1478,6 +1478,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-12T06:01:21+05:30"
+    },
+    {
+      "date": "2026-06-12",
+      "slot": "evening",
+      "theme": "Israel and Iran are on the brink of a major conflict, while China and the US engage in a tech war, and India's startup ecosystem sees significant funding and developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and Iran inch closer to signing deal to reopen Strait of Hormuz"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Fable 5 is the smartest AI model, but why that's not the same as being the best one"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "AUM Ventures Launches ₹750 Cr Fund To Back Deeptech Startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Sensex ends around 1,700 points up; investors richer by Rs 10.2 lakh cr"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "'Little red dots' in the early universe may be a little less mysterious"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-12T18:02:03+05:30"
     }
   ]
 }
