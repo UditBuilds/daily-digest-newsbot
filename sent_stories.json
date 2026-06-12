@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "FBI disables 13 Chinese suspected spying websites targeting US officials",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
-      "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
-      "headline": "Anthropic releases first Mythos-level model for general use",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
-      "headline": "4baseCare Bags ₹38 Cr To Close Series B Round At ₹128 Cr",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
-      "headline": "Trump congratulates Modi on becoming India's longest-serving elected PM",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
-      "headline": "Astronauts Could Grow Their Own Medicines in Space Using Plants",
-      "sent_at": "2026-06-11T00:31:09.055678+00:00"
-    },
-    {
       "headline": "Three Indian sailors confirmed dead in US strike off Oman",
       "sent_at": "2026-06-11T12:31:18.961503+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-06-11T12:31:18.961503+00:00"
+    },
+    {
+      "headline": "Killing of Indian sailors sparks tensions",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
+    },
+    {
+      "headline": "Deezer’s new tool identifies AI music",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Fable 5",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
+    },
+    {
+      "headline": "ADIA offloads Lenskart shares",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
+    },
+    {
+      "headline": "SC to hear Natarajan’s plea",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-12T00:31:21.271253+00:00"
     }
   ]
 }
