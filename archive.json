@@ -1528,6 +1528,79 @@
         "YourStory"
       ],
       "sent_at": "2026-06-12T18:02:03+05:30"
+    },
+    {
+      "date": "2026-06-13",
+      "slot": "morning",
+      "theme": "Elon Musk becomes the world's first trillionaire after SpaceX IPO, while India demands action after a US strike kills Indian sailors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Elon Musk becomes world’s first trillionaire after SpaceX IPO"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Indians grieve and demand action after US strike kills sailors"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China’s navy has missiles and drones, but is bringing back the ‘big guns’"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Mistral is rumored to be raising €3B at €20B valuation"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Results from the first Anthropic Public Record"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Meesho To Acquire GSF-Backed Kirana Club For ₹202 Cr"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ather’s Board Approves Plan To Raise ₹2,500 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Lethal actions against commercial shipping not justified': EAM lodges 'strong protest' with Rubio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US missiles hit ships with Indian crew, Trump blames Iran"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "The coolest science experiments on the International Space Station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-13T06:01:24+05:30"
     }
   ]
 }

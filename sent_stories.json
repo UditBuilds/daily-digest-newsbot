@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Killing of Indian sailors sparks tensions",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
-      "headline": "Deezer’s new tool identifies AI music",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Fable 5",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
-      "headline": "ADIA offloads Lenskart shares",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
-      "headline": "SC to hear Natarajan’s plea",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-12T00:31:21.271253+00:00"
-    },
-    {
       "headline": "US and Iran inch closer to signing deal to reopen Strait of Hormuz",
       "sent_at": "2026-06-12T12:32:03.147351+00:00"
     },
@@ -47,6 +23,54 @@
     {
       "headline": "'Little red dots' in the early universe may be a little less mysterious",
       "sent_at": "2026-06-12T12:32:03.147351+00:00"
+    },
+    {
+      "headline": "Elon Musk becomes world’s first trillionaire after SpaceX IPO",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Indians grieve and demand action after US strike kills sailors",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "China’s navy has missiles and drones, but is bringing back the ‘big guns’",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Mistral is rumored to be raising €3B at €20B valuation",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Results from the first Anthropic Public Record",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Meesho To Acquire GSF-Backed Kirana Club For ₹202 Cr",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "Ather’s Board Approves Plan To Raise ₹2,500 Cr",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "'Lethal actions against commercial shipping not justified': EAM lodges 'strong protest' with Rubio",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "US missiles hit ships with Indian crew, Trump blames Iran",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
+    },
+    {
+      "headline": "The coolest science experiments on the International Space Station",
+      "sent_at": "2026-06-13T00:31:24.220000+00:00"
     }
   ]
 }
