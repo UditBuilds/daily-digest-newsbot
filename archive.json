@@ -1601,6 +1601,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-13T06:01:24+05:30"
+    },
+    {
+      "date": "2026-06-13",
+      "slot": "evening",
+      "theme": "India and the US are impacted by significant developments in geopolitics, AI, and national security, with Anthropic's AI models suspended and an Indian Air Force plane crash resulting in fatalities.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India military transport plane crash kills 5"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zumutor Biologics Secures $7.3 Mn To Advance Clinical Trials For Cancer Therapy"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Two Agniveervayus among 5 killed in IAF AN-32 crash in Assam"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-13T18:01:17+05:30"
     }
   ]
 }
