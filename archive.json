@@ -1700,6 +1700,50 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-14T06:01:18+05:30"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": "evening",
+      "theme": "Royal Marines board Russian shadow fleet oil tanker in English Channel, while India debates its AI future and startups navigate the market.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Royal Marines board Russian shadow fleet oil tanker in English Channel"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India debates its AI future"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Claude Fable 5 vs GPT 5.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startup IPO Tracker 2026"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian vessel Virat 1 sank off Oman"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-14T18:01:14+05:30"
     }
   ]
 }
