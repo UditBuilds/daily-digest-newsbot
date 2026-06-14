@@ -1651,6 +1651,55 @@
         "YourStory"
       ],
       "sent_at": "2026-06-13T18:01:17+05:30"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": "morning",
+      "theme": "Trump announces a deal to end the war in the Middle East, while Anthropic pulls its most powerful AI models after a US ban.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says deal to end war to be signed on Sunday, but Iran questions timing"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic pulls Claude Fable 5, Mythos 5 after Trump admin order"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "New-Age Tech Stocks: EaseMyTrip, SEDEMAC Lead Weekly Gains; Yudiz, ideaForge Slip"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Will voice aspirations of Global South at G7 summit: PM Modi"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-14T06:01:18+05:30"
     }
   ]
 }
