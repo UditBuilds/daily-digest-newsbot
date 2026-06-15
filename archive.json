@@ -1789,6 +1789,56 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-15T06:01:15+05:30"
+    },
+    {
+      "date": "2026-06-15",
+      "slot": "evening",
+      "theme": "US government restrictions on Anthropic's AI models spark global debate, while India focuses on digital expansion and AI adoption.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK announces social media ban for under-16s"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Zhipu surges 33% as Wall Street raises bets on China AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Releases and Temporarily Suspends Claude Fable 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "AutoVRse Raises $2.4 Mn For International Expansion"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC rebukes 'so-called RTI activist', refuses anticipatory bail"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space smells like raspberries and barbecue? Scientists turned the bizarre scent into a perfume"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-15T18:01:24+05:30"
     }
   ]
 }
