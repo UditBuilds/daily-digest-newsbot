@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India military transport plane crash kills 5",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
-      "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
-      "headline": "Zumutor Biologics Secures $7.3 Mn To Advance Clinical Trials For Cancer Therapy",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
-      "headline": "Two Agniveervayus among 5 killed in IAF AN-32 crash in Assam",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-13T12:31:17.749902+00:00"
-    },
-    {
       "headline": "Trump says deal to end war to be signed on Sunday, but Iran questions timing",
       "sent_at": "2026-06-14T00:31:18.847072+00:00"
     },
@@ -67,6 +43,26 @@
     {
       "headline": "Indian vessel Virat 1 sank off Oman",
       "sent_at": "2026-06-14T12:31:14.712807+00:00"
+    },
+    {
+      "headline": "Swiss voters reject right-wing plan to cap population at 10 million",
+      "sent_at": "2026-06-15T00:31:15.479191+00:00"
+    },
+    {
+      "headline": "India, France unveil AI framework, trade roadmap and digital initiatives after Modi-Macron talks",
+      "sent_at": "2026-06-15T00:31:15.479191+00:00"
+    },
+    {
+      "headline": "OpenAI launches Partner Network, investing $150M to help global partners accelerate enterprise AI adoption",
+      "sent_at": "2026-06-15T00:31:15.479191+00:00"
+    },
+    {
+      "headline": "Amazon bets on AI-powered assistant to streamline seller operations",
+      "sent_at": "2026-06-15T00:31:15.479191+00:00"
+    },
+    {
+      "headline": "2x trade in 5 years, nuclear cooperation: Modi-Macron Nice meet",
+      "sent_at": "2026-06-15T00:31:15.479191+00:00"
     }
   ]
 }

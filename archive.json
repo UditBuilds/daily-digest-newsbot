@@ -1744,6 +1744,51 @@
         "YourStory"
       ],
       "sent_at": "2026-06-14T18:01:14+05:30"
+    },
+    {
+      "date": "2026-06-15",
+      "slot": "morning",
+      "theme": "India and France unveil AI framework and trade roadmap after Modi-Macron talks, while the US government's curbs on Anthropic models reignite calls for sovereign AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Swiss voters reject right-wing plan to cap population at 10 million"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India, France unveil AI framework, trade roadmap and digital initiatives after Modi-Macron talks"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches Partner Network, investing $150M to help global partners accelerate enterprise AI adoption"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amazon bets on AI-powered assistant to streamline seller operations"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "2x trade in 5 years, nuclear cooperation: Modi-Macron Nice meet"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-15T06:01:15+05:30"
     }
   ]
 }
