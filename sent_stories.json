@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Swiss voters reject right-wing plan to cap population at 10 million",
-      "sent_at": "2026-06-15T00:31:15.479191+00:00"
-    },
-    {
-      "headline": "India, France unveil AI framework, trade roadmap and digital initiatives after Modi-Macron talks",
-      "sent_at": "2026-06-15T00:31:15.479191+00:00"
-    },
-    {
-      "headline": "OpenAI launches Partner Network, investing $150M to help global partners accelerate enterprise AI adoption",
-      "sent_at": "2026-06-15T00:31:15.479191+00:00"
-    },
-    {
-      "headline": "Amazon bets on AI-powered assistant to streamline seller operations",
-      "sent_at": "2026-06-15T00:31:15.479191+00:00"
-    },
-    {
-      "headline": "2x trade in 5 years, nuclear cooperation: Modi-Macron Nice meet",
-      "sent_at": "2026-06-15T00:31:15.479191+00:00"
-    },
-    {
       "headline": "UK announces social media ban for under-16s",
       "sent_at": "2026-06-15T12:31:24.851569+00:00"
     },
@@ -43,6 +23,30 @@
     {
       "headline": "Space smells like raspberries and barbecue? Scientists turned the bizarre scent into a perfume",
       "sent_at": "2026-06-15T12:31:24.851569+00:00"
+    },
+    {
+      "headline": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "Adani Group Partners With Jabil To Build AI Data Infrastructure",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "NCERT to restore original ‘Dancing Girl’ of Mohenjo-daro in class IX textbooks",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+      "sent_at": "2026-06-16T00:31:25.919598+00:00"
     }
   ]
 }
