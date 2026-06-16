@@ -1890,6 +1890,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-16T06:01:25+05:30"
+    },
+    {
+      "date": "2026-06-16",
+      "slot": "evening",
+      "theme": "SpaceX acquires AI coding startup Cursor for $60 billion, while India's Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Air Force B-52 bomber crashes in California"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SpaceX to buy AI coding startup Cursor for $60 billion"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic had 90 minutes to restrict Claude Fable 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Mamata Banerjee files plea in Calcutta high court challenging Bhabanipur poll result"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA attempting to save Swift space telescope before it crashes to Earth"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-16T18:01:43+05:30"
     }
   ]
 }

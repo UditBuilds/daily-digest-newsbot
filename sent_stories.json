@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK announces social media ban for under-16s",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
-      "headline": "Zhipu surges 33% as Wall Street raises bets on China AI",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
-      "headline": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
-      "headline": "AutoVRse Raises $2.4 Mn For International Expansion",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
-      "headline": "SC rebukes 'so-called RTI activist', refuses anticipatory bail",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
-      "headline": "Space smells like raspberries and barbecue? Scientists turned the bizarre scent into a perfume",
-      "sent_at": "2026-06-15T12:31:24.851569+00:00"
-    },
-    {
       "headline": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel",
       "sent_at": "2026-06-16T00:31:25.919598+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
       "sent_at": "2026-06-16T00:31:25.919598+00:00"
+    },
+    {
+      "headline": "US Air Force B-52 bomber crashes in California",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
+    },
+    {
+      "headline": "SpaceX to buy AI coding startup Cursor for $60 billion",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
+    },
+    {
+      "headline": "Anthropic had 90 minutes to restrict Claude Fable 5",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
+    },
+    {
+      "headline": "Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
+    },
+    {
+      "headline": "Mamata Banerjee files plea in Calcutta high court challenging Bhabanipur poll result",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
+    },
+    {
+      "headline": "NASA attempting to save Swift space telescope before it crashes to Earth",
+      "sent_at": "2026-06-16T12:31:43.390718+00:00"
     }
   ]
 }
