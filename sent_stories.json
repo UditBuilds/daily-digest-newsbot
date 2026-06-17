@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
-      "headline": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
-      "headline": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
-      "headline": "Adani Group Partners With Jabil To Build AI Data Infrastructure",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
-      "headline": "NCERT to restore original ‘Dancing Girl’ of Mohenjo-daro in class IX textbooks",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
-      "headline": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
-      "sent_at": "2026-06-16T00:31:25.919598+00:00"
-    },
-    {
       "headline": "US Air Force B-52 bomber crashes in California",
       "sent_at": "2026-06-16T12:31:43.390718+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-06-17T00:31:22.589516+00:00"
+    },
+    {
+      "headline": "Geopolitics is complicating the green transition – and China’s moment",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "Elon Musk's xAI launches faster Grok Imagine Video 1.5 with improved audio and physics",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "BRND.ME Turns Into Public Entity, Eyes IPO Within 12-18 Months",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "Tejas, Akash, BrahMos & more: How India strengthened defence manufacturing over the last decade",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "NASA report: 'hero mode' culture led to $4.6 million antenna failure",
+      "sent_at": "2026-06-17T12:31:25.215742+00:00"
     }
   ]
 }

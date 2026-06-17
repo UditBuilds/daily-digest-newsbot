@@ -1990,6 +1990,60 @@
         "YourStory"
       ],
       "sent_at": "2026-06-17T06:01:22+05:30"
+    },
+    {
+      "date": "2026-06-17",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta bets $15B that users will pay for social media, and India's defense production has surged to a record Rs 1.78 lakh crore.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Geopolitics is complicating the green transition – and China’s moment"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Elon Musk's xAI launches faster Grok Imagine Video 1.5 with improved audio and physics"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BRND.ME Turns Into Public Entity, Eyes IPO Within 12-18 Months"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tejas, Akash, BrahMos & more: How India strengthened defence manufacturing over the last decade"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA report: 'hero mode' culture led to $4.6 million antenna failure"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-17T18:01:25+05:30"
     }
   ]
 }
