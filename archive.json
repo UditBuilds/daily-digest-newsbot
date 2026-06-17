@@ -1940,6 +1940,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-16T18:01:43+05:30"
+    },
+    {
+      "date": "2026-06-17",
+      "slot": "morning",
+      "theme": "Israel escalates in Lebanon while SpaceX's valuation balloons past Amazon's, and India's BigBasket sees a change in leadership.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Day after US, Iran agreed to tentative deal, Israeli strikes kill 4 in Lebanon"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SpaceX valuation balloons to $2.6T, briefly passes Amazon"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BigBasket Cofounders Hari Menon, Vipul Parekh Step Down From Executive Roles"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi meets Trump after 16 months, with a handshake, not a hug"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-17T06:01:22+05:30"
     }
   ]
 }
