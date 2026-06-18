@@ -2095,6 +2095,60 @@
         "YourStory"
       ],
       "sent_at": "2026-06-18T06:01:25+05:30"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": "evening",
+      "theme": "Israel's foreign minister cuts ties with the EU's top diplomat, while xAI releases a new video generation AI model and India's pet healthcare startup Vetic secures $40 million in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel cuts ties with EU diplomat"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Pixi launches interactive AR messaging app"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "xAI releases Grok Imagine Video 1.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Vetic secures $40 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Government defends ban on Telegram"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "PhilSA launches HiRAYA to recognize student research"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-18T18:01:36+05:30"
     }
   ]
 }
