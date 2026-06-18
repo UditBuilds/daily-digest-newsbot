@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US Air Force B-52 bomber crashes in California",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "SpaceX to buy AI coding startup Cursor for $60 billion",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "Anthropic had 90 minutes to restrict Claude Fable 5",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "Mamata Banerjee files plea in Calcutta high court challenging Bhabanipur poll result",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "NASA attempting to save Swift space telescope before it crashes to Earth",
-      "sent_at": "2026-06-16T12:31:43.390718+00:00"
-    },
-    {
-      "headline": "Day after US, Iran agreed to tentative deal, Israeli strikes kill 4 in Lebanon",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
-      "headline": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
-      "headline": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
-      "headline": "BigBasket Cofounders Hari Menon, Vipul Parekh Step Down From Executive Roles",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
-      "headline": "PM Modi meets Trump after 16 months, with a handshake, not a hug",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-17T00:31:22.589516+00:00"
-    },
-    {
       "headline": "Geopolitics is complicating the green transition – and China’s moment",
       "sent_at": "2026-06-17T12:31:25.215742+00:00"
     },
@@ -71,6 +23,30 @@
     {
       "headline": "NASA report: 'hero mode' culture led to $4.6 million antenna failure",
       "sent_at": "2026-06-17T12:31:25.215742+00:00"
+    },
+    {
+      "headline": "US and Iran finalize memorandum of understanding",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
+    },
+    {
+      "headline": "Anthropic suspends access to Claude Fable 5 and Claude Mythos 5",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
+    },
+    {
+      "headline": "Anthropic updates Claude Design",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
+    },
+    {
+      "headline": "Pramaana Labs raises $27 million",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
+    },
+    {
+      "headline": "PM Modi urges international solidarity at G7",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
+    },
+    {
+      "headline": "Venus to disappear behind the moon",
+      "sent_at": "2026-06-18T00:31:25.576885+00:00"
     }
   ]
 }

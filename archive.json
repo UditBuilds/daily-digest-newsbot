@@ -2044,6 +2044,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-17T18:01:25+05:30"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": "morning",
+      "theme": "US and Iran finalize a memorandum of understanding, while India's Prime Minister Narendra Modi urges international solidarity at the G7 summit, and Anthropic suspends access to its Claude Fable 5 and Claude Mythos 5 models due to US export control directives.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and Iran finalize memorandum of understanding"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic suspends access to Claude Fable 5 and Claude Mythos 5"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic updates Claude Design"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pramaana Labs raises $27 million"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi urges international solidarity at G7"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Venus to disappear behind the moon"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-18T06:01:25+05:30"
     }
   ]
 }
