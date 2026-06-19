@@ -2149,6 +2149,59 @@
         "YourStory"
       ],
       "sent_at": "2026-06-18T18:01:36+05:30"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": "morning",
+      "theme": "Israel escalates tensions in Lebanon, while Meta and OpenAI make significant moves in the AI space, and India sees progress in its startup ecosystem.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Netanyahu rules out Israeli troop withdrawal from southern Lebanon"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI is bringing on key talent in the lead-up to its IPO"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IFC commits $371 million to Sify to build two data centers"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre likens Telegram to Dark Web, calls it a hub for bad actors"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA selects Relativity Space for privately funded Mars science mission"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-19T06:01:21+05:30"
     }
   ]
 }
