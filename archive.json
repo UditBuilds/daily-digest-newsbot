@@ -2202,6 +2202,47 @@
         "YourStory"
       ],
       "sent_at": "2026-06-19T06:01:21+05:30"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta invests $15B in social media, and India's Jio files for a fresh issue-only IPO.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran waives Strait of Hormuz fees during 60-day peace negotiation period"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "The US says ASML’s top chip tool may be in China. ASML says it isn’t"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Elastic agrees to buy DeductiveAI for up to $85M"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Jio files for DRHP for a fresh issue-only IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "All parties in T.N. Assembly back resolution against Karnataka’s Mekedatu project"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-19T18:05:07+05:30"
     }
   ]
 }

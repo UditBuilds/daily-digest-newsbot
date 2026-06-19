@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US and Iran finalize memorandum of understanding",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "Anthropic suspends access to Claude Fable 5 and Claude Mythos 5",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "Anthropic updates Claude Design",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "Pramaana Labs raises $27 million",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "PM Modi urges international solidarity at G7",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "Venus to disappear behind the moon",
-      "sent_at": "2026-06-18T00:31:25.576885+00:00"
-    },
-    {
-      "headline": "Israel cuts ties with EU diplomat",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
-      "headline": "Pixi launches interactive AR messaging app",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
-      "headline": "xAI releases Grok Imagine Video 1.5",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
-      "headline": "Vetic secures $40 million in funding",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
-      "headline": "Government defends ban on Telegram",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
-      "headline": "PhilSA launches HiRAYA to recognize student research",
-      "sent_at": "2026-06-18T12:31:36.852132+00:00"
-    },
-    {
       "headline": "Netanyahu rules out Israeli troop withdrawal from southern Lebanon",
       "sent_at": "2026-06-19T00:31:21.931666+00:00"
     },
@@ -71,6 +23,26 @@
     {
       "headline": "NASA selects Relativity Space for privately funded Mars science mission",
       "sent_at": "2026-06-19T00:31:21.931666+00:00"
+    },
+    {
+      "headline": "Iran waives Strait of Hormuz fees during 60-day peace negotiation period",
+      "sent_at": "2026-06-19T12:35:07.678283+00:00"
+    },
+    {
+      "headline": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "sent_at": "2026-06-19T12:35:07.678283+00:00"
+    },
+    {
+      "headline": "Elastic agrees to buy DeductiveAI for up to $85M",
+      "sent_at": "2026-06-19T12:35:07.678283+00:00"
+    },
+    {
+      "headline": "Jio files for DRHP for a fresh issue-only IPO",
+      "sent_at": "2026-06-19T12:35:07.678283+00:00"
+    },
+    {
+      "headline": "All parties in T.N. Assembly back resolution against Karnataka’s Mekedatu project",
+      "sent_at": "2026-06-19T12:35:07.678283+00:00"
     }
   ]
 }
