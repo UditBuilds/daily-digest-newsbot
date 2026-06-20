@@ -2243,6 +2243,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-19T18:05:07+05:30"
+    },
+    {
+      "date": "2026-06-20",
+      "slot": "morning",
+      "theme": "Reliance's Jio Platforms is set to launch India's largest-ever IPO, raise up to $4 billion, while Anthropic's new models are banned by the US government due to national security concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Poland’s president strips Ukraine’s Zelensky of top award"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic updates Claude Design with code sync, brand controls"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Meta Looking To Back CRED At $4 Bn Valuation: Report"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "At $4 billion, Jio IPO set to be India’s biggest ever"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA attempting to save Swift space telescope before it crashes to Earth"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-20T06:01:16+05:30"
     }
   ]
 }
