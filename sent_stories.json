@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Netanyahu rules out Israeli troop withdrawal from southern Lebanon",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
-      "headline": "OpenAI is bringing on key talent in the lead-up to its IPO",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
-      "headline": "IFC commits $371 million to Sify to build two data centers",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
-      "headline": "Centre likens Telegram to Dark Web, calls it a hub for bad actors",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
-      "headline": "NASA selects Relativity Space for privately funded Mars science mission",
-      "sent_at": "2026-06-19T00:31:21.931666+00:00"
-    },
-    {
       "headline": "Iran waives Strait of Hormuz fees during 60-day peace negotiation period",
       "sent_at": "2026-06-19T12:35:07.678283+00:00"
     },
@@ -67,6 +43,30 @@
     {
       "headline": "NASA attempting to save Swift space telescope before it crashes to Earth",
       "sent_at": "2026-06-20T00:31:16.574172+00:00"
+    },
+    {
+      "headline": "Beijing planning more surveys east of Taiwan to assert sovereignty",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "Amazon unveils AI-powered capabilities for Indian sellers",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "GPT-5.6 rumors: Is OpenAI stealth testing a new model in ChatGPT?",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "Indian startups raise $426 million in funding",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "7 dead, 30 injured after under-construction temple roof collapses in Maharashtra",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "Webb telescope finds possible salt clouds on a pink alien world",
+      "sent_at": "2026-06-20T12:31:32.043262+00:00"
     }
   ]
 }

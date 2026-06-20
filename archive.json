@@ -2294,6 +2294,53 @@
         "YourStory"
       ],
       "sent_at": "2026-06-20T06:01:16+05:30"
+    },
+    {
+      "date": "2026-06-20",
+      "slot": "evening",
+      "theme": "Beijing plans more surveys east of Taiwan to assert sovereignty, while Indian startups raise $426 million in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Beijing planning more surveys east of Taiwan to assert sovereignty"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon unveils AI-powered capabilities for Indian sellers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5.6 rumors: Is OpenAI stealth testing a new model in ChatGPT?"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian startups raise $426 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "7 dead, 30 injured after under-construction temple roof collapses in Maharashtra"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Webb telescope finds possible salt clouds on a pink alien world"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-20T18:01:32+05:30"
     }
   ]
 }
