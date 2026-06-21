@@ -2341,6 +2341,53 @@
         "YourStory"
       ],
       "sent_at": "2026-06-20T18:01:32+05:30"
+    },
+    {
+      "date": "2026-06-21",
+      "slot": "morning",
+      "theme": "Iran closes the Strait of Hormuz amid rising tensions with Israel, while India's waste management startup Recykal raises $23 million in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran closes Strait of Hormuz"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nobel laureate John Jumper leaves DeepMind for Anthropic"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Recykal raises $23 million in funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "IAF sorties and AI-monitored CCTV feeds for NEET-UG re-exam"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-21T06:01:15+05:30"
     }
   ]
 }

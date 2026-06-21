@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran waives Strait of Hormuz fees during 60-day peace negotiation period",
-      "sent_at": "2026-06-19T12:35:07.678283+00:00"
-    },
-    {
-      "headline": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-      "sent_at": "2026-06-19T12:35:07.678283+00:00"
-    },
-    {
-      "headline": "Elastic agrees to buy DeductiveAI for up to $85M",
-      "sent_at": "2026-06-19T12:35:07.678283+00:00"
-    },
-    {
-      "headline": "Jio files for DRHP for a fresh issue-only IPO",
-      "sent_at": "2026-06-19T12:35:07.678283+00:00"
-    },
-    {
-      "headline": "All parties in T.N. Assembly back resolution against Karnataka’s Mekedatu project",
-      "sent_at": "2026-06-19T12:35:07.678283+00:00"
-    },
-    {
       "headline": "Poland’s president strips Ukraine’s Zelensky of top award",
       "sent_at": "2026-06-20T00:31:16.574172+00:00"
     },
@@ -67,6 +47,30 @@
     {
       "headline": "Webb telescope finds possible salt clouds on a pink alien world",
       "sent_at": "2026-06-20T12:31:32.043262+00:00"
+    },
+    {
+      "headline": "Iran closes Strait of Hormuz",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
+    },
+    {
+      "headline": "Nobel laureate John Jumper leaves DeepMind for Anthropic",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
+    },
+    {
+      "headline": "No significant AI releases today",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
+    },
+    {
+      "headline": "Recykal raises $23 million in funding",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
+    },
+    {
+      "headline": "IAF sorties and AI-monitored CCTV feeds for NEET-UG re-exam",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-21T00:31:15.642702+00:00"
     }
   ]
 }
