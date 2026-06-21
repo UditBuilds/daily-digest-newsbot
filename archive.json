@@ -2388,6 +2388,52 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-21T06:01:15+05:30"
+    },
+    {
+      "date": "2026-06-21",
+      "slot": "evening",
+      "theme": "US-Iran talks commence in Switzerland as Strait of Hormuz closes again, while OpenAI prepares to launch its GPT-5.6 models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Vance in Switzerland for US-Iran talks as Strait of Hormuz closed again"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Brands using AI-generated influencers to promote products on social media"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.6 models to launch next week"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Cult.fit to push retail segment to achieve profitability"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "7 dead, over 40 hospitalised after ammonia leak at Tamil Nadu seafood factory"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "World’s most sensitive radio telescope array set to be built in Nevada desert"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-21T18:01:27+05:30"
     }
   ]
 }
