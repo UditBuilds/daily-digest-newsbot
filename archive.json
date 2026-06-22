@@ -2434,6 +2434,54 @@
         "YourStory"
       ],
       "sent_at": "2026-06-21T18:01:27+05:30"
+    },
+    {
+      "date": "2026-06-22",
+      "slot": "morning",
+      "theme": "Ethiopia's Prime Minister Abiy Ahmed secures a landslide victory in national elections, while OpenAI and Anthropic prepare for dueling AI model releases.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Ethiopian PM’s party secures landslide win in national election"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI Cracks the Secrets of How the Universe’s Heaviest Elements Are Forged"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI and Anthropic gear up for dueling AI model releases"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Why Jio Is More Than A Telecom IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "CBSE starts releasing re-evaluation results"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-22T06:01:27+05:30"
     }
   ]
 }
