@@ -2482,6 +2482,54 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-22T06:01:27+05:30"
+    },
+    {
+      "date": "2026-06-22",
+      "slot": "evening",
+      "theme": "UK Prime Minister Keir Starmer announces resignation plan, while India and UAE discuss a significant defence deal, and Microsoft CEO Satya Nadella sends a message to AI giants.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK Prime Minister Keir Starmer announces resignation plan"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft CEO has a message for Google, OpenAI, Anthropic and all the AI companies"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Info Edge’s AI, Deeptech Playbook: ₹1,003 Cr Portfolio Across 54 Startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "UAE looking to buy India's BrahMos, Akashteer air defence system: Report"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-22T18:01:26+05:30"
     }
   ]
 }
