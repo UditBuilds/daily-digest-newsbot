@@ -2570,6 +2570,57 @@
         "YourStory"
       ],
       "sent_at": "2026-06-23T06:04:55+05:30"
+    },
+    {
+      "date": "2026-06-23",
+      "slot": "evening",
+      "theme": "Iran's President lands in Pakistan after a crucial US deal, while Oracle cuts 21,000 jobs as it embraces AI, and OpenAI releases a new cyber model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran’s President lands in Pakistan after US deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Oracle cuts 21,000 jobs as it embraces AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases new GPT-5.5-Cyber model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Proptech startup Square Yards raises ₹900 Cr at unicorn valuation"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "President Murmu confers Padma awards"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s Cold Atom Lab creates exotic matter in space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-23T18:01:25+05:30"
     }
   ]
 }
