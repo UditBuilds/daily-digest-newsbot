@@ -2530,6 +2530,46 @@
         "YourStory"
       ],
       "sent_at": "2026-06-22T18:01:26+05:30"
+    },
+    {
+      "date": "2026-06-23",
+      "slot": "morning",
+      "theme": "Global geopolitics sees significant shifts as the UK's Prime Minister Keir Starmer announces resignation, while India experiences major developments in business and technology, including Meta's $900 million investment in CRED and Amazon testing Alexa+ in India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump criticises UK’s Starmer after PM announces resignation"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches new initiative to help find and patch open-source bugs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CRED Raises $900 Mn In Round Led By Meta"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Tragic loss': 12 Indians among 13 killed in Qatar gas plant explosion"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-23T06:04:55+05:30"
     }
   ]
 }
