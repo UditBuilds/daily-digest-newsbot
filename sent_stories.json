@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump criticises UK’s Starmer after PM announces resignation",
-      "sent_at": "2026-06-23T00:34:55.388881+00:00"
-    },
-    {
-      "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "sent_at": "2026-06-23T00:34:55.388881+00:00"
-    },
-    {
-      "headline": "OpenAI launches new initiative to help find and patch open-source bugs",
-      "sent_at": "2026-06-23T00:34:55.388881+00:00"
-    },
-    {
-      "headline": "CRED Raises $900 Mn In Round Led By Meta",
-      "sent_at": "2026-06-23T00:34:55.388881+00:00"
-    },
-    {
-      "headline": "'Tragic loss': 12 Indians among 13 killed in Qatar gas plant explosion",
-      "sent_at": "2026-06-23T00:34:55.388881+00:00"
-    },
-    {
-      "headline": "Iran’s President lands in Pakistan after US deal",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
-      "headline": "Oracle cuts 21,000 jobs as it embraces AI",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
-      "headline": "OpenAI releases new GPT-5.5-Cyber model",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
-      "headline": "Proptech startup Square Yards raises ₹900 Cr at unicorn valuation",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
-      "headline": "President Murmu confers Padma awards",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
-      "headline": "NASA’s Cold Atom Lab creates exotic matter in space",
-      "sent_at": "2026-06-23T12:31:25.311806+00:00"
-    },
-    {
       "headline": "Kim says North Korea to arm navy with nuclear weapons, build bigger warships",
       "sent_at": "2026-06-24T00:31:21.576270+00:00"
     },
@@ -67,6 +23,30 @@
     {
       "headline": "Kazakhstan, Belgium sign agreements on AI, science and space technologies",
       "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "North Korea commissions warship as Kim eyes nuclear navy",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "India among top AI-ready nations, one of world's least concentrated equity markets: JP Morgan",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Tag in Slack with shared memory, proactive AI and enterprise integrations",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "Iran invites PM Modi to Ayatollah Khamenei's funeral",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "Navi Mumbai teen entrepreneur expands tech portfolio with launch of space science platform",
+      "sent_at": "2026-06-24T12:31:25.349145+00:00"
     }
   ]
 }
