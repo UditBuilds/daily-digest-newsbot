@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK Prime Minister Keir Starmer announces resignation plan",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
-      "headline": "Microsoft CEO has a message for Google, OpenAI, Anthropic and all the AI companies",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
-      "headline": "No significant AI releases today",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
-      "headline": "Info Edge’s AI, Deeptech Playbook: ₹1,003 Cr Portfolio Across 54 Startups",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
-      "headline": "UAE looking to buy India's BrahMos, Akashteer air defence system: Report",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-22T12:31:26.767095+00:00"
-    },
-    {
       "headline": "Trump criticises UK’s Starmer after PM announces resignation",
       "sent_at": "2026-06-23T00:34:55.388881+00:00"
     },
@@ -67,6 +43,30 @@
     {
       "headline": "NASA’s Cold Atom Lab creates exotic matter in space",
       "sent_at": "2026-06-23T12:31:25.311806+00:00"
+    },
+    {
+      "headline": "Kim says North Korea to arm navy with nuclear weapons, build bigger warships",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "Honasa Consumer Acquires Majority Stake In Fluence Pharma For ₹135 Cr",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "Bank of India wins Rs 100 crore case against Nirav Modi",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
+    },
+    {
+      "headline": "Kazakhstan, Belgium sign agreements on AI, science and space technologies",
+      "sent_at": "2026-06-24T00:31:21.576270+00:00"
     }
   ]
 }

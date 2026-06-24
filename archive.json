@@ -2621,6 +2621,60 @@
         "YourStory"
       ],
       "sent_at": "2026-06-23T18:01:25+05:30"
+    },
+    {
+      "date": "2026-06-24",
+      "slot": "morning",
+      "theme": "North Korea's nuclear ambitions escalate, while India's startup ecosystem sees significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Kim says North Korea to arm navy with nuclear weapons, build bigger warships"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Tag in Slack with plans for wider rollout"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Honasa Consumer Acquires Majority Stake In Fluence Pharma For ₹135 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Bank of India wins Rs 100 crore case against Nirav Modi"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Kazakhstan, Belgium sign agreements on AI, science and space technologies"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-24T06:01:21+05:30"
     }
   ]
 }
