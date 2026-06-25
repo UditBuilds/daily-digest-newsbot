@@ -2725,6 +2725,58 @@
         "YourStory"
       ],
       "sent_at": "2026-06-24T18:01:25+05:30"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Anthropic and Mistral make significant advancements in AI technology.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI researchers continue to leave Google for its rivals"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Tag, an AI colleague for Slack"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ex-Infosys CEO Vishal Sikka’s new AI venture Hang Ten bags $32 million"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Passport is just a travel document, not citizenship proof: MEA"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-25T06:01:26+05:30"
     }
   ]
 }

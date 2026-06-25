@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Kim says North Korea to arm navy with nuclear weapons, build bigger warships",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
-      "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
-      "headline": "Honasa Consumer Acquires Majority Stake In Fluence Pharma For ₹135 Cr",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
-      "headline": "Bank of India wins Rs 100 crore case against Nirav Modi",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
-      "headline": "Kazakhstan, Belgium sign agreements on AI, science and space technologies",
-      "sent_at": "2026-06-24T00:31:21.576270+00:00"
-    },
-    {
       "headline": "North Korea commissions warship as Kim eyes nuclear navy",
       "sent_at": "2026-06-24T12:31:25.349145+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Navi Mumbai teen entrepreneur expands tech portfolio with launch of space science platform",
       "sent_at": "2026-06-24T12:31:25.349145+00:00"
+    },
+    {
+      "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "AI researchers continue to leave Google for its rivals",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Tag, an AI colleague for Slack",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "Ex-Infosys CEO Vishal Sikka’s new AI venture Hang Ten bags $32 million",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "Passport is just a travel document, not citizenship proof: MEA",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry",
+      "sent_at": "2026-06-25T00:31:26.453079+00:00"
     }
   ]
 }
