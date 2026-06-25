@@ -2777,6 +2777,58 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-25T06:01:26+05:30"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": "evening",
+      "theme": "Amazon invests $13B in India's AI infrastructure, while Anthropic accuses Alibaba of extracting AI capabilities, and the US strengthens its AI use in customs enforcement.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and Gulf allies share concerns over Iran peace accord"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI updates GPT-5.5 Instant conversational quality"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Centre may acquire 1-2% stake in Sarvam post $300Mn raise"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India draws red line on US trade pact"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "California Science Centre unveils new air and space centre"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-25T18:01:27+05:30"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "North Korea commissions warship as Kim eyes nuclear navy",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
-      "headline": "India among top AI-ready nations, one of world's least concentrated equity markets: JP Morgan",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Tag in Slack with shared memory, proactive AI and enterprise integrations",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
-      "headline": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
-      "headline": "Iran invites PM Modi to Ayatollah Khamenei's funeral",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
-      "headline": "Navi Mumbai teen entrepreneur expands tech portfolio with launch of space science platform",
-      "sent_at": "2026-06-24T12:31:25.349145+00:00"
-    },
-    {
       "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "sent_at": "2026-06-25T00:31:26.453079+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry",
       "sent_at": "2026-06-25T00:31:26.453079+00:00"
+    },
+    {
+      "headline": "US and Gulf allies share concerns over Iran peace accord",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "OpenAI updates GPT-5.5 Instant conversational quality",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "Centre may acquire 1-2% stake in Sarvam post $300Mn raise",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "India draws red line on US trade pact",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "California Science Centre unveils new air and space centre",
+      "sent_at": "2026-06-25T12:31:27.361938+00:00"
     }
   ]
 }
