@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
-      "headline": "AI researchers continue to leave Google for its rivals",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Tag, an AI colleague for Slack",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
-      "headline": "Ex-Infosys CEO Vishal Sikka’s new AI venture Hang Ten bags $32 million",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
-      "headline": "Passport is just a travel document, not citizenship proof: MEA",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
-      "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry",
-      "sent_at": "2026-06-25T00:31:26.453079+00:00"
-    },
-    {
       "headline": "US and Gulf allies share concerns over Iran peace accord",
       "sent_at": "2026-06-25T12:31:27.361938+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "California Science Centre unveils new air and space centre",
       "sent_at": "2026-06-25T12:31:27.361938+00:00"
+    },
+    {
+      "headline": "Venezuelans search rubble for survivors after twin earthquakes kill at least 188",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
+    },
+    {
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
+    },
+    {
+      "headline": "OpenAI delays GPT-5.6 after government request",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
+    },
+    {
+      "headline": "Apple hikes prices of iPads and MacBooks in India due to soaring storage costs",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
+    },
+    {
+      "headline": "India has quake warning system for Himalayan region",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
+    },
+    {
+      "headline": "Could you give birth in space?",
+      "sent_at": "2026-06-26T00:31:30.127505+00:00"
     }
   ]
 }

@@ -2829,6 +2829,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-25T18:01:27+05:30"
+    },
+    {
+      "date": "2026-06-26",
+      "slot": "morning",
+      "theme": "Global geopolitics sees significant developments as the US and China make moves, while in tech, OpenAI's new model release is delayed due to security concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Venezuelans search rubble for survivors after twin earthquakes kill at least 188"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI delays GPT-5.6 after government request"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Apple hikes prices of iPads and MacBooks in India due to soaring storage costs"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India has quake warning system for Himalayan region"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Could you give birth in space?"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-26T06:01:30+05:30"
     }
   ]
 }
