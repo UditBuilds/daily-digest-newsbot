@@ -2879,6 +2879,52 @@
         "YourStory"
       ],
       "sent_at": "2026-06-26T06:01:30+05:30"
+    },
+    {
+      "date": "2026-06-26",
+      "slot": "evening",
+      "theme": "Russia faces one of the biggest Ukrainian drone attacks, while OpenAI's GPT-5.6 release is limited by the US government, and India's startup scene sees significant funding rounds.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia reports one of biggest Ukrainian drone attacks, including on Crimea"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump Tightens Grip On AI, Asks OpenAI To Limit GPT-5.6 Release"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI to release GPT-5.6 in limited preview after US government seeks staggered launch"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "SuperLiving Raises $7 Million Series A Led by Lightspeed to Accelerate AI-Powered Preventive Healthcare Across India"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Why India making its own bullet trains is a big deal - explained"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-26T18:01:24+05:30"
     }
   ]
 }
