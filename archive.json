@@ -2925,6 +2925,55 @@
         "YourStory"
       ],
       "sent_at": "2026-06-26T18:01:24+05:30"
+    },
+    {
+      "date": "2026-06-27",
+      "slot": "morning",
+      "theme": "Trump threatens tariffs on countries with digital services tax, while OpenAI and Anthropic make significant moves in AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump threatens 100% tariff on countries that impose digital services tax"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI limits GPT-5.6 rollout after government request"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases powerful new GPT-5.6 model under restrictions"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India drops 20% local sourcing rule for satcom"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Homebuyers can seek relief for delay after possession: Supreme Court"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-27T06:01:24+05:30"
     }
   ]
 }

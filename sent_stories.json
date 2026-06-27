@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US and Gulf allies share concerns over Iran peace accord",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
-      "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
-      "headline": "OpenAI updates GPT-5.5 Instant conversational quality",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
-      "headline": "Centre may acquire 1-2% stake in Sarvam post $300Mn raise",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
-      "headline": "India draws red line on US trade pact",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
-      "headline": "California Science Centre unveils new air and space centre",
-      "sent_at": "2026-06-25T12:31:27.361938+00:00"
-    },
-    {
       "headline": "Venezuelans search rubble for survivors after twin earthquakes kill at least 188",
       "sent_at": "2026-06-26T00:31:30.127505+00:00"
     },
@@ -67,6 +43,30 @@
     {
       "headline": "Why India making its own bullet trains is a big deal - explained",
       "sent_at": "2026-06-26T12:31:24.443172+00:00"
+    },
+    {
+      "headline": "Trump threatens 100% tariff on countries that impose digital services tax",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
+    },
+    {
+      "headline": "OpenAI limits GPT-5.6 rollout after government request",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
+    },
+    {
+      "headline": "OpenAI releases powerful new GPT-5.6 model under restrictions",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
+    },
+    {
+      "headline": "India drops 20% local sourcing rule for satcom",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
+    },
+    {
+      "headline": "Homebuyers can seek relief for delay after possession: Supreme Court",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
+    },
+    {
+      "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry",
+      "sent_at": "2026-06-27T00:31:24.358474+00:00"
     }
   ]
 }
