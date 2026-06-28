@@ -3068,6 +3068,53 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-28T06:01:18+05:30"
+    },
+    {
+      "date": "2026-06-28",
+      "slot": "evening",
+      "theme": "OpenAI unveils GPT-5.6 models, while India and Pakistan engage in diplomatic tensions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India rejects Pakistan's allegations over Karachi blast"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI's GPT-5.6 models bring advanced cybersecurity features"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.6 models are restricted by the US government"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Sachin Tendulkar's sportswear brand targets Indian consumers"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India responds to Pakistan's allegations over Karachi blast"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-28T18:01:19+05:30"
     }
   ]
 }

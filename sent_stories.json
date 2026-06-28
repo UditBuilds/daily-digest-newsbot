@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump threatens 100% tariff on countries that impose digital services tax",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
-      "headline": "OpenAI limits GPT-5.6 rollout after government request",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
-      "headline": "OpenAI releases powerful new GPT-5.6 model under restrictions",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
-      "headline": "India drops 20% local sourcing rule for satcom",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
-      "headline": "Homebuyers can seek relief for delay after possession: Supreme Court",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
-      "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry",
-      "sent_at": "2026-06-27T00:31:24.358474+00:00"
-    },
-    {
       "headline": "US ally Bahrain claims Iran attacked navy base as Hormuz closed",
       "sent_at": "2026-06-27T12:31:28.009904+00:00"
     },
@@ -67,6 +43,30 @@
     {
       "headline": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
       "sent_at": "2026-06-28T00:31:18.756170+00:00"
+    },
+    {
+      "headline": "India rejects Pakistan's allegations over Karachi blast",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "OpenAI's GPT-5.6 models bring advanced cybersecurity features",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "OpenAI's GPT-5.6 models are restricted by the US government",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "Sachin Tendulkar's sportswear brand targets Indian consumers",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "India responds to Pakistan's allegations over Karachi blast",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-28T12:31:19.929580+00:00"
     }
   ]
 }
