@@ -3025,6 +3025,49 @@
         "YourStory"
       ],
       "sent_at": "2026-06-27T18:01:28+05:30"
+    },
+    {
+      "date": "2026-06-28",
+      "slot": "morning",
+      "theme": "US launches strikes on Iran after second shipping attack, while Serbia's President Vucic announces resignation amid student protests.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US launches strikes on Iran after second shipping attack"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Claude Fable 5 to Be Turned Back on in a Matter of Days"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bharat Taxi To Expand To 500 Cities In 2 Years"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Mistral",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-06-28T06:01:18+05:30"
     }
   ]
 }
