@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US ally Bahrain claims Iran attacked navy base as Hormuz closed",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "Anthropic Receives Approval To Release Claude Mythos AI Model To Trusted Partners",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "From CRED To Square Yards — Indian Startups Raised $1.1 Bn This Week",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "India’s family firms are booming — but who will lead them tomorrow?",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-06-27T12:31:28.009904+00:00"
-    },
-    {
-      "headline": "US launches strikes on Iran after second shipping attack",
-      "sent_at": "2026-06-28T00:31:18.756170+00:00"
-    },
-    {
-      "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "sent_at": "2026-06-28T00:31:18.756170+00:00"
-    },
-    {
-      "headline": "Claude Fable 5 to Be Turned Back on in a Matter of Days",
-      "sent_at": "2026-06-28T00:31:18.756170+00:00"
-    },
-    {
-      "headline": "Bharat Taxi To Expand To 500 Cities In 2 Years",
-      "sent_at": "2026-06-28T00:31:18.756170+00:00"
-    },
-    {
-      "headline": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
-      "sent_at": "2026-06-28T00:31:18.756170+00:00"
-    },
-    {
       "headline": "India rejects Pakistan's allegations over Karachi blast",
       "sent_at": "2026-06-28T12:31:19.929580+00:00"
     },
@@ -67,6 +23,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-06-28T12:31:19.929580+00:00"
+    },
+    {
+      "headline": "Iran warns ships not to bypass its chosen Hormuz route",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
+    },
+    {
+      "headline": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
+    },
+    {
+      "headline": "xAI unveils Grok 4.5, a significant upgrade powered by 1.5 trillion parameter V9 model",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
+    },
+    {
+      "headline": "No significant India business news today",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
+    },
+    {
+      "headline": "PM Modi's Seychelles visit: India signs extradition pact, 8 other agreements",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-06-29T00:31:22.995336+00:00"
     }
   ]
 }
