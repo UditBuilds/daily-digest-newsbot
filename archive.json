@@ -3163,6 +3163,57 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-06-29T06:01:22+05:30"
+    },
+    {
+      "date": "2026-06-29",
+      "slot": "evening",
+      "theme": "Israel escalates in Lebanon while Meta and Google compete in AI development.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Ford rehires human engineers after AI fails to match quality checks"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI limits GPT-5.6 launch per US government request"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PayU India Turns Adjusted EBITDA Profitable In FY26, Revenue Zooms 13% YoY"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-29T18:01:18+05:30"
     }
   ]
 }
