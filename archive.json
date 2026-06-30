@@ -3268,6 +3268,59 @@
         "YourStory"
       ],
       "sent_at": "2026-06-30T06:01:12+05:30"
+    },
+    {
+      "date": "2026-06-30",
+      "slot": "evening",
+      "theme": "Israel escalates in Lebanon while Meta bets $15B that users will pay for social media, and Anthropic launches Claude models in Microsoft Foundry on Azure.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hormuz, Suez, Taiwan Strait: Why the world’s supply chains now need war-room planning"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Crypto exchange OKX wants AI agents to hire and pay each other"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launch Claude Apps Gateway"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Mumbai rains: 11-year-old dies as tree crushes school van carrying 15 students"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Weird Science: Space enthusiasts helping train AI system to unlock deep secrets of spiral galaxies"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-06-30T18:01:17+05:30"
     }
   ]
 }
