@@ -3371,6 +3371,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-01T06:01:07+05:30"
+    },
+    {
+      "date": "2026-07-01",
+      "slot": "evening",
+      "theme": "Russia turns to India for gasoline as fuel shortages deepen, while Anthropic restores access to its Fable model after the US lifts export controls.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia turns to India for gasoline as fuel shortages deepen"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic restores access to its Fable model"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Sonnet 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Supply6 raises ₹48 Cr to expand product portfolio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Russia turns to India for gasoline"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Satellite identifies what it's seeing from space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-01T18:01:14+05:30"
     }
   ]
 }
