@@ -3321,6 +3321,56 @@
         "YourStory"
       ],
       "sent_at": "2026-06-30T18:01:17+05:30"
+    },
+    {
+      "date": "2026-07-01",
+      "slot": "morning",
+      "theme": "India's arms sector eyes pivotal breakthrough with UAE, while Anthropic launches Claude Sonnet 5 as a cheaper way to run agents.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India’s arms sector eyes pivotal breakthrough with UAE: ‘confidence booster’"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Sonnet 5, says it is default AI model for free users"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startup Funding Slips 9% To $5.2 Bn In H1 2026"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "40% rain deficit, hotter July: IMD sees below-normal rainfall despite monsoon revival"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Asteroid Day 2026 – Where Space Science And Fun Collide"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-01T06:01:07+05:30"
     }
   ]
 }
