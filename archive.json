@@ -3424,6 +3424,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-01T18:01:14+05:30"
+    },
+    {
+      "date": "2026-07-02",
+      "slot": "morning",
+      "theme": "Israel escalates in Lebanon, while Meta faces regulatory heat in India and the US lifts export controls on Anthropic's AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and Iran hold talks in Qatar"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Cloudflare pushes AI companies to pay for publishers' content"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic debuts AI-driven pharma R&D tool, Claude Science"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Govt asks WhatsApp to pause username rollout"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists propose launching a giant 'airbag' into space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-02T06:01:17+05:30"
     }
   ]
 }
