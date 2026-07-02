@@ -3477,6 +3477,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-02T06:01:17+05:30"
+    },
+    {
+      "date": "2026-07-02",
+      "slot": "evening",
+      "theme": "Israel escalates tensions in Lebanon while India navigates global AI developments and domestic business investments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China aims to infiltrate US-Mexico-Canada trade deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Indian tech tycoon bets $30M on AI alternative to Microsoft Office"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic restores Claude Fable 5 after US lifts export controls"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Age Care Labs raises ₹85 Cr to build senior living communities"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Unesco warns Pakistan over reconstructions at Taxila"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA launches mission to rescue falling space telescope"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-02T18:01:15+05:30"
     }
   ]
 }

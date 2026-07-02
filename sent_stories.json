@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russia turns to India for gasoline as fuel shortages deepen",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
-      "headline": "Anthropic restores access to its Fable model",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Sonnet 5",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
-      "headline": "Supply6 raises ₹48 Cr to expand product portfolio",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
-      "headline": "Russia turns to India for gasoline",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
-      "headline": "Satellite identifies what it's seeing from space",
-      "sent_at": "2026-07-01T12:31:14.298781+00:00"
-    },
-    {
       "headline": "US and Iran hold talks in Qatar",
       "sent_at": "2026-07-02T00:31:17.586503+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Scientists propose launching a giant 'airbag' into space",
       "sent_at": "2026-07-02T00:31:17.586503+00:00"
+    },
+    {
+      "headline": "China aims to infiltrate US-Mexico-Canada trade deal",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
+    },
+    {
+      "headline": "Indian tech tycoon bets $30M on AI alternative to Microsoft Office",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
+    },
+    {
+      "headline": "Anthropic restores Claude Fable 5 after US lifts export controls",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
+    },
+    {
+      "headline": "Age Care Labs raises ₹85 Cr to build senior living communities",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
+    },
+    {
+      "headline": "Unesco warns Pakistan over reconstructions at Taxila",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
+    },
+    {
+      "headline": "NASA launches mission to rescue falling space telescope",
+      "sent_at": "2026-07-02T12:31:15.300907+00:00"
     }
   ]
 }
