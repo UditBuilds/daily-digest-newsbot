@@ -3576,6 +3576,59 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-07-03T06:01:14+05:30"
+    },
+    {
+      "date": "2026-07-03",
+      "slot": "evening",
+      "theme": "India and China make significant moves in tech and geopolitics, while new AI models and funding rounds make headlines.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Palantir CEO Alex Karp's AI ownership thesis is becoming an enterprise reality, say experts"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic targets loopholes used by Chinese firms to access Claude, FT reports"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PlayBlue Raises $2.7 Million to Build India’s Next Omnichannel Sports Retail Leader"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-03T18:01:15+05:30"
     }
   ]
 }
