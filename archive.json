@@ -3530,6 +3530,52 @@
         "YourStory"
       ],
       "sent_at": "2026-07-02T18:01:15+05:30"
+    },
+    {
+      "date": "2026-07-03",
+      "slot": "morning",
+      "theme": "Japan and India deepen economic and security ties, while OpenAI discusses a potential government stake and Microsoft launches a new AI deployment company.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan’s Takaichi looks to India to counter China in Indo-Pacific"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic debuts Claude Science, renews access to Fable 5, Mythos 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Supply6 Raises ₹48 Crore Led by Unilever Ventures to Accelerate Nutrition Innovation and Omnichannel Growth"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India's Tokyo drift: PMs open new chapter in ties"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-07-03T06:01:14+05:30"
     }
   ]
 }
