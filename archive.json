@@ -3629,6 +3629,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-03T18:01:15+05:30"
+    },
+    {
+      "date": "2026-07-04",
+      "slot": "morning",
+      "theme": "Israel and Russia escalate conflicts in the Middle East and Ukraine, while Meta and Anthropic make significant advancements in AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Massive Russian bomb attack kills at least 4 in Ukraine’s Sumy"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic wants to develop its own drugs"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Leanstral 1.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ClayCo Secures Rs 34.59 Crore Series A"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indus water pact to stay suspended"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Titan, Saturn’s Largest Moon, Could Become a ‘Gas Station’ for Deep Space Missions"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-04T06:01:15+05:30"
     }
   ]
 }
