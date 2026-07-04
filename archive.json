@@ -3682,6 +3682,56 @@
         "YourStory"
       ],
       "sent_at": "2026-07-04T06:01:15+05:30"
+    },
+    {
+      "date": "2026-07-04",
+      "slot": "evening",
+      "theme": "Iran mourns the death of its supreme leader Ali Khamenei, while India's startup funding scene sees significant investments and the country's parliament prepares for its monsoon session.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Thousands gather in Iran as Khamenei funeral ceremonies begin"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Govt weighs new AI law as evolving technology raises fresh concerns over cyber threats and deepfakes"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.6 Trio Leaked in Codex App, Reportedly Timed to Ambush Anthropic During July 7 Window"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BlissClub Set To Raise Rs 250 Crore Funding At Rs 750 Crore Valuation"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Monsoon Session of Parliament to begin on July 20"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-04T18:01:20+05:30"
     }
   ]
 }
