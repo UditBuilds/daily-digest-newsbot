@@ -3785,6 +3785,57 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-07-05T06:01:09+05:30"
+    },
+    {
+      "date": "2026-07-05",
+      "slot": "evening",
+      "theme": "Foxconn's revenue jumps as US-China tensions rise, while Meta and OpenAI engage in an AI rivalry.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Foxconn second-quarter revenue jumps, company cautions on geopolitics"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta says its next AI model has caught up with OpenAI’s GPT-5.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Day 16 of CJP protest: Sonam Wangchuk loses 6 kg during hunger strike"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Katalyst's Orbital Rescue: A New Era in Space Tech"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-05T18:01:18+05:30"
     }
   ]
 }

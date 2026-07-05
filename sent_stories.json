@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Massive Russian bomb attack kills at least 4 in Ukraine’s Sumy",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
-      "headline": "Anthropic wants to develop its own drugs",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Leanstral 1.5",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
-      "headline": "ClayCo Secures Rs 34.59 Crore Series A",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
-      "headline": "Indus water pact to stay suspended",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
-      "headline": "Titan, Saturn’s Largest Moon, Could Become a ‘Gas Station’ for Deep Space Missions",
-      "sent_at": "2026-07-04T00:31:15.949712+00:00"
-    },
-    {
       "headline": "Thousands gather in Iran as Khamenei funeral ceremonies begin",
       "sent_at": "2026-07-04T12:31:20.370780+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "Space Innovations: Rescuing Satellites and Expanding Internet",
       "sent_at": "2026-07-05T00:31:09.671576+00:00"
+    },
+    {
+      "headline": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "Meta says its next AI model has caught up with OpenAI’s GPT-5.5",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "Day 16 of CJP protest: Sonam Wangchuk loses 6 kg during hunger strike",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "Katalyst's Orbital Rescue: A New Era in Space Tech",
+      "sent_at": "2026-07-05T12:31:18.088412+00:00"
     }
   ]
 }
