@@ -3732,6 +3732,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-04T18:01:20+05:30"
+    },
+    {
+      "date": "2026-07-05",
+      "slot": "morning",
+      "theme": "Global tensions rise as Putin and Trump discuss Ukraine, while India's refining capacity expansion bucks the global trend.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Putin and Trump discuss Ukraine, Iran in US Independence Day call"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Alibaba reportedly bans employees from using Claude Code"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral releases Leanstral 1.5 open model for proof engineering"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Gauri Khan Family Trust Backs Sleepy Owl In Rs 12 Crore Funding Round"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MHA tags 17 from Pakistan and 6 Indians 'individual terrorists'"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space Innovations: Rescuing Satellites and Expanding Internet"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-07-05T06:01:09+05:30"
     }
   ]
 }
