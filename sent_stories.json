@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Thousands gather in Iran as Khamenei funeral ceremonies begin",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "Govt weighs new AI law as evolving technology raises fresh concerns over cyber threats and deepfakes",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "OpenAI's GPT-5.6 Trio Leaked in Codex App, Reportedly Timed to Ambush Anthropic During July 7 Window",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "BlissClub Set To Raise Rs 250 Crore Funding At Rs 750 Crore Valuation",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "Monsoon Session of Parliament to begin on July 20",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-07-04T12:31:20.370780+00:00"
-    },
-    {
-      "headline": "Putin and Trump discuss Ukraine, Iran in US Independence Day call",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
-      "headline": "Alibaba reportedly bans employees from using Claude Code",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
-      "headline": "Mistral releases Leanstral 1.5 open model for proof engineering",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
-      "headline": "Gauri Khan Family Trust Backs Sleepy Owl In Rs 12 Crore Funding Round",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
-      "headline": "MHA tags 17 from Pakistan and 6 Indians 'individual terrorists'",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
-      "headline": "Space Innovations: Rescuing Satellites and Expanding Internet",
-      "sent_at": "2026-07-05T00:31:09.671576+00:00"
-    },
-    {
       "headline": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
       "sent_at": "2026-07-05T12:31:18.088412+00:00"
     },
@@ -71,6 +23,30 @@
     {
       "headline": "Katalyst's Orbital Rescue: A New Era in Space Tech",
       "sent_at": "2026-07-05T12:31:18.088412+00:00"
+    },
+    {
+      "headline": "Israel and Lebanon on the brink of war",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "Amazon stops accepting new customers for Mechanical Turk",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "No significant AI releases today",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "Vir Sanghvi reflects on loss, reinvention, and success",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "India to double US gas buys, cut Gulf reliance",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-07-06T00:31:12.439985+00:00"
     }
   ]
 }

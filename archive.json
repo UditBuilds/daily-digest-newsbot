@@ -3836,6 +3836,52 @@
         "YourStory"
       ],
       "sent_at": "2026-07-05T18:01:18+05:30"
+    },
+    {
+      "date": "2026-07-06",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while India takes steps to reduce its reliance on Gulf nations for gas imports.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel and Lebanon on the brink of war"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon stops accepting new customers for Mechanical Turk"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Vir Sanghvi reflects on loss, reinvention, and success"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India to double US gas buys, cut Gulf reliance"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-06T06:01:12+05:30"
     }
   ]
 }
