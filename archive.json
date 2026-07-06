@@ -3882,6 +3882,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-06T06:01:12+05:30"
+    },
+    {
+      "date": "2026-07-06",
+      "slot": "evening",
+      "theme": "Iran mourns its Supreme Leader Khamenei as geopolitical tensions rise, while India's naval capabilities are set to enhance with the commissioning of a new stealth frigate.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "UN Global Dialogue opens with urgent call for safe and inclusive AI that benefits all"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Next Bharat Ventures Launches ₹2,000 Cr Second Impact Fund"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian Navy set to commission 6th indigenous Project 17A stealth frigate Mahendragiri on July 11"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-06T18:01:18+05:30"
     }
   ]
 }

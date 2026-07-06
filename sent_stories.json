@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
-      "headline": "Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
-      "headline": "Meta says its next AI model has caught up with OpenAI’s GPT-5.5",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
-      "headline": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
-      "headline": "Day 16 of CJP protest: Sonam Wangchuk loses 6 kg during hunger strike",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
-      "headline": "Katalyst's Orbital Rescue: A New Era in Space Tech",
-      "sent_at": "2026-07-05T12:31:18.088412+00:00"
-    },
-    {
       "headline": "Israel and Lebanon on the brink of war",
       "sent_at": "2026-07-06T00:31:12.439985+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-07-06T00:31:12.439985+00:00"
+    },
+    {
+      "headline": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
+    },
+    {
+      "headline": "UN Global Dialogue opens with urgent call for safe and inclusive AI that benefits all",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
+    },
+    {
+      "headline": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
+    },
+    {
+      "headline": "Next Bharat Ventures Launches ₹2,000 Cr Second Impact Fund",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
+    },
+    {
+      "headline": "Indian Navy set to commission 6th indigenous Project 17A stealth frigate Mahendragiri on July 11",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
+    },
+    {
+      "headline": "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
+      "sent_at": "2026-07-06T12:31:18.313328+00:00"
     }
   ]
 }
