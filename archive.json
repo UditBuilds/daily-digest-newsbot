@@ -3935,6 +3935,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-06T18:01:18+05:30"
+    },
+    {
+      "date": "2026-07-07",
+      "slot": "morning",
+      "theme": "NATO urges members to deliver plans for reaching defence spending targets, while Canada picks a German firm for its new submarine fleet.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Canada picks German firm for new submarine fleet"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US investors to access SK Hynix, a memory maker riding the AI boom"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta claims its next AI model matches OpenAI's GPT-5.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Govt got 'Satluj' pulled off OTT on security grounds"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space debris removal startup gets ready for maiden flight"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-07T06:01:15+05:30"
     }
   ]
 }
