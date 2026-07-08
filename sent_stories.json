@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "UN Global Dialogue opens with urgent call for safe and inclusive AI that benefits all",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "Next Bharat Ventures Launches ₹2,000 Cr Second Impact Fund",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "Indian Navy set to commission 6th indigenous Project 17A stealth frigate Mahendragiri on July 11",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
-      "sent_at": "2026-07-06T12:31:18.313328+00:00"
-    },
-    {
-      "headline": "Canada picks German firm for new submarine fleet",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
-      "headline": "US investors to access SK Hynix, a memory maker riding the AI boom",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
-      "headline": "Meta claims its next AI model matches OpenAI's GPT-5.5",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
-      "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
-      "headline": "Govt got 'Satluj' pulled off OTT on security grounds",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
-      "headline": "Space debris removal startup gets ready for maiden flight",
-      "sent_at": "2026-07-07T00:31:15.462972+00:00"
-    },
-    {
       "headline": "Explosions rock Damascus, wounding 18, as France’s Macron visits Syria",
       "sent_at": "2026-07-07T12:31:15.744327+00:00"
     },
@@ -67,6 +19,30 @@
     {
       "headline": "Rare bacterium found contaminating water reclamation plant linked to Meta's datacenter",
       "sent_at": "2026-07-07T12:31:15.744327+00:00"
+    },
+    {
+      "headline": "US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "Meta rolls out Muse, a new AI image generator",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "Anthropic brings Claude Cowork to mobile and web",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "CCI clears upGrad's Unacademy acquisition",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "US launches 'powerful strikes' on Iran after tanker attacks",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "Mysterious \"Space Balls\" appear on Australian beach, culprit appears to be rocket debris",
+      "sent_at": "2026-07-08T00:31:17.226590+00:00"
     }
   ]
 }

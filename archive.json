@@ -4038,6 +4038,58 @@
         "YourStory"
       ],
       "sent_at": "2026-07-07T18:01:15+05:30"
+    },
+    {
+      "date": "2026-07-08",
+      "slot": "morning",
+      "theme": "US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz, while Anthropic expands Claude Cowork to mobile and web, and India's upGrad acquires Unacademy.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta rolls out Muse, a new AI image generator"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic brings Claude Cowork to mobile and web"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CCI clears upGrad's Unacademy acquisition"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US launches 'powerful strikes' on Iran after tanker attacks"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Mysterious \"Space Balls\" appear on Australian beach, culprit appears to be rocket debris"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-08T06:01:17+05:30"
     }
   ]
 }
