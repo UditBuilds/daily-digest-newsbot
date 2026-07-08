@@ -4090,6 +4090,54 @@
         "YourStory"
       ],
       "sent_at": "2026-07-08T06:01:17+05:30"
+    },
+    {
+      "date": "2026-07-08",
+      "slot": "evening",
+      "theme": "Beijing slams Manila over South China Sea claims, while Anthropic's Claude Code raises security concerns and OpenAI announces the global release of GPT-5.6 models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Beijing slams Manila over South China Sea claims"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China warns about AI risks with Anthropic's Claude Code"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI announces global release of GPT-5.6 models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Elevate Education raises ₹170 Cr to scale AI-led higher education platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "New USCIS rules for H-1B, Green Card applicants start July 10"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-08T18:01:16+05:30"
     }
   ]
 }

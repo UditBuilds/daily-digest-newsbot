@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Explosions rock Damascus, wounding 18, as France’s Macron visits Syria",
-      "sent_at": "2026-07-07T12:31:15.744327+00:00"
-    },
-    {
-      "headline": "Samsung profits jump 1,800% as AI chip sales soar",
-      "sent_at": "2026-07-07T12:31:15.744327+00:00"
-    },
-    {
-      "headline": "Anthropic uncovers Claude's hidden 'thinking' workspace",
-      "sent_at": "2026-07-07T12:31:15.744327+00:00"
-    },
-    {
-      "headline": "Cult.fit files draft papers for ₹4,000 Cr IPO",
-      "sent_at": "2026-07-07T12:31:15.744327+00:00"
-    },
-    {
-      "headline": "Rare bacterium found contaminating water reclamation plant linked to Meta's datacenter",
-      "sent_at": "2026-07-07T12:31:15.744327+00:00"
-    },
-    {
       "headline": "US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz",
       "sent_at": "2026-07-08T00:31:17.226590+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "Mysterious \"Space Balls\" appear on Australian beach, culprit appears to be rocket debris",
       "sent_at": "2026-07-08T00:31:17.226590+00:00"
+    },
+    {
+      "headline": "Beijing slams Manila over South China Sea claims",
+      "sent_at": "2026-07-08T12:31:16.118290+00:00"
+    },
+    {
+      "headline": "China warns about AI risks with Anthropic's Claude Code",
+      "sent_at": "2026-07-08T12:31:16.118290+00:00"
+    },
+    {
+      "headline": "OpenAI announces global release of GPT-5.6 models",
+      "sent_at": "2026-07-08T12:31:16.118290+00:00"
+    },
+    {
+      "headline": "Elevate Education raises ₹170 Cr to scale AI-led higher education platform",
+      "sent_at": "2026-07-08T12:31:16.118290+00:00"
+    },
+    {
+      "headline": "New USCIS rules for H-1B, Green Card applicants start July 10",
+      "sent_at": "2026-07-08T12:31:16.118290+00:00"
     }
   ]
 }
