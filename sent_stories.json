@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
-      "headline": "Meta rolls out Muse, a new AI image generator",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
-      "headline": "Anthropic brings Claude Cowork to mobile and web",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
-      "headline": "CCI clears upGrad's Unacademy acquisition",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
-      "headline": "US launches 'powerful strikes' on Iran after tanker attacks",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
-      "headline": "Mysterious \"Space Balls\" appear on Australian beach, culprit appears to be rocket debris",
-      "sent_at": "2026-07-08T00:31:17.226590+00:00"
-    },
-    {
       "headline": "Beijing slams Manila over South China Sea claims",
       "sent_at": "2026-07-08T12:31:16.118290+00:00"
     },
@@ -43,6 +19,30 @@
     {
       "headline": "New USCIS rules for H-1B, Green Card applicants start July 10",
       "sent_at": "2026-07-08T12:31:16.118290+00:00"
+    },
+    {
+      "headline": "US launches new strikes on Iran after Trump vows to hit ‘hard’",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "Mistral AI Releases Robotics Model to Support Physical AI Push",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "Doodhvale Farms Raises $1 Million Follow-on Funding from Atomic Capital to Expand D2C Dairy Business",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "Canada: Lawrence & gang directed Nijjar hit, there's nothing to link Indian govt",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "Indian scientists improve space weather mapping for better navigation",
+      "sent_at": "2026-07-09T00:31:29.301097+00:00"
     }
   ]
 }

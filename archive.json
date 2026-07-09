@@ -4138,6 +4138,62 @@
         "YourStory"
       ],
       "sent_at": "2026-07-08T18:01:16+05:30"
+    },
+    {
+      "date": "2026-07-09",
+      "slot": "morning",
+      "theme": "US launches new strikes on Iran, while India's business and tech sectors see significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US launches new strikes on Iran after Trump vows to hit ‘hard’"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Robotics Model to Support Physical AI Push"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Doodhvale Farms Raises $1 Million Follow-on Funding from Atomic Capital to Expand D2C Dairy Business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Canada: Lawrence & gang directed Nijjar hit, there's nothing to link Indian govt"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Indian scientists improve space weather mapping for better navigation"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-09T06:01:29+05:30"
     }
   ]
 }
