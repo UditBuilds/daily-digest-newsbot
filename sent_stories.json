@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Beijing slams Manila over South China Sea claims",
-      "sent_at": "2026-07-08T12:31:16.118290+00:00"
-    },
-    {
-      "headline": "China warns about AI risks with Anthropic's Claude Code",
-      "sent_at": "2026-07-08T12:31:16.118290+00:00"
-    },
-    {
-      "headline": "OpenAI announces global release of GPT-5.6 models",
-      "sent_at": "2026-07-08T12:31:16.118290+00:00"
-    },
-    {
-      "headline": "Elevate Education raises ₹170 Cr to scale AI-led higher education platform",
-      "sent_at": "2026-07-08T12:31:16.118290+00:00"
-    },
-    {
-      "headline": "New USCIS rules for H-1B, Green Card applicants start July 10",
-      "sent_at": "2026-07-08T12:31:16.118290+00:00"
-    },
-    {
       "headline": "US launches new strikes on Iran after Trump vows to hit ‘hard’",
       "sent_at": "2026-07-09T00:31:29.301097+00:00"
     },
@@ -43,6 +23,30 @@
     {
       "headline": "Indian scientists improve space weather mapping for better navigation",
       "sent_at": "2026-07-09T00:31:29.301097+00:00"
+    },
+    {
+      "headline": "Iran's Khamenei buried in Mashhad four months after US-Israeli strikes killed him",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
+    },
+    {
+      "headline": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot amid breakup chatter",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
+    },
+    {
+      "headline": "OpenAI releases GPT-5.6 and ChatGPT Work tool",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
+    },
+    {
+      "headline": "Fundamentum Launches ₹2,200 Cr Fund; Nandan Nilekani Steps Back From GP Role",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
+    },
+    {
+      "headline": "J&K orders screening of books with ‘anti-national’ content, opposition slams move",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
+    },
+    {
+      "headline": "Mysterious \"Space Balls\" Show Up on Australian Beach. The Culprit Appears To Be Rocket Debris",
+      "sent_at": "2026-07-10T00:31:24.776634+00:00"
     }
   ]
 }

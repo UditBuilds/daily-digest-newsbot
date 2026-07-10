@@ -4194,6 +4194,58 @@
         "YourStory"
       ],
       "sent_at": "2026-07-09T06:01:29+05:30"
+    },
+    {
+      "date": "2026-07-10",
+      "slot": "morning",
+      "theme": "Israel escalates in Lebanon while OpenAI and Anthropic make significant moves in the AI space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran's Khamenei buried in Mashhad four months after US-Israeli strikes killed him"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot amid breakup chatter"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases GPT-5.6 and ChatGPT Work tool"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Fundamentum Launches ₹2,200 Cr Fund; Nandan Nilekani Steps Back From GP Role"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "J&K orders screening of books with ‘anti-national’ content, opposition slams move"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Mysterious \"Space Balls\" Show Up on Australian Beach. The Culprit Appears To Be Rocket Debris"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-10T06:01:24+05:30"
     }
   ]
 }
