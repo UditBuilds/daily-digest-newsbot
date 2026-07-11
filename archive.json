@@ -4301,6 +4301,60 @@
         "YourStory"
       ],
       "sent_at": "2026-07-10T18:01:24+05:30"
+    },
+    {
+      "date": "2026-07-11",
+      "slot": "morning",
+      "theme": "Apple sues OpenAI for stealing trade secrets, while OpenAI releases its most powerful system yet, GPT-5.6, and India's Prime Minister Modi visits New Zealand to capitalize on a free trade agreement.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China accuses US of targeting Chinese firms"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple sues OpenAI over alleged trade secret theft"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases GPT-5.6 with three tiers: Sol, Terra, and Luna"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Jewelbox in talks to raise ₹50 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Modi visits New Zealand to capitalize on free trade agreement"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "China lands Long March-10B booster, escalating reusable rocket race"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-11T06:01:30+05:30"
     }
   ]
 }
