@@ -4496,6 +4496,56 @@
         "YourStory"
       ],
       "sent_at": "2026-07-12T18:01:18+05:30"
+    },
+    {
+      "date": "2026-07-13",
+      "slot": "morning",
+      "theme": "Israel holds parliamentary elections on October 27, while India's free trade agreement with the UK takes effect, and Anthropic extends Claude Fable 5 access.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel to hold parliamentary elections on October 27"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple’s failed self-driving car program left a legacy of powerful AI chips"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Readies GPT-5.6 for Public Launch After Federal Testing"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Fashinza’s Founder Exit Puts Spotlight Back on India’s B2B Fashion Supply Chain Bet"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "After brief burst of rain, monsoon in dry phase, deficit rises to 18%"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Two spacecraft deliver stunning new close-up photos of asteroids"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-07-13T06:01:24+05:30"
     }
   ]
 }
