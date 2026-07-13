@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "sent_at": "2026-07-12T12:31:18.441302+00:00"
-    },
-    {
-      "headline": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers",
-      "sent_at": "2026-07-12T12:31:18.441302+00:00"
-    },
-    {
-      "headline": "Mistral Ships Robotics Model as Valuation Nears $23B",
-      "sent_at": "2026-07-12T12:31:18.441302+00:00"
-    },
-    {
-      "headline": "India's MSMEs power the economy, but most still aren't using AI",
-      "sent_at": "2026-07-12T12:31:18.441302+00:00"
-    },
-    {
-      "headline": "Stakeholders: PM, CMs removal clause 'unconstitutional'",
-      "sent_at": "2026-07-12T12:31:18.441302+00:00"
-    },
-    {
       "headline": "Israel to hold parliamentary elections on October 27",
       "sent_at": "2026-07-13T00:31:24.571230+00:00"
     },
@@ -43,6 +23,30 @@
     {
       "headline": "Two spacecraft deliver stunning new close-up photos of asteroids",
       "sent_at": "2026-07-13T00:31:24.571230+00:00"
+    },
+    {
+      "headline": "Iran strikes US bases in the Gulf",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
+    },
+    {
+      "headline": "Anthropic expands Claude AI to India",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Cowork",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
+    },
+    {
+      "headline": "D2C startups face reckoning",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
+    },
+    {
+      "headline": "India's spin attack struggles",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
+    },
+    {
+      "headline": "UAE's commercial space sector grows",
+      "sent_at": "2026-07-13T12:31:24.756315+00:00"
     }
   ]
 }
