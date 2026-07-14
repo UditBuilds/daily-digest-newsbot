@@ -4599,6 +4599,61 @@
         "YourStory"
       ],
       "sent_at": "2026-07-13T18:01:24+05:30"
+    },
+    {
+      "date": "2026-07-14",
+      "slot": "morning",
+      "theme": "Israel and Russia escalate conflicts while Anthropic and Apple engage in a trade secrets lawsuit, and sugar is discovered in deep space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russian missiles strike Kyiv, triggering fires across the Ukrainian capital"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple’s trade secrets lawsuit against OpenAI contains allegations of unauthorized access"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round to build an emotion-led fragrance brand"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "One Indian crew member killed, 6 injured after Iran strikes UAE tankers in Hormuz"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Sugar discovered floating in deep space for the first time"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-14T06:01:23+05:30"
     }
   ]
 }
