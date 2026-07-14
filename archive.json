@@ -4654,6 +4654,62 @@
         "YourStory"
       ],
       "sent_at": "2026-07-14T06:01:23+05:30"
+    },
+    {
+      "date": "2026-07-14",
+      "slot": "evening",
+      "theme": "India and global entities make significant moves in geopolitics, AI, and space, while Indian businesses and the government take steps to advance the country's position in the world.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China sends a message to Pacific islands amid their unease over missile test"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Karnataka announces India's first govt-driven AI university"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic starts rolling out rupee pricing for Claude in India"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Footwear Startup BUILT Raises $2 Mn in Pre-Seed Funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MEA summons Iranian deputy envoy after Indian national killed in attack on ship"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronomers detect sugar among the stars"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-14T18:01:21+05:30"
     }
   ]
 }
