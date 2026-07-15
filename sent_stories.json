@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran strikes US bases in the Gulf",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
-      "headline": "Anthropic expands Claude AI to India",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Cowork",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
-      "headline": "D2C startups face reckoning",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
-      "headline": "India's spin attack struggles",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
-      "headline": "UAE's commercial space sector grows",
-      "sent_at": "2026-07-13T12:31:24.756315+00:00"
-    },
-    {
       "headline": "Russian missiles strike Kyiv, triggering fires across the Ukrainian capital",
       "sent_at": "2026-07-14T00:31:23.501888+00:00"
     },
@@ -71,6 +47,30 @@
     {
       "headline": "Astronomers detect sugar among the stars",
       "sent_at": "2026-07-14T12:31:21.216294+00:00"
+    },
+    {
+      "headline": "US-China tech rivalry heats up",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "Anthropic introduces Claude for Teachers",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "Zomato pilots AI-powered voice bot for food delivery",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "Supreme Court questions English as an indigenous language",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "Scientists find sugar in deep space",
+      "sent_at": "2026-07-15T00:31:22.609294+00:00"
     }
   ]
 }
