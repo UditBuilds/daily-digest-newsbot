@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russian missiles strike Kyiv, triggering fires across the Ukrainian capital",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "Apple’s trade secrets lawsuit against OpenAI contains allegations of unauthorized access",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round to build an emotion-led fragrance brand",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "One Indian crew member killed, 6 injured after Iran strikes UAE tankers in Hormuz",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "Sugar discovered floating in deep space for the first time",
-      "sent_at": "2026-07-14T00:31:23.501888+00:00"
-    },
-    {
-      "headline": "China sends a message to Pacific islands amid their unease over missile test",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
-      "headline": "Karnataka announces India's first govt-driven AI university",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
-      "headline": "Anthropic starts rolling out rupee pricing for Claude in India",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
-      "headline": "D2C Footwear Startup BUILT Raises $2 Mn in Pre-Seed Funding",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
-      "headline": "MEA summons Iranian deputy envoy after Indian national killed in attack on ship",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
-      "headline": "Astronomers detect sugar among the stars",
-      "sent_at": "2026-07-14T12:31:21.216294+00:00"
-    },
-    {
       "headline": "US-China tech rivalry heats up",
       "sent_at": "2026-07-15T00:31:22.609294+00:00"
     },
@@ -71,6 +23,30 @@
     {
       "headline": "Scientists find sugar in deep space",
       "sent_at": "2026-07-15T00:31:22.609294+00:00"
+    },
+    {
+      "headline": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "Anthropic Launches Free Claude AI For Teachers",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "Cabinet Approves ₹1.28 Lakh Cr Semicon 2.0 To Boost India’s Chip Ecosystem",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "Astronomers Detect the First True Sugar in Interstellar Space",
+      "sent_at": "2026-07-15T12:31:22.995029+00:00"
     }
   ]
 }

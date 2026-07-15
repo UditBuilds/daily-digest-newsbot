@@ -4765,6 +4765,61 @@
         "YourStory"
       ],
       "sent_at": "2026-07-15T06:01:22+05:30"
+    },
+    {
+      "date": "2026-07-15",
+      "slot": "evening",
+      "theme": "Russia and Ukraine escalate conflict in the Black Sea, while India's startup ecosystem sees significant funding rounds and policy announcements.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russian attacks kill six as Ukraine targets Black Sea oil tankers"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Free Claude AI For Teachers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Cabinet Approves ₹1.28 Lakh Cr Semicon 2.0 To Boost India’s Chip Ecosystem"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronomers Detect the First True Sugar in Interstellar Space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-15T18:01:22+05:30"
     }
   ]
 }
