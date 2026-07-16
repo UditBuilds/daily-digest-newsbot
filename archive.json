@@ -4820,6 +4820,62 @@
         "YourStory"
       ],
       "sent_at": "2026-07-15T18:01:22+05:30"
+    },
+    {
+      "date": "2026-07-16",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta invests $15B in social media, and India's startup ecosystem sees significant funding and acquisitions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and Iran escalate tensions"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft trains salespeople to talk down OpenAI and Anthropic"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases GPT-Red"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CHOSEN secures $5 million Series A funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India's space agency introduces new rules to stem exodus"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA captures Black Sea turning turquoise"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "VentureBeat AI",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-16T06:01:23+05:30"
     }
   ]
 }

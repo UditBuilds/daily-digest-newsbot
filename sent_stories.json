@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US-China tech rivalry heats up",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
-      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
-      "headline": "Anthropic introduces Claude for Teachers",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
-      "headline": "Zomato pilots AI-powered voice bot for food delivery",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
-      "headline": "Supreme Court questions English as an indigenous language",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
-      "headline": "Scientists find sugar in deep space",
-      "sent_at": "2026-07-15T00:31:22.609294+00:00"
-    },
-    {
       "headline": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
       "sent_at": "2026-07-15T12:31:22.995029+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Astronomers Detect the First True Sugar in Interstellar Space",
       "sent_at": "2026-07-15T12:31:22.995029+00:00"
+    },
+    {
+      "headline": "US and Iran escalate tensions",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "Microsoft trains salespeople to talk down OpenAI and Anthropic",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "OpenAI releases GPT-Red",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "CHOSEN secures $5 million Series A funding",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "India's space agency introduces new rules to stem exodus",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "NASA captures Black Sea turning turquoise",
+      "sent_at": "2026-07-16T00:31:23.117170+00:00"
     }
   ]
 }
