@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
-      "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
-      "headline": "Anthropic Launches Free Claude AI For Teachers",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
-      "headline": "Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
-      "headline": "Cabinet Approves ₹1.28 Lakh Cr Semicon 2.0 To Boost India’s Chip Ecosystem",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
-      "headline": "Astronomers Detect the First True Sugar in Interstellar Space",
-      "sent_at": "2026-07-15T12:31:22.995029+00:00"
-    },
-    {
       "headline": "US and Iran escalate tensions",
       "sent_at": "2026-07-16T00:31:23.117170+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "NASA captures Black Sea turning turquoise",
       "sent_at": "2026-07-16T00:31:23.117170+00:00"
+    },
+    {
+      "headline": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
+    },
+    {
+      "headline": "Google ordered to open Android and Search to rivals in Europe",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
+    },
+    {
+      "headline": "OpenAI's GPT-5.6 finally set for public release after delays",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
+    },
+    {
+      "headline": "Aurum PropTech To Acquire Housing.com For ₹458 Cr",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
+    },
+    {
+      "headline": "India’s first privately developed orbital-class rocket Vikram-1 set for July 18 lift-off",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
+    },
+    {
+      "headline": "SpaceX's 13th Starship flight: How to watch the test live",
+      "sent_at": "2026-07-16T12:31:24.625064+00:00"
     }
   ]
 }

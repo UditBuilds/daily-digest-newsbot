@@ -4876,6 +4876,59 @@
         "YourStory"
       ],
       "sent_at": "2026-07-16T06:01:23+05:30"
+    },
+    {
+      "date": "2026-07-16",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta invests $15B in paid social media features, and India's space program is set to launch its first privately developed orbital-class rocket, Vikram-1.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Protests in Ukraine's cities against Zelensky's removal of defence minister"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google ordered to open Android and Search to rivals in Europe"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.6 finally set for public release after delays"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Aurum PropTech To Acquire Housing.com For ₹458 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India’s first privately developed orbital-class rocket Vikram-1 set for July 18 lift-off"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "SpaceX's 13th Starship flight: How to watch the test live"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-16T18:01:24+05:30"
     }
   ]
 }
