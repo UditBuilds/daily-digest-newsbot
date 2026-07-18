@@ -5089,6 +5089,60 @@
         "YourStory"
       ],
       "sent_at": "2026-07-18T06:01:08+05:30"
+    },
+    {
+      "date": "2026-07-18",
+      "slot": "evening",
+      "theme": "India's private space revolution gains momentum with Skyroot's historic orbital rocket launch, while geopolitical tensions rise with the US, China, and India navigating complex relationships.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Weather weapons: why the atmosphere could become the next geopolitical battleground"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Merges ChatGPT and Codex into One App After GPT-5.6 Launch, Introduces New “Work” Mode"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Skyroot Creates History With India’s First Private Orbital Rocket Launch"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India’s first private orbital rocket Vikram-1 set for lift-off"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Why Space Experts Are Calling Vikram-1 The Ultimate 'Cab To Orbit'"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-18T18:01:10+05:30"
     }
   ]
 }
