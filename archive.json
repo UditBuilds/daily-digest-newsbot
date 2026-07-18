@@ -5039,6 +5039,56 @@
         "YourStory"
       ],
       "sent_at": "2026-07-17T18:01:13+05:30"
+    },
+    {
+      "date": "2026-07-18",
+      "slot": "morning",
+      "theme": "Trump's Canada tariffs, OpenAI's GPT-5.6 release, and India's IPO market",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump blames Canada for wildfire smoke, says he’ll add cost to tariffs"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.6 finally set for public release after delays"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "MakeMyTrip files confidentially for India IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "EC can delete doubtful voters, cannot decide citizenship: Supreme Court"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Webb telescope discovers a hidden world in a new way"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-18T06:01:08+05:30"
     }
   ]
 }
