@@ -5143,6 +5143,56 @@
         "YourStory"
       ],
       "sent_at": "2026-07-18T18:01:10+05:30"
+    },
+    {
+      "date": "2026-07-19",
+      "slot": "morning",
+      "theme": "Iran's attack on a US base in Jordan kills two American troops, escalating tensions between the two nations.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "2 US troops dead, 1 missing after Iran attacks base in Jordan"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5.6 Sol, Terra, and Luna are here"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zoomies raises ₹5 crore to scale clean-label pet food play in India"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Despite 35 minute delay Vikram-1 keeps date with Indian space history with Mission Aagaman success"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Vikram-1 rocket successfully launches into low Earth orbit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-19T06:01:08+05:30"
     }
   ]
 }
