@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump blames Canada for wildfire smoke, says he’ll add cost to tariffs",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
-      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
-      "headline": "OpenAI's GPT-5.6 finally set for public release after delays",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
-      "headline": "MakeMyTrip files confidentially for India IPO",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
-      "headline": "EC can delete doubtful voters, cannot decide citizenship: Supreme Court",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
-      "headline": "Webb telescope discovers a hidden world in a new way",
-      "sent_at": "2026-07-18T00:31:08.969994+00:00"
-    },
-    {
       "headline": "Weather weapons: why the atmosphere could become the next geopolitical battleground",
       "sent_at": "2026-07-18T12:31:10.498734+00:00"
     },
@@ -71,6 +47,26 @@
     {
       "headline": "Vikram-1 rocket successfully launches into low Earth orbit",
       "sent_at": "2026-07-19T00:31:08.193087+00:00"
+    },
+    {
+      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "sent_at": "2026-07-19T12:31:08.776626+00:00"
+    },
+    {
+      "headline": "China rebuts AI distillation claims as Kimi K3 launch intensifies tech rivalry",
+      "sent_at": "2026-07-19T12:31:08.776626+00:00"
+    },
+    {
+      "headline": "Anthropic’s Claude Fable 5 access plans change from July 20",
+      "sent_at": "2026-07-19T12:31:08.776626+00:00"
+    },
+    {
+      "headline": "Sotrue Crosses ₹100 Crore ARR, Signals Next Phase of India’s D2C Beauty Growth",
+      "sent_at": "2026-07-19T12:31:08.776626+00:00"
+    },
+    {
+      "headline": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift",
+      "sent_at": "2026-07-19T12:31:08.776626+00:00"
     }
   ]
 }

@@ -5193,6 +5193,49 @@
         "YourStory"
       ],
       "sent_at": "2026-07-19T06:01:08+05:30"
+    },
+    {
+      "date": "2026-07-19",
+      "slot": "evening",
+      "theme": "Russia launches a major ballistic missile attack on Ukrainian cities, while the US and Iran exchange strikes, and China makes significant moves in the AI sector.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia launches major ballistic missile attack on Ukrainian cities"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China rebuts AI distillation claims as Kimi K3 launch intensifies tech rivalry"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude Fable 5 access plans change from July 20"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Sotrue Crosses ₹100 Crore ARR, Signals Next Phase of India’s D2C Beauty Growth"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-19T18:01:08+05:30"
     }
   ]
 }
