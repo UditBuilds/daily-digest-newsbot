@@ -5236,6 +5236,55 @@
         "YourStory"
       ],
       "sent_at": "2026-07-19T18:01:08+05:30"
+    },
+    {
+      "date": "2026-07-20",
+      "slot": "evening",
+      "theme": "Israel and Hamas are escalating tensions in the Middle East, while Anthropic and xAI are making significant moves in the AI industry.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hamas’ lead negotiator in ceasefire talks elected as group’s new chief"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China delivers a one-two punch to America’s AI dominance"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude Fable 5 access plans change from July 20"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Plazza Bags $15 Mn To Expand Quick Medicine Delivery Business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tamil Nadu Today: Supreme Court rejects DMK’s plea against TVK leaders over Karur stampede"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-20T18:01:11+05:30"
     }
   ]
 }
