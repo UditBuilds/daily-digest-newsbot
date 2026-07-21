@@ -5285,6 +5285,57 @@
         "YourStory"
       ],
       "sent_at": "2026-07-20T18:01:11+05:30"
+    },
+    {
+      "date": "2026-07-21",
+      "slot": "morning",
+      "theme": "Trump imposes 50% tariffs on Canadian goods, while Anthropic's $1.5B copyright settlement is approved, and Paytm reports a ₹220 Cr profit in Q1.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump Imposes 50% Tariffs on Canadian Goods"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s Landmark $1.5B Copyright Settlement is Approved"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Alibaba Releases Qwen3.8 Max Preview"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Paytm Mints ₹220 Cr Profit in Q1"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indus Water Treaty in Present Form No Longer Exists"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Rooibos is Heading to Space in a First for South African Science"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-21T06:01:11+05:30"
     }
   ]
 }
