@@ -5336,6 +5336,57 @@
         "YourStory"
       ],
       "sent_at": "2026-07-21T06:01:11+05:30"
+    },
+    {
+      "date": "2026-07-21",
+      "slot": "evening",
+      "theme": "Israel escalates in Lebanon while Meta bets $15B that users will pay for social media, and India's foreign policy is put to the test amidst global geopolitical tensions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and China to Hold AI Talks in September"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China Weighs Tighter Export Controls on AI Models and Chips"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's GPT-5.5 vs Claude Opus 4.7: Which is Better?"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IndiaMART Q1: Profit Rises 12% YoY to ₹172 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Delhi HC Orders Immediate Transfer of Sonam Wangchuk to Medanta Hospital"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Material for Future Moon Base Stronger After Months in Space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-21T18:01:08+05:30"
     }
   ]
 }
