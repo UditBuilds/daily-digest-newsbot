@@ -5387,6 +5387,63 @@
         "YourStory"
       ],
       "sent_at": "2026-07-21T18:01:08+05:30"
+    },
+    {
+      "date": "2026-07-22",
+      "slot": "morning",
+      "theme": "Zelensky sacks Ukraine's top army commander, France bans social media for children under 15, and OpenAI launches the ChatGPT for Small Businesses program.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Zelensky sacks Ukraine's top army commander after days of protests"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Introducing the ChatGPT for small business program"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CHOSEN Secures $5 Million Series A to Expand Science-Backed Skincare Portfolio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Sikkim tunnel collapse: 20 bodies recovered from site, state govt order SIT probe"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA Funding Bill Advances Despite Budget Cuts"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-22T06:01:08+05:30"
     }
   ]
 }
