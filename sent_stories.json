@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
-      "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
-      "headline": "Introducing the ChatGPT for small business program",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
-      "headline": "CHOSEN Secures $5 Million Series A to Expand Science-Backed Skincare Portfolio",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
-      "headline": "Sikkim tunnel collapse: 20 bodies recovered from site, state govt order SIT probe",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
-      "headline": "NASA Funding Bill Advances Despite Budget Cuts",
-      "sent_at": "2026-07-22T00:31:08.600181+00:00"
-    },
-    {
       "headline": "Ukrainian drones hit Russian online retailer Wildberries",
       "sent_at": "2026-07-22T12:31:11.408663+00:00"
     },
@@ -43,6 +19,30 @@
     {
       "headline": "Delhi HC seeks govt's response on pleas over alleged brutality during CJP march",
       "sent_at": "2026-07-22T12:31:11.408663+00:00"
+    },
+    {
+      "headline": "US unveils civilian nuclear deal with Saudi Arabia",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "Amazon Cuts Jobs in Artificial General Intelligence Unit",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "Clarity Labs raises seed capital as investors bet on simpler, outcome-led personal care",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "Assam floods worsen: 50 dead so far, over 100 reported missing",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "‘Super weird’ object may be space’s first confirmed exomoon",
+      "sent_at": "2026-07-23T00:31:10.052523+00:00"
     }
   ]
 }
