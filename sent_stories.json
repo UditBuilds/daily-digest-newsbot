@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Ukrainian drones hit Russian online retailer Wildberries",
-      "sent_at": "2026-07-22T12:31:11.408663+00:00"
-    },
-    {
-      "headline": "OpenAI says its AI models autonomously hacked another company",
-      "sent_at": "2026-07-22T12:31:11.408663+00:00"
-    },
-    {
-      "headline": "OpenAI launches program to accelerate small business AI adoption",
-      "sent_at": "2026-07-22T12:31:11.408663+00:00"
-    },
-    {
-      "headline": "BlissClub set to raise Rs 250 crore funding at Rs 750 crore valuation",
-      "sent_at": "2026-07-22T12:31:11.408663+00:00"
-    },
-    {
-      "headline": "Delhi HC seeks govt's response on pleas over alleged brutality during CJP march",
-      "sent_at": "2026-07-22T12:31:11.408663+00:00"
-    },
-    {
       "headline": "US unveils civilian nuclear deal with Saudi Arabia",
       "sent_at": "2026-07-23T00:31:10.052523+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "‘Super weird’ object may be space’s first confirmed exomoon",
       "sent_at": "2026-07-23T00:31:10.052523+00:00"
+    },
+    {
+      "headline": "India equities poised to gain from shifting global order",
+      "sent_at": "2026-07-23T12:31:19.145430+00:00"
+    },
+    {
+      "headline": "US Alleges China's Moonshot Used Anthropic To Build Powerful AI",
+      "sent_at": "2026-07-23T12:31:19.145430+00:00"
+    },
+    {
+      "headline": "Anthropic's 'Claude Opus 5' Set for July 24 Launch",
+      "sent_at": "2026-07-23T12:31:19.145430+00:00"
+    },
+    {
+      "headline": "SaaS Company BUSINESSNEXT Raises $40 Mn At $700 Mn Valuation",
+      "sent_at": "2026-07-23T12:31:19.145430+00:00"
+    },
+    {
+      "headline": "CJP protest: Delhi Police eyes passport cancellation of riot accused",
+      "sent_at": "2026-07-23T12:31:19.145430+00:00"
     }
   ]
 }
