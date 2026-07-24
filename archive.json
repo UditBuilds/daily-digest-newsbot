@@ -5642,6 +5642,58 @@
         "YourStory"
       ],
       "sent_at": "2026-07-24T06:01:14+05:30"
+    },
+    {
+      "date": "2026-07-24",
+      "slot": "evening",
+      "theme": "China and Asean eye closer energy cooperation as fighting flares up again in Middle East, while OpenAI launches ChatGPT Voice for desktop application.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China and Asean eye closer energy cooperation as fighting flares up again in Middle East"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI 'Kill Switch' Bill Floated by US House Lawmakers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches ChatGPT Voice for desktop application"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Fractal, Meesho Slide Over 6% Each After Q1 Results"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Up to 10-year jail & Rs 10 crore fine: Cabinet clears tougher anti-paper leak bill"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "White House offers its science blueprint: More AI, less life sciences"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-24T18:01:08+05:30"
     }
   ]
 }
