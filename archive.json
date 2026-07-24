@@ -5591,6 +5591,57 @@
         "YourStory"
       ],
       "sent_at": "2026-07-23T18:01:19+05:30"
+    },
+    {
+      "date": "2026-07-24",
+      "slot": "morning",
+      "theme": "India and the US see significant developments in tech and geopolitics, while new AI models and space investments make headlines.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US unveils fresh tariffs on 60 economies"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AMD takes on Nvidia with Helios AI rack-scale system"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic updates Claude voice mode with more capable models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Swiggy caps foreign ownership at 49.5%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Sonam Wangchuk ends hunger strike"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Private investment in space sector crosses $618 million"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-24T06:01:14+05:30"
     }
   ]
 }

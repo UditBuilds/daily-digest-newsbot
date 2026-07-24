@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US unveils civilian nuclear deal with Saudi Arabia",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
-      "headline": "Amazon Cuts Jobs in Artificial General Intelligence Unit",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
-      "headline": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
-      "headline": "Clarity Labs raises seed capital as investors bet on simpler, outcome-led personal care",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
-      "headline": "Assam floods worsen: 50 dead so far, over 100 reported missing",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
-      "headline": "‘Super weird’ object may be space’s first confirmed exomoon",
-      "sent_at": "2026-07-23T00:31:10.052523+00:00"
-    },
-    {
       "headline": "India equities poised to gain from shifting global order",
       "sent_at": "2026-07-23T12:31:19.145430+00:00"
     },
@@ -43,6 +19,30 @@
     {
       "headline": "CJP protest: Delhi Police eyes passport cancellation of riot accused",
       "sent_at": "2026-07-23T12:31:19.145430+00:00"
+    },
+    {
+      "headline": "US unveils fresh tariffs on 60 economies",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
+    },
+    {
+      "headline": "AMD takes on Nvidia with Helios AI rack-scale system",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
+    },
+    {
+      "headline": "Anthropic updates Claude voice mode with more capable models",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
+    },
+    {
+      "headline": "Swiggy caps foreign ownership at 49.5%",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
+    },
+    {
+      "headline": "Sonam Wangchuk ends hunger strike",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
+    },
+    {
+      "headline": "Private investment in space sector crosses $618 million",
+      "sent_at": "2026-07-24T00:31:14.401187+00:00"
     }
   ]
 }
