@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India equities poised to gain from shifting global order",
-      "sent_at": "2026-07-23T12:31:19.145430+00:00"
-    },
-    {
-      "headline": "US Alleges China's Moonshot Used Anthropic To Build Powerful AI",
-      "sent_at": "2026-07-23T12:31:19.145430+00:00"
-    },
-    {
-      "headline": "Anthropic's 'Claude Opus 5' Set for July 24 Launch",
-      "sent_at": "2026-07-23T12:31:19.145430+00:00"
-    },
-    {
-      "headline": "SaaS Company BUSINESSNEXT Raises $40 Mn At $700 Mn Valuation",
-      "sent_at": "2026-07-23T12:31:19.145430+00:00"
-    },
-    {
-      "headline": "CJP protest: Delhi Police eyes passport cancellation of riot accused",
-      "sent_at": "2026-07-23T12:31:19.145430+00:00"
-    },
-    {
       "headline": "US unveils fresh tariffs on 60 economies",
       "sent_at": "2026-07-24T00:31:14.401187+00:00"
     },
@@ -67,6 +47,30 @@
     {
       "headline": "White House offers its science blueprint: More AI, less life sciences",
       "sent_at": "2026-07-24T12:31:08.504613+00:00"
+    },
+    {
+      "headline": "Saudi Arabia strikes Houthi sites in Yemen",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
+    },
+    {
+      "headline": "Nvidia, Palantir, and Meta warn against premature restrictions on open-weight AI models",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Opus 5, a cheaper AI model for coding and enterprise workflows",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
+    },
+    {
+      "headline": "CHOSEN secures $5 million Series A to expand science-backed skincare portfolio",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
+    },
+    {
+      "headline": "SC agrees to hear PIL against police excesses on Monday",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
+    },
+    {
+      "headline": "Long gap in rocket launches by ISRO upsets scientists",
+      "sent_at": "2026-07-25T00:31:10.600179+00:00"
     }
   ]
 }

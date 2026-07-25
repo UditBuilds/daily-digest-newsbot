@@ -5694,6 +5694,60 @@
         "YourStory"
       ],
       "sent_at": "2026-07-24T18:01:08+05:30"
+    },
+    {
+      "date": "2026-07-25",
+      "slot": "morning",
+      "theme": "Israel escalates conflict in Lebanon while Anthropic launches a new AI model, Claude Opus 5, as a cost-efficient alternative to Fable 5.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi Arabia strikes Houthi sites in Yemen"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia, Palantir, and Meta warn against premature restrictions on open-weight AI models"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Opus 5, a cheaper AI model for coding and enterprise workflows"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CHOSEN secures $5 million Series A to expand science-backed skincare portfolio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC agrees to hear PIL against police excesses on Monday"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Long gap in rocket launches by ISRO upsets scientists"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-25T06:01:10+05:30"
     }
   ]
 }
