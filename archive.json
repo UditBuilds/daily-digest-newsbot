@@ -5794,6 +5794,54 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-07-26T06:01:14+05:30"
+    },
+    {
+      "date": "2026-07-26",
+      "slot": "evening",
+      "theme": "Israeli settlers clash with Palestinians in the West Bank, while China's tech firms show caution in AI development and India's startup scene sees new funding rounds.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "China's DeepSeek pauses new fundraising days after founder Liang Wenfeng's AI remarks go viral"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BlissClub Set To Raise Rs 250 Crore Funding At Rs 750 Crore Valuation"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists just found sugar in space. Here's why that matters"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-26T18:01:05+05:30"
     }
   ]
 }
