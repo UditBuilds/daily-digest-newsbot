@@ -5748,6 +5748,52 @@
         "YourStory"
       ],
       "sent_at": "2026-07-25T06:01:10+05:30"
+    },
+    {
+      "date": "2026-07-26",
+      "slot": "morning",
+      "theme": "Indonesia plans to build a financial centre to rival Singapore, while Anthropic launches Claude Opus 5, a new AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US pauses nightly Iran strikes, as Houthis clash with Saudis"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Claude Opus 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Clarity Labs raises seed capital as investors bet on simpler, outcome-led personal care"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Sarnath joins Unesco World Heritage list"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-07-26T06:01:14+05:30"
     }
   ]
 }
