@@ -5885,6 +5885,55 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-07-27T06:01:17+05:30"
+    },
+    {
+      "date": "2026-07-27",
+      "slot": "evening",
+      "theme": "India's regional primacy is being challenged by Beijing and Washington, while Anthropic releases a more efficient AI model, and India's exam system is set to undergo reforms.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India is losing its regional primacy as Beijing and Washington move in"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bombay Shaving Company claims adjusted EBITDA profitability in FY26, loss narrows 97%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Nilekani to lead high-powered task force on exam reforms: Modi"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-27T18:01:08+05:30"
     }
   ]
 }
