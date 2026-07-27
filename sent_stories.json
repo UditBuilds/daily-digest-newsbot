@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US pauses nightly Iran strikes, as Houthis clash with Saudis",
-      "sent_at": "2026-07-26T00:31:14.706640+00:00"
-    },
-    {
-      "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "sent_at": "2026-07-26T00:31:14.706640+00:00"
-    },
-    {
-      "headline": "Anthropic Launches Claude Opus 5",
-      "sent_at": "2026-07-26T00:31:14.706640+00:00"
-    },
-    {
-      "headline": "Clarity Labs raises seed capital as investors bet on simpler, outcome-led personal care",
-      "sent_at": "2026-07-26T00:31:14.706640+00:00"
-    },
-    {
-      "headline": "Sarnath joins Unesco World Heritage list",
-      "sent_at": "2026-07-26T00:31:14.706640+00:00"
-    },
-    {
       "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "sent_at": "2026-07-26T12:31:05.544165+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "Scientists just found sugar in space. Here's why that matters",
       "sent_at": "2026-07-26T12:31:05.544165+00:00"
+    },
+    {
+      "headline": "US and China's influence in the Middle East",
+      "sent_at": "2026-07-27T00:31:17.725165+00:00"
+    },
+    {
+      "headline": "Hugging Face CEO calls for transparency after OpenAI hack",
+      "sent_at": "2026-07-27T00:31:17.725165+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Opus 5",
+      "sent_at": "2026-07-27T00:31:17.725165+00:00"
+    },
+    {
+      "headline": "Zoomies raises ₹5 crore to scale pet food business",
+      "sent_at": "2026-07-27T00:31:17.725165+00:00"
+    },
+    {
+      "headline": "India saw over 5,000 child adoptions last year",
+      "sent_at": "2026-07-27T00:31:17.725165+00:00"
     }
   ]
 }

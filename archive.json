@@ -5842,6 +5842,49 @@
         "YourStory"
       ],
       "sent_at": "2026-07-26T18:01:05+05:30"
+    },
+    {
+      "date": "2026-07-27",
+      "slot": "morning",
+      "theme": "India and the world witness significant developments in geopolitics, AI, and business, with India's international influence and domestic policies making headlines.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US and China's influence in the Middle East"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Hugging Face CEO calls for transparency after OpenAI hack"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Opus 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zoomies raises ₹5 crore to scale pet food business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India saw over 5,000 child adoptions last year"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News Indian Startups",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-07-27T06:01:17+05:30"
     }
   ]
 }
