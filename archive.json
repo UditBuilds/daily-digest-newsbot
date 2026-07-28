@@ -5934,6 +5934,53 @@
         "YourStory"
       ],
       "sent_at": "2026-07-27T18:01:08+05:30"
+    },
+    {
+      "date": "2026-07-28",
+      "slot": "morning",
+      "theme": "Israel escalates in Lebanon while Meta and Anthropic make significant AI moves.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India Refuses to Take Back Illegal Migrants from UK"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Satya Nadella Says Companies Relying on One AI May Not Survive"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Claude Opus 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "FIFTH SENSE Raises ₹6.3 Crore in Pre-Seed Round"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Supreme Court: No Bail in Digital Arrest Cases"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-28T06:01:08+05:30"
     }
   ]
 }
