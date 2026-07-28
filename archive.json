@@ -5981,6 +5981,54 @@
         "YourStory"
       ],
       "sent_at": "2026-07-28T06:01:08+05:30"
+    },
+    {
+      "date": "2026-07-28",
+      "slot": "evening",
+      "theme": "India's social mobility crisis and US-China tensions escalate, while Anthropic's Claude AI faces privacy concerns and India's D2C market sees significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India’s ‘cockroach’ protests reveal a deeper social mobility crisis"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Perplexity’s Personal Computer turns Windows PCs into AI agents"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude AI shared chats appear in Google searches, raising privacy concerns"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pine Labs Q1: Profit Surges 4X YoY To ₹20 Cr, Revenue Up 20%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-28T18:01:18+05:30"
     }
   ]
 }
