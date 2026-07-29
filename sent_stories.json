@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India Refuses to Take Back Illegal Migrants from UK",
-      "sent_at": "2026-07-28T00:31:08.274989+00:00"
-    },
-    {
-      "headline": "Satya Nadella Says Companies Relying on One AI May Not Survive",
-      "sent_at": "2026-07-28T00:31:08.274989+00:00"
-    },
-    {
-      "headline": "Anthropic Launches Claude Opus 5",
-      "sent_at": "2026-07-28T00:31:08.274989+00:00"
-    },
-    {
-      "headline": "FIFTH SENSE Raises ₹6.3 Crore in Pre-Seed Round",
-      "sent_at": "2026-07-28T00:31:08.274989+00:00"
-    },
-    {
-      "headline": "Supreme Court: No Bail in Digital Arrest Cases",
-      "sent_at": "2026-07-28T00:31:08.274989+00:00"
-    },
-    {
       "headline": "India’s ‘cockroach’ protests reveal a deeper social mobility crisis",
       "sent_at": "2026-07-28T12:31:18.135830+00:00"
     },
@@ -39,6 +19,30 @@
     {
       "headline": "Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge",
       "sent_at": "2026-07-28T12:31:18.135830+00:00"
+    },
+    {
+      "headline": "US and UAE to establish military artificial intelligence task force",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
+    },
+    {
+      "headline": "Cyera agrees to acquire Oasis Security for $1B to safeguard AI agents",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
+    },
+    {
+      "headline": "Anthropic Claude AI Model finds flaws in tough-to-crack encryption algorithms",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
+    },
+    {
+      "headline": "CHOSEN secures $5 million Series A to expand science-backed skincare portfolio",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
+    },
+    {
+      "headline": "Centre may table bill to make deepfakes, digital arrest separate offences",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
+    },
+    {
+      "headline": "SpaceX plan to launch 1 million data center satellites could turn atmosphere into a ‘fire pit,’ scientists say",
+      "sent_at": "2026-07-29T00:31:08.873195+00:00"
     }
   ]
 }
