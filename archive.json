@@ -6085,6 +6085,55 @@
         "YourStory"
       ],
       "sent_at": "2026-07-29T06:01:08+05:30"
+    },
+    {
+      "date": "2026-07-29",
+      "slot": "evening",
+      "theme": "Saudi Arabia joins the US in strikes against Iran-backed militias in Iraq, while Anthropic's Claude Mythos breaks AES encryption, and India's BlackBuck reports a 25% increase in profit.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Pangram raises $9M to detect AI content"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Mythos breaks AES encryption"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BlackBuck reports 25% increase in profit"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Parliament passes anti-paper leak bill"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-29T18:01:17+05:30"
     }
   ]
 }
