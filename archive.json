@@ -6184,6 +6184,52 @@
         "YourStory"
       ],
       "sent_at": "2026-07-30T06:01:21+05:30"
+    },
+    {
+      "date": "2026-07-30",
+      "slot": "evening",
+      "theme": "Trump considers AI controls as the European Union invests €10 billion in AI gigafactories, while India's Swiggy achieves contribution margin breakeven in its quick commerce arm.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "European Union aims for seven AI gigafactories with €10 billion plan"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump considering AI controls after OpenAI hacking incidents"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI GPT Transcribe Unveiled With Smarter AI Audio Tools"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Swiggy’s Instamart Hits Contribution Margin Breakeven In Q1 FY27"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Opposition attacks BJP for India Hockey's saffron jersey"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-30T18:01:18+05:30"
     }
   ]
 }

@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "sent_at": "2026-07-29T12:31:17.812129+00:00"
-    },
-    {
-      "headline": "Pangram raises $9M to detect AI content",
-      "sent_at": "2026-07-29T12:31:17.812129+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Mythos breaks AES encryption",
-      "sent_at": "2026-07-29T12:31:17.812129+00:00"
-    },
-    {
-      "headline": "BlackBuck reports 25% increase in profit",
-      "sent_at": "2026-07-29T12:31:17.812129+00:00"
-    },
-    {
-      "headline": "Parliament passes anti-paper leak bill",
-      "sent_at": "2026-07-29T12:31:17.812129+00:00"
-    },
-    {
       "headline": "US Federal Reserve holds interest rates steady despite Warsh’s inflation vow",
       "sent_at": "2026-07-30T00:31:21.502856+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-07-30T00:31:21.502856+00:00"
+    },
+    {
+      "headline": "European Union aims for seven AI gigafactories with €10 billion plan",
+      "sent_at": "2026-07-30T12:31:18.938006+00:00"
+    },
+    {
+      "headline": "Trump considering AI controls after OpenAI hacking incidents",
+      "sent_at": "2026-07-30T12:31:18.938006+00:00"
+    },
+    {
+      "headline": "OpenAI GPT Transcribe Unveiled With Smarter AI Audio Tools",
+      "sent_at": "2026-07-30T12:31:18.938006+00:00"
+    },
+    {
+      "headline": "Swiggy’s Instamart Hits Contribution Margin Breakeven In Q1 FY27",
+      "sent_at": "2026-07-30T12:31:18.938006+00:00"
+    },
+    {
+      "headline": "Opposition attacks BJP for India Hockey's saffron jersey",
+      "sent_at": "2026-07-30T12:31:18.938006+00:00"
     }
   ]
 }
