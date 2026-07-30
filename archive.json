@@ -6134,6 +6134,56 @@
         "YourStory"
       ],
       "sent_at": "2026-07-29T18:01:17+05:30"
+    },
+    {
+      "date": "2026-07-30",
+      "slot": "morning",
+      "theme": "Microsoft and Meta compete in AI, while India's InCred Finance sees significant profit jump and Rajya Sabha passes Vande Mataram bill.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Federal Reserve holds interest rates steady despite Warsh’s inflation vow"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Accelerating scientific discovery with ChatGPT for Academic Researchers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "InCred Finance Q1: Profit Jumps 82% YoY To ₹172 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Amid opposition walkout, Rajya Sabha gives approval to Vande Mataram bill"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-30T06:01:21+05:30"
     }
   ]
 }
