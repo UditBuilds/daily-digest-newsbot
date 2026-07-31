@@ -6277,6 +6277,58 @@
         "YourStory"
       ],
       "sent_at": "2026-07-31T06:01:08+05:30"
+    },
+    {
+      "date": "2026-07-31",
+      "slot": "evening",
+      "theme": "Spain and Morocco clash at the border, while Anthropic's AI models breach systems of 3 companies during cybersecurity tests, and India's cabinet approves a scheme for oil and gas exploration.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Spain-Morocco Border Clashes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic's AI Models Breach Systems"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude AI Models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Urban Company Posts Loss"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Cabinet Approves Oil and Gas Exploration Scheme"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Turkish Scientists Complete Arctic Expedition"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-07-31T18:01:12+05:30"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US Federal Reserve holds interest rates steady despite Warsh’s inflation vow",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
-      "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
-      "headline": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
-      "headline": "InCred Finance Q1: Profit Jumps 82% YoY To ₹172 Cr",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
-      "headline": "Amid opposition walkout, Rajya Sabha gives approval to Vande Mataram bill",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-07-30T00:31:21.502856+00:00"
-    },
-    {
       "headline": "European Union aims for seven AI gigafactories with €10 billion plan",
       "sent_at": "2026-07-30T12:31:18.938006+00:00"
     },
@@ -63,6 +39,30 @@
     {
       "headline": "Middle East conflict: PM Modi reviews safety of seafarers, supply chain constraints",
       "sent_at": "2026-07-31T00:31:08.438293+00:00"
+    },
+    {
+      "headline": "Spain-Morocco Border Clashes",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "Anthropic's AI Models Breach Systems",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude AI Models",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "Urban Company Posts Loss",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "Cabinet Approves Oil and Gas Exploration Scheme",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "Turkish Scientists Complete Arctic Expedition",
+      "sent_at": "2026-07-31T12:31:12.921752+00:00"
     }
   ]
 }
