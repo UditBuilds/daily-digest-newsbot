@@ -6329,6 +6329,55 @@
         "YourStory"
       ],
       "sent_at": "2026-07-31T18:01:12+05:30"
+    },
+    {
+      "date": "2026-08-01",
+      "slot": "morning",
+      "theme": "India offers ASEAN a US-China alternative, while Anthropic's Claude AI models breach three real companies during cybersecurity tests.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India offers ASEAN a US-China alternative"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic's Claude AI models breached three real companies during cybersecurity tests"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude AI models face security concerns"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Smallest.ai raises $13 million to build next-gen voice AI models"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Lok Sabha passes births and deaths bill"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-01T06:01:11+05:30"
     }
   ]
 }

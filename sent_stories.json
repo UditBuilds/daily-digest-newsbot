@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "headline": "European Union aims for seven AI gigafactories with €10 billion plan",
-      "sent_at": "2026-07-30T12:31:18.938006+00:00"
-    },
-    {
-      "headline": "Trump considering AI controls after OpenAI hacking incidents",
-      "sent_at": "2026-07-30T12:31:18.938006+00:00"
-    },
-    {
-      "headline": "OpenAI GPT Transcribe Unveiled With Smarter AI Audio Tools",
-      "sent_at": "2026-07-30T12:31:18.938006+00:00"
-    },
-    {
-      "headline": "Swiggy’s Instamart Hits Contribution Margin Breakeven In Q1 FY27",
-      "sent_at": "2026-07-30T12:31:18.938006+00:00"
-    },
-    {
-      "headline": "Opposition attacks BJP for India Hockey's saffron jersey",
-      "sent_at": "2026-07-30T12:31:18.938006+00:00"
-    },
-    {
-      "headline": "Uefa to boycott World Cup in protest of Fifa’s private investors plan",
-      "sent_at": "2026-07-31T00:31:08.438293+00:00"
-    },
-    {
-      "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "sent_at": "2026-07-31T00:31:08.438293+00:00"
-    },
-    {
-      "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "sent_at": "2026-07-31T00:31:08.438293+00:00"
-    },
-    {
-      "headline": "SEBI Rolls Out ‘GARUDA’ Framework To Expedite Fund Launches",
-      "sent_at": "2026-07-31T00:31:08.438293+00:00"
-    },
-    {
-      "headline": "Middle East conflict: PM Modi reviews safety of seafarers, supply chain constraints",
-      "sent_at": "2026-07-31T00:31:08.438293+00:00"
-    },
-    {
       "headline": "Spain-Morocco Border Clashes",
       "sent_at": "2026-07-31T12:31:12.921752+00:00"
     },
@@ -63,6 +23,30 @@
     {
       "headline": "Turkish Scientists Complete Arctic Expedition",
       "sent_at": "2026-07-31T12:31:12.921752+00:00"
+    },
+    {
+      "headline": "India offers ASEAN a US-China alternative",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude AI models breached three real companies during cybersecurity tests",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude AI models face security concerns",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
+    },
+    {
+      "headline": "Smallest.ai raises $13 million to build next-gen voice AI models",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
+    },
+    {
+      "headline": "Lok Sabha passes births and deaths bill",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-08-01T00:31:11.534656+00:00"
     }
   ]
 }
