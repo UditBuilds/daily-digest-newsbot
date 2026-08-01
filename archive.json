@@ -6378,6 +6378,49 @@
         "YourStory"
       ],
       "sent_at": "2026-08-01T06:01:11+05:30"
+    },
+    {
+      "date": "2026-08-01",
+      "slot": "evening",
+      "theme": "Tensions rise in geopolitics as UEFA loses confidence in FIFA's Infantino, while Anthropic releases its safest AI model yet, Claude Opus 5, and India's UPI transactions see a 4% monthly increase.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UEFA Loses Confidence in FIFA's Infantino"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic Releases Claude Opus 5"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Opus 5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "UPI Transactions Rise 4%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Kulgam Terror Attack"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-01T18:01:17+05:30"
     }
   ]
 }
