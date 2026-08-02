@@ -6469,6 +6469,46 @@
         "YourStory"
       ],
       "sent_at": "2026-08-02T06:01:20+05:30"
+    },
+    {
+      "date": "2026-08-02",
+      "slot": "evening",
+      "theme": "Trump cancels Iran strikes, OpenAI announces new AI model, and India develops a 350kg turbojet engine.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "EU enforces world’s toughest AI law"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Startup eyes AI search boom; VC slowdown tests startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Built for tomorrow's wars: How India's 350kg turbojet reshapes warfare"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-02T18:01:13+05:30"
     }
   ]
 }
