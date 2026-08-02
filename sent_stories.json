@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India offers ASEAN a US-China alternative",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude AI models breached three real companies during cybersecurity tests",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude AI models face security concerns",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
-      "headline": "Smallest.ai raises $13 million to build next-gen voice AI models",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
-      "headline": "Lok Sabha passes births and deaths bill",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-08-01T00:31:11.534656+00:00"
-    },
-    {
       "headline": "UEFA Loses Confidence in FIFA's Infantino",
       "sent_at": "2026-08-01T12:31:17.885430+00:00"
     },
@@ -43,6 +19,30 @@
     {
       "headline": "Kulgam Terror Attack",
       "sent_at": "2026-08-01T12:31:17.885430+00:00"
+    },
+    {
+      "headline": "Iran’s foreign minister warns of any ‘adventurous action’ by US",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
+    },
+    {
+      "headline": "Ministry of Ayush and IndiaAI Join Hands to Harness Artificial Intelligence for Future of Traditional Medicine",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
+    },
+    {
+      "headline": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
+    },
+    {
+      "headline": "Zepto Confirms IPO Pause, Plans Pre-IPO Fundraise",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
+    },
+    {
+      "headline": "India win seven gold medals to cap record-breaking boxing campaign in CWG",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
+    },
+    {
+      "headline": "How India and the US are Shaping the Future Through Science, Technology and Space Cooperation",
+      "sent_at": "2026-08-02T00:31:20.390691+00:00"
     }
   ]
 }

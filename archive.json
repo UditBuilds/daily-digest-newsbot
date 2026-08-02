@@ -6421,6 +6421,54 @@
         "YourStory"
       ],
       "sent_at": "2026-08-01T18:01:17+05:30"
+    },
+    {
+      "date": "2026-08-02",
+      "slot": "morning",
+      "theme": "Iran warns the US against any \"adventurous action\" while India sees a record-breaking boxing campaign in the Commonwealth Games.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran’s foreign minister warns of any ‘adventurous action’ by US"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Ministry of Ayush and IndiaAI Join Hands to Harness Artificial Intelligence for Future of Traditional Medicine"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Ten advances in mathematics and theoretical computer science - OpenAI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zepto Confirms IPO Pause, Plans Pre-IPO Fundraise"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India win seven gold medals to cap record-breaking boxing campaign in CWG"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "How India and the US are Shaping the Future Through Science, Technology and Space Cooperation"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-02T06:01:20+05:30"
     }
   ]
 }
