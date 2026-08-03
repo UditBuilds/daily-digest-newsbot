@@ -6549,6 +6549,56 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-03T06:01:23+05:30"
+    },
+    {
+      "date": "2026-08-03",
+      "slot": "evening",
+      "theme": "China and the US are escalating their tech rivalry, while India's edtech and EV sectors see significant investments and growth.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China tightens chip-design protection and clarifies rights to spur innovation"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Alibaba takes another swipe at America’s AI supremacy"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IPO-Bound Imarticus Learning Acquires Singapore’s BELLS Institute For ₹800 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "BJP retains Manjalpur seat as Satish Patel defeats Congress by over 30,000 votes"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-03T18:01:10+05:30"
     }
   ]
 }
