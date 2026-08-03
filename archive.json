@@ -6509,6 +6509,46 @@
         "YourStory"
       ],
       "sent_at": "2026-08-02T18:01:13+05:30"
+    },
+    {
+      "date": "2026-08-03",
+      "slot": "morning",
+      "theme": "Trump calls off strikes against Iran, while India's crude oil imports from Russia surge to a record high.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says new talks with Iran to begin on Monday after calling off strikes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Russian crude imports in July highest since Ukraine war"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "39 medals, top-five finish: India ends CWG 2026 with several historic firsts"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-08-03T06:01:23+05:30"
     }
   ]
 }
