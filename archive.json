@@ -6647,6 +6647,51 @@
         "YourStory"
       ],
       "sent_at": "2026-08-04T06:01:13+05:30"
+    },
+    {
+      "date": "2026-08-04",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while India's tech industry is seeing significant developments in AI and ecommerce.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan sounds alarm over China’s expanding Pacific footprint, vows defence boost"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "EON wants to move the data superhighway from ocean fiber to space lasers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic expands India presence with in-country Claude inference, strengthens enterprise partnerships"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Nykaa To Acquire Majority Stake In D2C Skincare Brand Aminu"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Will do whatever is necessary': India after Pak deploys 250 Chinese Howitzers"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-04T18:01:13+05:30"
     }
   ]
 }
