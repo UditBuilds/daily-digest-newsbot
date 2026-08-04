@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "sent_at": "2026-08-02T12:31:13.087966+00:00"
-    },
-    {
-      "headline": "EU enforces world’s toughest AI law",
-      "sent_at": "2026-08-02T12:31:13.087966+00:00"
-    },
-    {
-      "headline": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
-      "sent_at": "2026-08-02T12:31:13.087966+00:00"
-    },
-    {
-      "headline": "Startup eyes AI search boom; VC slowdown tests startups",
-      "sent_at": "2026-08-02T12:31:13.087966+00:00"
-    },
-    {
-      "headline": "Built for tomorrow's wars: How India's 350kg turbojet reshapes warfare",
-      "sent_at": "2026-08-02T12:31:13.087966+00:00"
-    },
-    {
       "headline": "Trump says new talks with Iran to begin on Monday after calling off strikes",
       "sent_at": "2026-08-03T00:31:23.365693+00:00"
     },
@@ -63,6 +43,30 @@
     {
       "headline": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater",
       "sent_at": "2026-08-03T12:31:10.052097+00:00"
+    },
+    {
+      "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
+    },
+    {
+      "headline": "Congress’ favorite AI tool? ChatGPT",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
+    },
+    {
+      "headline": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
+    },
+    {
+      "headline": "Win For Apple? Govt Moves To Extend Tax Sops For Contract Manufacturers Till 2041",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
+    },
+    {
+      "headline": "SC expands ambit of Sec 498A to cover cruelty in live-ins too",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-08-04T00:31:13.194401+00:00"
     }
   ]
 }

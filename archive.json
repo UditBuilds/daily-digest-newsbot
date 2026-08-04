@@ -6599,6 +6599,54 @@
         "YourStory"
       ],
       "sent_at": "2026-08-03T18:01:10+05:30"
+    },
+    {
+      "date": "2026-08-04",
+      "slot": "morning",
+      "theme": "Trump warns Iran of last chance for nuclear deal, while Anthropic and OpenAI make significant moves in AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Congress’ favorite AI tool? ChatGPT"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Win For Apple? Govt Moves To Extend Tax Sops For Contract Manufacturers Till 2041"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC expands ambit of Sec 498A to cover cruelty in live-ins too"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-04T06:01:13+05:30"
     }
   ]
 }
