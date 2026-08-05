@@ -6744,6 +6744,52 @@
         "YourStory"
       ],
       "sent_at": "2026-08-05T06:01:13+05:30"
+    },
+    {
+      "date": "2026-08-05",
+      "slot": "evening",
+      "theme": "Israel and Russia escalate tensions in the Middle East, while India's startup scene sees significant funding rounds and developments in the electric vehicle sector.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI has released 'Shieldstral,' a small moderation AI capable of analyzing text and images using natural language rules."
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Zuckerberg apologies to Centre: Meta admits 'money paid to boost certain content'"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-05T18:01:16+05:30"
     }
   ]
 }

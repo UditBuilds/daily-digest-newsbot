@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Japan sounds alarm over China’s expanding Pacific footprint, vows defence boost",
-      "sent_at": "2026-08-04T12:31:13.876417+00:00"
-    },
-    {
-      "headline": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "sent_at": "2026-08-04T12:31:13.876417+00:00"
-    },
-    {
-      "headline": "Anthropic expands India presence with in-country Claude inference, strengthens enterprise partnerships",
-      "sent_at": "2026-08-04T12:31:13.876417+00:00"
-    },
-    {
-      "headline": "Nykaa To Acquire Majority Stake In D2C Skincare Brand Aminu",
-      "sent_at": "2026-08-04T12:31:13.876417+00:00"
-    },
-    {
-      "headline": "'Will do whatever is necessary': India after Pak deploys 250 Chinese Howitzers",
-      "sent_at": "2026-08-04T12:31:13.876417+00:00"
-    },
-    {
       "headline": "China Raises $2.22 Billion Through Sovereign Bond Auction",
       "sent_at": "2026-08-05T00:31:13.609331+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "sent_at": "2026-08-05T12:31:16.066288+00:00"
+    },
+    {
+      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "sent_at": "2026-08-05T12:31:16.066288+00:00"
+    },
+    {
+      "headline": "Mistral AI has released 'Shieldstral,' a small moderation AI capable of analyzing text and images using natural language rules.",
+      "sent_at": "2026-08-05T12:31:16.066288+00:00"
+    },
+    {
+      "headline": "EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity",
+      "sent_at": "2026-08-05T12:31:16.066288+00:00"
+    },
+    {
+      "headline": "Zuckerberg apologies to Centre: Meta admits 'money paid to boost certain content'",
+      "sent_at": "2026-08-05T12:31:16.066288+00:00"
     }
   ]
 }
