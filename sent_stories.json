@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
-      "headline": "Congress’ favorite AI tool? ChatGPT",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
-      "headline": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
-      "headline": "Win For Apple? Govt Moves To Extend Tax Sops For Contract Manufacturers Till 2041",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
-      "headline": "SC expands ambit of Sec 498A to cover cruelty in live-ins too",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-08-04T00:31:13.194401+00:00"
-    },
-    {
       "headline": "Japan sounds alarm over China’s expanding Pacific footprint, vows defence boost",
       "sent_at": "2026-08-04T12:31:13.876417+00:00"
     },
@@ -43,6 +19,30 @@
     {
       "headline": "'Will do whatever is necessary': India after Pak deploys 250 Chinese Howitzers",
       "sent_at": "2026-08-04T12:31:13.876417+00:00"
+    },
+    {
+      "headline": "China Raises $2.22 Billion Through Sovereign Bond Auction",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "Anthropic Signs $10 Billion Deal with AI Cloud Startup Volta",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "White House to Meet with Meta, OpenAI, Google, and Anthropic on AI Safety Testing",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "Elevation Capital Offloads Paytm Shares Worth ₹2,038 Crore",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "Government May Allow Fees on UPI Payments Above ₹2,000",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-08-05T00:31:13.609331+00:00"
     }
   ]
 }

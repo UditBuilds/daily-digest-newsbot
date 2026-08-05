@@ -6692,6 +6692,58 @@
         "YourStory"
       ],
       "sent_at": "2026-08-04T18:01:13+05:30"
+    },
+    {
+      "date": "2026-08-05",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta and Anthropic make significant moves in the AI space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China Raises $2.22 Billion Through Sovereign Bond Auction"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic Signs $10 Billion Deal with AI Cloud Startup Volta"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "White House to Meet with Meta, OpenAI, Google, and Anthropic on AI Safety Testing"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Elevation Capital Offloads Paytm Shares Worth ₹2,038 Crore"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Government May Allow Fees on UPI Payments Above ₹2,000"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-05T06:01:13+05:30"
     }
   ]
 }
