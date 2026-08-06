@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China Raises $2.22 Billion Through Sovereign Bond Auction",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "Anthropic Signs $10 Billion Deal with AI Cloud Startup Volta",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "White House to Meet with Meta, OpenAI, Google, and Anthropic on AI Safety Testing",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "Elevation Capital Offloads Paytm Shares Worth ₹2,038 Crore",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "Government May Allow Fees on UPI Payments Above ₹2,000",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-08-05T00:31:13.609331+00:00"
-    },
-    {
-      "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "sent_at": "2026-08-05T12:31:16.066288+00:00"
-    },
-    {
-      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "sent_at": "2026-08-05T12:31:16.066288+00:00"
-    },
-    {
-      "headline": "Mistral AI has released 'Shieldstral,' a small moderation AI capable of analyzing text and images using natural language rules.",
-      "sent_at": "2026-08-05T12:31:16.066288+00:00"
-    },
-    {
-      "headline": "EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity",
-      "sent_at": "2026-08-05T12:31:16.066288+00:00"
-    },
-    {
-      "headline": "Zuckerberg apologies to Centre: Meta admits 'money paid to boost certain content'",
-      "sent_at": "2026-08-05T12:31:16.066288+00:00"
-    },
-    {
       "headline": "Israeli forces raid camp in occupied West Bank",
       "sent_at": "2026-08-06T00:31:10.417877+00:00"
     },
@@ -67,6 +23,30 @@
     {
       "headline": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted",
       "sent_at": "2026-08-06T00:31:10.417877+00:00"
+    },
+    {
+      "headline": "Japan labels China 'greatest strategic challenge'",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Meta Chases OpenAI, Anthropic With New AI Coding App",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Rakuten Mobile Integrates Anthropic’s Claude into Rakuten AI for Business",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Swiggy Bets On Toing, Instamart To Achieve ₹10,000 Cr Adjusted EBITDA By FY31",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Govt-Meta talks focus on algorithms, compliance",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Earth plays peekaboo with NASA's Perseverance rover across space",
+      "sent_at": "2026-08-06T12:31:18.323482+00:00"
     }
   ]
 }

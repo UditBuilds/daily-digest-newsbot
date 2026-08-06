@@ -6841,6 +6841,57 @@
         "YourStory"
       ],
       "sent_at": "2026-08-06T06:01:10+05:30"
+    },
+    {
+      "date": "2026-08-06",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Meta and OpenAI are vying for dominance in the AI space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan labels China 'greatest strategic challenge'"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta Chases OpenAI, Anthropic With New AI Coding App"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Rakuten Mobile Integrates Anthropic’s Claude into Rakuten AI for Business"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Swiggy Bets On Toing, Instamart To Achieve ₹10,000 Cr Adjusted EBITDA By FY31"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Govt-Meta talks focus on algorithms, compliance"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Earth plays peekaboo with NASA's Perseverance rover across space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-06T18:01:18+05:30"
     }
   ]
 }
