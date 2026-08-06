@@ -6790,6 +6790,57 @@
         "YourStory"
       ],
       "sent_at": "2026-08-05T18:01:16+05:30"
+    },
+    {
+      "date": "2026-08-06",
+      "slot": "morning",
+      "theme": "Israel escalates in the West Bank, while Meta and Anthropic compete in AI coding agents.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli forces raid camp in occupied West Bank"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta launches Muse Code, an AI agent for large code bases"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ArisInfra Q1 Profit Surges 4X YoY To ₹20 Cr, Revenue Grows By 37%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Ex-Ethiopian Air chief Tewolde Gebremariam becomes Air India CEO"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-06T06:01:10+05:30"
     }
   ]
 }
