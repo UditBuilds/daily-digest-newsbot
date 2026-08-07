@@ -6942,6 +6942,58 @@
         "YourStory"
       ],
       "sent_at": "2026-08-07T06:01:15+05:30"
+    },
+    {
+      "date": "2026-08-07",
+      "slot": "evening",
+      "theme": "Saudi Arabia, Turkey, and Pakistan sign a joint defense agreement, while OpenAI introduces unlimited text chats for free users and expands GPT-5.6 Luna access.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "ByteDance targets mega AI model nearing Anthropic’s Mythos"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI rolls out GPT-5.6 Sol improvements, expands GPT-5.6 Luna access for free users"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric Q1: Loss Narrows 22% YoY To ₹336 Cr, Revenue Plunges 45%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Saudi Arabia, Pakistan & Turkey sign 'Mecca' pact for mutual defence; India reacts"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "How NASA is powering the Voyager 2 probe from a galaxy away"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-07T18:01:09+05:30"
     }
   ]
 }
