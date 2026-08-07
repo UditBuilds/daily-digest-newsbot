@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Israeli forces raid camp in occupied West Bank",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
-      "headline": "Meta launches Muse Code, an AI agent for large code bases",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
-      "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
-      "headline": "ArisInfra Q1 Profit Surges 4X YoY To ₹20 Cr, Revenue Grows By 37%",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
-      "headline": "Ex-Ethiopian Air chief Tewolde Gebremariam becomes Air India CEO",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
-      "headline": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted",
-      "sent_at": "2026-08-06T00:31:10.417877+00:00"
-    },
-    {
       "headline": "Japan labels China 'greatest strategic challenge'",
       "sent_at": "2026-08-06T12:31:18.323482+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Earth plays peekaboo with NASA's Perseverance rover across space",
       "sent_at": "2026-08-06T12:31:18.323482+00:00"
+    },
+    {
+      "headline": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
+    },
+    {
+      "headline": "OpenAI makes major upgrades for free and paid ChatGPT users",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
+    },
+    {
+      "headline": "GPT-5 turning one as OpenAI shares new Agent Plugins standard",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
+    },
+    {
+      "headline": "Wakefit Q1 Profit Increases 19% YoY To ₹23.4 Cr, Revenue Crosses ₹400 Cr",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
+    },
+    {
+      "headline": "Lok Sabha passes bill for government to make changes to tax rules",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
+    },
+    {
+      "headline": "First views of SpaceX rocket crash site on moon released",
+      "sent_at": "2026-08-07T00:31:15.839633+00:00"
     }
   ]
 }

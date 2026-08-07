@@ -6892,6 +6892,56 @@
         "YourStory"
       ],
       "sent_at": "2026-08-06T18:01:18+05:30"
+    },
+    {
+      "date": "2026-08-07",
+      "slot": "morning",
+      "theme": "Trump signs orders targeting birthright citizenship, while OpenAI makes major upgrades for ChatGPT users and India's Lok Sabha passes a bill to simplify tax rules.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI makes major upgrades for free and paid ChatGPT users"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5 turning one as OpenAI shares new Agent Plugins standard"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Wakefit Q1 Profit Increases 19% YoY To ₹23.4 Cr, Revenue Crosses ₹400 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Lok Sabha passes bill for government to make changes to tax rules"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "First views of SpaceX rocket crash site on moon released"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-07T06:01:15+05:30"
     }
   ]
 }
