@@ -6994,6 +6994,58 @@
         "YourStory"
       ],
       "sent_at": "2026-08-07T18:01:09+05:30"
+    },
+    {
+      "date": "2026-08-08",
+      "slot": "morning",
+      "theme": "India and the US are navigating complex geopolitical landscapes, while AI advancements and Indian business developments continue to shape their respective industries.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India rejects US criticism of FCRA Bill"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI slows Astra model development over security concerns"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI brings GPT-5.6 Moon to free ChatGPT users"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Hero MotoCorp to debut maiden electric motorcycle next year"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India names 27 Arunachal border locations to counter China's renaming attempts"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Earth plays peekaboo with NASA's Perseverance rover"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-08T06:01:11+05:30"
     }
   ]
 }
