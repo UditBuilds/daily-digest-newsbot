@@ -7046,6 +7046,50 @@
         "YourStory"
       ],
       "sent_at": "2026-08-08T06:01:11+05:30"
+    },
+    {
+      "date": "2026-08-08",
+      "slot": "evening",
+      "theme": "Israel escalates conflict in Lebanon while Meta and OpenAI make significant moves in AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump's ex-lawyer Todd Blanche confirmed as US attorney general"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "The next AI race is for data, and China wants more of it"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Delhivery Q1 Profit Sinks 65% YoY To ₹32 Cr Despite A 28% Uptick In Revenue"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US proposes ending 60-day grace period for H-1B workers after job loss"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-08T18:01:09+05:30"
     }
   ]
 }
