@@ -7090,6 +7090,54 @@
         "YourStory"
       ],
       "sent_at": "2026-08-08T18:01:09+05:30"
+    },
+    {
+      "date": "2026-08-09",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while OpenAI slows the release of its Astra model due to security concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Ukraine denies targeting Bulgaria as drone explodes near pipeline"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S."
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI slows release of Astra model citing cyber capabilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart Minutes enters premium grocery segment with Pykd"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "IAF Wing Commander ‘honey-trapped’ by Pak operatives, charged for alleged info leak"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-09T06:01:12+05:30"
     }
   ]
 }

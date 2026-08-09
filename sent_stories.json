@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "ByteDance targets mega AI model nearing Anthropic’s Mythos",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "OpenAI rolls out GPT-5.6 Sol improvements, expands GPT-5.6 Luna access for free users",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "Ola Electric Q1: Loss Narrows 22% YoY To ₹336 Cr, Revenue Plunges 45%",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "Saudi Arabia, Pakistan & Turkey sign 'Mecca' pact for mutual defence; India reacts",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "How NASA is powering the Voyager 2 probe from a galaxy away",
-      "sent_at": "2026-08-07T12:31:09.868603+00:00"
-    },
-    {
-      "headline": "India rejects US criticism of FCRA Bill",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
-      "headline": "OpenAI slows Astra model development over security concerns",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
-      "headline": "OpenAI brings GPT-5.6 Moon to free ChatGPT users",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
-      "headline": "Hero MotoCorp to debut maiden electric motorcycle next year",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
-      "headline": "India names 27 Arunachal border locations to counter China's renaming attempts",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
-      "headline": "Earth plays peekaboo with NASA's Perseverance rover",
-      "sent_at": "2026-08-08T00:31:11.989467+00:00"
-    },
-    {
       "headline": "Trump's ex-lawyer Todd Blanche confirmed as US attorney general",
       "sent_at": "2026-08-08T12:31:09.127449+00:00"
     },
@@ -67,6 +19,30 @@
     {
       "headline": "US proposes ending 60-day grace period for H-1B workers after job loss",
       "sent_at": "2026-08-08T12:31:09.127449+00:00"
+    },
+    {
+      "headline": "Ukraine denies targeting Bulgaria as drone explodes near pipeline",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "OpenAI slows release of Astra model citing cyber capabilities",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "Flipkart Minutes enters premium grocery segment with Pykd",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "IAF Wing Commander ‘honey-trapped’ by Pak operatives, charged for alleged info leak",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "No significant science news today",
+      "sent_at": "2026-08-09T00:31:12.053870+00:00"
     }
   ]
 }
