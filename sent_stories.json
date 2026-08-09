@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump's ex-lawyer Todd Blanche confirmed as US attorney general",
-      "sent_at": "2026-08-08T12:31:09.127449+00:00"
-    },
-    {
-      "headline": "The next AI race is for data, and China wants more of it",
-      "sent_at": "2026-08-08T12:31:09.127449+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier",
-      "sent_at": "2026-08-08T12:31:09.127449+00:00"
-    },
-    {
-      "headline": "Delhivery Q1 Profit Sinks 65% YoY To ₹32 Cr Despite A 28% Uptick In Revenue",
-      "sent_at": "2026-08-08T12:31:09.127449+00:00"
-    },
-    {
-      "headline": "US proposes ending 60-day grace period for H-1B workers after job loss",
-      "sent_at": "2026-08-08T12:31:09.127449+00:00"
-    },
-    {
       "headline": "Ukraine denies targeting Bulgaria as drone explodes near pipeline",
       "sent_at": "2026-08-09T00:31:12.053870+00:00"
     },
@@ -43,6 +23,30 @@
     {
       "headline": "No significant science news today",
       "sent_at": "2026-08-09T00:31:12.053870+00:00"
+    },
+    {
+      "headline": "Israel Rejects Trump's 15-Point Plan for Gaza",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
+    },
+    {
+      "headline": "AI Detectors Create Era of Distrust",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
+    },
+    {
+      "headline": "Grok Imagine Image 2.0 Released",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
+    },
+    {
+      "headline": "UPI to Remain Free for Users",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
+    },
+    {
+      "headline": "India and Russia Consider Rail Link",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
+    },
+    {
+      "headline": "Shenzhou-23 Crew Advances Space Science Experiments",
+      "sent_at": "2026-08-09T12:31:13.067105+00:00"
     }
   ]
 }
