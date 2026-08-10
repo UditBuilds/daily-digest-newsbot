@@ -7232,6 +7232,52 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-10T06:01:06+05:30"
+    },
+    {
+      "date": "2026-08-10",
+      "slot": "evening",
+      "theme": "Israel escalates conflict in Lebanon, while OpenAI prepares to launch GPT-6, and India's startup ecosystem sees significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "At least 13 killed in Ukrainian drone strike deep into Russia"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI to Launch GPT-6 with 10 Trillion Parameters in August"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "AUM Ventures Marks First Close Of ₹750 Cr Deeptech-Focused Fund At ₹225 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "For India, the Mecca pact is a setback. For China, it's a warning"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-10T18:01:18+05:30"
     }
   ]
 }
