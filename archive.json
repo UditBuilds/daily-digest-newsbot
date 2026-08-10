@@ -7187,6 +7187,51 @@
         "YourStory"
       ],
       "sent_at": "2026-08-09T18:01:13+05:30"
+    },
+    {
+      "date": "2026-08-10",
+      "slot": "morning",
+      "theme": "Israel and Lebanon escalate tensions while Meta invests in social media.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic is turning Claude Code’s auto mode on by default"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic is turning Claude Code’s auto mode on by default"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "No significant India business news today"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-08-10T06:01:06+05:30"
     }
   ]
 }
