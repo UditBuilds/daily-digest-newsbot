@@ -7278,6 +7278,55 @@
         "YourStory"
       ],
       "sent_at": "2026-08-10T18:01:18+05:30"
+    },
+    {
+      "date": "2026-08-11",
+      "slot": "morning",
+      "theme": "Russia's Supreme Court bars anti-war party from parliamentary election, while OpenAI launches a new cyber model and Meta introduces a new AI model, Glimmer.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia bars anti-war party from parliamentary election"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI launches a new cyber model"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta returns to open source with Muse Glimmer"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Apple Pay likely to launch in India by October"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Parliament clears taxation bill"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-11T06:01:13+05:30"
     }
   ]
 }

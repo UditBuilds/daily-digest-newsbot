@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
-      "headline": "Anthropic is turning Claude Code’s auto mode on by default",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
-      "headline": "Anthropic is turning Claude Code’s auto mode on by default",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
-      "headline": "No significant India business news today",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
-      "headline": "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
-      "headline": "No significant science news today",
-      "sent_at": "2026-08-10T00:31:06.564213+00:00"
-    },
-    {
       "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "sent_at": "2026-08-10T12:31:18.891523+00:00"
     },
@@ -43,6 +19,26 @@
     {
       "headline": "For India, the Mecca pact is a setback. For China, it's a warning",
       "sent_at": "2026-08-10T12:31:18.891523+00:00"
+    },
+    {
+      "headline": "Russia bars anti-war party from parliamentary election",
+      "sent_at": "2026-08-11T00:31:13.299271+00:00"
+    },
+    {
+      "headline": "OpenAI launches a new cyber model",
+      "sent_at": "2026-08-11T00:31:13.299271+00:00"
+    },
+    {
+      "headline": "Meta returns to open source with Muse Glimmer",
+      "sent_at": "2026-08-11T00:31:13.299271+00:00"
+    },
+    {
+      "headline": "Apple Pay likely to launch in India by October",
+      "sent_at": "2026-08-11T00:31:13.299271+00:00"
+    },
+    {
+      "headline": "Parliament clears taxation bill",
+      "sent_at": "2026-08-11T00:31:13.299271+00:00"
     }
   ]
 }
