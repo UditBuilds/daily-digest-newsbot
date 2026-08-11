@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "sent_at": "2026-08-10T12:31:18.891523+00:00"
-    },
-    {
-      "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "sent_at": "2026-08-10T12:31:18.891523+00:00"
-    },
-    {
-      "headline": "OpenAI to Launch GPT-6 with 10 Trillion Parameters in August",
-      "sent_at": "2026-08-10T12:31:18.891523+00:00"
-    },
-    {
-      "headline": "AUM Ventures Marks First Close Of ₹750 Cr Deeptech-Focused Fund At ₹225 Cr",
-      "sent_at": "2026-08-10T12:31:18.891523+00:00"
-    },
-    {
-      "headline": "For India, the Mecca pact is a setback. For China, it's a warning",
-      "sent_at": "2026-08-10T12:31:18.891523+00:00"
-    },
-    {
       "headline": "Russia bars anti-war party from parliamentary election",
       "sent_at": "2026-08-11T00:31:13.299271+00:00"
     },
@@ -39,6 +19,30 @@
     {
       "headline": "Parliament clears taxation bill",
       "sent_at": "2026-08-11T00:31:13.299271+00:00"
+    },
+    {
+      "headline": "Syrian court sentences Bashar al-Assad to death in absentia",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "Anthropic introduces invisible watermarks to identify AI content",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude to mark all AI content, including text",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "slice Swings To ₹51 Cr Profit In Q1",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "MEA asserts Arunachal Pradesh's integral status",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "NASA powers Voyager 2 probe from a galaxy away",
+      "sent_at": "2026-08-11T12:31:21.885504+00:00"
     }
   ]
 }

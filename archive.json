@@ -7327,6 +7327,57 @@
         "YourStory"
       ],
       "sent_at": "2026-08-11T06:01:13+05:30"
+    },
+    {
+      "date": "2026-08-11",
+      "slot": "evening",
+      "theme": "Israel and Lebanon are on the brink of war, while Anthropic introduces invisible watermarks to identify AI content.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Syrian court sentences Bashar al-Assad to death in absentia"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic introduces invisible watermarks to identify AI content"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude to mark all AI content, including text"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "slice Swings To ₹51 Cr Profit In Q1"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MEA asserts Arunachal Pradesh's integral status"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA powers Voyager 2 probe from a galaxy away"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-11T18:01:21+05:30"
     }
   ]
 }
