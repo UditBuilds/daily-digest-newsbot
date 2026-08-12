@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russia bars anti-war party from parliamentary election",
-      "sent_at": "2026-08-11T00:31:13.299271+00:00"
-    },
-    {
-      "headline": "OpenAI launches a new cyber model",
-      "sent_at": "2026-08-11T00:31:13.299271+00:00"
-    },
-    {
-      "headline": "Meta returns to open source with Muse Glimmer",
-      "sent_at": "2026-08-11T00:31:13.299271+00:00"
-    },
-    {
-      "headline": "Apple Pay likely to launch in India by October",
-      "sent_at": "2026-08-11T00:31:13.299271+00:00"
-    },
-    {
-      "headline": "Parliament clears taxation bill",
-      "sent_at": "2026-08-11T00:31:13.299271+00:00"
-    },
-    {
       "headline": "Syrian court sentences Bashar al-Assad to death in absentia",
       "sent_at": "2026-08-11T12:31:21.885504+00:00"
     },
@@ -43,6 +23,30 @@
     {
       "headline": "NASA powers Voyager 2 probe from a galaxy away",
       "sent_at": "2026-08-11T12:31:21.885504+00:00"
+    },
+    {
+      "headline": "North Korea launches suspected ballistic missile",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
+    },
+    {
+      "headline": "Google’s Gemini app surges to 1 billion users",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
+    },
+    {
+      "headline": "Anthropic to start watermarking Claude-generated text, images",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
+    },
+    {
+      "headline": "Mobavenue AI Q1: PAT Zooms 94% YoY To ₹12 Cr, Revenue Up 57%",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
+    },
+    {
+      "headline": "Trump, Modi have ‘very good’ ties, will resolve Russian oil tariff row: US official",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
+    },
+    {
+      "headline": "New rocket tech could significantly reduce travel time to Mars, NASA claims",
+      "sent_at": "2026-08-12T00:31:15.193026+00:00"
     }
   ]
 }
