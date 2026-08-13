@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "North Korea launches suspected ballistic missile",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
-      "headline": "Google’s Gemini app surges to 1 billion users",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
-      "headline": "Anthropic to start watermarking Claude-generated text, images",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
-      "headline": "Mobavenue AI Q1: PAT Zooms 94% YoY To ₹12 Cr, Revenue Up 57%",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
-      "headline": "Trump, Modi have ‘very good’ ties, will resolve Russian oil tariff row: US official",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
-      "headline": "New rocket tech could significantly reduce travel time to Mars, NASA claims",
-      "sent_at": "2026-08-12T00:31:15.193026+00:00"
-    },
-    {
       "headline": "Israel and Lebanon Escalate Tensions",
       "sent_at": "2026-08-12T12:31:16.451588+00:00"
     },
@@ -71,6 +47,26 @@
     {
       "headline": "Newly found black hole star is the size of our solar system",
       "sent_at": "2026-08-13T00:31:14.921748+00:00"
+    },
+    {
+      "headline": "Sukhbir Badal attacked with kirpan; cop hurt intervening",
+      "sent_at": "2026-08-13T12:31:15.610308+00:00"
+    },
+    {
+      "headline": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
+      "sent_at": "2026-08-13T12:31:15.610308+00:00"
+    },
+    {
+      "headline": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model",
+      "sent_at": "2026-08-13T12:31:15.610308+00:00"
+    },
+    {
+      "headline": "Bluehill.VC Marks Final Close Of ₹400 Cr Maiden Frontier Tech Fund",
+      "sent_at": "2026-08-13T12:31:15.610308+00:00"
+    },
+    {
+      "headline": "Bengal strips BJP MP Ananta Maharaj of state honour over remarks 'insulting' Netaji",
+      "sent_at": "2026-08-13T12:31:15.610308+00:00"
     }
   ]
 }

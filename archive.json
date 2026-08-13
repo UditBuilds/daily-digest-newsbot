@@ -7531,6 +7531,50 @@
         "YourStory"
       ],
       "sent_at": "2026-08-13T06:01:14+05:30"
+    },
+    {
+      "date": "2026-08-13",
+      "slot": "evening",
+      "theme": "India and global tech companies are making significant moves in AI and business, while geopolitical tensions and national security issues continue to unfold.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Sukhbir Badal attacked with kirpan; cop hurt intervening"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bluehill.VC Marks Final Close Of ₹400 Cr Maiden Frontier Tech Fund"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Bengal strips BJP MP Ananta Maharaj of state honour over remarks 'insulting' Netaji"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-13T18:01:15+05:30"
     }
   ]
 }
