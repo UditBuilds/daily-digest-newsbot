@@ -7480,6 +7480,57 @@
         "YourStory"
       ],
       "sent_at": "2026-08-12T18:01:16+05:30"
+    },
+    {
+      "date": "2026-08-13",
+      "slot": "morning",
+      "theme": "Israel and Lebanon are on the brink of war, while tech giants like Anthropic and OpenAI are making significant moves in the AI space.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Colombia quake death toll hits 265"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s Claude will watermark AI-generated text"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Grok 4.6 Scores 61 On Intelligence Index"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bank Of America To Buy 49.9% Stake In Jio Financial Services’ NBFC Arm"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SEBI Issues Show Cause Notice To Paytm"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Newly found black hole star is the size of our solar system"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-13T06:01:14+05:30"
     }
   ]
 }
