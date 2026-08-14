@@ -7575,6 +7575,60 @@
         "YourStory"
       ],
       "sent_at": "2026-08-13T18:01:15+05:30"
+    },
+    {
+      "date": "2026-08-14",
+      "slot": "morning",
+      "theme": "Israel and Lebanon escalate tensions while OpenAI and Cerebras launch Ultrafast mode for GPT-5.6 Sol.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Poland arrests Russian hired to kill Ukrainian-American citizen"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI introduces ‘Ultrafast’ mode for GPT-5.6 Sol"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI and Cerebras launch Ultrafast mode for GPT-5.6 Sol"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Rapido bags Karnataka cab aggregator licence till 2031"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Six dead, 2 missing after water, debris enter under-construction tunnel in Uttarakhand"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No significant science news today"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Ecommerce Series",
+        "Google News Geopolitics",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-14T06:01:12+05:30"
     }
   ]
 }
