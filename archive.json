@@ -7629,6 +7629,52 @@
         "YourStory"
       ],
       "sent_at": "2026-08-14T06:01:12+05:30"
+    },
+    {
+      "date": "2026-08-14",
+      "slot": "evening",
+      "theme": "US and China escalate tensions while India's tech scene sees significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple trained its own AI model for China with help from Alibaba"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases Ultrafast mode for GPT-5.6 Sol, makes the AI 14 times faster"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Turtlemint Q1: Loss Trims 19% YoY To ₹38 Cr, Operating Revenue Increased 40%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'India can take risks, hit hard': NSA says message to world clear after Op Sindoor"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-14T18:01:19+05:30"
     }
   ]
 }
