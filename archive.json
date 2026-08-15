@@ -7675,6 +7675,57 @@
         "YourStory"
       ],
       "sent_at": "2026-08-14T18:01:19+05:30"
+    },
+    {
+      "date": "2026-08-15",
+      "slot": "morning",
+      "theme": "Trump's claim to declare the Strait of Hormuz as US territory sparks global attention, while India's business landscape sees significant developments in the D2C and ecommerce sectors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump claims he will soon declare Strait of Hormuz a US territory; Iran hits back"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google will now allow users to remove visible watermark from its AI generations"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic to watermark Claude-generated text"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Atomberg To Form JV With Voltas To Manufacture AC Compressors"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Trump claims he will soon declare Strait of Hormuz a US territory; Iran hits back"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Life on Earth may have begun twice"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-15T06:01:18+05:30"
     }
   ]
 }
