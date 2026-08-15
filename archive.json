@@ -7726,6 +7726,53 @@
         "YourStory"
       ],
       "sent_at": "2026-08-15T06:01:18+05:30"
+    },
+    {
+      "date": "2026-08-15",
+      "slot": "evening",
+      "theme": "South Korea's president proposes formal end to Korean war talks with North, while India's PM Modi announces AI skilling of 1 crore youth in one year.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South Korea’s president proposes formal end to Korean war talks with North"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "PM announces AI skilling of 1 crore youth in one year"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-5.6 with a 25x cost reduction for the smallest model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CRED-Backed NewTap Finance’s FY26 Profit More Than Doubles To ₹2.4 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "AI skills, free coaching, sports & jobs: PM Modi's I-Day speech for Gen Z"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Webb telescope 'fix' will change the way we see moons and planets"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-15T18:01:10+05:30"
     }
   ]
 }
