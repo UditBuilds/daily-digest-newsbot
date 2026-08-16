@@ -7815,6 +7815,54 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-16T06:01:10+05:30"
+    },
+    {
+      "date": "2026-08-16",
+      "slot": "evening",
+      "theme": "US-China tech war escalates, India's deeptech sector seeks transparency, and China advances space science experiments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US-China tech war is coming for AI’s plumbing"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple trains its own AI model for China market with Alibaba’s support"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "No significant AI releases today"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Top 20 Funded D2C Startups In Pune (2026)"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Justice Varma saga explained"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Newly found black hole star is the size of our solar system"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-16T18:01:11+05:30"
     }
   ]
 }
