@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity",
-      "sent_at": "2026-08-14T12:31:19.339452+00:00"
-    },
-    {
-      "headline": "Apple trained its own AI model for China with help from Alibaba",
-      "sent_at": "2026-08-14T12:31:19.339452+00:00"
-    },
-    {
-      "headline": "OpenAI releases Ultrafast mode for GPT-5.6 Sol, makes the AI 14 times faster",
-      "sent_at": "2026-08-14T12:31:19.339452+00:00"
-    },
-    {
-      "headline": "Turtlemint Q1: Loss Trims 19% YoY To ₹38 Cr, Operating Revenue Increased 40%",
-      "sent_at": "2026-08-14T12:31:19.339452+00:00"
-    },
-    {
-      "headline": "'India can take risks, hit hard': NSA says message to world clear after Op Sindoor",
-      "sent_at": "2026-08-14T12:31:19.339452+00:00"
-    },
-    {
       "headline": "Trump claims he will soon declare Strait of Hormuz a US territory; Iran hits back",
       "sent_at": "2026-08-15T00:31:18.325360+00:00"
     },
@@ -67,6 +47,26 @@
     {
       "headline": "Webb telescope 'fix' will change the way we see moons and planets",
       "sent_at": "2026-08-15T12:31:10.235800+00:00"
+    },
+    {
+      "headline": "Colombia leader asks Trump to suspend tariffs after deadly quake",
+      "sent_at": "2026-08-16T00:31:10.640788+00:00"
+    },
+    {
+      "headline": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "sent_at": "2026-08-16T00:31:10.640788+00:00"
+    },
+    {
+      "headline": "Anthropic unveils invisible watermarking system to track Claude’s AI text",
+      "sent_at": "2026-08-16T00:31:10.640788+00:00"
+    },
+    {
+      "headline": "Ola Electric unveils three new energy storage products",
+      "sent_at": "2026-08-16T00:31:10.640788+00:00"
+    },
+    {
+      "headline": "India's tolerance should not be mistaken for weakness: NSA Ajit Doval",
+      "sent_at": "2026-08-16T00:31:10.640788+00:00"
     }
   ]
 }

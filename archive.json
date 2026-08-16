@@ -7773,6 +7773,48 @@
         "YourStory"
       ],
       "sent_at": "2026-08-15T18:01:10+05:30"
+    },
+    {
+      "date": "2026-08-16",
+      "slot": "morning",
+      "theme": "Colombia's president asks the US to suspend tariffs, Anthropic shares details on Claude's new watermarks, and Ola Electric unveils new energy storage products.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Colombia leader asks Trump to suspend tariffs after deadly quake"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic shares more details about how Claude’s new watermarks will work"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic unveils invisible watermarking system to track Claude’s AI text"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric unveils three new energy storage products"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India's tolerance should not be mistaken for weakness: NSA Ajit Doval"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-08-16T06:01:10+05:30"
     }
   ]
 }
