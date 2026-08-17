@@ -7863,6 +7863,44 @@
         "YourStory"
       ],
       "sent_at": "2026-08-16T18:01:11+05:30"
+    },
+    {
+      "date": "2026-08-17",
+      "slot": "morning",
+      "theme": "Trump's orders to scale back joint military exercises with South Korea and Japan's efforts to deepen defense ties with Australia and India are making headlines in geopolitics, while in AI, Stripe's potential acquisition of OpenRouter and OpenAI's disbanding of its preparedness team are significant developments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump orders Pentagon to scale back joint military exercises with South Korea"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI reportedly disbanded its preparedness team"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startup IPO Tracker 2026"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "NTA admits errors, orders fresh NET test for 3 subjects"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-08-17T06:04:40+05:30"
     }
   ]
 }

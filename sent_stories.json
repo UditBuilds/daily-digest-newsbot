@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Colombia leader asks Trump to suspend tariffs after deadly quake",
-      "sent_at": "2026-08-16T00:31:10.640788+00:00"
-    },
-    {
-      "headline": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "sent_at": "2026-08-16T00:31:10.640788+00:00"
-    },
-    {
-      "headline": "Anthropic unveils invisible watermarking system to track Claude’s AI text",
-      "sent_at": "2026-08-16T00:31:10.640788+00:00"
-    },
-    {
-      "headline": "Ola Electric unveils three new energy storage products",
-      "sent_at": "2026-08-16T00:31:10.640788+00:00"
-    },
-    {
-      "headline": "India's tolerance should not be mistaken for weakness: NSA Ajit Doval",
-      "sent_at": "2026-08-16T00:31:10.640788+00:00"
-    },
-    {
       "headline": "US-China tech war is coming for AI’s plumbing",
       "sent_at": "2026-08-16T12:31:11.622073+00:00"
     },
@@ -43,6 +23,26 @@
     {
       "headline": "Newly found black hole star is the size of our solar system",
       "sent_at": "2026-08-16T12:31:11.622073+00:00"
+    },
+    {
+      "headline": "Trump orders Pentagon to scale back joint military exercises with South Korea",
+      "sent_at": "2026-08-17T00:34:40.431435+00:00"
+    },
+    {
+      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "sent_at": "2026-08-17T00:34:40.431435+00:00"
+    },
+    {
+      "headline": "OpenAI reportedly disbanded its preparedness team",
+      "sent_at": "2026-08-17T00:34:40.431435+00:00"
+    },
+    {
+      "headline": "Indian Startup IPO Tracker 2026",
+      "sent_at": "2026-08-17T00:34:40.431435+00:00"
+    },
+    {
+      "headline": "NTA admits errors, orders fresh NET test for 3 subjects",
+      "sent_at": "2026-08-17T00:34:40.431435+00:00"
     }
   ]
 }
