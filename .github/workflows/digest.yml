@@ -1,6 +1,11 @@
 name: Daily Digest
 
 on:
+  schedule:
+    # Morning brief at 06:00 IST = 00:30 UTC
+    - cron: '30 0 * * *'
+    # Evening brief at 18:00 IST = 12:30 UTC
+    - cron: '30 12 * * *'
   repository_dispatch:
     types: [morning_digest, evening_digest]
   workflow_dispatch:
@@ -43,6 +48,13 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             echo "slot=${{ github.event.action == 'morning_digest' && 'morning' || 'evening' }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -lt 6 ]; then
+              echo "slot=morning" >> $GITHUB_OUTPUT
+            else
+              echo "slot=evening" >> $GITHUB_OUTPUT
+            fi
           else
             echo "slot=${{ github.event.inputs.slot }}" >> $GITHUB_OUTPUT
           fi

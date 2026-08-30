@@ -1,144 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-05-31",
-      "slot": "morning",
-      "theme": "Russia and Ukraine escalate tensions as a Ukrainian drone strikes the Zaporizhzhia nuclear plant, while OpenAI updates its GPT-5.5 model for improved style and quality.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Russia says Ukraine drone struck Zaporizhzhia nuclear plant"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "SoftBank says it will invest up to €75 billion to build French data centers"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI Updates GPT-5.5 Instant for Style and Quality"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Menhood FY26: Revenue Zooms 75% YoY To ₹41 Cr, Profit Up 20% YoY"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "CDS Gen Chauhan wraps up tenure marked by Op Sindoor, tri-services integration"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Tales of Space, Dino Dilemmas, and Ancestral Restitution"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-05-31T06:01:11+05:30"
-    },
-    {
-      "date": "2026-05-31",
-      "slot": "evening",
-      "theme": "Japan's defence minister rejects China's 'new militarism' label, while India's AI revolution accelerates with billion-dollar investments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Japanese defence minister rejects ‘new militarism’ label from China"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "India’s AI Revolution Accelerates as Billion-Dollar Investments Reshape the Artificial Intelligence Market"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Real Money Gaming’s GST Soup: Beating A Dead Horse"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "CBSE vs students: Board admits flaws after teen hacker exposes website vulnerabilities"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science and space news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-31T18:01:07+05:30"
-    },
-    {
-      "date": "2026-05-31",
-      "slot": "evening",
-      "theme": "India and China are making significant moves in AI and tech, while geopolitics sees the US playing a long game against China on energy dominance.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US quietly plays the long game on energy dominance against China"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "SoftBank plans 75 billion euros of AI investments in France"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Women in India top AI-related skills globally, higher than US: Report"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "UP gets permanent DGP after 4 years, Rajeev Krishna appointed state police chief"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-31T18:12:37+05:30"
-    },
-    {
       "date": "2026-06-01",
       "slot": "morning",
       "theme": "Colombia's presidential election heats up as Cepeda and de la Espriella advance to a runoff, while the US takes steps to halt Nvidia AI chip shipments to Chinese firms.",
@@ -7798,6 +7660,47 @@
         "YourStory"
       ],
       "sent_at": "2026-08-29T13:02:56+05:30"
+    },
+    {
+      "date": "2026-08-30",
+      "slot": "morning",
+      "theme": "China's tech firms sue the US Pentagon, while Sony and Warner sue Anthropic over copyright.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "CXMT joins growing list of Chinese tech firms suing US Pentagon over blacklists"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Sony and Warner sue Anthropic, accuse AI firm of massive copyright theft"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zerodha’s Diversification Clock Is Ticking"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi conferred with Uzbekistan’s highest state honour"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "The Roman Telescope Promises a New Era of Cosmic Exploration"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-08-30T15:36:58+05:30"
     }
   ]
 }
