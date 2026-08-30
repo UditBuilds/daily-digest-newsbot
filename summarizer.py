@@ -188,6 +188,8 @@ def summarize(articles, slot: str = "morning"):
             system_instruction=SYSTEM_PROMPT,
             temperature=0.4,
             max_output_tokens=2000,
+            # Penalise token repetition to break the Trending Topics runaway loop.
+            frequency_penalty=0.6,
             thinking_config=types.ThinkingConfig(thinking_budget=0),
         ),
     )
