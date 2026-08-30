@@ -51,7 +51,7 @@ def build_and_send(slot: str):
     sources = sorted({a["source"] for a in articles})
     sources_line = ", ".join(sources[:8])
 
-    divider = "━" * 20
+    divider = "────────────────────────"
 
     weather_line = get_delhi_weather()
     market_line = get_market_snapshot()
@@ -66,7 +66,8 @@ def build_and_send(slot: str):
         f"{header_emoji} **{title}** — {date_str}\n"
         f"{divider}\n"
         f"{info_block}"
-        f"{body}\n"
+        f"{divider}\n\n"
+        f"{body}\n\n"
         f"{divider}\n"
         f"Sources: {sources_line}"
     )

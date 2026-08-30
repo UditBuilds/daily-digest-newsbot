@@ -1,208 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-05-29",
-      "slot": "evening",
-      "theme": "Trump holds a meeting to make a final determination on the US-Iran draft truce deal, while Anthropic launches Claude Opus 4.8, and Brussels starts a tougher China trade policy.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump holds meeting to make final determination on US-Iran draft truce deal"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic launches Claude Opus 4.8 with stronger coding performance"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Blinkit commands 50% of Indian quick commerce market"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Russia signs military pact deal with Taliban, may benefit India and unsettle Pakistan"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "New Glenn incident at Cape Canaveral Space Force Station"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-29T22:48:17+05:30"
-    },
-    {
-      "date": "2026-05-29",
-      "slot": "morning",
-      "theme": "Brussels fires starting gun on tougher China trade policy, while Anthropic upgrades Claude AI with Opus 4.8.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Brussels fires starting gun on tougher China trade policy, as Beijing vows retaliation"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic upgrades Claude AI with Opus 4.8: What's new in flagship model"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Navi Finserv’s FY26 Profit Plunges 46% To ₹93 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Sidda meets Cong high command in Delhi a day after resignation - what’s on his 'wishlist'"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA Fast Tracks Its Plans For A Moon Base With 3 Launches In 2026"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-29T22:48:59+05:30"
-    },
-    {
-      "date": "2026-05-30",
-      "slot": "morning",
-      "theme": "Trump's Iran deal faces hurdles, Anthropic's AI model gains attention, and India's startup ecosystem sees funding rounds and trademark disputes.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump's Iran Deal Faces Hurdles"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic's AI Model Gains Attention"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Launches Claude Opus 4.8"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "PB Fintech Cofounders Sell Shares"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Karnataka Power Tussle Intensifies"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Blue Origin's Rocket Explosion"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-30T06:01:04+05:30"
-    },
-    {
-      "date": "2026-05-30",
-      "slot": "evening",
-      "theme": "India and the US are taking steps to counter China's Belt and Road Initiative, while Anthropic and OpenAI are releasing new AI models with improved capabilities.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US Counters China's Belt and Road Initiative"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI and Anthropic Release New AI Models"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Releases Claude Opus 4.8"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Indian Startups Raise $52 Million"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India Confined Pakistan Navy to Ports"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "China Begins Study of Space Station Samples"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-05-30T18:01:08+05:30"
-    },
-    {
       "date": "2026-05-31",
       "slot": "morning",
       "theme": "Russia and Ukraine escalate tensions as a Ukrainian drone strikes the Zaporizhzhia nuclear plant, while OpenAI updates its GPT-5.5 model for improved style and quality.",
@@ -7901,6 +7699,105 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-17T06:04:40+05:30"
+    },
+    {
+      "date": "2026-08-29",
+      "slot": "morning",
+      "theme": "China leverages oil as a geopolitical tool and advances in AI video, while OpenAI ends its partnership with SpaceX's Cursor.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China's Xi Jinping weaponizes oil for geopolitical leverage"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US envoy's Kashmir remark strains Pakistan ties"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI ends partnership with SpaceX's Cursor"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic trains Claude AI at $4 hourly cost, outperforming human researchers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India’s D2C startups raise $6 billion, expanding exit options"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Jio Platforms secures Sebi nod for India’s biggest $3.8B IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Elon Musk’s X reports 200,000 China-linked bots targeting US AI debate"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA advances Nancy Grace Roman Space Telescope development"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-29T12:59:29+05:30"
+    },
+    {
+      "date": "2026-08-29",
+      "slot": "morning",
+      "theme": "US envoy's Kashmir remarks strain India-Pakistan ties while OpenAI ends its partnership with Cursor due to SpaceX acquisition.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US envoy’s Kashmir ‘part of India’ remark rattles Pakistan ties"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI to end partnership with SpaceX's Cursor"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India’s D2C startups raise $6 billion as IPOs, acquisitions widen exit options: Tracxn"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Nancy Grace Roman Space Telescope - NASA Science (.gov)"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Indian Express India",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-29T13:02:56+05:30"
     }
   ]
 }

@@ -14,16 +14,17 @@ logger = logging.getLogger(__name__)
 MAX_LEN = 4000
 
 _BOLD_RE = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
+_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 
 def _to_html(text: str) -> str:
-    """Escape HTML-unsafe chars, then turn **bold** markers into <b> tags.
+    """Escape HTML-unsafe chars, turn [text](url) into <a> tags, and **bold** into <b> tags.
 
-    URLs are left as plain text so Telegram auto-detects them and generates
-    a link preview card for the first one in the message.
+    URLs in markdown format [text](url) become clickable hyperlinked text.
     """
     escaped = html.escape(text, quote=False)
-    return _BOLD_RE.sub(r"<b>\1</b>", escaped)
+    bold_converted = _BOLD_RE.sub(r"<b>\1</b>", escaped)
+    return _LINK_RE.sub(r'<a href="\2">\1</a>', bold_converted)
 
 
 def _chunks(text: str):

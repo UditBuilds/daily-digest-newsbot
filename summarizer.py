@@ -107,12 +107,15 @@ def _clean_headline(text: str) -> str:
     return text.strip().lstrip("🔴🟡🔵 ").strip()
 
 
+_IGNORED_BOLD = {"what:", "why:", "next:", "so what:", "impact:", "read more"}
+
+
 def _extract_headlines(digest: str):
     """Pull every **bolded** story headline out of the digest body."""
     headlines = []
     for match in _HEADLINE_RE.findall(digest):
         text = _clean_headline(match)
-        if text:
+        if text and text.lower() not in _IGNORED_BOLD:
             headlines.append(text)
     return headlines
 
@@ -133,7 +136,7 @@ def _extract_stories(digest: str):
         # Detect a category header line (emoji + label, no bold story text).
         upper = line.upper()
         matched_cat = next(
-            (c for c in _KNOWN_CATEGORIES if c in upper and len(line) <= len(c) + 6),
+            (c for c in _KNOWN_CATEGORIES if c in upper and len(line) <= len(c) + 16),
             None,
         )
         if matched_cat and "**" not in line:
@@ -141,7 +144,7 @@ def _extract_stories(digest: str):
             continue
         for h in _HEADLINE_RE.findall(line):
             headline = _clean_headline(h)
-            if headline:
+            if headline and headline.lower() not in _IGNORED_BOLD:
                 stories.append({"category": current, "headline": headline})
     return stories
 
@@ -188,8 +191,6 @@ def summarize(articles, slot: str = "morning"):
             system_instruction=SYSTEM_PROMPT,
             temperature=0.4,
             max_output_tokens=2000,
-            # Penalise token repetition to break the Trending Topics runaway loop.
-            frequency_penalty=0.6,
             thinking_config=types.ThinkingConfig(thinking_budget=0),
         ),
     )

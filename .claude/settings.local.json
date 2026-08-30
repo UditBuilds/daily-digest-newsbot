@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh secret *)",
+      "Bash(gh workflow *)",
+      "Bash(gh run *)",
+      "Bash(python -c \"from dotenv import load_dotenv; load_dotenv\\(\\); import os; from groq import Groq; c=Groq\\(api_key=os.getenv\\('GROQ_API_KEY'\\)\\); r=c.chat.completions.create\\(model='llama-3.3-70b-versatile', messages=[{'role':'user','content':'ping'}], max_tokens=5\\); print\\('OK:', r.choices[0].message.content\\)\")",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" add config.py fetcher.py summarizer.py telegram_sender.py bot.py)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" commit -m \"Add Today's Theme, story ratings, Read-more links, India Business sources\")",
+      "Bash(git push *)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" add config.py)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" commit -m \"Tighten system prompt: ban fillers, sharpen theme, scope geopolitics and india_business\")",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" commit -m \"Add INDIA NEWS category, harden filler ban, scope geopolitics/india_business with examples\")",
+      "Bash(git mv *)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" add render.yaml)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" commit -m \"Add render.yaml for Render worker deployment\")",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(python -c \"from weather import get_delhi_weather; from markets import get_market_snapshot; print\\('WEATHER:', repr\\(get_delhi_weather\\(\\)\\)\\); print\\('MARKETS:', repr\\(get_market_snapshot\\(\\)\\)\\)\")",
+      "Bash(git ls-remote *)",
+      "Bash(git add *)",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" commit -m \"Rewrite README: professional structure, badges, setup guide, workflow tables\")",
+      "Bash(git -c user.email=\"uditkumar7789@gmail.com\" -c user.name=\"Uditkumar05ai\" pull --rebase origin main)"
+    ]
+  }
+}
