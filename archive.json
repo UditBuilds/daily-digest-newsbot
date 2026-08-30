@@ -7701,6 +7701,45 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-30T15:36:58+05:30"
+    },
+    {
+      "date": "2026-08-30",
+      "slot": "evening",
+      "theme": "The US threatens China over Iran oil, while India sets a $5 billion trade target with Uzbekistan.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Will US threats over Iran be the last straw for Beijing?"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "TN to introduce AI, machine learning courses in 50 govt ITIs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Online grocery venture Satvacart shuts down after 12-year run"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Heart of Central Asia': PM sets roadmap, $5bn trade target with Uzbekistan - top quotes"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s Nancy Grace Roman space telescope launches"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-30T18:01:17+05:30"
     }
   ]
 }
