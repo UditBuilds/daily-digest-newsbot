@@ -3,11 +3,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+# Use Gemini Flash for concise, high-volume text generation. Thinking is
+# disabled at each call site to keep scheduled briefs fast and predictable.
+GEMINI_MODEL = "gemini-2.5-flash"
 
 IST_TIMEZONE = "Asia/Kolkata"
 LOOKBACK_HOURS = 12

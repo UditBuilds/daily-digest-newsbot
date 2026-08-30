@@ -1,6 +1,6 @@
 """Breaking-news alerter.
 
-Fetches a small set of fast-moving feeds, asks Groq whether any of the very
+Fetches a small set of fast-moving feeds, asks Gemini whether any of the very
 recent headlines counts as genuinely breaking, and pushes a Telegram alert if
 so. Deduplicates against ``sent_alerts.json`` so we never alert on the same
 headline twice within 24 hours.
@@ -14,9 +14,10 @@ from pathlib import Path
 
 import feedparser
 import pytz
-from groq import Groq
+from google import genai
+from google.genai import types
 
-from config import GROQ_API_KEY, GROQ_MODEL, IST_TIMEZONE
+from config import GEMINI_API_KEY, GEMINI_MODEL, IST_TIMEZONE
 from fetcher import _clean, _entry_time
 from telegram_sender import send_message
 
@@ -102,23 +103,24 @@ def _is_duplicate(headline: str, sent) -> bool:
 
 
 def _detect(articles):
-    client = Groq(api_key=GROQ_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
     user = "\n".join(f"- {a['title']}: {a['summary']}" for a in articles[:40])
-    resp = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user},
-        ],
-        temperature=0.2,
-        max_tokens=400,
-        response_format={"type": "json_object"},
+    resp = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT,
+            temperature=0.2,
+            max_output_tokens=400,
+            response_mime_type="application/json",
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
+        ),
     )
-    return json.loads(resp.choices[0].message.content.strip())
+    return json.loads(resp.text)
 
 
 def main():
-    missing = [k for k in ("GROQ_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID") if not os.getenv(k)]
+    missing = [k for k in ("GEMINI_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID") if not os.getenv(k)]
     if missing:
         raise SystemExit(f"Missing env vars: {', '.join(missing)}")
 

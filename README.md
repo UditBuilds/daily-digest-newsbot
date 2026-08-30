@@ -3,12 +3,12 @@
 > Twice-daily AI-summarized news briefing delivered to Telegram. Free forever.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA%203.3--70B-orange)
+![Gemini](https://img.shields.io/badge/LLM-Gemini%202.5%20Flash-blue)
 ![GitHub Actions](https://img.shields.io/badge/Automation-GitHub%20Actions-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## What it does
-A fully automated personal news agent that fetches from 15+ RSS sources, filters and summarizes using LLaMA 3.3-70B via Groq, and delivers a clean brief to Telegram at 6:00 AM and 6:00 PM IST daily.
+A fully automated personal news agent that fetches from 15+ RSS sources, filters and summarizes using Gemini 2.5 Flash, and delivers a clean brief to Telegram at 6:00 AM and 6:00 PM IST daily.
 
 ## Features
 - 🌍 6 news categories: Geopolitics, AI & Tech, AI Releases, India Business, India News, Science & Space
@@ -26,7 +26,7 @@ A fully automated personal news agent that fetches from 15+ RSS sources, filters
 | Component | Technology |
 |---|---|
 | Language | Python 3.11 |
-| LLM | Groq LLaMA 3.3-70B (free tier) |
+| LLM | Google Gemini 2.5 Flash (free tier) |
 | News Sources | RSS feeds via feedparser |
 | Delivery | Telegram Bot API |
 | Scheduling | cron-job.org → GitHub Actions repository_dispatch |
@@ -71,14 +71,14 @@ pip install -r requirements.txt
 https://api.telegram.org/bot<TOKEN>/getUpdates
 ```
 
-### 3. Get a free Groq API key
-- Sign up at https://console.groq.com
-- Create an API key (free tier: 100k tokens/day)
+### 3. Get a free Gemini API key
+- Open [Google AI Studio](https://aistudio.google.com/app/apikey)
+- Create a Gemini API key and copy it
 
 ### 4. Set up environment variables
 ```bash
 cp .env.example .env
-# Fill in GROQ_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+# Fill in GEMINI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 ```
 
 ### 5. Test locally
@@ -109,7 +109,7 @@ For both jobs:
 daily-digest-newsbot/
 ├── bot.py              # Entrypoint, scheduler, --run-now flag
 ├── fetcher.py          # RSS fetching with SSL-proof requests + feedparser
-├── summarizer.py       # Groq API call + headline extraction + archiving
+├── summarizer.py       # Gemini API call + headline extraction + archiving
 ├── telegram_sender.py  # Async Telegram send with chunking
 ├── config.py           # RSS feeds, system prompt, env vars
 ├── dedup.py            # 24h story deduplication

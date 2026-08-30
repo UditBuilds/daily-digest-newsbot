@@ -4,10 +4,11 @@ import re
 from datetime import datetime
 
 import pytz
-from groq import Groq
+from google import genai
+from google.genai import types
 
 from archiver import save_brief
-from config import GROQ_API_KEY, GROQ_MODEL, IST_TIMEZONE, SYSTEM_PROMPT
+from config import GEMINI_API_KEY, GEMINI_MODEL, IST_TIMEZONE, SYSTEM_PROMPT
 from dedup import add_headlines
 
 logger = logging.getLogger(__name__)
@@ -158,7 +159,7 @@ def _format_articles(articles):
         label = CATEGORY_LABELS.get(cat, cat.upper())
         items = sorted(items, key=lambda a: a.get("source_count", 1), reverse=True)
         lines.append(f"### Category: {label}")
-        # Cap per category to stay under Groq's 12K tokens/min limit. Items are
+        # Cap each category so the prompt remains compact and focused. Items are
         # sorted by source_count so the most-corroborated stories survive.
         for a in items[:6]:
             count = a.get("source_count", 1)
@@ -177,21 +178,22 @@ def summarize(articles, slot: str = "morning"):
     if not articles:
         return None
 
-    client = Groq(api_key=GROQ_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
     user_content = _format_articles(articles)
 
-    resp = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
-        ],
-        temperature=0.4,
-        max_tokens=2000,
-        # Penalise token repetition to break the Trending Topics runaway loop.
-        frequency_penalty=0.6,
+    resp = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=user_content,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT,
+            temperature=0.4,
+            max_output_tokens=2000,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
+        ),
     )
-    digest = resp.choices[0].message.content.strip()
+    digest = (resp.text or "").strip()
+    if not digest:
+        raise RuntimeError("Gemini returned an empty digest")
 
     # Deterministic guard against the Trending Topics repetition hallucination.
     digest = _sanitize_trending(digest)

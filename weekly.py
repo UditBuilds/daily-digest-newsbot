@@ -5,10 +5,11 @@ import os
 from datetime import datetime, timedelta
 
 import pytz
-from groq import Groq
+from google import genai
+from google.genai import types
 
 from archiver import load_recent_briefs
-from config import GROQ_API_KEY, GROQ_MODEL, IST_TIMEZONE
+from config import GEMINI_API_KEY, GEMINI_MODEL, IST_TIMEZONE
 from telegram_sender import send_message
 
 logging.basicConfig(
@@ -64,7 +65,7 @@ def _week_range_label(now):
 
 
 def main():
-    missing = [k for k in ("GROQ_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID") if not os.getenv(k)]
+    missing = [k for k in ("GEMINI_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID") if not os.getenv(k)]
     if missing:
         raise SystemExit(f"Missing env vars: {', '.join(missing)}")
 
@@ -76,17 +77,20 @@ def main():
     total_stories = sum(len(b.get("stories", [])) for b in briefs)
     logger.info("Building weekly roundup from %d briefs (%d stories).", len(briefs), total_stories)
 
-    client = Groq(api_key=GROQ_API_KEY)
-    resp = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": _build_input(briefs)},
-        ],
-        temperature=0.4,
-        max_tokens=2000,
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    resp = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=_build_input(briefs),
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT,
+            temperature=0.4,
+            max_output_tokens=2000,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
+        ),
     )
-    body = resp.choices[0].message.content.strip()
+    body = (resp.text or "").strip()
+    if not body:
+        raise RuntimeError("Gemini returned an empty weekly roundup")
 
     now = datetime.now(IST)
     divider = "━" * 20

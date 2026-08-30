@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py --run-now morning
     envVars:
-      - key: GROQ_API_KEY
+      - key: GEMINI_API_KEY
         sync: false
       - key: TELEGRAM_BOT_TOKEN
         sync: false
@@ -20,7 +20,7 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py --run-now evening
     envVars:
-      - key: GROQ_API_KEY
+      - key: GEMINI_API_KEY
         sync: false
       - key: TELEGRAM_BOT_TOKEN
         sync: false

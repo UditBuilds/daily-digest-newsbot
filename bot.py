@@ -4,7 +4,7 @@ from datetime import datetime
 import pytz
 from apscheduler.schedulers.blocking import BlockingScheduler
 
-from config import IST_TIMEZONE, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GROQ_API_KEY
+from config import IST_TIMEZONE, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY
 from fetcher import fetch_all_articles
 from markets import get_market_snapshot
 from summarizer import summarize
@@ -85,7 +85,7 @@ def evening_job():
 
 def _check_env():
     missing = [k for k, v in {
-        "GROQ_API_KEY": GROQ_API_KEY,
+        "GEMINI_API_KEY": GEMINI_API_KEY,
         "TELEGRAM_BOT_TOKEN": TELEGRAM_BOT_TOKEN,
         "TELEGRAM_CHAT_ID": TELEGRAM_CHAT_ID,
     }.items() if not v]
