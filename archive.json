@@ -7740,6 +7740,40 @@
         "YourStory"
       ],
       "sent_at": "2026-08-30T18:01:17+05:30"
+    },
+    {
+      "date": "2026-08-30",
+      "slot": "evening",
+      "theme": "NASA launches a new space telescope while an Indian glass manufacturer moves to recover dues from Bira 91.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "At least 8 dead, 22 missing as ferry capsizes off northern Cyprus"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA Concludes Roman Space Telescope Launch Coverage"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-30T22:24:15+05:30"
     }
   ]
 }
