@@ -7763,6 +7763,71 @@
         "YourStory"
       ],
       "sent_at": "2026-08-31T11:23:29+05:30"
+    },
+    {
+      "date": "2026-08-31",
+      "slot": "evening",
+      "theme": "Israel signs a major defense deal with Greece, while India rejects an international court's ruling on the Indus Waters Treaty.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel and Greece sign US$3.5 billion defence deal, largest ever between the 2"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Why Japan’s hypersonic and underwater weapon plans might worry China"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI could cause global economic downturn, Bank of England governor tells G20"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Europe expands AI computing network with €390 million order from France's Bull"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude Closes 85 Percent of AI Safety Gap in Automated Research Test"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zomato Lays Off 240 Employees, Shuts Hyderabad Customer Support Operations"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Centre Notifies ₹1.28 Lakh Cr Semicon 2.0, Targets 1 Lakh More Chip Engineers"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'No jurisdiction, illegal': India tears into Hague court's Indus Waters Treaty award"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC invokes Article 142, to hear Centre's plea to quash NEET protest FIRs on Sept 1"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Ecommerce Series",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-31T18:01:25+05:30"
     }
   ]
 }
