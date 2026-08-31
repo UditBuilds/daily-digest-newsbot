@@ -7719,6 +7719,50 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-08-31T06:01:21+05:30"
+    },
+    {
+      "date": "2026-08-31",
+      "slot": "morning",
+      "theme": "Iran retaliates against US strikes, while OpenAI unveils a massive new AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran attacks US bases in Jordan and UAE after US strikes on Larak Island"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US drone and robot barriers push China to global scale"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI completes pre-training of 10-trillion-parameter 'Bel' model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ESDS IPO subscribed 8X on Day 2"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Delhi cab driver arrested for sexually assaulting 3-year-old nursery student"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-08-31T11:23:29+05:30"
     }
   ]
 }
