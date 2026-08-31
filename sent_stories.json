@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "headline": "At least 8 dead, 22 missing as ferry capsizes off northern Cyprus",
-      "sent_at": "2026-08-30T16:54:15.158859+00:00"
-    },
-    {
-      "headline": "Hindusthan National Glass and Industries issues default notice to Bira 91, plans to move NCLT",
-      "sent_at": "2026-08-30T16:54:15.158859+00:00"
-    },
-    {
-      "headline": "NASA Concludes Roman Space Telescope Launch Coverage",
-      "sent_at": "2026-08-30T16:54:15.158859+00:00"
-    },
-    {
       "headline": "US forces strike Iranian launchers on Larak Island",
       "sent_at": "2026-08-31T00:31:21.667753+00:00"
     },
@@ -91,6 +79,38 @@
     {
       "headline": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
       "sent_at": "2026-08-31T12:31:25.003609+00:00"
+    },
+    {
+      "headline": "India rejects ruling on water-sharing treaty with Pakistan by international court",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "OpenAI Anticipates Public ChatGPT 6 Release Between Sept 3 to 10",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "Pentagon Deploys xAI's Grok for Government to 1.7M Users",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "PhonePe Launches UPI Payments For Feature Phones",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "India’s GPS problem: Why the armed forces need NavIC to work",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars",
+      "sent_at": "2026-08-31T19:12:06.919209+00:00"
     }
   ]
 }

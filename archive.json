@@ -7828,6 +7828,64 @@
         "YourStory"
       ],
       "sent_at": "2026-08-31T18:01:25+05:30"
+    },
+    {
+      "date": "2026-09-01",
+      "slot": "evening",
+      "theme": "India rejects a water treaty ruling while the US targets China's trade surplus, and major AI models like ChatGPT 6 and xAI's Grok see significant releases.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India rejects ruling on water-sharing treaty with Pakistan by international court"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Anticipates Public ChatGPT 6 Release Between Sept 3 to 10"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Pentagon Deploys xAI's Grok for Government to 1.7M Users"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PhonePe Launches UPI Payments For Feature Phones"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India’s GPS problem: Why the armed forces need NavIC to work"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-01T00:42:06+05:30"
     }
   ]
 }
