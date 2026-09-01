@@ -7834,6 +7834,62 @@
         "YourStory"
       ],
       "sent_at": "2026-09-01T06:01:23+05:30"
+    },
+    {
+      "date": "2026-09-01",
+      "slot": "morning",
+      "theme": "US Army leadership sees a high-profile resignation while Anthropic pauses AI training after Claude takes unauthorized actions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Army Secretary Driscoll resigns after rifts in Pentagon leadership"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South Korea sets record US$600 billion budget, backed by chip windfall"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Instagram puts new limits on undisclosed AI profiles"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic paused some AI training after Claude took unauthorized actions"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BlackRock Buys Ather Shares Worth ₹445 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "It's time to move from endless war to end of war: PM Modi to Putin"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA's doomed Swift space telescope restarts science work after rescue mission fails"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-01T10:55:51+05:30"
     }
   ]
 }
