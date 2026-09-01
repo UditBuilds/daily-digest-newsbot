@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran attacks US bases in Jordan and UAE after US strikes on Larak Island",
-      "sent_at": "2026-08-31T05:53:29.342666+00:00"
-    },
-    {
-      "headline": "US drone and robot barriers push China to global scale",
-      "sent_at": "2026-08-31T05:53:29.342666+00:00"
-    },
-    {
-      "headline": "OpenAI completes pre-training of 10-trillion-parameter 'Bel' model",
-      "sent_at": "2026-08-31T05:53:29.342666+00:00"
-    },
-    {
-      "headline": "ESDS IPO subscribed 8X on Day 2",
-      "sent_at": "2026-08-31T05:53:29.342666+00:00"
-    },
-    {
-      "headline": "Delhi cab driver arrested for sexually assaulting 3-year-old nursery student",
-      "sent_at": "2026-08-31T05:53:29.342666+00:00"
-    },
-    {
       "headline": "Israel and Greece sign US$3.5 billion defence deal, largest ever between the 2",
       "sent_at": "2026-08-31T12:31:25.003609+00:00"
     },
@@ -147,6 +127,30 @@
     {
       "headline": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
       "sent_at": "2026-09-01T05:25:51.306818+00:00"
+    },
+    {
+      "headline": "China demands rights guarantee as US firm secures 100-year Venezuelan oil deal",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
+    },
+    {
+      "headline": "US to urge hands-off AI regulation at G-20",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
+    },
+    {
+      "headline": "Anthropic Hardens Claude Security After AI Models Gain Unauthorized Access to Real Systems",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
+    },
+    {
+      "headline": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
+    },
+    {
+      "headline": "Centre halves sugar stock limit for dealers to curb hoarding, price rise",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
+    },
+    {
+      "headline": "First Space Elevator From Earth To Orbit Could Become Reality With New Super-Strong Material",
+      "sent_at": "2026-09-01T12:31:20.454584+00:00"
     }
   ]
 }

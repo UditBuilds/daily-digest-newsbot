@@ -7890,6 +7890,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-01T10:55:51+05:30"
+    },
+    {
+      "date": "2026-09-01",
+      "slot": "evening",
+      "theme": "China demands protection of its oil interests in Venezuela, while Anthropic pauses AI training after security vulnerabilities in Claude.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China demands rights guarantee as US firm secures 100-year Venezuelan oil deal"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US to urge hands-off AI regulation at G-20"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Hardens Claude Security After AI Models Gain Unauthorized Access to Real Systems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre halves sugar stock limit for dealers to curb hoarding, price rise"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "First Space Elevator From Earth To Orbit Could Become Reality With New Super-Strong Material"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-01T18:01:20+05:30"
     }
   ]
 }
