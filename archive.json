@@ -1,108 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-02",
-      "slot": "morning",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta invests $15B in social media, and Anthropic files for an IPO.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Senators blast Trump for allowing AI chips to be sent to overseas units of Chinese firms"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic files to go public"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic to offer EU access to its advanced Mythos model"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Ola Electric Opens QIP, Sets Floor Price Of ₹37.74"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Won’t allow territory to be used against India: Myanmar president"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-02T06:01:03+05:30"
-    },
-    {
-      "date": "2026-06-02",
-      "slot": "evening",
-      "theme": "South Korea and Japan are eyeing a military logistics pact, while Anthropic's AI chatbot Claude faces a global outage due to capacity constraints.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "South Korea and Japan eye military logistics pact"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic's Claude AI chatbot faces global outage"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Codex becomes a productivity tool for everyone"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "ONDC raises ₹220 Cr from Uber, Zoho, and Paytm"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India hits out at Pak-EU joint statement for J&K reference"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Rusty, orange water 'bleeds' across Bolivian lagoon"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-02T18:01:45+05:30"
-    },
-    {
       "date": "2026-06-03",
       "slot": "morning",
       "theme": "Israel escalates in Lebanon while Meta bets $15B that users will pay for social media, and Anthropic scales Claude Mythos to critical infrastructure in 15+ countries.",
@@ -7886,6 +7784,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-01T00:42:06+05:30"
+    },
+    {
+      "date": "2026-09-01",
+      "slot": "morning",
+      "theme": "US Army Secretary resigns amid leadership changes, while India dismisses an arbitration award on the Indus Waters Treaty.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Army Secretary Dan Driscoll resigns after 18 months"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "The Pentagon launches its own versions of ChatGPT and Grok"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI expands access to AI models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BNP Paribas, Societe Generale, and Millennium sell Lenskart shares for ₹2,670 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India terms arbitration award on Indus Waters Treaty 'illegal'"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA launches Nancy Grace Roman Space Telescope"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-01T06:01:23+05:30"
     }
   ]
 }

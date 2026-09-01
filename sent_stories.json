@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US forces strike Iranian launchers on Larak Island",
-      "sent_at": "2026-08-31T00:31:21.667753+00:00"
-    },
-    {
-      "headline": "Texas Governor blocks funding for Flock AI surveillance cameras",
-      "sent_at": "2026-08-31T00:31:21.667753+00:00"
-    },
-    {
-      "headline": "Sony accuses Anthropic of training Claude on copyrighted music",
-      "sent_at": "2026-08-31T00:31:21.667753+00:00"
-    },
-    {
-      "headline": "India and Uzbekistan target $5 billion trade, long-term uranium pact",
-      "sent_at": "2026-08-31T00:31:21.667753+00:00"
-    },
-    {
-      "headline": "NASA launches Nancy Grace Roman Space Telescope",
-      "sent_at": "2026-08-31T00:31:21.667753+00:00"
-    },
-    {
       "headline": "Iran attacks US bases in Jordan and UAE after US strikes on Larak Island",
       "sent_at": "2026-08-31T05:53:29.342666+00:00"
     },
@@ -111,6 +91,30 @@
     {
       "headline": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars",
       "sent_at": "2026-08-31T19:12:06.919209+00:00"
+    },
+    {
+      "headline": "US Army Secretary Dan Driscoll resigns after 18 months",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
+    },
+    {
+      "headline": "The Pentagon launches its own versions of ChatGPT and Grok",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
+    },
+    {
+      "headline": "OpenAI expands access to AI models",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
+    },
+    {
+      "headline": "BNP Paribas, Societe Generale, and Millennium sell Lenskart shares for ₹2,670 Cr",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
+    },
+    {
+      "headline": "India terms arbitration award on Indus Waters Treaty 'illegal'",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
+    },
+    {
+      "headline": "NASA launches Nancy Grace Roman Space Telescope",
+      "sent_at": "2026-09-01T00:31:23.136165+00:00"
     }
   ]
 }
