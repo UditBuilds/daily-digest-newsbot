@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India rejects ruling on water-sharing treaty with Pakistan by international court",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "OpenAI Anticipates Public ChatGPT 6 Release Between Sept 3 to 10",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "Pentagon Deploys xAI's Grok for Government to 1.7M Users",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "PhonePe Launches UPI Payments For Feature Phones",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "India’s GPS problem: Why the armed forces need NavIC to work",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
-      "headline": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars",
-      "sent_at": "2026-08-31T19:12:06.919209+00:00"
-    },
-    {
       "headline": "US Army Secretary Dan Driscoll resigns after 18 months",
       "sent_at": "2026-09-01T00:31:23.136165+00:00"
     },
@@ -131,6 +99,50 @@
     {
       "headline": "India's GDP grows 7.8% in Q1",
       "sent_at": "2026-09-01T16:49:32.210889+00:00"
+    },
+    {
+      "headline": "Kremlin suggests Xi, Trump, and Putin may hold trilateral meeting at next Apec forum",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "South Korea's spy agency identifies Kim Jong-un's daughter as North Korea's likely next ruler",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, valued at $3.2B",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "Google launches AI tool 'Google Pics' to compete with Canva and Adobe",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "OpenAI announces Astra model, meeting critical cybersecurity capability threshold",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Fable 5.1 and Mythos 5.1 with reduced costs and improved performance",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "JioHotstar expands services to the UK, Canada, and Singapore",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "Minimac Systems raises ₹30 Cr to scale lubricant recycling infrastructure",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "PM Modi slams use of terror as strategic asset as Pakistan takes SCO chair",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "GST inflow rises by double digits for the third consecutive month",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "Science explains why space smells different after astronauts return inside",
+      "sent_at": "2026-09-02T00:31:19.853419+00:00"
     }
   ]
 }
