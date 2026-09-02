@@ -7950,6 +7950,58 @@
         "YourStory"
       ],
       "sent_at": "2026-09-02T06:01:19+05:30"
+    },
+    {
+      "date": "2026-09-02",
+      "slot": "morning",
+      "theme": "Ukraine warns airlines about Russian airspace, while Anthropic releases a cheaper, more powerful AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Ukraine warns airlines to avoid \"drone-infested\" Russian airspace"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI's Astra model excels at breaking into computer systems"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, cutting agentic-task costs by up to 45%"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "upGrad completes acquisition of Unacademy's campus business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US Green Card wait for Indians hits 179 years as backlog tops 1.2 million"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Startup plans 80,000-year mission to Alpha Centauri"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-02T10:22:44+05:30"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US Army Secretary Dan Driscoll resigns after 18 months",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
-      "headline": "The Pentagon launches its own versions of ChatGPT and Grok",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
-      "headline": "OpenAI expands access to AI models",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
-      "headline": "BNP Paribas, Societe Generale, and Millennium sell Lenskart shares for ₹2,670 Cr",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
-      "headline": "India terms arbitration award on Indus Waters Treaty 'illegal'",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
-      "headline": "NASA launches Nancy Grace Roman Space Telescope",
-      "sent_at": "2026-09-01T00:31:23.136165+00:00"
-    },
-    {
       "headline": "US Army Secretary Driscoll resigns after rifts in Pentagon leadership",
       "sent_at": "2026-09-01T05:25:51.306818+00:00"
     },
@@ -143,6 +119,30 @@
     {
       "headline": "Science explains why space smells different after astronauts return inside",
       "sent_at": "2026-09-02T00:31:19.853419+00:00"
+    },
+    {
+      "headline": "Ukraine warns airlines to avoid \"drone-infested\" Russian airspace",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
+    },
+    {
+      "headline": "OpenAI's Astra model excels at breaking into computer systems",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, cutting agentic-task costs by up to 45%",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
+    },
+    {
+      "headline": "upGrad completes acquisition of Unacademy's campus business",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
+    },
+    {
+      "headline": "US Green Card wait for Indians hits 179 years as backlog tops 1.2 million",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
+    },
+    {
+      "headline": "Startup plans 80,000-year mission to Alpha Centauri",
+      "sent_at": "2026-09-02T04:52:44.553862+00:00"
     }
   ]
 }
