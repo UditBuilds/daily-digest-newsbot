@@ -8062,6 +8062,60 @@
         "YourStory"
       ],
       "sent_at": "2026-09-02T18:01:21+05:30"
+    },
+    {
+      "date": "2026-09-02",
+      "slot": "evening",
+      "theme": "China proposes a new Middle East security framework while Anthropic releases updated AI models for coding and knowledge work.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China's Xi urges new Middle East security framework during Egypt visit"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel ready to remove Palestinians in Gaza once US approves, minister says"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Adobe acquires Indian market intelligence startup Rilo"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pine Labs Appoints Ex-Amazon, Razorpay Executive Jayaram Karthik As COO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'New peaks of lethality': IAF tests Khagantak-243; all about long range glide bomb"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA Deep Space Network's New Goldstone Antenna Goes Online"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-02T22:16:34+05:30"
     }
   ]
 }
