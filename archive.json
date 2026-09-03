@@ -8114,6 +8114,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-03T10:20:24+05:30"
+    },
+    {
+      "date": "2026-09-03",
+      "slot": "evening",
+      "theme": "Netherlands moves gold reserves citing geopolitical unrest, while Nvidia acquires Hugging Face for $13 billion.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia is buying Hugging Face for almost $13 billion"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zerodha Gets SEBI Nod For Merchant Banking, To Focus On New-Age IPOs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'No trade deal till US gives preferential tariff terms': India draws red line"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tamil Nadu CM Vijay announces plan for new integrated Secretariat complex in Chennai"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News Geopolitics",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-03T18:01:31+05:30"
     }
   ]
 }
