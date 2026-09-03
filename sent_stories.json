@@ -1,70 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Germany blames Russia for Leipzig airport drone attack",
-      "sent_at": "2026-09-01T16:49:32.210889+00:00"
-    },
-    {
-      "headline": "John Deere launches AI chatbot for farmers",
-      "sent_at": "2026-09-01T16:49:32.210889+00:00"
-    },
-    {
-      "headline": "Anthropic warns Claude users about system hacking",
-      "sent_at": "2026-09-01T16:49:32.210889+00:00"
-    },
-    {
-      "headline": "Whatfix Cofounder Khadim Batti passes away",
-      "sent_at": "2026-09-01T16:49:32.210889+00:00"
-    },
-    {
-      "headline": "India's GDP grows 7.8% in Q1",
-      "sent_at": "2026-09-01T16:49:32.210889+00:00"
-    },
-    {
-      "headline": "Kremlin suggests Xi, Trump, and Putin may hold trilateral meeting at next Apec forum",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "South Korea's spy agency identifies Kim Jong-un's daughter as North Korea's likely next ruler",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, valued at $3.2B",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "Google launches AI tool 'Google Pics' to compete with Canva and Adobe",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "OpenAI announces Astra model, meeting critical cybersecurity capability threshold",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Fable 5.1 and Mythos 5.1 with reduced costs and improved performance",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "JioHotstar expands services to the UK, Canada, and Singapore",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "Minimac Systems raises ₹30 Cr to scale lubricant recycling infrastructure",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "PM Modi slams use of terror as strategic asset as Pakistan takes SCO chair",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "GST inflow rises by double digits for the third consecutive month",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
-      "headline": "Science explains why space smells different after astronauts return inside",
-      "sent_at": "2026-09-02T00:31:19.853419+00:00"
-    },
-    {
       "headline": "Ukraine warns airlines to avoid \"drone-infested\" Russian airspace",
       "sent_at": "2026-09-02T04:52:44.553862+00:00"
     },
@@ -151,6 +87,30 @@
     {
       "headline": "NASA Deep Space Network's New Goldstone Antenna Goes Online",
       "sent_at": "2026-09-02T16:46:34.600841+00:00"
+    },
+    {
+      "headline": "Dutch central bank moves 86 tonnes of gold from US and Canada to UK",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
+    },
+    {
+      "headline": "US government supports OpenAI on training LLMs with copyrighted material",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
+    },
+    {
+      "headline": "OpenAI's Astra model raises AI safety concerns with 'critical' hacking abilities",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
+    },
+    {
+      "headline": "Adobe acquires Peak XV-backed AI Martech startup Rilo",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
+    },
+    {
+      "headline": "Government defends new GDP estimates after former Finance Secretary claims Q1 growth was 2.6%",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
+    },
+    {
+      "headline": "NASA Deep Space Network's new Goldstone Antenna goes online",
+      "sent_at": "2026-09-03T00:31:24.822952+00:00"
     }
   ]
 }

@@ -1,105 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-04",
-      "slot": "morning",
-      "theme": "Israel and Lebanon agree to renew fragile ceasefire, while India faces a potential 12.5% tariff from the US over 'forced labour' concerns.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Israel and Lebanon agree to renew fragile ceasefire, create Hezbollah-free zones"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Introducing new capabilities to GPT-Rosalind"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "FirstClub nets $55 Mn to expand store footprint, widen product range"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "US moots 12.5% tariff on India, 53 others over ‘forced labour’"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA declares its Mars Maven spacecraft dead after 6 months of silence"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-04T06:01:06+05:30"
-    },
-    {
-      "date": "2026-06-04",
-      "slot": "evening",
-      "theme": "Israel and Lebanon agree to a ceasefire, while China sees growth in its overseas car sales and India's PhysicsWallah reverses course on student lending.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "AI leaders call for tougher protections against AI-aided bioweapons"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "PhysicsWallah Reverses Course On Student Lending; Shares Surge Nearly 18%"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "SC Proposes Complete Ban On AI-Driven Adjudication"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-04T18:01:12+05:30"
-    },
-    {
       "date": "2026-06-05",
       "slot": "morning",
       "theme": "Israel and Lebanon are on the brink of war, while Meta and Apple make significant moves in the tech world.",
@@ -8116,6 +8017,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-02T22:16:34+05:30"
+    },
+    {
+      "date": "2026-09-03",
+      "slot": "morning",
+      "theme": "The Netherlands moves gold due to geopolitical unrest, while OpenAI's new AI model Astra raises safety concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Dutch central bank moves 86 tonnes of gold from US and Canada to UK"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US government supports OpenAI on training LLMs with copyrighted material"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI's Astra model raises AI safety concerns with 'critical' hacking abilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Adobe acquires Peak XV-backed AI Martech startup Rilo"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Government defends new GDP estimates after former Finance Secretary claims Q1 growth was 2.6%"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA Deep Space Network's new Goldstone Antenna goes online"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-03T06:01:24+05:30"
     }
   ]
 }
