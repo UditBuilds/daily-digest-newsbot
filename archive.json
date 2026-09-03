@@ -8067,6 +8067,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-03T06:01:24+05:30"
+    },
+    {
+      "date": "2026-09-03",
+      "slot": "morning",
+      "theme": "Venezuela's Maduro fights US drug charges while Google and Meta release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Venezuela’s Maduro seeks dismissal of US charges, citing immunity"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart’s Microdrama Foray"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-03T10:20:24+05:30"
     }
   ]
 }
