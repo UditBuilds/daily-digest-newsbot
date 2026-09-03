@@ -8162,6 +8162,63 @@
         "YourStory"
       ],
       "sent_at": "2026-09-03T18:01:31+05:30"
+    },
+    {
+      "date": "2026-09-03",
+      "slot": "evening",
+      "theme": "China and Singapore security teams breach Starlink, while Anthropic releases new AI models for coding and research.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China-Singapore security team claims breakthrough in hacking Starlink terminals"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia confirms it will buy Hugging Face for $12.9 billion"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "ChatGPT, Grok, and Claude all went down at the same time"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Claude Fable 5.1, Claude Mythos 5.1 Models Announced for Advanced Coding, Scientific Research"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "KKR Backs BookMyShow As Live Entertainment Becomes Its Next Growth Engine"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Alipay+’s UPI Linkup Stalled Over Security, Data Concerns: Report"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India's 24x7 eye on China, Pakistan: Why EOS-05 launch on ‘Naughty Boy’ matters"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-03T22:06:38+05:30"
     }
   ]
 }
