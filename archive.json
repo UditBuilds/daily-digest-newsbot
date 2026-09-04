@@ -8264,6 +8264,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-04T18:01:21+05:30"
+    },
+    {
+      "date": "2026-09-04",
+      "slot": "evening",
+      "theme": "China restricts rare earth exports to the US while OpenAI launches its new GPT-6 Astra model, claiming an AGI era.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China rare earth firms halt some US shipments over geopolitical worries"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "RentoMojo Sets Price Band At ₹384-₹404 For ₹1,256 Cr IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'PM Modi warned us, but we didn't listen': Belgium PM on China trade threat to Europe"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-04T22:01:40+05:30"
     }
   ]
 }

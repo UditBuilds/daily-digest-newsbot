@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "Nvidia is buying Hugging Face for almost $13 billion",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "Zerodha Gets SEBI Nod For Merchant Banking, To Focus On New-Age IPOs",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "'No trade deal till US gives preferential tariff terms': India draws red line",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
-      "headline": "Tamil Nadu CM Vijay announces plan for new integrated Secretariat complex in Chennai",
-      "sent_at": "2026-09-03T12:31:31.590597+00:00"
-    },
-    {
       "headline": "China-Singapore security team claims breakthrough in hacking Starlink terminals",
       "sent_at": "2026-09-03T16:36:38.648564+00:00"
     },
@@ -123,6 +95,30 @@
     {
       "headline": "Scientists watch a comet being born 3 billion miles away",
       "sent_at": "2026-09-04T12:31:21.696576+00:00"
+    },
+    {
+      "headline": "China rare earth firms halt some US shipments over geopolitical worries",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "RentoMojo Sets Price Band At ₹384-₹404 For ₹1,256 Cr IPO",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "'PM Modi warned us, but we didn't listen': Belgium PM on China trade threat to Europe",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust",
+      "sent_at": "2026-09-04T16:31:40.536093+00:00"
     }
   ]
 }
