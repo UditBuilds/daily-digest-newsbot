@@ -8219,6 +8219,51 @@
         "YourStory"
       ],
       "sent_at": "2026-09-04T10:23:27+05:30"
+    },
+    {
+      "date": "2026-09-04",
+      "slot": "evening",
+      "theme": "South Korea considers military deployment to Hormuz, while OpenAI launches its new GPT-6 Astra model amidst controversy.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South Korea weighs ‘contributions’ to Hormuz as US pressure mounts"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI releases GPT-6 Astra AI model: Price, availability and other things to know"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Sneaker Brand Comet Raises ₹100 Cr To Expand Offline Presence"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists watch a comet being born 3 billion miles away"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-04T18:01:21+05:30"
     }
   ]
 }
