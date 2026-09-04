@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Dutch central bank moves 86 tonnes of gold from US and Canada to UK",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "US government supports OpenAI on training LLMs with copyrighted material",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "OpenAI's Astra model raises AI safety concerns with 'critical' hacking abilities",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "Adobe acquires Peak XV-backed AI Martech startup Rilo",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "Government defends new GDP estimates after former Finance Secretary claims Q1 growth was 2.6%",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "NASA Deep Space Network's new Goldstone Antenna goes online",
-      "sent_at": "2026-09-03T00:31:24.822952+00:00"
-    },
-    {
-      "headline": "Venezuela’s Maduro seeks dismissal of US charges, citing immunity",
-      "sent_at": "2026-09-03T04:50:24.568722+00:00"
-    },
-    {
-      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "sent_at": "2026-09-03T04:50:24.568722+00:00"
-    },
-    {
-      "headline": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
-      "sent_at": "2026-09-03T04:50:24.568722+00:00"
-    },
-    {
-      "headline": "Flipkart’s Microdrama Foray",
-      "sent_at": "2026-09-03T04:50:24.568722+00:00"
-    },
-    {
-      "headline": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-      "sent_at": "2026-09-03T04:50:24.568722+00:00"
-    },
-    {
       "headline": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
       "sent_at": "2026-09-03T12:31:31.590597+00:00"
     },
@@ -127,6 +83,26 @@
     {
       "headline": "Scientists use Burmese pythons as ‘living sensors’ to reveal hidden wetland pollution",
       "sent_at": "2026-09-04T00:31:18.043049+00:00"
+    },
+    {
+      "headline": "Milei escalates Argentina’s Falklands dispute with UK",
+      "sent_at": "2026-09-04T04:53:27.886090+00:00"
+    },
+    {
+      "headline": "Meta pays users to test its new Muse Spark AI model",
+      "sent_at": "2026-09-04T04:53:27.886090+00:00"
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Astra, claiming AGI era capabilities",
+      "sent_at": "2026-09-04T04:53:27.886090+00:00"
+    },
+    {
+      "headline": "Ultrahuman raises $70 million for healthtech platform",
+      "sent_at": "2026-09-04T04:53:27.886090+00:00"
+    },
+    {
+      "headline": "Estonian minister resigns over Ukraine shell deal involving Indian firm",
+      "sent_at": "2026-09-04T04:53:27.886090+00:00"
     }
   ]
 }

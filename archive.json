@@ -8174,6 +8174,51 @@
         "YourStory"
       ],
       "sent_at": "2026-09-04T06:01:18+05:30"
+    },
+    {
+      "date": "2026-09-04",
+      "slot": "morning",
+      "theme": "OpenAI launches its new flagship AI model, while Indian startups secure significant funding rounds.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Milei escalates Argentina’s Falklands dispute with UK"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta pays users to test its new Muse Spark AI model"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Astra, claiming AGI era capabilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ultrahuman raises $70 million for healthtech platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Estonian minister resigns over Ukraine shell deal involving Indian firm"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-04T10:23:27+05:30"
     }
   ]
 }
