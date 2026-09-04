@@ -1,101 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-05",
-      "slot": "morning",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta and Apple make significant moves in the tech world.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Meta rolls out a new AI creator assistant on Facebook"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Dreaming: Better memory for a more helpful ChatGPT"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Ola Electric Closes QIP By Issuing Shares At ₹35.86 Apiece"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Monsoon arrives in Kerala, after 3-day delay"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-05T06:01:10+05:30"
-    },
-    {
-      "date": "2026-06-05",
-      "slot": "evening",
-      "theme": "India and the US make progress on a trade deal, while China strengthens its position in the global AI market.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India and US near trade deal"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic warns of self-improving AI risks"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Meta AI focuses on health-related capabilities"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Innefu Labs raises $30 million in funding"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India slams Pakistan's election plans in Gilgit-Baltistan"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News Meta AI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-05T18:01:16+05:30"
-    },
-    {
       "date": "2026-06-06",
       "slot": "morning",
       "theme": "Russia-Ukraine conflict escalates as Putin refuses to meet Zelensky, while Google pays SpaceX $920M per month for compute, and India's economy surges by 7.8% in Q4.",
@@ -8219,6 +8124,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-03T22:06:38+05:30"
+    },
+    {
+      "date": "2026-09-04",
+      "slot": "morning",
+      "theme": "OpenAI launches its new GPT-6 Astra model, while Indian startups like RentoMojo and Ultrahuman secure significant funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump takes mail-in ballot fight to US Supreme Court"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Launches GPT-6 Astra Model, Suggests It Could Be AGI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "RentoMojo’s FY26 Profit Zooms 142% YoY To ₹104 Cr, Revenue Up 46%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Isro’s GSLV-F17 successfully places EOS-05 Earth observation satellite in geosynchronous orbit"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists use Burmese pythons as ‘living sensors’ to reveal hidden wetland pollution"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-04T06:01:18+05:30"
     }
   ]
 }
