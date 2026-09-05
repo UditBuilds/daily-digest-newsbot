@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China-Singapore security team claims breakthrough in hacking Starlink terminals",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "ChatGPT, Grok, and Claude all went down at the same time",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "Anthropic Claude Fable 5.1, Claude Mythos 5.1 Models Announced for Advanced Coding, Scientific Research",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "KKR Backs BookMyShow As Live Entertainment Becomes Its Next Growth Engine",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "Alipay+’s UPI Linkup Stalled Over Security, Data Concerns: Report",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "India's 24x7 eye on China, Pakistan: Why EOS-05 launch on ‘Naughty Boy’ matters",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "sent_at": "2026-09-03T16:36:38.648564+00:00"
-    },
-    {
-      "headline": "Trump takes mail-in ballot fight to US Supreme Court",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
-      "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
-      "headline": "OpenAI Launches GPT-6 Astra Model, Suggests It Could Be AGI",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
-      "headline": "RentoMojo’s FY26 Profit Zooms 142% YoY To ₹104 Cr, Revenue Up 46%",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
-      "headline": "Isro’s GSLV-F17 successfully places EOS-05 Earth observation satellite in geosynchronous orbit",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
-      "headline": "Scientists use Burmese pythons as ‘living sensors’ to reveal hidden wetland pollution",
-      "sent_at": "2026-09-04T00:31:18.043049+00:00"
-    },
-    {
       "headline": "Milei escalates Argentina’s Falklands dispute with UK",
       "sent_at": "2026-09-04T04:53:27.886090+00:00"
     },
@@ -119,6 +63,46 @@
     {
       "headline": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust",
       "sent_at": "2026-09-04T16:31:40.536093+00:00"
+    },
+    {
+      "headline": "Russia hits Ukraine's security service headquarters in Kyiv",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "UN votes to adopt new world map to reflect Africa's true size",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "XDOF in talks for Series B at $1.2B valuation three months after stealth exit",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "AI compute provider Nscale seeks $3.5B in pre-IPO financing",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Astra, a major upgrade to ChatGPT and Codex",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "Google DeepMind releases WeatherNext 3, its most accurate AI weather forecasting model",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "KRAFTON to invest $250 Mn in Indian AI & Deeptech startups",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "SUGAR Cosmetics raises ₹145 Cr from A91 at near 80% valuation cut",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "Two men rescued from Nepal hydropower tunnel after 9 days",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
+    },
+    {
+      "headline": "Blue Origin rocket explosion as powerful as Chernobyl blast",
+      "sent_at": "2026-09-05T00:31:21.427379+00:00"
     }
   ]
 }

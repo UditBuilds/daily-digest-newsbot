@@ -1,106 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-06",
-      "slot": "morning",
-      "theme": "Russia-Ukraine conflict escalates as Putin refuses to meet Zelensky, while Google pays SpaceX $920M per month for compute, and India's economy surges by 7.8% in Q4.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Putin refuses to meet Zelensky"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Google pays SpaceX $920M per month for compute"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "DeepMind releases Gemma 4 QAT checkpoints"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "ixigo to acquire majority stake in Brevistay"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India's economy surges by 7.8% in Q4"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA reverses evacuation alert for astronauts"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News Meta AI",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-06T06:01:05+05:30"
-    },
-    {
-      "date": "2026-06-06",
-      "slot": "evening",
-      "theme": "Ukraine targets St Petersburg with drones after Putin rejects Zelensky's offer, while India's startup ecosystem sees significant funding and developments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Ukrainian drones target St Petersburg after Putin rejects Zelensky’s offer"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Trump Calls For Military To Accelerate AI Use While Protecting Americans"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "From FirstClub To Innefu— Indian Startups Raised $187 Mn This Week"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'Challenges ahead': Surya breaks silence after India snub as Iyer named captain"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA astronauts on ISS briefly sheltered during unfinished air leak repairs"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-06T18:01:07+05:30"
-    },
-    {
       "date": "2026-06-07",
       "slot": "morning",
       "theme": "Israel escalates conflict in Gaza, while tech giants unveil new AI features and India's government pushes for reforms.",
@@ -8312,6 +8212,72 @@
         "YourStory"
       ],
       "sent_at": "2026-09-04T22:01:40+05:30"
+    },
+    {
+      "date": "2026-09-05",
+      "slot": "morning",
+      "theme": "Russia strikes Kyiv while OpenAI launches a new model and Indian startups secure significant investments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia hits Ukraine's security service headquarters in Kyiv"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UN votes to adopt new world map to reflect Africa's true size"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "XDOF in talks for Series B at $1.2B valuation three months after stealth exit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI compute provider Nscale seeks $3.5B in pre-IPO financing"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Astra, a major upgrade to ChatGPT and Codex"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind releases WeatherNext 3, its most accurate AI weather forecasting model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "KRAFTON to invest $250 Mn in Indian AI & Deeptech startups"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "SUGAR Cosmetics raises ₹145 Cr from A91 at near 80% valuation cut"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Two men rescued from Nepal hydropower tunnel after 9 days"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Blue Origin rocket explosion as powerful as Chernobyl blast"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-05T06:01:21+05:30"
     }
   ]
 }
