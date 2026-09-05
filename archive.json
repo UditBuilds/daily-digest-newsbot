@@ -8327,6 +8327,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-05T10:16:12+05:30"
+    },
+    {
+      "date": "2026-09-05",
+      "slot": "evening",
+      "theme": "China and Canada resume military talks after 8 years, while Indian startups raise $177M this week.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Canada and China hold first military talks in 8 years amid US pressure"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "WhatsApp rolls out third-party AI agent chats"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI announces GPT-6 Astra, a new generation of intelligence"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian startups raised over $177 Mn this week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "NIA court convicts 10 in 2013 Jhiram Valley Maoist attack case"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists plan to search for alien debris on the Moon"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-05T18:01:23+05:30"
     }
   ]
 }
