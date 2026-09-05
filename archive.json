@@ -8375,6 +8375,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-05T18:01:23+05:30"
+    },
+    {
+      "date": "2026-09-05",
+      "slot": "evening",
+      "theme": "US strikes Iranian oil tankers after missile attacks, while OpenAI releases a new model capable of finding zero-day exploits.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US ‘disables’ or ‘destroys’ 3 Iran oil tankers after warships targeted"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "WhatsApp Starts Rolling Out Third-Party AI Agent Chats"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI has released a model it says can find and exploit zero-days on its own"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric Board Approves Fresh ₹1,500 Cr Fundraise After ₹780 Cr QIP"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Putin orders 3-day pause in strikes on Kyiv as US delegation arrives in Russia"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Is There Alien Debris on the Moon? Some Scientists Plan to Find Out."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-05T20:55:58+05:30"
     }
   ]
 }
