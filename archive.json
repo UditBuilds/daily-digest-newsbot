@@ -1,103 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-07",
-      "slot": "morning",
-      "theme": "Israel escalates conflict in Gaza, while tech giants unveil new AI features and India's government pushes for reforms.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Israeli attack on Gaza City tent camp kills several Palestinians"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Meta made its own AI-generated clickbait news feed"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "New-Age Tech Stocks: BlueStone, ideaForge Lead Weekly Gains; PB Fintech, Meesho Slip"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "PM reiterates need to 'add more momentum' to reforms at EAC meet"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-07T06:01:11+05:30"
-    },
-    {
-      "date": "2026-06-07",
-      "slot": "evening",
-      "theme": "Global geopolitics sees heightened tensions as the US-Israel war on Iran enters its 100th day, while India's startup ecosystem experiences a rebound in venture capital funding.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "How have countries around the world responded to the US-Israel war on Iran?"
-        },
-        {
-          "category": "GEOPOLITICS",
-          "headline": "North Korea says its nuclear programme is ‘irreversible’ ahead of Chinese leader’s visit"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "AI ‘content creators’ are getting harder to spot"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Investor appetite rebounds after a dull week; Mumbai’s local train app"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "INDIA bloc huddle in Delhi: TMC among 23 parties to attend June 8 meet; DMK, AAP may skip"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-07T18:04:38+05:30"
-    },
-    {
       "date": "2026-06-08",
       "slot": "morning",
       "theme": "Iran fires missiles at Israel, escalating Middle East tensions, while Indian startups raise over $77 million in funding.",
@@ -8423,6 +8326,61 @@
         "YourStory"
       ],
       "sent_at": "2026-09-05T20:55:58+05:30"
+    },
+    {
+      "date": "2026-09-06",
+      "slot": "morning",
+      "theme": "US envoys meet Putin in Moscow while Indian startups secure significant funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US envoys meet Putin in Moscow for Ukraine talks"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Argentina threatens to sanction oil projects around Falkland Islands"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Seattle Times and Newsday sue OpenAI and Microsoft over AI training data"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Fable 5.1"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra Launches at $10/$50"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Luggage Brand Mokobara Bags ₹170 Cr"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "TCS HyperVault to invest ₹70,000 Cr to set up AI Data Centre in Hyderabad"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Those who put India in Fragile 5 doubting GDP: PM Modi"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-06T06:01:16+05:30"
     }
   ]
 }
