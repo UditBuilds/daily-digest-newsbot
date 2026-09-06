@@ -8381,6 +8381,47 @@
         "YourStory"
       ],
       "sent_at": "2026-09-06T06:01:16+05:30"
+    },
+    {
+      "date": "2026-09-06",
+      "slot": "evening",
+      "theme": "US envoys push for peace in Ukraine, while OpenAI launches a new AI model and Ola Electric raises capital.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US envoys Witkoff, Kushner arrive in Kyiv after talks with Putin in Moscow"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "UBS demands new junior bankers show AI proficiency"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Astra, facing subscriber delays"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric clears Rs 1,500 Cr fund raise; COO quits"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Singapore minister hits out at anti-India racism after Nepal floods"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-06T18:01:57+05:30"
     }
   ]
 }
