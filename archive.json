@@ -8422,6 +8422,48 @@
         "YourStory"
       ],
       "sent_at": "2026-09-06T18:01:57+05:30"
+    },
+    {
+      "date": "2026-09-06",
+      "slot": "evening",
+      "theme": "China expands military testing capabilities while OpenAI faces rollout challenges for its new AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China expands desert flight-test facility for stealth jets"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China states it will not allow any country to achieve AI dominance"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Astra, faces rollout delays"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Manipal Payment IPO price band fixed at Rs 322-339; issue opens September 9"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Amit Shah states Naxalism eradicated, narcotics next target by 2029"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-06T21:07:24+05:30"
     }
   ]
 }
