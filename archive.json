@@ -8427,6 +8427,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-07T18:01:34+05:30"
+    },
+    {
+      "date": "2026-09-07",
+      "slot": "evening",
+      "theme": "Sweden boosts defense with US arms, while OpenAI unveils its new GPT-6 Astra model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Sweden buys US rocket artillery for US$730 million amid Russia fears"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Nvidia's Jensen Huang declares 'AGI has arrived' as OpenAI unveils GPT-6 Astra"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Swiggy To Sell Lynk To Udaan For ₹500 Cr, Pick Up 3.2% Stake In B2B Unicorn"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Space ecosystem has to grow': Isro chief defends expanding private sector role"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space wars are no longer science fiction: How nations are preparing for conflict in orbit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-07T23:19:55+05:30"
     }
   ]
 }
