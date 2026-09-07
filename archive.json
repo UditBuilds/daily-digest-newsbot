@@ -1,100 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-08",
-      "slot": "morning",
-      "theme": "Iran fires missiles at Israel, escalating Middle East tensions, while Indian startups raise over $77 million in funding.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Iran fires missiles at Israel after Beirut attack"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI is still working on that ‘super app’"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic wants caution but the market wants more AI"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "18 Indian startups raise over $77 million in funding"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "INDIA bloc eyes reset after DMK and TMC changes"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-08T06:01:13+05:30"
-    },
-    {
-      "date": "2026-06-08",
-      "slot": "evening",
-      "theme": "China's Xi Jinping arrives in North Korea with advanced warships and AI drones, while India urges de-escalation in the Middle East conflict.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "China’s Xi Jinping arrives in North Korea with advanced warships and AI drones"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI solved an 80-year-old puzzle"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI plans largest ChatGPT revamp since launch"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Immuneel Therapeutics raises ₹100 Cr to take its gene therapy for blood cancer global"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India urges de-escalation as Israel-Iran exchange fire"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-08T18:01:12+05:30"
-    },
-    {
       "date": "2026-06-09",
       "slot": "morning",
       "theme": "Trump nominates Todd Blanche as attorney general, teeing up a US Senate fight, while OpenAI files confidentially for IPO, and Zepto plans a ₹8,010 Cr fresh issue.",
@@ -8464,6 +8370,63 @@
         "YourStory"
       ],
       "sent_at": "2026-09-06T21:07:24+05:30"
+    },
+    {
+      "date": "2026-09-07",
+      "slot": "evening",
+      "theme": "Israel escalates strikes in Lebanon, while OpenAI rolls out GPT-6 Astra and India's Defence Ministry approves ₹1.10 lakh crore in acquisitions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli air strikes kill at least 10 in southern Lebanon"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China warns against ‘third party’ interference after reports of US pressure on Mexico"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Astra, faces user lockout issues"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Upstox Launches US Stock Investing After IFSCA Nod"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Defence ministry clears Rs 1.10 lakh crore acquisition proposals for Armed Forces"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "LPG refill booking interval cut to 25 days in rural areas, matching urban rule"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-07T18:01:34+05:30"
     }
   ]
 }

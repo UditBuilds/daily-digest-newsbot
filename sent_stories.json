@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US envoys meet Putin in Moscow for Ukraine talks",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "Argentina threatens to sanction oil projects around Falkland Islands",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft over AI training data",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "Anthropic launches Fable 5.1",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "GPT-6 Astra Launches at $10/$50",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "D2C Luggage Brand Mokobara Bags ₹170 Cr",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "TCS HyperVault to invest ₹70,000 Cr to set up AI Data Centre in Hyderabad",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
-      "headline": "Those who put India in Fragile 5 doubting GDP: PM Modi",
-      "sent_at": "2026-09-06T00:31:16.162761+00:00"
-    },
-    {
       "headline": "US envoys Witkoff, Kushner arrive in Kyiv after talks with Putin in Moscow",
       "sent_at": "2026-09-06T12:31:57.024440+00:00"
     },
@@ -71,6 +39,38 @@
     {
       "headline": "Amit Shah states Naxalism eradicated, narcotics next target by 2029",
       "sent_at": "2026-09-06T15:37:24.502582+00:00"
+    },
+    {
+      "headline": "Israeli air strikes kill at least 10 in southern Lebanon",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "China warns against ‘third party’ interference after reports of US pressure on Mexico",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Astra, faces user lockout issues",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "Upstox Launches US Stock Investing After IFSCA Nod",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "Defence ministry clears Rs 1.10 lakh crore acquisition proposals for Armed Forces",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
+    },
+    {
+      "headline": "LPG refill booking interval cut to 25 days in rural areas, matching urban rule",
+      "sent_at": "2026-09-07T12:31:34.953625+00:00"
     }
   ]
 }
