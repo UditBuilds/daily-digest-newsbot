@@ -1,105 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-09",
-      "slot": "morning",
-      "theme": "Trump nominates Todd Blanche as attorney general, teeing up a US Senate fight, while OpenAI files confidentially for IPO, and Zepto plans a ₹8,010 Cr fresh issue.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US sanctions over 100 Nicaraguan officials and relatives with travel ban"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI files confidentially for IPO, following Anthropic"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI confirms confidential S-1 submission to the SEC"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Zepto files UDRHP, plans ₹8,010 Cr fresh issue"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Mamata & Abhishek Banerjee in Delhi, TMC mutiny spreads to Parliament"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-09T06:01:11+05:30"
-    },
-    {
-      "date": "2026-06-09",
-      "slot": "evening",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta and Anthropic make significant moves in the AI space.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US and China engage in high-level talks over Chagos Islands"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Apple's slow-and-steady AI approach gains traction"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic to release Mythos AI publicly on June 9"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Ex-Mirae Asset CEO Ashish Dave floats ₹1,000 Cr fund for growth stage startups"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India deploys 12 nuclear warheads for the first time"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Scientists propose 'space airbags' to protect Earth from solar storms"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Meta AI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-09T18:01:19+05:30"
-    },
-    {
       "date": "2026-06-10",
       "slot": "morning",
       "theme": "Anthropic releases a 'safe' version of its Claude Mythos AI model to the public, while India's D2C startups attract significant funding and the US strikes Iran after a helicopter downing near Hormuz.",
@@ -8474,6 +8375,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-07T23:19:55+05:30"
+    },
+    {
+      "date": "2026-09-08",
+      "slot": "morning",
+      "theme": "India joins 24 nations for 6G network development while OpenAI launches a new GPT model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump posts US Space Force uniforms based on Nazi-inspired movie outfits"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI chief scientist urges ‘extreme caution’ with pace of artificial intelligence"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra: A new generation of intelligence"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Shiprocket Trims Q1 Loss By 24% YoY To ₹13.7 Cr, Revenue Surges 34%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India joins US, 24 nations in push for next-generation 6G networks"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronaut Anil Menon Shares Early Morning Space Station View, Calls Cupola His Meditation Spot"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-08T06:01:20+05:30"
     }
   ]
 }
