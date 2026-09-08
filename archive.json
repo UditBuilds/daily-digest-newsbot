@@ -8422,6 +8422,49 @@
         "YourStory"
       ],
       "sent_at": "2026-09-08T06:01:20+05:30"
+    },
+    {
+      "date": "2026-09-08",
+      "slot": "morning",
+      "theme": "Russia resumes Kyiv strikes while OpenAI launches a new model and Indian spacetech raises $100M.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic abandons $6 billion acquisition talks with AI startup Decart AI after due diligence"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pixxel bags $100M in India’s biggest spacetech fundraise; Food delivery app Swish to raise Rs 225 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Sar tan se juda' challenges India's sovereignty: HC rejects Taukir Raza's bail plea"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-08T10:28:27+05:30"
     }
   ]
 }
