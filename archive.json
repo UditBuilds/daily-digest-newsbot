@@ -8512,6 +8512,68 @@
         "YourStory"
       ],
       "sent_at": "2026-09-08T18:01:18+05:30"
+    },
+    {
+      "date": "2026-09-08",
+      "slot": "evening",
+      "theme": "UK, France, and Canada sanction Israeli settlements, while Mistral secures €3 billion in AI funding and OpenAI launches GPT-6 Astra.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK, France, Canada block imports from Israeli West Bank settlements"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hungary expels 10 Russian diplomats, Moscow vows ‘painful’ response"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Mistral raises €3B as sovereign AI becomes big business"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI officially launches GPT-6 Astra: How to try it"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "UK-Israel spat gets ugly: Tel Aviv to close British consulate in Jerusalem"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time - Space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-08T22:17:35+05:30"
     }
   ]
 }
