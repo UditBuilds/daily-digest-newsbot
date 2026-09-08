@@ -8465,6 +8465,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-08T10:28:27+05:30"
+    },
+    {
+      "date": "2026-09-08",
+      "slot": "evening",
+      "theme": "Qatar prioritizes China's energy supply while French AI startup Mistral raises $3.5 billion at a $24 billion valuation.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Qatar Prioritizes China's Energy Amid Middle East Tensions"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "French AI Startup Mistral Raises $3.5 Billion, Valuation Hits $24 Billion"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple Expands AI and Engineering Hiring in India"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "W Health Ventures Closes Second Fund at ₹700 Crore"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "NIA Chargesheets US Citizen, 6 Ukrainians in Anti-India Terror Conspiracy"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Asteroid Detected Before Impact Explodes Over Australia"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-08T18:01:18+05:30"
     }
   ]
 }
