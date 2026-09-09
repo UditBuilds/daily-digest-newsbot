@@ -8547,6 +8547,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-09T06:01:23+05:30"
+    },
+    {
+      "date": "2026-09-09",
+      "slot": "morning",
+      "theme": "US and Iran escalate military actions, while Meta launches a new AI agent and India considers AI-driven UPI payments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US strikes Iranian oil tankers as Tehran targets American base in Jordan"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta debuts its Muse AI agent. Will consumers trust it?"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind has released 'AlphaGenome Atlas,' a database that predicts the effects of approximately 9 billion possible mutations in the human genome."
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Quantum Cybersecurity Startup QNu Labs Nets ₹200 Cr To Scale R&D"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "AI agents may soon be able to make UPI payments for users: How it may work"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-09T10:28:11+05:30"
     }
   ]
 }
