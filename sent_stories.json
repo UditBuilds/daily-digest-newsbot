@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Sweden buys US rocket artillery for US$730 million amid Russia fears",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "Nvidia's Jensen Huang declares 'AGI has arrived' as OpenAI unveils GPT-6 Astra",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "Swiggy To Sell Lynk To Udaan For ₹500 Cr, Pick Up 3.2% Stake In B2B Unicorn",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "'Space ecosystem has to grow': Isro chief defends expanding private sector role",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "Space wars are no longer science fiction: How nations are preparing for conflict in orbit",
-      "sent_at": "2026-09-07T17:49:55.780955+00:00"
-    },
-    {
-      "headline": "Trump posts US Space Force uniforms based on Nazi-inspired movie outfits",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
-      "headline": "OpenAI chief scientist urges ‘extreme caution’ with pace of artificial intelligence",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
-      "headline": "Shiprocket Trims Q1 Loss By 24% YoY To ₹13.7 Cr, Revenue Surges 34%",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
-      "headline": "India joins US, 24 nations in push for next-generation 6G networks",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
-      "headline": "Astronaut Anil Menon Shares Early Morning Space Station View, Calls Cupola His Meditation Spot",
-      "sent_at": "2026-09-08T00:31:20.918546+00:00"
-    },
-    {
       "headline": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
       "sent_at": "2026-09-08T04:58:27.199623+00:00"
     },
@@ -127,6 +79,50 @@
     {
       "headline": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time - Space",
       "sent_at": "2026-09-08T16:47:35.608159+00:00"
+    },
+    {
+      "headline": "US destroys 5 Iranian oil tankers after missile attacks on warship",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "Trump bans some Canada goods, puts 50% tariffs on others",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "Meta debuts its Muse AI agent, betting on consumer adoption",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "Cognition hits $48B valuation, signaling investor confidence in AI coding market",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "US-Based Circle to acquire Peak XV-backed Tazapay in $400M stock deal",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "PE Giant TPG sells Shadowfax shares in a ₹200 Cr bulk deal",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "Ahead of BRICS, India & China hold military talks in Arunachal",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "On Putin's agenda, sale of 5th-generation jets to India",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
+    },
+    {
+      "headline": "World’s Largest Gun Aims to Shoot Satellites Into Space",
+      "sent_at": "2026-09-09T00:31:23.416390+00:00"
     }
   ]
 }
