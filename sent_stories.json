@@ -1,86 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
-      "sent_at": "2026-09-08T04:58:27.199623+00:00"
-    },
-    {
-      "headline": "Anthropic abandons $6 billion acquisition talks with AI startup Decart AI after due diligence",
-      "sent_at": "2026-09-08T04:58:27.199623+00:00"
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra",
-      "sent_at": "2026-09-08T04:58:27.199623+00:00"
-    },
-    {
-      "headline": "Pixxel bags $100M in India’s biggest spacetech fundraise; Food delivery app Swish to raise Rs 225 Cr",
-      "sent_at": "2026-09-08T04:58:27.199623+00:00"
-    },
-    {
-      "headline": "'Sar tan se juda' challenges India's sovereignty: HC rejects Taukir Raza's bail plea",
-      "sent_at": "2026-09-08T04:58:27.199623+00:00"
-    },
-    {
-      "headline": "Qatar Prioritizes China's Energy Amid Middle East Tensions",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "French AI Startup Mistral Raises $3.5 Billion, Valuation Hits $24 Billion",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "Apple Expands AI and Engineering Hiring in India",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "W Health Ventures Closes Second Fund at ₹700 Crore",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "NIA Chargesheets US Citizen, 6 Ukrainians in Anti-India Terror Conspiracy",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "Asteroid Detected Before Impact Explodes Over Australia",
-      "sent_at": "2026-09-08T12:31:18.419739+00:00"
-    },
-    {
-      "headline": "UK, France, Canada block imports from Israeli West Bank settlements",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "Hungary expels 10 Russian diplomats, Moscow vows ‘painful’ response",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "Mistral raises €3B as sovereign AI becomes big business",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "OpenAI officially launches GPT-6 Astra: How to try it",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "UK-Israel spat gets ugly: Tel Aviv to close British consulate in Jerusalem",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
-      "headline": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time - Space",
-      "sent_at": "2026-09-08T16:47:35.608159+00:00"
-    },
-    {
       "headline": "US destroys 5 Iranian oil tankers after missile attacks on warship",
       "sent_at": "2026-09-09T00:31:23.416390+00:00"
     },
@@ -143,6 +63,26 @@
     {
       "headline": "AI agents may soon be able to make UPI payments for users: How it may work",
       "sent_at": "2026-09-09T04:58:11.057878+00:00"
+    },
+    {
+      "headline": "Hong Kong mourns Tung Chee-hwa, its pioneering first leader",
+      "sent_at": "2026-09-09T16:49:27.832027+00:00"
+    },
+    {
+      "headline": "Anthropic researcher quits, warns against self-improving AI",
+      "sent_at": "2026-09-09T16:49:27.832027+00:00"
+    },
+    {
+      "headline": "Anthropic model tests AI impact on U.S. economy",
+      "sent_at": "2026-09-09T16:49:27.832027+00:00"
+    },
+    {
+      "headline": "Fleet Management Startup Carrum Mobility Raises $10 Mn From Uber",
+      "sent_at": "2026-09-09T16:49:27.832027+00:00"
+    },
+    {
+      "headline": "Photon from cosmic explosion appears to defy Einstein",
+      "sent_at": "2026-09-09T16:49:27.832027+00:00"
     }
   ]
 }

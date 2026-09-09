@@ -8594,6 +8594,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-09T10:28:11+05:30"
+    },
+    {
+      "date": "2026-09-09",
+      "slot": "evening",
+      "theme": "Hong Kong mourns its first leader, while an Anthropic researcher warns against self-improving AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hong Kong mourns Tung Chee-hwa, its pioneering first leader"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic researcher quits, warns against self-improving AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic model tests AI impact on U.S. economy"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Fleet Management Startup Carrum Mobility Raises $10 Mn From Uber"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Photon from cosmic explosion appears to defy Einstein"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-09T22:19:27+05:30"
     }
   ]
 }
