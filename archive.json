@@ -8626,6 +8626,55 @@
         "YourStory"
       ],
       "sent_at": "2026-09-10T10:35:19+05:30"
+    },
+    {
+      "date": "2026-09-10",
+      "slot": "evening",
+      "theme": "China's President Xi Jinping confirms his visit to India for the BRICS summit, while Anthropic faces its fourth AI hacking incident.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China confirms Xi Jinping's India visit for BRICS summit on Sept 12-13"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "California Governor Newsom signs AI regulation bills into law"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic discloses fourth AI hacking incident involving Claude Opus 4.6"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C fashion startup Theater bags ₹75 Cr to expand offline"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Quick food delivery startup Swish raises $24 Mn to expand network"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Apple launches iPhone Duo, 18 Pro & Pro Max in India"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-10T18:01:27+05:30"
     }
   ]
 }
