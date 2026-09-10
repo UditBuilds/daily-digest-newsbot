@@ -1,109 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-11",
-      "slot": "morning",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta bets big on paid social media and Anthropic releases a new AI model.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "FBI disables 13 Chinese suspected spying websites targeting US officials"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic releases first Mythos-level model for general use"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "4baseCare Bags ₹38 Cr To Close Series B Round At ₹128 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Trump congratulates Modi on becoming India's longest-serving elected PM"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Astronauts Could Grow Their Own Medicines in Space Using Plants"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-11T06:01:09+05:30"
-    },
-    {
-      "date": "2026-06-11",
-      "slot": "evening",
-      "theme": "India faces geopolitical tensions with Bangladesh and the US, while Anthropic's new AI model sparks controversy and Indian startups secure significant funding.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Three Indian sailors confirmed dead in US strike off Oman"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic apologizes for invisible Claude Fable guardrails"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "D2C brand Manam Chocolate nets $9 Mn to expand retail footprint"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'Human shield' on India border: Bangladesh opposition to launch protest over alleged 'push-ins'"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-11T18:01:18+05:30"
-    },
-    {
       "date": "2026-06-12",
       "slot": "morning",
       "theme": "Israel escalates in Lebanon while Meta bets on paid social media, and India's growth engines are in the spotlight.",
@@ -8641,6 +8538,58 @@
         "YourStory"
       ],
       "sent_at": "2026-09-09T22:19:27+05:30"
+    },
+    {
+      "date": "2026-09-10",
+      "slot": "morning",
+      "theme": "Iran faces UN Security Council referral over nuclear non-compliance while Apple launches its first foldable iPhone in India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran referred to UN Security Council for nuclear non-compliance"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple introduces Apple Reference Image to verify iPhone photo authenticity"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic reports fourth cybersecurity incident with early Claude version"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Apple unveils first foldable iPhone Duo, priced ₹3 Lakh in India"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Flipkart debuts standalone app for quick commerce platform Minutes"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Teenager Rohan Arni uses AI to classify mysterious radio flashes from space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-10T06:01:25+05:30"
     }
   ]
 }
