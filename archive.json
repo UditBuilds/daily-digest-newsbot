@@ -1,108 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-12",
-      "slot": "morning",
-      "theme": "Israel escalates in Lebanon while Meta bets on paid social media, and India's growth engines are in the spotlight.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Killing of Indian sailors sparks tensions"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Deezer’s new tool identifies AI music"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic releases Claude Fable 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "ADIA offloads Lenskart shares"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "SC to hear Natarajan’s plea"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-12T06:01:21+05:30"
-    },
-    {
-      "date": "2026-06-12",
-      "slot": "evening",
-      "theme": "Israel and Iran are on the brink of a major conflict, while China and the US engage in a tech war, and India's startup ecosystem sees significant funding and developments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US and Iran inch closer to signing deal to reopen Strait of Hormuz"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic's Claude Fable 5 is the smartest AI model, but why that's not the same as being the best one"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "AUM Ventures Launches ₹750 Cr Fund To Back Deeptech Startups"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Sensex ends around 1,700 points up; investors richer by Rs 10.2 lakh cr"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "'Little red dots' in the early universe may be a little less mysterious"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-12T18:02:03+05:30"
-    },
-    {
       "date": "2026-06-13",
       "slot": "morning",
       "theme": "Elon Musk becomes the world's first trillionaire after SpaceX IPO, while India demands action after a US strike kills Indian sailors.",
@@ -8723,6 +8621,58 @@
         "YourStory"
       ],
       "sent_at": "2026-09-10T22:05:41+05:30"
+    },
+    {
+      "date": "2026-09-11",
+      "slot": "morning",
+      "theme": "Israel escalates attacks in Lebanon while OpenAI expands ChatGPT into financial services and India tightens e-commerce rules.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Launches ChatGPT For Financial Services In Partnership With Top Brokerages, Research Firms Including Morgan Stanley, S&P"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Govt Tightens Ecommerce Rules Ahead Of The Festive Season"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Putin lands in Delhi for Brics Summit, to meet PM Modi today"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Pashinyan presents Armenia’s space ambitions at Paris summit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-11T06:01:20+05:30"
     }
   ]
 }

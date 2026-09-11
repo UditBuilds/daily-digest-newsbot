@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Hong Kong mourns Tung Chee-hwa, its pioneering first leader",
-      "sent_at": "2026-09-09T16:49:27.832027+00:00"
-    },
-    {
-      "headline": "Anthropic researcher quits, warns against self-improving AI",
-      "sent_at": "2026-09-09T16:49:27.832027+00:00"
-    },
-    {
-      "headline": "Anthropic model tests AI impact on U.S. economy",
-      "sent_at": "2026-09-09T16:49:27.832027+00:00"
-    },
-    {
-      "headline": "Fleet Management Startup Carrum Mobility Raises $10 Mn From Uber",
-      "sent_at": "2026-09-09T16:49:27.832027+00:00"
-    },
-    {
-      "headline": "Photon from cosmic explosion appears to defy Einstein",
-      "sent_at": "2026-09-09T16:49:27.832027+00:00"
-    },
-    {
       "headline": "Iran referred to UN Security Council for nuclear non-compliance",
       "sent_at": "2026-09-10T00:31:25.356523+00:00"
     },
@@ -103,6 +83,30 @@
     {
       "headline": "BRICS Summit: PM Modi to meet Putin tomorrow; talks with Xi on Saturday",
       "sent_at": "2026-09-10T16:35:41.872954+00:00"
+    },
+    {
+      "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "OpenAI Launches ChatGPT For Financial Services In Partnership With Top Brokerages, Research Firms Including Morgan Stanley, S&P",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "Govt Tightens Ecommerce Rules Ahead Of The Festive Season",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "Putin lands in Delhi for Brics Summit, to meet PM Modi today",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "Pashinyan presents Armenia’s space ambitions at Paris summit",
+      "sent_at": "2026-09-11T00:31:20.679216+00:00"
     }
   ]
 }
