@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran referred to UN Security Council for nuclear non-compliance",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
-      "headline": "Apple introduces Apple Reference Image to verify iPhone photo authenticity",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
-      "headline": "Anthropic reports fourth cybersecurity incident with early Claude version",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
-      "headline": "Apple unveils first foldable iPhone Duo, priced ₹3 Lakh in India",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
-      "headline": "Flipkart debuts standalone app for quick commerce platform Minutes",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
-      "headline": "Teenager Rohan Arni uses AI to classify mysterious radio flashes from space",
-      "sent_at": "2026-09-10T00:31:25.356523+00:00"
-    },
-    {
       "headline": "August was hottest month ever recorded globally, scientists say",
       "sent_at": "2026-09-10T05:05:19.056711+00:00"
     },
@@ -107,6 +83,38 @@
     {
       "headline": "Pashinyan presents Armenia’s space ambitions at Paris summit",
       "sent_at": "2026-09-11T00:31:20.679216+00:00"
+    },
+    {
+      "headline": "Israel destroys Hezbollah tunnel network in Lebanon, triggering tremor",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "South China Sea: Manila says flares fired at aircraft near Subi, Mischief Reefs",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "Introducing ChatGPT for Financial Services - OpenAI",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "India adds 30 new nuclear warheads, total at 190: US Study",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
+    },
+    {
+      "headline": "Mercury may be shrinking faster than scientists expected - NBC News",
+      "sent_at": "2026-09-11T04:57:29.457628+00:00"
     }
   ]
 }

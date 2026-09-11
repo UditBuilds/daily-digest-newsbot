@@ -8673,6 +8673,65 @@
         "YourStory"
       ],
       "sent_at": "2026-09-11T06:01:20+05:30"
+    },
+    {
+      "date": "2026-09-11",
+      "slot": "morning",
+      "theme": "Israel destroys Hezbollah tunnels, while OpenAI launches ChatGPT for financial services and India's Pocket FM doubles revenue with AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel destroys Hezbollah tunnel network in Lebanon, triggering tremor"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South China Sea: Manila says flares fired at aircraft near Subi, Mischief Reefs"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Introducing ChatGPT for Financial Services - OpenAI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India adds 30 new nuclear warheads, total at 190: US Study"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Mercury may be shrinking faster than scientists expected - NBC News"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-11T10:27:29+05:30"
     }
   ]
 }
