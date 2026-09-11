@@ -8732,6 +8732,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-11T10:27:29+05:30"
+    },
+    {
+      "date": "2026-09-11",
+      "slot": "evening",
+      "theme": "Anthropic identifies AI misuse in biological weapons and espionage, while India's Popo Global raises ₹532 Cr for its restaurant brands.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Anthropic blocks possible attempt to use AI to make biological weapons"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Beijing freezes plant approvals for energy-storage batteries amid overcapacity fears"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic claims Claude AI used for missile projects, global espionage"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Paris Panini Parent Popo Global Raises ₹532 Cr From Artal Asia"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Triptii Dimri Backs D2C Brand Peep Beauty As Investor, Co-Creator"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Putin invites PM Modi to Russia for 24th annual summit - key points from Brics summit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-11T18:01:30+05:30"
     }
   ]
 }
