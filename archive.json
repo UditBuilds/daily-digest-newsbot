@@ -8780,6 +8780,57 @@
         "YourStory"
       ],
       "sent_at": "2026-09-11T18:01:30+05:30"
+    },
+    {
+      "date": "2026-09-11",
+      "slot": "evening",
+      "theme": "BRICS leaders discuss global trade and influence while AI models face scrutiny for misuse.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Twenty-Five Years After 9/11: Terrorism, geopolitics and the changing global order"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta says it’s changing AI suggestions after posing invasive personal questions"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Says Yemen Group Used Claude in Missile Development"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "{Funding Alert} Triptii Dimri Joins D2C Beauty Startup Peep Beauty as Investor"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Trade barriers rising globally, India building bridges': PM Modi at Brics forum"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists discover mysterious new X-ray objects 'unlike any they have seen before'"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-11T22:10:36+05:30"
     }
   ]
 }
