@@ -8798,6 +8798,51 @@
         "YourStory"
       ],
       "sent_at": "2026-09-12T10:20:27+05:30"
+    },
+    {
+      "date": "2026-09-12",
+      "slot": "evening",
+      "theme": "Saudi Arabia faces oil disruption from an Iraqi drone attack while BRICS leaders discuss global cooperation and AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi Arabia shuts key oil pipeline after drone attack from Iraq"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Chinese leader Xi calls for cooperation on AI-powered industrial plan at BRICS summit"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zomato Starts Charging Cash-On-Delivery Customers Up To ₹21 Extra"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Terrorism, trade, tariffs & wars: What's in India's hard-won Brics declaration"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-12T18:01:18+05:30"
     }
   ]
 }
