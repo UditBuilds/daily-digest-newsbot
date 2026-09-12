@@ -8751,6 +8751,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-12T06:01:18+05:30"
+    },
+    {
+      "date": "2026-09-12",
+      "slot": "morning",
+      "theme": "Anthropic exposes Claude AI misuse for weapons development while Indian startups raise over $321M.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "America marks 25th anniversary of 9/11 attacks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Mecka AI nears $500M valuation in Sequoia-led deal"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic finds Claude AI used for missile, influence projects in UAE, Iran, Yemen"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raised Over $321.9 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "China Southern to resume Guangzhou-Delhi flights ahead of Xi's India visit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-12T10:20:27+05:30"
     }
   ]
 }
