@@ -8843,6 +8843,59 @@
         "YourStory"
       ],
       "sent_at": "2026-09-12T18:01:18+05:30"
+    },
+    {
+      "date": "2026-09-12",
+      "slot": "evening",
+      "theme": "BRICS nations discuss global economic order while AI companies face scrutiny over misuse and new model releases.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran celebrates Houthis’ capture of Yemen’s Red Sea coast"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic CEO Dario Amodei calls for AI development slowdown"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic reports Yemen-based group used Claude AI for missile development"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI announces GPT-6 Astra for enterprise intelligence"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart Minutes achieves 4X YoY growth, expands to 150 cities"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi pitches three 'mutuals' for India-China ties at BRICS"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronaut Anil Menon demonstrates health checkups in space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-12T21:13:01+05:30"
     }
   ]
 }
