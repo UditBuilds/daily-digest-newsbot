@@ -1,99 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-14",
-      "slot": "morning",
-      "theme": "Trump announces a deal to end the war in the Middle East, while Anthropic pulls its most powerful AI models after a US ban.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump says deal to end war to be signed on Sunday, but Iran questions timing"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic pulls Claude Fable 5, Mythos 5 after Trump admin order"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "New-Age Tech Stocks: EaseMyTrip, SEDEMAC Lead Weekly Gains; Yudiz, ideaForge Slip"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Will voice aspirations of Global South at G7 summit: PM Modi"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-14T06:01:18+05:30"
-    },
-    {
-      "date": "2026-06-14",
-      "slot": "evening",
-      "theme": "Royal Marines board Russian shadow fleet oil tanker in English Channel, while India debates its AI future and startups navigate the market.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Royal Marines board Russian shadow fleet oil tanker in English Channel"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "India debates its AI future"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Claude Fable 5 vs GPT 5.5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Indian Startup IPO Tracker 2026"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Indian vessel Virat 1 sank off Oman"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-14T18:01:14+05:30"
-    },
-    {
       "date": "2026-06-15",
       "slot": "morning",
       "theme": "India and France unveil AI framework and trade roadmap after Modi-Macron talks, while the US government's curbs on Anthropic models reignite calls for sovereign AI.",
@@ -8896,6 +8803,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-12T21:13:01+05:30"
+    },
+    {
+      "date": "2026-09-13",
+      "slot": "morning",
+      "theme": "BRICS nations push for global South influence while OpenAI faces criticism for its new GPT-6 Astra model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Houthis hit Saudi base amid renewed fighting with Yemen government forces"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Brics hammers out joint declaration after India bridges Iran-UAE chasm"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-13T06:01:22+05:30"
     }
   ]
 }
