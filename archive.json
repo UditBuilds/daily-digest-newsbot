@@ -8847,6 +8847,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-13T06:01:22+05:30"
+    },
+    {
+      "date": "2026-09-13",
+      "slot": "morning",
+      "theme": "India and Pakistan's water dispute escalates while OpenAI announces its next-gen model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India-Pakistan water row deepens after Hague court ruling"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China bets on early port and power deals in Sudan to secure post-war economic edge"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra: The next generation in intelligence for work"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PM Modi Bats For A Cross-Border Corridor For BRICS Startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "BRICS Summit 2026 LIVE updates: Global leaders express concern about 'growing risks' of nuclear danger and conflict"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-13T10:37:30+05:30"
     }
   ]
 }
