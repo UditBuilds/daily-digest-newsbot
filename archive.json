@@ -8892,6 +8892,65 @@
         "YourStory"
       ],
       "sent_at": "2026-09-14T10:45:29+05:30"
+    },
+    {
+      "date": "2026-09-14",
+      "slot": "evening",
+      "theme": "US blocks Iran's nuclear chief from a Vienna meeting while Indian startups secure funding and Google backs AI for the planet.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US blocks Iran’s nuclear chief from Vienna meeting"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Taiwan's defense logistics under fire over missing chargers for US drones"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China’s spy agency warns of AI risk to national security"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Targets Wall Street With GPT-6 Astra Finance Platform"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Fashion Startup UniqYou Raises Rs 15.8 Cr to Fuel Growth"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Owaisi hits back at Shah’s UCC pledge, questions BJP allies’ independence"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "No cities on the Moon — there isn’t enough water, scientists say"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-14T18:01:26+05:30"
     }
   ]
 }
