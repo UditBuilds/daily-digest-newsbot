@@ -8841,6 +8841,57 @@
         "YourStory"
       ],
       "sent_at": "2026-09-14T06:01:18+05:30"
+    },
+    {
+      "date": "2026-09-14",
+      "slot": "morning",
+      "theme": "OpenAI releases a new AI model for enterprise, while China reduces troops at the LAC, signaling a potential thaw in India-China relations.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SoftBank gets upsized $11.9 billion loan in OpenAI funding push"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zomato’s Latest Fee, Weekly Funding Rundown & More"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "China scales back troops along LAC amid thaw in ties with India; down to 10 Arms Brigade"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Korea Aerospace Administration to hold Space Science Day to cheer Nuri 5th launch"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-14T10:45:29+05:30"
     }
   ]
 }
