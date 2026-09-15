@@ -8952,6 +8952,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-15T06:01:23+05:30"
+    },
+    {
+      "date": "2026-09-15",
+      "slot": "morning",
+      "theme": "Google opens Anthropic's Claude to all engineers, while Nvidia's CEO discusses AI development with Trump.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli Minister Threatens Filmmakers Over Gaza Documentary"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia CEO Jensen Huang Discusses AI Pace with Trump"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google Opens Anthropic's Claude to All Engineers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "NODWIN Gaming Expands into Mainstream Sports"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Air India CEO Summoned Over Immigration Lapse"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-15T10:37:37+05:30"
     }
   ]
 }
