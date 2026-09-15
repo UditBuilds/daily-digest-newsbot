@@ -1,107 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-16",
-      "slot": "morning",
-      "theme": "Israel escalates in Lebanon, while Meta bets $15B that users will pay for social media, and Anthropic's Claude Fable 5 AI model is suspended.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Salesforce acquires AI customer service platform Fin for $3.6B"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Adani Group Partners With Jabil To Build AI Data Infrastructure"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "NCERT to restore original ‘Dancing Girl’ of Mohenjo-daro in class IX textbooks"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-16T06:01:25+05:30"
-    },
-    {
-      "date": "2026-06-16",
-      "slot": "evening",
-      "theme": "SpaceX acquires AI coding startup Cursor for $60 billion, while India's Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US Air Force B-52 bomber crashes in California"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "SpaceX to buy AI coding startup Cursor for $60 billion"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic had 90 minutes to restrict Claude Fable 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Zerodha, Groww, Angel One, and Upstox get approval to enable users to buy US stocks"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Mamata Banerjee files plea in Calcutta high court challenging Bhabanipur poll result"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA attempting to save Swift space telescope before it crashes to Earth"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-16T18:01:43+05:30"
-    },
-    {
       "date": "2026-06-17",
       "slot": "morning",
       "theme": "Israel escalates in Lebanon while SpaceX's valuation balloons past Amazon's, and India's BigBasket sees a change in leadership.",
@@ -9001,6 +8900,58 @@
         "YourStory"
       ],
       "sent_at": "2026-09-14T23:37:55+05:30"
+    },
+    {
+      "date": "2026-09-15",
+      "slot": "morning",
+      "theme": "Anthropic launches a new AI tool for financial advisors while India's government adjusts UPI rules and Amazon expands its logistics network.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Pitches New Claude Tool for Financial Advisers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Govt Notifies New Rules, No MDR For UPI Transactions Under ₹2,000"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Retail inflation surges to 8-month high of 4.8% in August"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Mercury Is Shrinking, and Faster Than We Thought"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-15T06:01:23+05:30"
     }
   ]
 }
