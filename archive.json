@@ -9000,6 +9000,60 @@
         "YourStory"
       ],
       "sent_at": "2026-09-15T10:37:37+05:30"
+    },
+    {
+      "date": "2026-09-15",
+      "slot": "evening",
+      "theme": "Denmark accuses Russia of military aggression, while OpenAI and Anthropic release new AI models for enterprise.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Denmark says Russian frigate fired flares at helicopter"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches new Claude AI finance tool: What traders, analysts need to know"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "SEBI Greenlights Lending Tech Startup Fibe’s ₹750 Cr+ IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Such gimmicks are not new': India on Pak raising bounty on Masood Azhar"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space Wars 2026: US reveals \"space control weapons\" in orbit — Should NASA be concerned?"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-15T18:01:21+05:30"
     }
   ]
 }

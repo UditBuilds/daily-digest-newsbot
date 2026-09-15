@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
-      "headline": "SoftBank gets upsized $11.9 billion loan in OpenAI funding push",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
-      "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
-      "headline": "Zomato’s Latest Fee, Weekly Funding Rundown & More",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
-      "headline": "China scales back troops along LAC amid thaw in ties with India; down to 10 Arms Brigade",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
-      "headline": "Korea Aerospace Administration to hold Space Science Day to cheer Nuri 5th launch",
-      "sent_at": "2026-09-14T05:15:29.949454+00:00"
-    },
-    {
       "headline": "US blocks Iran’s nuclear chief from Vienna meeting",
       "sent_at": "2026-09-14T12:31:26.608054+00:00"
     },
@@ -119,6 +95,34 @@
     {
       "headline": "Air India CEO Summoned Over Immigration Lapse",
       "sent_at": "2026-09-15T05:07:37.351367+00:00"
+    },
+    {
+      "headline": "Denmark says Russian frigate fired flares at helicopter",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "Anthropic launches new Claude AI finance tool: What traders, analysts need to know",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "SEBI Greenlights Lending Tech Startup Fibe’s ₹750 Cr+ IPO",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "'Such gimmicks are not new': India on Pak raising bounty on Masood Azhar",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
+    },
+    {
+      "headline": "Space Wars 2026: US reveals \"space control weapons\" in orbit — Should NASA be concerned?",
+      "sent_at": "2026-09-15T12:31:21.747676+00:00"
     }
   ]
 }
