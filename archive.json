@@ -9100,6 +9100,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-16T10:33:03+05:30"
+    },
+    {
+      "date": "2026-09-16",
+      "slot": "evening",
+      "theme": "A former Kosovo president receives a 25-year war crimes sentence while OpenAI prepares for a major AI release frenzy.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Former Kosovo president Thaci gets 25 years in prison for war crimes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon launches Alexa+ in India with Hindi support"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Is GPT-6 Sol Launch Imminent? OpenAI Poised for a Major AI Release Frenzy This Week"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre declares Pak-based Shahzad Bhatti Network a terrorist organisation under UAPA"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space science: Physicists recreate first moments of cosmic rainstorms"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-16T18:02:23+05:30"
     }
   ]
 }
