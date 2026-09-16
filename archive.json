@@ -1,110 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-17",
-      "slot": "morning",
-      "theme": "Israel escalates in Lebanon while SpaceX's valuation balloons past Amazon's, and India's BigBasket sees a change in leadership.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Day after US, Iran agreed to tentative deal, Israeli strikes kill 4 in Lebanon"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "SpaceX valuation balloons to $2.6T, briefly passes Amazon"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "BigBasket Cofounders Hari Menon, Vipul Parekh Step Down From Executive Roles"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "PM Modi meets Trump after 16 months, with a handshake, not a hug"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-17T06:01:22+05:30"
-    },
-    {
-      "date": "2026-06-17",
-      "slot": "evening",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta bets $15B that users will pay for social media, and India's defense production has surged to a record Rs 1.78 lakh crore.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Geopolitics is complicating the green transition – and China’s moment"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Elon Musk's xAI launches faster Grok Imagine Video 1.5 with improved audio and physics"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "BRND.ME Turns Into Public Entity, Eyes IPO Within 12-18 Months"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Tejas, Akash, BrahMos & more: How India strengthened defence manufacturing over the last decade"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA report: 'hero mode' culture led to $4.6 million antenna failure"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-17T18:01:25+05:30"
-    },
-    {
       "date": "2026-06-18",
       "slot": "morning",
       "theme": "US and Iran finalize a memorandum of understanding, while India's Prime Minister Narendra Modi urges international solidarity at the G7 summit, and Anthropic suspends access to its Claude Fable 5 and Claude Mythos 5 models due to US export control directives.",
@@ -9104,6 +9000,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-15T22:41:45+05:30"
+    },
+    {
+      "date": "2026-09-16",
+      "slot": "morning",
+      "theme": "US military confronts Iran over a sea drone, while Anthropic expands Claude's AI capabilities for small businesses and financial advisors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US military destroys Iranian boats attempting to steal sea drone"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia CEO Jensen Huang states AI regulation is unnecessary, safety is an engineering problem"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude for Small Business Sales and Financial Advisors"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CCPA penalises Rapido ₹10 Lakh for 'advanced tipping' prompts"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Meta agrees to report child-safety matters directly to Indian authorities"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA's Roman Space Telescope doubles its lifetime with engine burn"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-16T06:01:15+05:30"
     }
   ]
 }
