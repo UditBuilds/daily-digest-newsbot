@@ -9144,6 +9144,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-17T10:35:52+05:30"
+    },
+    {
+      "date": "2026-09-17",
+      "slot": "evening",
+      "theme": "China urges Iran to de-escalate Houthi attacks while Huawei accelerates its AI chip development to challenge Nvidia.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump will personally greet Xi Jinping at Joint Base Andrews"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Huawei plans Q1 2027 launch of new Ascend 960DT AI chip to compete with Nvidia"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Docs and Slides to make Claude AI stickier"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Applied Materials commits $5 billion to boost India’s semiconductor ecosystem"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "China asks Iran to rein in Houthis after Saudi Arabia seeks help"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists discover Elias, the youngest exoplanet on record"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-17T22:41:52+05:30"
     }
   ]
 }
