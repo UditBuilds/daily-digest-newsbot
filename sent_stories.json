@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Scott Bessent confirms weekend meeting with He Lifeng days before Xi’s US visit",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "Meta expands subscription push with new AI-focused plans",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "Anthropic Releases Salesforce in Claude Plugin With 37 Sales Skills",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "NPCI Sets 0.4% MDR On P2M UPI Transactions Over ₹2,000",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "Fee on UPI payments above Rs 2,000: Who pays and what changes for you",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "Peculiar land bridge separates a pair of colorful lakes in Patagonia — Earth from space",
-      "sent_at": "2026-09-15T17:11:45.920383+00:00"
-    },
-    {
-      "headline": "US military destroys Iranian boats attempting to steal sea drone",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang states AI regulation is unnecessary, safety is an engineering problem",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude for Small Business Sales and Financial Advisors",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
-      "headline": "CCPA penalises Rapido ₹10 Lakh for 'advanced tipping' prompts",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
-      "headline": "Meta agrees to report child-safety matters directly to Indian authorities",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
-      "headline": "NASA's Roman Space Telescope doubles its lifetime with engine burn",
-      "sent_at": "2026-09-16T00:31:15.518484+00:00"
-    },
-    {
       "headline": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
       "sent_at": "2026-09-16T05:03:03.657353+00:00"
     },
@@ -95,6 +47,30 @@
     {
       "headline": "Space science: Physicists recreate first moments of cosmic rainstorms",
       "sent_at": "2026-09-16T12:32:23.049523+00:00"
+    },
+    {
+      "headline": "US Federal Reserve raises interest rates for first time in 3 years, irking Trump",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
+    },
+    {
+      "headline": "Your AI agents can now control your Google Home devices",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
+    },
+    {
+      "headline": "Novo Nordisk Will Use Anthropic’s Claude for Drug Research",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
+    },
+    {
+      "headline": "Peak XV Partners Sells Groww Shares Worth ₹1,756.2 Cr",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
+    },
+    {
+      "headline": "Govt lowers export levies on petrol, diesel and aviation turbine fuel",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
+    },
+    {
+      "headline": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
+      "sent_at": "2026-09-17T00:31:17.220609+00:00"
     }
   ]
 }
