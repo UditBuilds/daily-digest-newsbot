@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "EU's von der Leyen wants Canada to become bloc's first associate member",
-      "sent_at": "2026-09-17T05:05:52.845233+00:00"
-    },
-    {
-      "headline": "Anthropic Merges Chat And Cowork, Claude Now Decides For You",
-      "sent_at": "2026-09-17T05:05:52.845233+00:00"
-    },
-    {
-      "headline": "GPT-6 Astra: The next generation in intelligence for work",
-      "sent_at": "2026-09-17T05:05:52.845233+00:00"
-    },
-    {
-      "headline": "PhonePe Eyes 2027 IPO",
-      "sent_at": "2026-09-17T05:05:52.845233+00:00"
-    },
-    {
-      "headline": "'Committed to ensuring energy security': India reacts as 100% Trump tariff looms",
-      "sent_at": "2026-09-17T05:05:52.845233+00:00"
-    },
-    {
       "headline": "Trump will personally greet Xi Jinping at Joint Base Andrews",
       "sent_at": "2026-09-17T17:11:52.388595+00:00"
     },
@@ -95,6 +75,30 @@
     {
       "headline": "This million-year-old 'baby planet' is the youngest world scientists have ever discovered",
       "sent_at": "2026-09-18T04:58:04.595210+00:00"
+    },
+    {
+      "headline": "China may equip its sixth-generation fighter jets with laser weapons",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
+    },
+    {
+      "headline": "Interpol leverages AI to identify 126 terrorism suspects",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
+    },
+    {
+      "headline": "Security researchers used Anthropic's Claude to ethically hack OpenAI's systems",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
+    },
+    {
+      "headline": "Asiana Fund and JC Capital launch ₹1,000 Cr fund for Indian deeptech startups",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
+    },
+    {
+      "headline": "India rejects Pakistan's claims over naval collision, cites maritime norms violation",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
+    },
+    {
+      "headline": "Astronaut Anil Menon captures yellow-gold star trail over India from Space Station",
+      "sent_at": "2026-09-18T12:31:21.548414+00:00"
     }
   ]
 }

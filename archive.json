@@ -9203,6 +9203,55 @@
         "YourStory"
       ],
       "sent_at": "2026-09-18T10:28:04+05:30"
+    },
+    {
+      "date": "2026-09-18",
+      "slot": "evening",
+      "theme": "China's military advances with laser weapons while security researchers use Anthropic's Claude to breach OpenAI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China may equip its sixth-generation fighter jets with laser weapons"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Interpol leverages AI to identify 126 terrorism suspects"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Security researchers used Anthropic's Claude to ethically hack OpenAI's systems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Asiana Fund and JC Capital launch ₹1,000 Cr fund for Indian deeptech startups"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India rejects Pakistan's claims over naval collision, cites maritime norms violation"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronaut Anil Menon captures yellow-gold star trail over India from Space Station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-18T18:01:21+05:30"
     }
   ]
 }
