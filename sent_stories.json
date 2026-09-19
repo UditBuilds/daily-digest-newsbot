@@ -1,58 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Malaysia's Najib Razak granted house arrest by Pardons Board",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "US to allow Iranian leaders to attend UN meeting in New York amid wartime stand-off",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "Anthropic says its model Claude is helping to build the next version of itself",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "Semicon 2.0 has drawn about $12B in investment commitments: IT minister Vaishnaw",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "Tata Electronics signs Nexperia chip deal plus four partnerships spanning materials, packaging, indigenization and talent in India",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "This million-year-old 'baby planet' is the youngest world scientists have ever discovered",
-      "sent_at": "2026-09-18T04:58:04.595210+00:00"
-    },
-    {
-      "headline": "China may equip its sixth-generation fighter jets with laser weapons",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
-      "headline": "Interpol leverages AI to identify 126 terrorism suspects",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
-      "headline": "Security researchers used Anthropic's Claude to ethically hack OpenAI's systems",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
-      "headline": "Asiana Fund and JC Capital launch ₹1,000 Cr fund for Indian deeptech startups",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
-      "headline": "India rejects Pakistan's claims over naval collision, cites maritime norms violation",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
-      "headline": "Astronaut Anil Menon captures yellow-gold star trail over India from Space Station",
-      "sent_at": "2026-09-18T12:31:21.548414+00:00"
-    },
-    {
       "headline": "US Lawmakers Pressure Trump on China Ahead of Xi's Visit",
       "sent_at": "2026-09-18T16:37:26.700803+00:00"
     },
@@ -131,6 +79,30 @@
     {
       "headline": "Pikachu in space! New ESA-Pokemon partnership sends the electric mouse to the ISS",
       "sent_at": "2026-09-19T04:51:10.506398+00:00"
+    },
+    {
+      "headline": "Trump's Greenland Deal Aims to Boost Leverage at Xi Summit",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
+    },
+    {
+      "headline": "India Mandates Caller-ID Apps Share Spam Reports with Telcos",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
+    },
+    {
+      "headline": "Anthropic Considers New AI Model to Rival OpenAI's GPT-6 Astra",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
+    },
+    {
+      "headline": "Indian New-Age Tech Companies Show Divided Investor Sentiment",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
+    },
+    {
+      "headline": "Indian Government Rejects Pressure on Russia Sanctions Bill",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
+    },
+    {
+      "headline": "China-Led Study Reveals 'Greater Gondwana' as 80% of Earth's Crust 500 Million Years Ago",
+      "sent_at": "2026-09-19T12:31:48.452312+00:00"
     }
   ]
 }

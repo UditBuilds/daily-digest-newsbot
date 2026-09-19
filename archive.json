@@ -9312,6 +9312,52 @@
         "YourStory"
       ],
       "sent_at": "2026-09-19T10:21:10+05:30"
+    },
+    {
+      "date": "2026-09-19",
+      "slot": "evening",
+      "theme": "Trump's administration seeks to control media access while Anthropic plans a new AI model to compete with OpenAI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump's Greenland Deal Aims to Boost Leverage at Xi Summit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India Mandates Caller-ID Apps Share Spam Reports with Telcos"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Considers New AI Model to Rival OpenAI's GPT-6 Astra"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian New-Age Tech Companies Show Divided Investor Sentiment"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian Government Rejects Pressure on Russia Sanctions Bill"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "China-Led Study Reveals 'Greater Gondwana' as 80% of Earth's Crust 500 Million Years Ago"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-19T18:01:48+05:30"
     }
   ]
 }
