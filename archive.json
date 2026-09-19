@@ -9255,6 +9255,63 @@
         "YourStory"
       ],
       "sent_at": "2026-09-19T06:01:23+05:30"
+    },
+    {
+      "date": "2026-09-19",
+      "slot": "morning",
+      "theme": "Trump signs Russia sanctions and secures a Greenland deal, while AI models like Google's Gemini and Anthropic's Claude demonstrate hacking capabilities.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump signs sweeping Russia sanctions bill"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says Denmark deal gives US security ‘control’ over Greenland"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google says Gemini AI model breached real systems in security test"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic is operating a lab that conducts biology experiments"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "IIT-Bombay student dies by suicide after being caught using AI; students protest"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Pikachu in space! New ESA-Pokemon partnership sends the electric mouse to the ISS"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-19T10:21:10+05:30"
     }
   ]
 }
