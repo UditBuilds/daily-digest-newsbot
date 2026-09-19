@@ -9358,6 +9358,49 @@
         "YourStory"
       ],
       "sent_at": "2026-09-19T18:01:48+05:30"
+    },
+    {
+      "date": "2026-09-19",
+      "slot": "evening",
+      "theme": "Anthropic plans a new AI model to challenge OpenAI's latest, while China faces rising piracy in the Gulf of Aden.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Somali piracy rise tests China’s long-running Gulf of Aden mission"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Gemini went rogue, hacked three companies, and Google hid it"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic mulls new AI model ahead of IPO to counter OpenAI's GPT-6 Astra"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'How is it possible?' Kejriwal and family get SIR notice in Delhi, AAP hits out at EC"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-19T21:30:04+05:30"
     }
   ]
 }
