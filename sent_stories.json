@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump will personally greet Xi Jinping at Joint Base Andrews",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "Huawei plans Q1 2027 launch of new Ascend 960DT AI chip to compete with Nvidia",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "Anthropic launches Docs and Slides to make Claude AI stickier",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "Applied Materials commits $5 billion to boost India’s semiconductor ecosystem",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "China asks Iran to rein in Houthis after Saudi Arabia seeks help",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "Scientists discover Elias, the youngest exoplanet on record",
-      "sent_at": "2026-09-17T17:11:52.388595+00:00"
-    },
-    {
-      "headline": "US approves $24.3 billion F-35 jet sale to Saudi Arabia",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
-      "headline": "FAA allocates $875M for AI to improve air traffic control",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Code Projects in beta",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
-      "headline": "SEBI greenlights Kuku Technologies’ ₹3,500 Cr IPO",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
-      "headline": "PM Modi pitches India as trusted chipmaking hub at Semicon India 2026",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
-      "headline": "Scientists discover million-year-old 'baby planet'",
-      "sent_at": "2026-09-18T00:31:21.304244+00:00"
-    },
-    {
       "headline": "Malaysia's Najib Razak granted house arrest by Pardons Board",
       "sent_at": "2026-09-18T04:58:04.595210+00:00"
     },
@@ -119,6 +71,34 @@
     {
       "headline": "Saudi Aramco Halts Crude Oil Supply to Some European Refiners for Next Month",
       "sent_at": "2026-09-18T16:37:26.700803+00:00"
+    },
+    {
+      "headline": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "China makes progress in 3-nm chips without advanced lithography tools",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "OpenAI hack: 3 Indian-origin researchers used Anthropic’s Claude to breach systems",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "Pocket FM Eyes 15%-20% EBITDA Margin, Global Expansion With AI-Led Content Push",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "Trump signs Russia sanctions bill into law, allowing up to 100% tariffs on India",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
+    },
+    {
+      "headline": "Earth could lose its oxygen a billion years sooner than expected",
+      "sent_at": "2026-09-19T00:31:23.623336+00:00"
     }
   ]
 }

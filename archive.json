@@ -1,104 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-20",
-      "slot": "morning",
-      "theme": "Reliance's Jio Platforms is set to launch India's largest-ever IPO, raise up to $4 billion, while Anthropic's new models are banned by the US government due to national security concerns.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Poland’s president strips Ukraine’s Zelensky of top award"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic updates Claude Design with code sync, brand controls"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Meta Looking To Back CRED At $4 Bn Valuation: Report"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "At $4 billion, Jio IPO set to be India’s biggest ever"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA attempting to save Swift space telescope before it crashes to Earth"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-20T06:01:16+05:30"
-    },
-    {
-      "date": "2026-06-20",
-      "slot": "evening",
-      "theme": "Beijing plans more surveys east of Taiwan to assert sovereignty, while Indian startups raise $426 million in funding.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Beijing planning more surveys east of Taiwan to assert sovereignty"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Amazon unveils AI-powered capabilities for Indian sellers"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "GPT-5.6 rumors: Is OpenAI stealth testing a new model in ChatGPT?"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Indian startups raise $426 million in funding"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "7 dead, 30 injured after under-construction temple roof collapses in Maharashtra"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Webb telescope finds possible salt clouds on a pink alien world"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-20T18:01:32+05:30"
-    },
-    {
       "date": "2026-06-21",
       "slot": "morning",
       "theme": "Iran closes the Strait of Hormuz amid rising tensions with Israel, while India's waste management startup Recykal raises $23 million in funding.",
@@ -9298,6 +9200,61 @@
         "YourStory"
       ],
       "sent_at": "2026-09-18T22:07:26+05:30"
+    },
+    {
+      "date": "2026-09-19",
+      "slot": "morning",
+      "theme": "US sanctions China and India over Russian energy, while three Indian-origin researchers use Anthropic's Claude to breach OpenAI systems.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China makes progress in 3-nm chips without advanced lithography tools"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "A startup that builds other startups raised $100M, and is all-in on physical AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI hack: 3 Indian-origin researchers used Anthropic’s Claude to breach systems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pocket FM Eyes 15%-20% EBITDA Margin, Global Expansion With AI-Led Content Push"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Trump signs Russia sanctions bill into law, allowing up to 100% tariffs on India"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Earth could lose its oxygen a billion years sooner than expected"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-19T06:01:23+05:30"
     }
   ]
 }
