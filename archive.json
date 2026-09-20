@@ -9393,6 +9393,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-20T10:39:59+05:30"
+    },
+    {
+      "date": "2026-09-20",
+      "slot": "evening",
+      "theme": "North Korea and Russia strengthen ties, while China's AI advances amidst economic challenges.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea fires two missiles amid US drills"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China's AI advances, but economy lags"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic considers new AI model after advocating for slower development"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India's spacetech sector faces investor jitters despite growth"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Ukraine launches over 1,000 drones in \"largest-ever\" attack on Russia"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Shenzhou-23 crew conducts science and health checks on Tiangong space station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-20T18:01:17+05:30"
     }
   ]
 }
