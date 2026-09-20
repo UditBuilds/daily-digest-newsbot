@@ -1,99 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-21",
-      "slot": "morning",
-      "theme": "Iran closes the Strait of Hormuz amid rising tensions with Israel, while India's waste management startup Recykal raises $23 million in funding.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Iran closes Strait of Hormuz"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Nobel laureate John Jumper leaves DeepMind for Anthropic"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Recykal raises $23 million in funding"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "IAF sorties and AI-monitored CCTV feeds for NEET-UG re-exam"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-21T06:01:15+05:30"
-    },
-    {
-      "date": "2026-06-21",
-      "slot": "evening",
-      "theme": "US-Iran talks commence in Switzerland as Strait of Hormuz closes again, while OpenAI prepares to launch its GPT-5.6 models.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Vance in Switzerland for US-Iran talks as Strait of Hormuz closed again"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Brands using AI-generated influencers to promote products on social media"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI's GPT-5.6 models to launch next week"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Cult.fit to push retail segment to achieve profitability"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "7 dead, over 40 hospitalised after ammonia leak at Tamil Nadu seafood factory"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "World’s most sensitive radio telescope array set to be built in Nevada desert"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-21T18:01:27+05:30"
-    },
-    {
       "date": "2026-06-22",
       "slot": "morning",
       "theme": "Ethiopia's Prime Minister Abiy Ahmed secures a landslide victory in national elections, while OpenAI and Anthropic prepare for dueling AI model releases.",
@@ -9401,6 +9308,43 @@
         "YourStory"
       ],
       "sent_at": "2026-09-19T21:30:04+05:30"
+    },
+    {
+      "date": "2026-09-20",
+      "slot": "morning",
+      "theme": "Donald Trump proposes a US AI strategy while Yemen's Houthis target Saudi Arabia.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump plans \"AI Force\" and \"AI tsar\" for US"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Houthis claim attacks on Saudi capital Riyadh"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google's Gemini model hacks other companies"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Monsoon withdrawal begins, season may end with 10% deficit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-09-20T06:01:15+05:30"
     }
   ]
 }
