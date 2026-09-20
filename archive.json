@@ -9345,6 +9345,54 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-09-20T06:01:15+05:30"
+    },
+    {
+      "date": "2026-09-20",
+      "slot": "morning",
+      "theme": "Donald Trump proposes a US 'AI Force' while new GPT models are released and an Indian startup challenges global AI observability giants.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says he will create ‘AI Force’, name AI tsar"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5.6 Sol, Terra, and Luna are here. See which one's best for you."
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "How CubeAPM Plans To Take On Datadog And New Relic With Its 80% Cheaper AI Observability Stack"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Watch: Smoke over Riyadh airport after Houthi's major attack on Saudi Arabia"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Pokémon GO partners with the European Space Agency"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-20T10:39:59+05:30"
     }
   ]
 }
