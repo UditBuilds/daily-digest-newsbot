@@ -9441,6 +9441,55 @@
         "YourStory"
       ],
       "sent_at": "2026-09-20T18:01:17+05:30"
+    },
+    {
+      "date": "2026-09-20",
+      "slot": "evening",
+      "theme": "US and China prepare for a potential leadership summit, while Anthropic's AI model Claude contributes significantly to its own R&D.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US, China seek Xi-Trump summit deliverables in New York talks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump now says he wants to form an ‘AI Force’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Says Claude Leads 26% of Its Own AI R&D [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Tata Trusts challenges Chandra's reappointment"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "'We are on our way to groundbreaking science': NASA shares first test image from Roman telescope's 300-megapixel camera"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-20T21:52:18+05:30"
     }
   ]
 }
