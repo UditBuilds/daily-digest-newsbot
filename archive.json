@@ -9532,6 +9532,61 @@
         "YourStory"
       ],
       "sent_at": "2026-09-21T18:01:21+05:30"
+    },
+    {
+      "date": "2026-09-21",
+      "slot": "evening",
+      "theme": "US media outlets sue the White House over a media ban, while Anthropic and OpenAI advance their AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "CNN, MSNBC, and Politico sue Trump over White House media ban"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "President Xi Jinping calls on China, US youth to advance bilateral cooperation"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic tests Fable 5.2 and Opus 5.5 ahead of release"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists track 27 years of a supermassive black hole blasting plasma at our planet"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-21T23:46:06+05:30"
     }
   ]
 }
