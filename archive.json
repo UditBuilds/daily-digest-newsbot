@@ -9481,6 +9481,57 @@
         "YourStory"
       ],
       "sent_at": "2026-09-21T10:44:44+05:30"
+    },
+    {
+      "date": "2026-09-21",
+      "slot": "evening",
+      "theme": "US and China discuss AI safety while Indian D2C brands face financial scrutiny.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Massive explosions at Syrian army weapons depot near Aleppo"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "U.S. and China Discuss System to Warn of A.I. National Security Issues"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon blocks Meta’s Muse AI agent from shopping on its platform"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Sugar Cosmetics: Just A Company's Trouble Or A Warning Sign For Future Of Indian D2C Beauty Brands?"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Over $3bn and counting: What's fuelling India's export surge to China"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-21T18:01:21+05:30"
     }
   ]
 }
