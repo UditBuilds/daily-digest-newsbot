@@ -9430,6 +9430,57 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-09-21T06:01:17+05:30"
+    },
+    {
+      "date": "2026-09-21",
+      "slot": "morning",
+      "theme": "China advances submarine solar power and chip technology while Pakistan conducts airstrikes in Afghanistan, raising regional tensions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China tests first practical submarine solar power plant at 10-meter depth"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Pakistan airstrike kills 3 in Afghanistan, Taliban warns of ‘crushing response’"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "World model companies are keeping a lot of secrets"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic publishes measurements for understanding the pace of AI development inside frontier labs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ottonomy is building robots for real-world logistics"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s new Roman Space Telescope sees starlight for the first time"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-21T10:44:44+05:30"
     }
   ]
 }

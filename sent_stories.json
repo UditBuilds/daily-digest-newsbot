@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump says he will create ‘AI Force’, name AI tsar",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
-      "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
-      "headline": "GPT-5.6 Sol, Terra, and Luna are here. See which one's best for you.",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
-      "headline": "How CubeAPM Plans To Take On Datadog And New Relic With Its 80% Cheaper AI Observability Stack",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
-      "headline": "Watch: Smoke over Riyadh airport after Houthi's major attack on Saudi Arabia",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
-      "headline": "Pokémon GO partners with the European Space Agency",
-      "sent_at": "2026-09-20T05:09:59.537877+00:00"
-    },
-    {
       "headline": "North Korea fires two missiles amid US drills",
       "sent_at": "2026-09-20T12:31:17.661582+00:00"
     },
@@ -87,6 +63,30 @@
     {
       "headline": "West Bengal SIR tribunals face 12-year backlog for appeals",
       "sent_at": "2026-09-21T00:31:17.322247+00:00"
+    },
+    {
+      "headline": "China tests first practical submarine solar power plant at 10-meter depth",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
+    },
+    {
+      "headline": "Pakistan airstrike kills 3 in Afghanistan, Taliban warns of ‘crushing response’",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
+    },
+    {
+      "headline": "World model companies are keeping a lot of secrets",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
+    },
+    {
+      "headline": "Anthropic publishes measurements for understanding the pace of AI development inside frontier labs",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
+    },
+    {
+      "headline": "Ottonomy is building robots for real-world logistics",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
+    },
+    {
+      "headline": "NASA’s new Roman Space Telescope sees starlight for the first time",
+      "sent_at": "2026-09-21T05:14:44.202815+00:00"
     }
   ]
 }
