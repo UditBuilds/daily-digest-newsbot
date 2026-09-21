@@ -1,102 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-22",
-      "slot": "morning",
-      "theme": "Ethiopia's Prime Minister Abiy Ahmed secures a landslide victory in national elections, while OpenAI and Anthropic prepare for dueling AI model releases.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Ethiopian PM’s party secures landslide win in national election"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "AI Cracks the Secrets of How the Universe’s Heaviest Elements Are Forged"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI and Anthropic gear up for dueling AI model releases"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Why Jio Is More Than A Telecom IPO"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "CBSE starts releasing re-evaluation results"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-22T06:01:27+05:30"
-    },
-    {
-      "date": "2026-06-22",
-      "slot": "evening",
-      "theme": "UK Prime Minister Keir Starmer announces resignation plan, while India and UAE discuss a significant defence deal, and Microsoft CEO Satya Nadella sends a message to AI giants.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "UK Prime Minister Keir Starmer announces resignation plan"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Microsoft CEO has a message for Google, OpenAI, Anthropic and all the AI companies"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "No significant AI releases today"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Info Edge’s AI, Deeptech Playbook: ₹1,003 Cr Portfolio Across 54 Startups"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "UAE looking to buy India's BrahMos, Akashteer air defence system: Report"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-22T18:01:26+05:30"
-    },
-    {
       "date": "2026-06-23",
       "slot": "morning",
       "theme": "Global geopolitics sees significant shifts as the UK's Prime Minister Keir Starmer announces resignation, while India experiences major developments in business and technology, including Meta's $900 million investment in CRED and Amazon testing Alexa+ in India.",
@@ -9490,6 +9394,42 @@
         "YourStory"
       ],
       "sent_at": "2026-09-20T21:52:18+05:30"
+    },
+    {
+      "date": "2026-09-21",
+      "slot": "morning",
+      "theme": "US domestic issues dominate headlines while Anthropic measures AI development pace.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Philippines' economic growth lags despite upgraded status"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Vocci's ring introduces new form factor for meeting notes"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic publishes measurements for understanding AI development pace"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "West Bengal SIR tribunals face 12-year backlog for appeals"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-09-21T06:01:17+05:30"
     }
   ]
 }
