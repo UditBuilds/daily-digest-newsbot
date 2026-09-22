@@ -9550,6 +9550,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-22T06:01:58+05:30"
+    },
+    {
+      "date": "2026-09-22",
+      "slot": "morning",
+      "theme": "China expands naval power in the Pacific while major AI companies like xAI and OpenAI release new models and form advisory groups.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China's Type 052D Destroyers Shift Western Pacific Balance"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "California Tightens Rules on AI Data Center Energy and Water Use"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "xAI Launches Grok 4.7 and Makes Grok 4.6 Available on AWS Bedrock"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Starbucks Selects Chennai for First India Global Capability Center"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Google to Report Child Abuse Content Directly to Indian Authorities"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-22T10:43:51+05:30"
     }
   ]
 }
