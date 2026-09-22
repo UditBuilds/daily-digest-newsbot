@@ -9597,6 +9597,57 @@
         "YourStory"
       ],
       "sent_at": "2026-09-22T10:43:51+05:30"
+    },
+    {
+      "date": "2026-09-22",
+      "slot": "evening",
+      "theme": "US-China tensions rise over Taiwan as Indian startups PhonePe and Spinny prepare for major market expansions.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Taiwan’s Opposition Questions US Ties Ahead of Xi-Trump Summit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Alibaba Unveils New AI Chip and Data Center Expansion Plans"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "xAI Releases Grok 4.7, a Larger Base Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PhonePe Secures UAE Payments Business Approval"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India Considers Impact of Potential Trump-Xi Peace on China+1 Strategy"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA’s Roman Space Telescope Detects Starlight for the First Time"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-22T18:01:25+05:30"
     }
   ]
 }
