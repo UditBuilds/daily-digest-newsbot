@@ -9648,6 +9648,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-22T18:01:25+05:30"
+    },
+    {
+      "date": "2026-09-22",
+      "slot": "evening",
+      "theme": "Sri Lanka convicts Easter bombers while Anthropic launches a new AI model and Indian startups secure funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China's military doctors target drone injury cures from Ukraine war lessons"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Opus 5.5 with lower prices and Fable-level performance"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IPO-Bound PhonePe Secures In-Principle Nod For UAE Payments Business"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India’s space sovereignty: From building missions to building depth"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-22T22:38:29+05:30"
     }
   ]
 }
