@@ -1,97 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-23",
-      "slot": "morning",
-      "theme": "Global geopolitics sees significant shifts as the UK's Prime Minister Keir Starmer announces resignation, while India experiences major developments in business and technology, including Meta's $900 million investment in CRED and Amazon testing Alexa+ in India.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump criticises UK’s Starmer after PM announces resignation"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI launches new initiative to help find and patch open-source bugs"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "CRED Raises $900 Mn In Round Led By Meta"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'Tragic loss': 12 Indians among 13 killed in Qatar gas plant explosion"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-23T06:04:55+05:30"
-    },
-    {
-      "date": "2026-06-23",
-      "slot": "evening",
-      "theme": "Iran's President lands in Pakistan after a crucial US deal, while Oracle cuts 21,000 jobs as it embraces AI, and OpenAI releases a new cyber model.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Iran’s President lands in Pakistan after US deal"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Oracle cuts 21,000 jobs as it embraces AI"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI releases new GPT-5.5-Cyber model"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Proptech startup Square Yards raises ₹900 Cr at unicorn valuation"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "President Murmu confers Padma awards"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA’s Cold Atom Lab creates exotic matter in space"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-23T18:01:25+05:30"
-    },
-    {
       "date": "2026-06-24",
       "slot": "morning",
       "theme": "North Korea's nuclear ambitions escalate, while India's startup ecosystem sees significant developments.",
@@ -9587,6 +9496,60 @@
         "YourStory"
       ],
       "sent_at": "2026-09-21T23:46:06+05:30"
+    },
+    {
+      "date": "2026-09-22",
+      "slot": "morning",
+      "theme": "The UK brings its first Rwanda genocide charges, while xAI and OpenAI release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "First charges brought in UK for 1994 Rwanda genocide"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Introducing Grok 4.7"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Snapdeal Parent AceVector’s FY26: Loss Declines 64% YoY To ₹46 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Grounds in writing a must during arrests even in UAPA: Supreme Court"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA just powered up Roman’s massive 300-megapixel camera"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-22T06:01:58+05:30"
     }
   ]
 }
