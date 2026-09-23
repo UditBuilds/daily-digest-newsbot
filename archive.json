@@ -9648,6 +9648,54 @@
         "YourStory"
       ],
       "sent_at": "2026-09-23T10:28:37+05:30"
+    },
+    {
+      "date": "2026-09-23",
+      "slot": "evening",
+      "theme": "OpenAI and Anthropic slash AI model prices, while India's D2C beauty sector faces scrutiny.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Who holds the leverage? Five cards Trump and Xi bring to the table"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Ema raises $77M as AI starts eating into enterprise software and services"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Sugar Cosmetics: Just A Company's Trouble Or A Warning Sign For Future Of Indian D2C Beauty Brands?"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Arrest poll panel chief': Mamata demands Bengal repoll amid EC 'SIR split' row"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-23T18:01:27+05:30"
     }
   ]
 }

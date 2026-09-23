@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China's Type 052D Destroyers Shift Western Pacific Balance",
-      "sent_at": "2026-09-22T05:13:51.693750+00:00"
-    },
-    {
-      "headline": "California Tightens Rules on AI Data Center Energy and Water Use",
-      "sent_at": "2026-09-22T05:13:51.693750+00:00"
-    },
-    {
-      "headline": "xAI Launches Grok 4.7 and Makes Grok 4.6 Available on AWS Bedrock",
-      "sent_at": "2026-09-22T05:13:51.693750+00:00"
-    },
-    {
-      "headline": "Starbucks Selects Chennai for First India Global Capability Center",
-      "sent_at": "2026-09-22T05:13:51.693750+00:00"
-    },
-    {
-      "headline": "Google to Report Child Abuse Content Directly to Indian Authorities",
-      "sent_at": "2026-09-22T05:13:51.693750+00:00"
-    },
-    {
-      "headline": "Taiwan’s Opposition Questions US Ties Ahead of Xi-Trump Summit",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
-      "headline": "Alibaba Unveils New AI Chip and Data Center Expansion Plans",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
-      "headline": "xAI Releases Grok 4.7, a Larger Base Model",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
-      "headline": "PhonePe Secures UAE Payments Business Approval",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
-      "headline": "India Considers Impact of Potential Trump-Xi Peace on China+1 Strategy",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
-      "headline": "NASA’s Roman Space Telescope Detects Starlight for the First Time",
-      "sent_at": "2026-09-22T12:31:25.134520+00:00"
-    },
-    {
       "headline": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "sent_at": "2026-09-22T17:08:29.402258+00:00"
     },
@@ -91,6 +47,26 @@
     {
       "headline": "Scientists find weird exoplanet that orbits its star in the wrong direction",
       "sent_at": "2026-09-23T04:58:37.306779+00:00"
+    },
+    {
+      "headline": "Who holds the leverage? Five cards Trump and Xi bring to the table",
+      "sent_at": "2026-09-23T12:31:27.348102+00:00"
+    },
+    {
+      "headline": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "sent_at": "2026-09-23T12:31:27.348102+00:00"
+    },
+    {
+      "headline": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
+      "sent_at": "2026-09-23T12:31:27.348102+00:00"
+    },
+    {
+      "headline": "Sugar Cosmetics: Just A Company's Trouble Or A Warning Sign For Future Of Indian D2C Beauty Brands?",
+      "sent_at": "2026-09-23T12:31:27.348102+00:00"
+    },
+    {
+      "headline": "'Arrest poll panel chief': Mamata demands Bengal repoll amid EC 'SIR split' row",
+      "sent_at": "2026-09-23T12:31:27.348102+00:00"
     }
   ]
 }
