@@ -9696,6 +9696,45 @@
         "YourStory"
       ],
       "sent_at": "2026-09-23T18:01:27+05:30"
+    },
+    {
+      "date": "2026-09-23",
+      "slot": "evening",
+      "theme": "US and China officials meet ahead of a presidential summit, while OpenAI and Anthropic release new, cheaper AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Treasury Secretary and Chinese Vice Premier meet ahead of Xi summit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "YouTube Music launches conversational AI features"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI and Anthropic launch cheaper AI models"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-23T22:51:26+05:30"
     }
   ]
 }
