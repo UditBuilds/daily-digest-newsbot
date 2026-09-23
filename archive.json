@@ -1,110 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-24",
-      "slot": "morning",
-      "theme": "North Korea's nuclear ambitions escalate, while India's startup ecosystem sees significant developments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Kim says North Korea to arm navy with nuclear weapons, build bigger warships"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic launches Claude Tag in Slack with plans for wider rollout"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Honasa Consumer Acquires Majority Stake In Fluence Pharma For ₹135 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Bank of India wins Rs 100 crore case against Nirav Modi"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Kazakhstan, Belgium sign agreements on AI, science and space technologies"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News Meta AI",
-        "Google News Mistral",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-24T06:01:21+05:30"
-    },
-    {
-      "date": "2026-06-24",
-      "slot": "evening",
-      "theme": "North Korea commissions a warship as Kim Jong Un eyes a nuclear navy, while India's quick commerce market heats up with Flipkart and Amazon announcing aggressive expansion plans.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "North Korea commissions warship as Kim eyes nuclear navy"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "India among top AI-ready nations, one of world's least concentrated equity markets: JP Morgan"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic launches Claude Tag in Slack with shared memory, proactive AI and enterprise integrations"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Iran invites PM Modi to Ayatollah Khamenei's funeral"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Navi Mumbai teen entrepreneur expands tech portfolio with launch of space science platform"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Mistral",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-24T18:01:25+05:30"
-    },
-    {
       "date": "2026-06-25",
       "slot": "morning",
       "theme": "Israel and Lebanon are on the brink of war, while Anthropic and Mistral make significant advancements in AI technology.",
@@ -9695,6 +9591,63 @@
         "YourStory"
       ],
       "sent_at": "2026-09-22T22:38:29+05:30"
+    },
+    {
+      "date": "2026-09-23",
+      "slot": "morning",
+      "theme": "OpenAI and Anthropic release cheaper, more capable AI models while Zelensky meets Trump to discuss Ukraine's energy truce with Russia.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Zelensky meets Trump, says Ukraine ready for energy truce with Russia"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Qualcomm launches two new smartphone chips with emphasis on AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Opus 5.5, says new AI model is 40% cheaper to run"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "1980s AI photo trend: Delhi Police warns users of fake profiles, blackmail"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists find weird exoplanet that orbits its star in the wrong direction"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-23T10:28:37+05:30"
     }
   ]
 }
