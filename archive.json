@@ -9735,6 +9735,51 @@
         "YourStory"
       ],
       "sent_at": "2026-09-24T18:01:18+05:30"
+    },
+    {
+      "date": "2026-09-24",
+      "slot": "evening",
+      "theme": "US and China leaders meet to discuss cooperation, while Anthropic releases a new AI model with lower prices.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Croatian court approves extradition of Nord Stream blast suspect to Germany"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PB Fintech Crashes 36%, Turtlemint 20% On IRDAI Commission Cap Plan"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tata Sons tells Noel Tata Chandrasekaran reappointment was legally valid: Report"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-24T22:56:30+05:30"
     }
   ]
 }
