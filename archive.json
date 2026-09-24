@@ -9684,6 +9684,57 @@
         "YourStory"
       ],
       "sent_at": "2026-09-24T10:38:58+05:30"
+    },
+    {
+      "date": "2026-09-24",
+      "slot": "evening",
+      "theme": "China's overseas investment hits a record high, while Google and Anthropic announce major AI model advancements.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China’s overseas investment hits record US$214 billion, but US-bound flows plunge"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI agents hacked an Australian government website in search for data"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google Nears Release of Flagship Gemini 4 AI Model"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude AI discovers new enzyme system in bacteria-infecting viruses"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Nokia closes China research hub, recalls asking Europe why it uses Huawei"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-24T18:01:18+05:30"
     }
   ]
 }
