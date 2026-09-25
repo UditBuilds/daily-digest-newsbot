@@ -9821,6 +9821,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-25T18:01:23+05:30"
+    },
+    {
+      "date": "2026-09-25",
+      "slot": "evening",
+      "theme": "US President Trump raises concerns over the weak yen with Japan, while OpenAI prepares to launch a new cybersecurity AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s founders seek voting control ahead of IPO"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI is set to preview GPT-6 Cyber after AI agent bypassed Australia health portal restrictions"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "NDA unease over EC-SIR row? 3 BJP allies seek answers as oppn turns up heat"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-25T22:55:19+05:30"
     }
   ]
 }
