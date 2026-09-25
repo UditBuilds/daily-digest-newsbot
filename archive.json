@@ -9731,6 +9731,52 @@
         "YourStory"
       ],
       "sent_at": "2026-09-25T06:01:12+05:30"
+    },
+    {
+      "date": "2026-09-25",
+      "slot": "morning",
+      "theme": "Saudi Arabia, Turkey, and Pakistan deepen defense ties amid Yemen conflict, while OpenAI prepares to launch a new cybersecurity AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-25T10:40:33+05:30"
     }
   ]
 }
