@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China’s overseas investment hits record US$214 billion, but US-bound flows plunge",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
-      "headline": "OpenAI agents hacked an Australian government website in search for data",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
-      "headline": "Google Nears Release of Flagship Gemini 4 AI Model",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
-      "headline": "Anthropic’s Claude AI discovers new enzyme system in bacteria-infecting viruses",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
-      "headline": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
-      "headline": "Nokia closes China research hub, recalls asking Europe why it uses Huawei",
-      "sent_at": "2026-09-24T12:31:18.501719+00:00"
-    },
-    {
       "headline": "Croatian court approves extradition of Nord Stream blast suspect to Germany",
       "sent_at": "2026-09-24T17:26:30.481111+00:00"
     },
@@ -83,6 +59,26 @@
     {
       "headline": "Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities",
       "sent_at": "2026-09-25T05:10:33.069301+00:00"
+    },
+    {
+      "headline": "China Overtakes US as Top Workplace for Elite AI Researchers",
+      "sent_at": "2026-09-25T12:31:23.047864+00:00"
+    },
+    {
+      "headline": "Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
+      "sent_at": "2026-09-25T12:31:23.047864+00:00"
+    },
+    {
+      "headline": "OpenAI to Launch Cybersecurity-Focused GPT-6 Cyber Model Within Days",
+      "sent_at": "2026-09-25T12:31:23.047864+00:00"
+    },
+    {
+      "headline": "Dextr AI Raises $6.7 Mn to Build AI Agents for Hospitality Industry",
+      "sent_at": "2026-09-25T12:31:23.047864+00:00"
+    },
+    {
+      "headline": "Delhi HC Orders Removal of PM Deepfake Content, Police Protection for Woman",
+      "sent_at": "2026-09-25T12:31:23.047864+00:00"
     }
   ]
 }

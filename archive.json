@@ -9777,6 +9777,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-25T10:40:33+05:30"
+    },
+    {
+      "date": "2026-09-25",
+      "slot": "evening",
+      "theme": "China and the US vie for AI talent and cooperation while OpenAI prepares to launch a new cybersecurity model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China Overtakes US as Top Workplace for Elite AI Researchers"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI to Launch Cybersecurity-Focused GPT-6 Cyber Model Within Days"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Dextr AI Raises $6.7 Mn to Build AI Agents for Hospitality Industry"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Delhi HC Orders Removal of PM Deepfake Content, Police Protection for Woman"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-25T18:01:23+05:30"
     }
   ]
 }
