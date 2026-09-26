@@ -9905,6 +9905,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-26T18:01:15+05:30"
+    },
+    {
+      "date": "2026-09-26",
+      "slot": "evening",
+      "theme": "US and China discuss AI and trade while India navigates its geopolitical position.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Suicide bombing at police checkpoint in Pakistan kills at least 11"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "True North Acquires Minority Stake in IPO-Bound InMobi"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "As Trump hugs Xi and plugs Sharif, India feels the squeeze"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "108 countries, one satellite: All-girls ShakthiSAT space mission sets world record"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-26T22:04:54+05:30"
     }
   ]
 }
