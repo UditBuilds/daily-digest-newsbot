@@ -1,106 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-27",
-      "slot": "morning",
-      "theme": "Trump threatens tariffs on countries with digital services tax, while OpenAI and Anthropic make significant moves in AI.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump threatens 100% tariff on countries that impose digital services tax"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI limits GPT-5.6 rollout after government request"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI releases powerful new GPT-5.6 model under restrictions"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "India drops 20% local sourcing rule for satcom"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Homebuyers can seek relief for delay after possession: Supreme Court"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Webb telescope finds interstellar comet had exotic, unfamiliar chemistry"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-27T06:01:24+05:30"
-    },
-    {
-      "date": "2026-06-27",
-      "slot": "evening",
-      "theme": "Israel and Lebanon are on the brink of war, while Anthropic's Claude Mythos AI model is being rolled out to over 100 organizations after the US government eases restrictions.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US ally Bahrain claims Iran attacked navy base as Hormuz closed"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Receives Approval To Release Claude Mythos AI Model To Trusted Partners"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "From CRED To Square Yards — Indian Startups Raised $1.1 Bn This Week"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India’s family firms are booming — but who will lead them tomorrow?"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-27T18:01:28+05:30"
-    },
-    {
       "date": "2026-06-28",
       "slot": "morning",
       "theme": "US launches strikes on Iran after second shipping attack, while Serbia's President Vucic announces resignation amid student protests.",
@@ -9865,6 +9765,56 @@
         "YourStory"
       ],
       "sent_at": "2026-09-25T22:55:19+05:30"
+    },
+    {
+      "date": "2026-09-26",
+      "slot": "morning",
+      "theme": "Iran offers a plan to reopen the Strait of Hormuz, while Anthropic commits $11.6 billion to Akamai for cloud infrastructure.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran offers US plan to reopen Hormuz within 7 days"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic announces Claude Docs and Claude Slides beta"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "AceVector IPO Subscribed 23% On Day 1, Retail Quota Booked 62%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Watch: Russian drones hit McDonald’s-linked warehouse in Ukraine, 5 killed"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-26T06:01:12+05:30"
     }
   ]
 }
