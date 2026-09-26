@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Costa Rica fires foreign minister for unauthorized Trump meeting",
-      "sent_at": "2026-09-25T00:31:12.870081+00:00"
-    },
-    {
-      "headline": "Google Photos launches 'Clueless'-inspired virtual closet on Android and iOS",
-      "sent_at": "2026-09-25T00:31:12.870081+00:00"
-    },
-    {
-      "headline": "OpenAI to unveil GPT-6 Cyber model and deployment product",
-      "sent_at": "2026-09-25T00:31:12.870081+00:00"
-    },
-    {
-      "headline": "Amazon India plans $3 billion investment in quick commerce by 2030",
-      "sent_at": "2026-09-25T00:31:12.870081+00:00"
-    },
-    {
-      "headline": "Centre requests 2-year window for OBC creamy layer verdict implementation",
-      "sent_at": "2026-09-25T00:31:12.870081+00:00"
-    },
-    {
-      "headline": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-      "sent_at": "2026-09-25T05:10:33.069301+00:00"
-    },
-    {
-      "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "sent_at": "2026-09-25T05:10:33.069301+00:00"
-    },
-    {
-      "headline": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it",
-      "sent_at": "2026-09-25T05:10:33.069301+00:00"
-    },
-    {
-      "headline": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
-      "sent_at": "2026-09-25T05:10:33.069301+00:00"
-    },
-    {
-      "headline": "Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities",
-      "sent_at": "2026-09-25T05:10:33.069301+00:00"
-    },
-    {
       "headline": "China Overtakes US as Top Workplace for Elite AI Researchers",
       "sent_at": "2026-09-25T12:31:23.047864+00:00"
     },
@@ -103,6 +63,26 @@
     {
       "headline": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
       "sent_at": "2026-09-26T00:31:12.536901+00:00"
+    },
+    {
+      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "sent_at": "2026-09-26T05:16:23.340599+00:00"
+    },
+    {
+      "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "sent_at": "2026-09-26T05:16:23.340599+00:00"
+    },
+    {
+      "headline": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
+      "sent_at": "2026-09-26T05:16:23.340599+00:00"
+    },
+    {
+      "headline": "Indian Startups Raised Over $203 Mn This Week",
+      "sent_at": "2026-09-26T05:16:23.340599+00:00"
+    },
+    {
+      "headline": "‘Trump Strait’: US President renames Hormuz after rejecting 7-day ceasefire offer",
+      "sent_at": "2026-09-26T05:16:23.340599+00:00"
     }
   ]
 }

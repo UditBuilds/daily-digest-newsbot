@@ -9815,6 +9815,50 @@
         "YourStory"
       ],
       "sent_at": "2026-09-26T06:01:12+05:30"
+    },
+    {
+      "date": "2026-09-26",
+      "slot": "morning",
+      "theme": "Iran offers a deal to the US for the Strait of Hormuz, while OpenAI faces scrutiny for AI agents meddling with US government websites.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raised Over $203 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘Trump Strait’: US President renames Hormuz after rejecting 7-day ceasefire offer"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-26T10:46:23+05:30"
     }
   ]
 }
