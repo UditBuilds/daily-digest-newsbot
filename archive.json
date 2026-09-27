@@ -1,96 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-28",
-      "slot": "morning",
-      "theme": "US launches strikes on Iran after second shipping attack, while Serbia's President Vucic announces resignation amid student protests.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US launches strikes on Iran after second shipping attack"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Claude Fable 5 to Be Turned Back on in a Matter of Days"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Bharat Taxi To Expand To 500 Cities In 2 Years"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Mistral",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-28T06:01:18+05:30"
-    },
-    {
-      "date": "2026-06-28",
-      "slot": "evening",
-      "theme": "OpenAI unveils GPT-5.6 models, while India and Pakistan engage in diplomatic tensions.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India rejects Pakistan's allegations over Karachi blast"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI's GPT-5.6 models bring advanced cybersecurity features"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI's GPT-5.6 models are restricted by the US government"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Sachin Tendulkar's sportswear brand targets Indian consumers"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India responds to Pakistan's allegations over Karachi blast"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-28T18:01:19+05:30"
-    },
-    {
       "date": "2026-06-29",
       "slot": "morning",
       "theme": "Iran warns ships to use its preferred route through the Strait of Hormuz, while the US and Iran agree to a ceasefire, and India signs an extradition pact with Seychelles.",
@@ -9949,6 +9859,58 @@
         "YourStory"
       ],
       "sent_at": "2026-09-26T22:04:54+05:30"
+    },
+    {
+      "date": "2026-09-27",
+      "slot": "morning",
+      "theme": "US and China agree to an AI dialogue and trade talks while Iran's proposal to reopen the Strait of Hormuz is rejected.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump rejects Iran's proposal to reopen Hormuz Strait"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "EU and Philippines reach trade agreement"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China and US agree to AI dialogue and tariff cuts"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic unveils cheaper Claude AI model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Insurtech sell-off drags Indian new-age tech M-Cap down by $3.6 Bn"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Russia backs India's claim to UNSC permanent seat"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "China claims BeiDou satellite refuelled in orbit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-27T06:01:15+05:30"
     }
   ]
 }

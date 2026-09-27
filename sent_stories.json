@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi",
-      "sent_at": "2026-09-25T17:25:19.533688+00:00"
-    },
-    {
-      "headline": "Anthropic’s founders seek voting control ahead of IPO",
-      "sent_at": "2026-09-25T17:25:19.533688+00:00"
-    },
-    {
-      "headline": "OpenAI is set to preview GPT-6 Cyber after AI agent bypassed Australia health portal restrictions",
-      "sent_at": "2026-09-25T17:25:19.533688+00:00"
-    },
-    {
-      "headline": "Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US",
-      "sent_at": "2026-09-25T17:25:19.533688+00:00"
-    },
-    {
-      "headline": "NDA unease over EC-SIR row? 3 BJP allies seek answers as oppn turns up heat",
-      "sent_at": "2026-09-25T17:25:19.533688+00:00"
-    },
-    {
-      "headline": "Iran offers US plan to reopen Hormuz within 7 days",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
-      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
-      "headline": "Anthropic announces Claude Docs and Claude Slides beta",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
-      "headline": "AceVector IPO Subscribed 23% On Day 1, Retail Quota Booked 62%",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
-      "headline": "Watch: Russian drones hit McDonald’s-linked warehouse in Ukraine, 5 killed",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
-      "headline": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
-      "sent_at": "2026-09-26T00:31:12.536901+00:00"
-    },
-    {
       "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "sent_at": "2026-09-26T05:16:23.340599+00:00"
     },
@@ -107,6 +63,34 @@
     {
       "headline": "108 countries, one satellite: All-girls ShakthiSAT space mission sets world record",
       "sent_at": "2026-09-26T16:34:54.069886+00:00"
+    },
+    {
+      "headline": "Trump rejects Iran's proposal to reopen Hormuz Strait",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "EU and Philippines reach trade agreement",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "China and US agree to AI dialogue and tariff cuts",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "Anthropic unveils cheaper Claude AI model",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "Insurtech sell-off drags Indian new-age tech M-Cap down by $3.6 Bn",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "Russia backs India's claim to UNSC permanent seat",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "China claims BeiDou satellite refuelled in orbit",
+      "sent_at": "2026-09-27T00:31:15.439274+00:00"
     }
   ]
 }
