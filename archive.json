@@ -9957,6 +9957,51 @@
         "YourStory"
       ],
       "sent_at": "2026-09-27T11:01:34+05:30"
+    },
+    {
+      "date": "2026-09-27",
+      "slot": "evening",
+      "theme": "The US expands its Arctic military presence against China, while Google integrates AI shopping with Flipkart in India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Greenland becomes US military's new Arctic eyes on China"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google tests Flipkart integration with Gemini and AI Mode in India"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI halts training of latest models amid \"rogue AI agents\" reports"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic now bills for refused Claude API requests in three categories"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Mobile phone retailers to protest UPI MDR charges on October 2"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tamil Nadu government rolls back RTI exemption for law and order department"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-27T18:01:16+05:30"
     }
   ]
 }
