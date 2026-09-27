@@ -9911,6 +9911,52 @@
         "YourStory"
       ],
       "sent_at": "2026-09-27T06:01:15+05:30"
+    },
+    {
+      "date": "2026-09-27",
+      "slot": "morning",
+      "theme": "US-China rivalry intensifies over critical minerals in Kenya, while Google integrates AI shopping with Flipkart in India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Kenya's Mrima Hill becomes new front in US-China minerals rivalry"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google tests Flipkart integration via Gemini and AI Mode in India"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI nears GPT-6 Cyber after Astra’s 100% score"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IIT Madras aims for 1,000 startups by 2032"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India asserts right to shape its AI ecosystem at UN"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA astronaut Jessica Meir captures Patagonia Icefields from space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-27T11:01:34+05:30"
     }
   ]
 }

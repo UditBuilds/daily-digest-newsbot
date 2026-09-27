@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "sent_at": "2026-09-26T05:16:23.340599+00:00"
-    },
-    {
-      "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "sent_at": "2026-09-26T05:16:23.340599+00:00"
-    },
-    {
-      "headline": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
-      "sent_at": "2026-09-26T05:16:23.340599+00:00"
-    },
-    {
-      "headline": "Indian Startups Raised Over $203 Mn This Week",
-      "sent_at": "2026-09-26T05:16:23.340599+00:00"
-    },
-    {
-      "headline": "‘Trump Strait’: US President renames Hormuz after rejecting 7-day ceasefire offer",
-      "sent_at": "2026-09-26T05:16:23.340599+00:00"
-    },
-    {
       "headline": "US-Denmark-Greenland Security Deal Could Limit China's Arctic Influence",
       "sent_at": "2026-09-26T12:31:15.573532+00:00"
     },
@@ -91,6 +71,30 @@
     {
       "headline": "China claims BeiDou satellite refuelled in orbit",
       "sent_at": "2026-09-27T00:31:15.439274+00:00"
+    },
+    {
+      "headline": "Kenya's Mrima Hill becomes new front in US-China minerals rivalry",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
+    },
+    {
+      "headline": "Google tests Flipkart integration via Gemini and AI Mode in India",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
+    },
+    {
+      "headline": "OpenAI nears GPT-6 Cyber after Astra’s 100% score",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
+    },
+    {
+      "headline": "IIT Madras aims for 1,000 startups by 2032",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
+    },
+    {
+      "headline": "India asserts right to shape its AI ecosystem at UN",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
+    },
+    {
+      "headline": "NASA astronaut Jessica Meir captures Patagonia Icefields from space",
+      "sent_at": "2026-09-27T05:31:34.239477+00:00"
     }
   ]
 }
