@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Kenya's Mrima Hill becomes new front in US-China minerals rivalry",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
-      "headline": "Google tests Flipkart integration via Gemini and AI Mode in India",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
-      "headline": "OpenAI nears GPT-6 Cyber after Astra’s 100% score",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
-      "headline": "IIT Madras aims for 1,000 startups by 2032",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
-      "headline": "India asserts right to shape its AI ecosystem at UN",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
-      "headline": "NASA astronaut Jessica Meir captures Patagonia Icefields from space",
-      "sent_at": "2026-09-27T05:31:34.239477+00:00"
-    },
-    {
       "headline": "Greenland becomes US military's new Arctic eyes on China",
       "sent_at": "2026-09-27T12:31:16.006537+00:00"
     },
@@ -63,6 +39,18 @@
     {
       "headline": "Bank unions call off 3-day strike after assurances",
       "sent_at": "2026-09-28T00:31:18.654394+00:00"
+    },
+    {
+      "headline": "Serbia's President Vucic Resigns to Become Prime Minister",
+      "sent_at": "2026-09-28T05:41:24.304309+00:00"
+    },
+    {
+      "headline": "Amaani Raises $5 Million in Series A Funding",
+      "sent_at": "2026-09-28T05:41:24.304309+00:00"
+    },
+    {
+      "headline": "Students Loot LPU Campus Mall Amid Protests, Torch Block",
+      "sent_at": "2026-09-28T05:41:24.304309+00:00"
     }
   ]
 }

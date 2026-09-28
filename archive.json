@@ -9942,6 +9942,43 @@
         "YourStory"
       ],
       "sent_at": "2026-09-28T06:01:18+05:30"
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "morning",
+      "theme": "Serbia's president shifts roles to retain power, while India's startup ecosystem sees new funding and campus unrest.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Serbia's President Vucic Resigns to Become Prime Minister"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amaani Raises $5 Million in Series A Funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Students Loot LPU Campus Mall Amid Protests, Torch Block"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-28T11:11:24+05:30"
     }
   ]
 }
