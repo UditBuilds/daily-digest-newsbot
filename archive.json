@@ -1,105 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-29",
-      "slot": "morning",
-      "theme": "Iran warns ships to use its preferred route through the Strait of Hormuz, while the US and Iran agree to a ceasefire, and India signs an extradition pact with Seychelles.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Iran warns ships not to bypass its chosen Hormuz route"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Ford rehires ‘gray beard’ engineers after AI falls short"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "xAI unveils Grok 4.5, a significant upgrade powered by 1.5 trillion parameter V9 model"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "No significant India business news today"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "PM Modi's Seychelles visit: India signs extradition pact, 8 other agreements"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News xAI Grok",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-06-29T06:01:22+05:30"
-    },
-    {
-      "date": "2026-06-29",
-      "slot": "evening",
-      "theme": "Israel escalates in Lebanon while Meta and Google compete in AI development.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Ford rehires human engineers after AI fails to match quality checks"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI limits GPT-5.6 launch per US government request"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "PayU India Turns Adjusted EBITDA Profitable In FY26, Revenue Zooms 13% YoY"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-29T18:01:18+05:30"
-    },
-    {
       "date": "2026-06-30",
       "slot": "morning",
       "theme": "India and the US are making significant moves in geopolitics and tech, while new AI releases are changing the game for businesses and governments.",
@@ -10002,6 +9903,45 @@
         "YourStory"
       ],
       "sent_at": "2026-09-27T18:01:16+05:30"
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "morning",
+      "theme": "South Korea demands an apology from Ukraine over a POW disclosure, while Anthropic's CEO meets with Donald Trump to discuss AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "South Korea demands apology from Ukraine over North Korean POW transfer disclosure"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic CEO Dario Amodei meets President Trump"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Marketplace with over 2,000 connectors"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Bank unions call off 3-day strike after assurances"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-28T06:01:18+05:30"
     }
   ]
 }

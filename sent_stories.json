@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Suicide bombing at police checkpoint in Pakistan kills at least 11",
-      "sent_at": "2026-09-26T16:34:54.069886+00:00"
-    },
-    {
-      "headline": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-      "sent_at": "2026-09-26T16:34:54.069886+00:00"
-    },
-    {
-      "headline": "True North Acquires Minority Stake in IPO-Bound InMobi",
-      "sent_at": "2026-09-26T16:34:54.069886+00:00"
-    },
-    {
-      "headline": "As Trump hugs Xi and plugs Sharif, India feels the squeeze",
-      "sent_at": "2026-09-26T16:34:54.069886+00:00"
-    },
-    {
-      "headline": "108 countries, one satellite: All-girls ShakthiSAT space mission sets world record",
-      "sent_at": "2026-09-26T16:34:54.069886+00:00"
-    },
-    {
-      "headline": "Trump rejects Iran's proposal to reopen Hormuz Strait",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "EU and Philippines reach trade agreement",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "China and US agree to AI dialogue and tariff cuts",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "Anthropic unveils cheaper Claude AI model",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "Insurtech sell-off drags Indian new-age tech M-Cap down by $3.6 Bn",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "Russia backs India's claim to UNSC permanent seat",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
-      "headline": "China claims BeiDou satellite refuelled in orbit",
-      "sent_at": "2026-09-27T00:31:15.439274+00:00"
-    },
-    {
       "headline": "Kenya's Mrima Hill becomes new front in US-China minerals rivalry",
       "sent_at": "2026-09-27T05:31:34.239477+00:00"
     },
@@ -95,6 +47,22 @@
     {
       "headline": "Tamil Nadu government rolls back RTI exemption for law and order department",
       "sent_at": "2026-09-27T12:31:16.006537+00:00"
+    },
+    {
+      "headline": "South Korea demands apology from Ukraine over North Korean POW transfer disclosure",
+      "sent_at": "2026-09-28T00:31:18.654394+00:00"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei meets President Trump",
+      "sent_at": "2026-09-28T00:31:18.654394+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Marketplace with over 2,000 connectors",
+      "sent_at": "2026-09-28T00:31:18.654394+00:00"
+    },
+    {
+      "headline": "Bank unions call off 3-day strike after assurances",
+      "sent_at": "2026-09-28T00:31:18.654394+00:00"
     }
   ]
 }
