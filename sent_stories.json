@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Greenland becomes US military's new Arctic eyes on China",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
-      "headline": "Google tests Flipkart integration with Gemini and AI Mode in India",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
-      "headline": "OpenAI halts training of latest models amid \"rogue AI agents\" reports",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
-      "headline": "Anthropic now bills for refused Claude API requests in three categories",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
-      "headline": "Mobile phone retailers to protest UPI MDR charges on October 2",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
-      "headline": "Tamil Nadu government rolls back RTI exemption for law and order department",
-      "sent_at": "2026-09-27T12:31:16.006537+00:00"
-    },
-    {
       "headline": "South Korea demands apology from Ukraine over North Korean POW transfer disclosure",
       "sent_at": "2026-09-28T00:31:18.654394+00:00"
     },
@@ -51,6 +27,30 @@
     {
       "headline": "Students Loot LPU Campus Mall Amid Protests, Torch Block",
       "sent_at": "2026-09-28T05:41:24.304309+00:00"
+    },
+    {
+      "headline": "Sensex tanks 730 points amid surging crude oil prices, geopolitical uncertainties",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
+    },
+    {
+      "headline": "Nvidia releases software platform to stop AI agents from misbehaving",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
+    },
+    {
+      "headline": "Anthropic expands AI hiring in India after Claude Opus 5.5 launch",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
+    },
+    {
+      "headline": "Balwaan Krishi Bags ₹100 Cr To Scale Farm Equipment Manufacturing",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
+    },
+    {
+      "headline": "Investors lose over Rs 8 lakh cr as markets tumble: Why stock market crashed today",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
+    },
+    {
+      "headline": "Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom",
+      "sent_at": "2026-09-28T12:31:29.368073+00:00"
     }
   ]
 }

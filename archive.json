@@ -9979,6 +9979,53 @@
         "YourStory"
       ],
       "sent_at": "2026-09-28T11:11:24+05:30"
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "theme": "India's stock market drops amid global crude oil price hikes, while Anthropic expands AI hiring in India after its Claude Opus 5.5 launch.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Sensex tanks 730 points amid surging crude oil prices, geopolitical uncertainties"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia releases software platform to stop AI agents from misbehaving"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic expands AI hiring in India after Claude Opus 5.5 launch"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Balwaan Krishi Bags ₹100 Cr To Scale Farm Equipment Manufacturing"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Investors lose over Rs 8 lakh cr as markets tumble: Why stock market crashed today"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-28T18:01:29+05:30"
     }
   ]
 }
