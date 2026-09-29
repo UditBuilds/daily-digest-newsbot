@@ -10138,6 +10138,64 @@
         "YourStory"
       ],
       "sent_at": "2026-09-29T18:01:17+05:30"
+    },
+    {
+      "date": "2026-09-29",
+      "slot": "evening",
+      "theme": "OpenAI and Anthropic release new AI models while India's deeptech sector gains support.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Geopolitical disruptions push up freight costs and alter steel trade flows"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Introducing GPT-6.1 Sol"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Sonnet 5.5 with faster performance and lower costs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "4 CISF personnel killed after colleague opens fire in J&K's Kathua"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Radio Waves Coming From an Alien Planet May Be a Cosmic First"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-29T23:42:12+05:30"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Sensex tanks 730 points amid surging crude oil prices, geopolitical uncertainties",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
-      "headline": "Nvidia releases software platform to stop AI agents from misbehaving",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
-      "headline": "Anthropic expands AI hiring in India after Claude Opus 5.5 launch",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
-      "headline": "Balwaan Krishi Bags ₹100 Cr To Scale Farm Equipment Manufacturing",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
-      "headline": "Investors lose over Rs 8 lakh cr as markets tumble: Why stock market crashed today",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
-      "headline": "Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom",
-      "sent_at": "2026-09-28T12:31:29.368073+00:00"
-    },
-    {
       "headline": "Putin signs decree adding 15,500 troops to Russian army",
       "sent_at": "2026-09-28T19:47:02.650503+00:00"
     },
@@ -135,6 +111,38 @@
     {
       "headline": "SpaceX's Starship engine failure could impact NASA's moon mission objectives",
       "sent_at": "2026-09-29T12:31:17.900243+00:00"
+    },
+    {
+      "headline": "Geopolitical disruptions push up freight costs and alter steel trade flows",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "Introducing GPT-6.1 Sol",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Sonnet 5.5 with faster performance and lower costs",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "4 CISF personnel killed after colleague opens fire in J&K's Kathua",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
+    },
+    {
+      "headline": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+      "sent_at": "2026-09-29T18:12:12.176281+00:00"
     }
   ]
 }
