@@ -10080,6 +10080,64 @@
         "YourStory"
       ],
       "sent_at": "2026-09-29T11:28:39+05:30"
+    },
+    {
+      "date": "2026-09-29",
+      "slot": "evening",
+      "theme": "Argentina threatens the UK over Falklands oil, while OpenAI cancels a new model release due to safety concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Argentina threatens legal action against UK over Falkland Islands oil exploration"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Estonia blames Russia for arson attack on company supplying vehicles to Ukraine"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s prospectus details losses, growth, and a warning that its AI could end humanity"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Scraps GPT-6.1 Astra Release Over Safety Concerns"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "WEH Ventures Announces First Close Of ₹250 Cr Fund III"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "SpaceX's Starship engine failure could impact NASA's moon mission objectives"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-29T18:01:17+05:30"
     }
   ]
 }
