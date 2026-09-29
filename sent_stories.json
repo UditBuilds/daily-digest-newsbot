@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "South Korea demands apology from Ukraine over North Korean POW transfer disclosure",
-      "sent_at": "2026-09-28T00:31:18.654394+00:00"
-    },
-    {
-      "headline": "Anthropic CEO Dario Amodei meets President Trump",
-      "sent_at": "2026-09-28T00:31:18.654394+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Marketplace with over 2,000 connectors",
-      "sent_at": "2026-09-28T00:31:18.654394+00:00"
-    },
-    {
-      "headline": "Bank unions call off 3-day strike after assurances",
-      "sent_at": "2026-09-28T00:31:18.654394+00:00"
-    },
-    {
       "headline": "Serbia's President Vucic Resigns to Become Prime Minister",
       "sent_at": "2026-09-28T05:41:24.304309+00:00"
     },
@@ -75,6 +59,34 @@
     {
       "headline": "SpaceX’s Starship rocket reaches orbit for first time",
       "sent_at": "2026-09-28T19:47:02.650503+00:00"
+    },
+    {
+      "headline": "India secured energy imports despite geopolitical crises",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Sonnet 5.5",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "OpenAI scraps release of new AI model GPT-6.1 Astra over safety concerns",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "SC gives poll panel 3 months to decide on symbol dispute between TMC factions",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
+    },
+    {
+      "headline": "SpaceX’s supersized Starship launches into orbit for the first time, but flight ends early",
+      "sent_at": "2026-09-29T00:31:19.925257+00:00"
     }
   ]
 }

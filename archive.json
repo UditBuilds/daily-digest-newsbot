@@ -1,113 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-06-30",
-      "slot": "morning",
-      "theme": "India and the US are making significant moves in geopolitics and tech, while new AI releases are changing the game for businesses and governments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India to push FATF to put Pakistan on terror list"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Gemini’s personalized AI image generation is now free for US users"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "CHOSEN Secures $5 Million Series A to Expand Science-Backed Skincare Portfolio"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India to send military advisers back to Seychelles after PM Modi's visit"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA aims to save a sinking space telescope with a rendezvous in orbit"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-30T06:01:12+05:30"
-    },
-    {
-      "date": "2026-06-30",
-      "slot": "evening",
-      "theme": "Israel escalates in Lebanon while Meta bets $15B that users will pay for social media, and Anthropic launches Claude models in Microsoft Foundry on Azure.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Hormuz, Suez, Taiwan Strait: Why the world’s supply chains now need war-room planning"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Crypto exchange OKX wants AI agents to hire and pay each other"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Launch Claude Apps Gateway"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Mumbai rains: 11-year-old dies as tree crushes school van carrying 15 students"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Weird Science: Space enthusiasts helping train AI system to unlock deep secrets of spiral galaxies"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-06-30T18:01:17+05:30"
-    },
-    {
       "date": "2026-07-01",
       "slot": "morning",
       "theme": "India's arms sector eyes pivotal breakthrough with UAE, while Anthropic launches Claude Sonnet 5 as a cheaper way to run agents.",
@@ -10076,6 +9969,60 @@
         "YourStory"
       ],
       "sent_at": "2026-09-29T01:17:02+05:30"
+    },
+    {
+      "date": "2026-09-29",
+      "slot": "morning",
+      "theme": "Anthropic releases a new AI model while OpenAI cancels one, and India navigates energy security and domestic business challenges.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India secured energy imports despite geopolitical crises"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Sonnet 5.5"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI scraps release of new AI model GPT-6.1 Astra over safety concerns"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC gives poll panel 3 months to decide on symbol dispute between TMC factions"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "SpaceX’s supersized Starship launches into orbit for the first time, but flight ends early"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-29T06:01:19+05:30"
     }
   ]
 }
