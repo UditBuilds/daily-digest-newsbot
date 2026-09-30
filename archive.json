@@ -10193,6 +10193,55 @@
         "YourStory"
       ],
       "sent_at": "2026-09-30T11:18:21+05:30"
+    },
+    {
+      "date": "2026-09-30",
+      "slot": "evening",
+      "theme": "US-China relations remain complex with disagreements on crisis prevention, while OpenAI scraps a new model launch over safety concerns.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Did Beijing and Washington agree on a crisis prevention deal, or not?"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Airbnb adds AI search, more social features"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Apple Pay Launches In India, Partners With Axis Bank"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India break Korean wall to reach hockey final, set up gold-medal clash with China"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space-tech’s missing link: The skilled talent powering India’s $100 billion ambition"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-30T18:01:18+05:30"
     }
   ]
 }
