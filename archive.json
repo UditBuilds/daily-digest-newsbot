@@ -10147,6 +10147,52 @@
         "YourStory"
       ],
       "sent_at": "2026-09-30T06:01:22+05:30"
+    },
+    {
+      "date": "2026-09-30",
+      "slot": "morning",
+      "theme": "OpenAI launches new models and agents while India's government pushes for stricter social media rules for minors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Supreme Court allows Trump administration to resume deportations to third countries"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI aims to disrupt app store model with new ChatGPT features"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Sol and Luna models, alongside 'Dots' agent"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Arivihan raises $10.2 million Series A for AI tutoring platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre informs SC of plans to amend IT Rules to bar under-18s from social media"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-30T11:18:21+05:30"
     }
   ]
 }
