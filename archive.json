@@ -1,109 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-01",
-      "slot": "morning",
-      "theme": "India's arms sector eyes pivotal breakthrough with UAE, while Anthropic launches Claude Sonnet 5 as a cheaper way to run agents.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India’s arms sector eyes pivotal breakthrough with UAE: ‘confidence booster’"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic releases Claude Sonnet 5, says it is default AI model for free users"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Indian Startup Funding Slips 9% To $5.2 Bn In H1 2026"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "40% rain deficit, hotter July: IMD sees below-normal rainfall despite monsoon revival"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Asteroid Day 2026 – Where Space Science And Fun Collide"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-01T06:01:07+05:30"
-    },
-    {
-      "date": "2026-07-01",
-      "slot": "evening",
-      "theme": "Russia turns to India for gasoline as fuel shortages deepen, while Anthropic restores access to its Fable model after the US lifts export controls.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Russia turns to India for gasoline as fuel shortages deepen"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic restores access to its Fable model"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic launches Claude Sonnet 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Supply6 raises ₹48 Cr to expand product portfolio"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Russia turns to India for gasoline"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Satellite identifies what it's seeing from space"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Mistral",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-01T18:01:14+05:30"
-    },
-    {
       "date": "2026-07-02",
       "slot": "morning",
       "theme": "Israel escalates in Lebanon, while Meta faces regulatory heat in India and the US lifts export controls on Anthropic's AI models.",
@@ -10196,6 +10093,60 @@
         "YourStory"
       ],
       "sent_at": "2026-09-29T23:42:12+05:30"
+    },
+    {
+      "date": "2026-09-30",
+      "slot": "morning",
+      "theme": "Morocco appoints its first woman Prime Minister, while OpenAI and Anthropic release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Morocco’s King appoints Fatima Ezzahra El Mansouri as first woman Prime Minister"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Eiffel Tower chief to step down over removal of women staff for Hindu group’s visit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump orders US government to call AI ‘Super Intelligence’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI introduces GPT-6 Sol and Luna"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Sonnet 5.5 with faster output"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Centre to amend IT Rules to bar under-18s from social media"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India warns US about cosying up to Pakistan, says could impact ties"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-30T06:01:22+05:30"
     }
   ]
 }
