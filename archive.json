@@ -10242,6 +10242,64 @@
         "YourStory"
       ],
       "sent_at": "2026-09-30T18:01:18+05:30"
+    },
+    {
+      "date": "2026-09-30",
+      "slot": "evening",
+      "theme": "UK-Iran tensions rise as a migrant deal collapses, while Indian startups secure significant funding in EV and home interiors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK PM says ‘strong indications’ Iran involved in bomb scare at US-run airbase"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK-France deal targeting migrants crossing English Channel is scrapped"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "DoorDash launches an AI agent you can text to order food"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-6.1 Astra: Why OpenAI halted its release"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "[Update] Home Interior Startup Gravity Nets $15 Mn To Expand Into New Categories"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "In 2016, Higher Orbits began sending students into space-inspired STEM programmes; 10 years later, its 10"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-09-30T23:34:02+05:30"
     }
   ]
 }
