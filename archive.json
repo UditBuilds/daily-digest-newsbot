@@ -10291,6 +10291,50 @@
         "YourStory"
       ],
       "sent_at": "2026-10-01T11:48:30+05:30"
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "evening",
+      "theme": "US and China advance sixth-generation fighter jets while Indian businesses see shifts in EV and digital payments.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US says F-47 will be first sixth-gen jet. China’s J-36 and J-50 are already flying"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "California Bans AI-Powered Firing Of Employees"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Dots Launch: GPT-6.1 Astra Pulled Over Safety [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "SBI Mutual Fund Doubles Down On Swiggy, Buys Stock Worth ₹300 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Was flydubai cockpit attack planned? UAE probe to examine possible terror link"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-01T18:01:37+05:30"
     }
   ]
 }
