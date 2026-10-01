@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Morocco’s King appoints Fatima Ezzahra El Mansouri as first woman Prime Minister",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "Eiffel Tower chief to step down over removal of women staff for Hindu group’s visit",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "Trump orders US government to call AI ‘Super Intelligence’",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "OpenAI introduces GPT-6 Sol and Luna",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Sonnet 5.5 with faster output",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "Centre to amend IT Rules to bar under-18s from social media",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "India warns US about cosying up to Pakistan, says could impact ties",
-      "sent_at": "2026-09-30T00:31:22.658642+00:00"
-    },
-    {
-      "headline": "US Supreme Court allows Trump administration to resume deportations to third countries",
-      "sent_at": "2026-09-30T05:48:21.059403+00:00"
-    },
-    {
-      "headline": "OpenAI aims to disrupt app store model with new ChatGPT features",
-      "sent_at": "2026-09-30T05:48:21.059403+00:00"
-    },
-    {
-      "headline": "OpenAI launches GPT-6 Sol and Luna models, alongside 'Dots' agent",
-      "sent_at": "2026-09-30T05:48:21.059403+00:00"
-    },
-    {
-      "headline": "Arivihan raises $10.2 million Series A for AI tutoring platform",
-      "sent_at": "2026-09-30T05:48:21.059403+00:00"
-    },
-    {
-      "headline": "Centre informs SC of plans to amend IT Rules to bar under-18s from social media",
-      "sent_at": "2026-09-30T05:48:21.059403+00:00"
-    },
-    {
       "headline": "Did Beijing and Washington agree on a crisis prevention deal, or not?",
       "sent_at": "2026-09-30T12:31:18.701569+00:00"
     },
@@ -123,6 +75,30 @@
     {
       "headline": "'A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane",
       "sent_at": "2026-10-01T00:31:13.179337+00:00"
+    },
+    {
+      "headline": "China's Carmakers Target Record 12 Million Overseas Sales by 2026",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
+    },
+    {
+      "headline": "AI Voice Startup ElevenLabs Doubles Valuation to $22 Billion",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
+    },
+    {
+      "headline": "Google DeepMind Unveils Gemini 4 Argon, Restricting Access to Cyber Defenders",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
+    },
+    {
+      "headline": "Apple Pay Launches in India",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
+    },
+    {
+      "headline": "India Declares Drought Year as Monsoon Deficit Hits 13%",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
+    },
+    {
+      "headline": "NASA and International Partners Advance Work on Space Crops",
+      "sent_at": "2026-10-01T06:18:30.296441+00:00"
     }
   ]
 }
