@@ -1,112 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-02",
-      "slot": "morning",
-      "theme": "Israel escalates in Lebanon, while Meta faces regulatory heat in India and the US lifts export controls on Anthropic's AI models.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US and Iran hold talks in Qatar"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Cloudflare pushes AI companies to pay for publishers' content"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic debuts AI-driven pharma R&D tool, Claude Science"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "FIFTH SENSE raises ₹6.3 crore in pre-seed round"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Govt asks WhatsApp to pause username rollout"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Scientists propose launching a giant 'airbag' into space"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-02T06:01:17+05:30"
-    },
-    {
-      "date": "2026-07-02",
-      "slot": "evening",
-      "theme": "Israel escalates tensions in Lebanon while India navigates global AI developments and domestic business investments.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "China aims to infiltrate US-Mexico-Canada trade deal"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Indian tech tycoon bets $30M on AI alternative to Microsoft Office"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic restores Claude Fable 5 after US lifts export controls"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Age Care Labs raises ₹85 Cr to build senior living communities"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Unesco warns Pakistan over reconstructions at Taxila"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "NASA launches mission to rescue falling space telescope"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-02T18:01:15+05:30"
-    },
-    {
       "date": "2026-07-03",
       "slot": "morning",
       "theme": "Japan and India deepen economic and security ties, while OpenAI discusses a potential government stake and Microsoft launches a new AI deployment company.",
@@ -10300,6 +10194,52 @@
         "YourStory"
       ],
       "sent_at": "2026-09-30T23:34:02+05:30"
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "morning",
+      "theme": "Google launches a powerful new AI model while the UK accuses China of tech espionage.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK accuses China of using academics to spy on AI and other tech research"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-01T06:01:13+05:30"
     }
   ]
 }
