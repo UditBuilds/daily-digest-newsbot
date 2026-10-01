@@ -10335,6 +10335,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-01T18:01:37+05:30"
+    },
+    {
+      "date": "2026-10-02",
+      "slot": "evening",
+      "theme": "UK police arrest a man over a suspected Iran-related airbase plot, while Shopify launches an AI tool for store creation.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK arrests man over suspected Fairford airbase plot targeting Iran"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Shopify debuts Canvas, an AI tool for online store creation"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Barclays expands use of Anthropic's Claude AI for efficiency"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Seeds Fincap raises ₹100 Cr in Series B funding"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Putin warns against nuclear weapon use amid global tensions"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA's Crew-13 research advances health, food, and deep-space science"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-02T00:01:14+05:30"
     }
   ]
 }

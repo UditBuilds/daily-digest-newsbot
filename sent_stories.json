@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK PM says ‘strong indications’ Iran involved in bomb scare at US-run airbase",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "UK-France deal targeting migrants crossing English Channel is scrapped",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "DoorDash launches an AI agent you can text to order food",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "GPT-6.1 Astra: Why OpenAI halted its release",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "[Update] Home Interior Startup Gravity Nets $15 Mn To Expand Into New Categories",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
-      "headline": "In 2016, Higher Orbits began sending students into space-inspired STEM programmes; 10 years later, its 10",
-      "sent_at": "2026-09-30T18:04:02.040877+00:00"
-    },
-    {
       "headline": "UK accuses China of using academics to spy on AI and other tech research",
       "sent_at": "2026-10-01T00:31:13.179337+00:00"
     },
@@ -95,6 +63,30 @@
     {
       "headline": "Was flydubai cockpit attack planned? UAE probe to examine possible terror link",
       "sent_at": "2026-10-01T12:31:37.171531+00:00"
+    },
+    {
+      "headline": "UK arrests man over suspected Fairford airbase plot targeting Iran",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
+    },
+    {
+      "headline": "Shopify debuts Canvas, an AI tool for online store creation",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
+    },
+    {
+      "headline": "Barclays expands use of Anthropic's Claude AI for efficiency",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
+    },
+    {
+      "headline": "Seeds Fincap raises ₹100 Cr in Series B funding",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
+    },
+    {
+      "headline": "Putin warns against nuclear weapon use amid global tensions",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
+    },
+    {
+      "headline": "NASA's Crew-13 research advances health, food, and deep-space science",
+      "sent_at": "2026-10-01T18:31:14.937121+00:00"
     }
   ]
 }
