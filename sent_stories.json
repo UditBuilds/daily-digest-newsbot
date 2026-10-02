@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK accuses China of using academics to spy on AI and other tech research",
-      "sent_at": "2026-10-01T00:31:13.179337+00:00"
-    },
-    {
-      "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "sent_at": "2026-10-01T00:31:13.179337+00:00"
-    },
-    {
-      "headline": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic",
-      "sent_at": "2026-10-01T00:31:13.179337+00:00"
-    },
-    {
-      "headline": "Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman",
-      "sent_at": "2026-10-01T00:31:13.179337+00:00"
-    },
-    {
-      "headline": "'A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane",
-      "sent_at": "2026-10-01T00:31:13.179337+00:00"
-    },
-    {
       "headline": "China's Carmakers Target Record 12 Million Overseas Sales by 2026",
       "sent_at": "2026-10-01T06:18:30.296441+00:00"
     },
@@ -111,6 +91,26 @@
     {
       "headline": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
       "sent_at": "2026-10-02T00:31:11.174502+00:00"
+    },
+    {
+      "headline": "Finland investigates suspected foreign intrusions at MPs’ homes",
+      "sent_at": "2026-10-02T05:58:18.515395+00:00"
+    },
+    {
+      "headline": "OpenAI fires three staffers for mishandling sensitive information",
+      "sent_at": "2026-10-02T05:58:18.515395+00:00"
+    },
+    {
+      "headline": "Mistral AI reaches $24 billion valuation and launches AI safety tool",
+      "sent_at": "2026-10-02T05:58:18.515395+00:00"
+    },
+    {
+      "headline": "Niyo's FY26 revenue jumps 80% to ₹158 Cr, losses narrow 58%",
+      "sent_at": "2026-10-02T05:58:18.515395+00:00"
+    },
+    {
+      "headline": "Bihar to release 44 prisoners on Mahatma Gandhi’s birth anniversary",
+      "sent_at": "2026-10-02T05:58:18.515395+00:00"
     }
   ]
 }

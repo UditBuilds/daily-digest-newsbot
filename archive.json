@@ -10337,6 +10337,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-02T06:01:11+05:30"
+    },
+    {
+      "date": "2026-10-02",
+      "slot": "morning",
+      "theme": "Finland investigates potential foreign intrusions at MPs' homes while OpenAI fires staff for mishandling sensitive information.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Finland investigates suspected foreign intrusions at MPs’ homes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI fires three staffers for mishandling sensitive information"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI reaches $24 billion valuation and launches AI safety tool"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Niyo's FY26 revenue jumps 80% to ₹158 Cr, losses narrow 58%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Bihar to release 44 prisoners on Mahatma Gandhi’s birth anniversary"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-02T11:28:18+05:30"
     }
   ]
 }
