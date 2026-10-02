@@ -10385,6 +10385,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-02T11:28:18+05:30"
+    },
+    {
+      "date": "2026-10-02",
+      "slot": "evening",
+      "theme": "China strengthens its military AI capabilities while India's Vande Bharat achieves a speed milestone.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China’s PLA establishes new military academy colleges for AI and drones"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan sanctions Russia's oil exports"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon warns communities against blocking AI data centers"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral achieves $24B valuation, opens AI safety tool"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ideaForge faces ₹109 Cr GST demand and penalty"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Vande Bharat Express crosses Chenab and Anji bridges at 100 kmph"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News D2C Funding",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Indian Startups",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-02T18:01:18+05:30"
     }
   ]
 }
