@@ -10481,6 +10481,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-03T18:01:13+05:30"
+    },
+    {
+      "date": "2026-10-03",
+      "slot": "evening",
+      "theme": "US deploys anti-ship missiles near Taiwan, North Korea tests a new missile, and an OpenAI safety employee resigns over company culture.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan for first time"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea test-fires intermediate-range missile amid mine blast tensions"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "An OpenAI safety employee has quit and is sounding the alarm"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "AAP suspends Punjab MLA after he flags teacher shortage in emotional video"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Scientists just made a superconductor stronger using “empty space”"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-03T22:05:02+05:30"
     }
   ]
 }
