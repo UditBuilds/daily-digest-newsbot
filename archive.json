@@ -10389,6 +10389,50 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-10-03T06:01:13+05:30"
+    },
+    {
+      "date": "2026-10-03",
+      "slot": "morning",
+      "theme": "Oman's past actions raise security concerns for Israel, while Anthropic invests $100M to train engineers on its new Claude Sonnet 5.5 AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Flydubai co-pilot previously barred by Oman over extremist views"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta open sources code for Muse AI gadgets"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic releases Claude Sonnet 5.5 and $100M training program"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian startups raised over $233 Mn this week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Hindu temple in US attacked with bricks, windows shattered"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-03T11:03:41+05:30"
     }
   ]
 }
