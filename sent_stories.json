@@ -1,74 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US says F-47 will be first sixth-gen jet. China’s J-36 and J-50 are already flying",
-      "sent_at": "2026-10-01T12:31:37.171531+00:00"
-    },
-    {
-      "headline": "California Bans AI-Powered Firing Of Employees",
-      "sent_at": "2026-10-01T12:31:37.171531+00:00"
-    },
-    {
-      "headline": "OpenAI Dots Launch: GPT-6.1 Astra Pulled Over Safety [2026]",
-      "sent_at": "2026-10-01T12:31:37.171531+00:00"
-    },
-    {
-      "headline": "SBI Mutual Fund Doubles Down On Swiggy, Buys Stock Worth ₹300 Cr",
-      "sent_at": "2026-10-01T12:31:37.171531+00:00"
-    },
-    {
-      "headline": "Was flydubai cockpit attack planned? UAE probe to examine possible terror link",
-      "sent_at": "2026-10-01T12:31:37.171531+00:00"
-    },
-    {
-      "headline": "UK arrests man over suspected Fairford airbase plot targeting Iran",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "Shopify debuts Canvas, an AI tool for online store creation",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "Barclays expands use of Anthropic's Claude AI for efficiency",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "Seeds Fincap raises ₹100 Cr in Series B funding",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "Putin warns against nuclear weapon use amid global tensions",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "NASA's Crew-13 research advances health, food, and deep-space science",
-      "sent_at": "2026-10-01T18:31:14.937121+00:00"
-    },
-    {
-      "headline": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
-      "headline": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
-      "headline": "SpaceXAI releases a separate Grok iOS app for enterprise users",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
-      "headline": "Jio IPO nears launch: DRHP filed, SEBI clears path",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
-      "headline": "Supreme Court judges decline to meet parliamentary panel on one-nation, one-election",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
-      "headline": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
-      "sent_at": "2026-10-02T00:31:11.174502+00:00"
-    },
-    {
       "headline": "Finland investigates suspected foreign intrusions at MPs’ homes",
       "sent_at": "2026-10-02T05:58:18.515395+00:00"
     },
@@ -111,6 +43,34 @@
     {
       "headline": "Vande Bharat Express crosses Chenab and Anji bridges at 100 kmph",
       "sent_at": "2026-10-02T12:31:18.879209+00:00"
+    },
+    {
+      "headline": "US blast simulation targets China’s alleged secret nuclear testing",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "Anthropic to invest $100 million to train AI engineer talent",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "IPO-Bound JSW One’s FY26 Loss Narrows 51% YoY To ₹107 Cr, Revenue Jumps 45%",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "To counter China, India formally puts Gogra, Hot Spring & others on map",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
+    },
+    {
+      "headline": "Ghana Seeks to Become Africa’s Hub for Space Science and Satellite Technology",
+      "sent_at": "2026-10-03T00:31:13.834637+00:00"
     }
   ]
 }
