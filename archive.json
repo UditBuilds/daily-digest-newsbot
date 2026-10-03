@@ -10433,6 +10433,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-03T11:03:41+05:30"
+    },
+    {
+      "date": "2026-10-03",
+      "slot": "evening",
+      "theme": "China and Russia deepen military ties, while Anthropic releases a new AI model and India's hockey team wins Asian Games gold.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Chinese Troops Participate in Russia's Tsentr-2026 Exercise"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta Releases Muse AI Code for Free"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Releases Claude Sonnet 5.5 AI Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raise Over $233 Million This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India Men's Hockey Team Wins Asian Games Gold, Secures LA28 Olympics Spot"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "UK Children Study Space-Traveled Rocket Seeds"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-03T18:01:13+05:30"
     }
   ]
 }

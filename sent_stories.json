@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Finland investigates suspected foreign intrusions at MPs’ homes",
-      "sent_at": "2026-10-02T05:58:18.515395+00:00"
-    },
-    {
-      "headline": "OpenAI fires three staffers for mishandling sensitive information",
-      "sent_at": "2026-10-02T05:58:18.515395+00:00"
-    },
-    {
-      "headline": "Mistral AI reaches $24 billion valuation and launches AI safety tool",
-      "sent_at": "2026-10-02T05:58:18.515395+00:00"
-    },
-    {
-      "headline": "Niyo's FY26 revenue jumps 80% to ₹158 Cr, losses narrow 58%",
-      "sent_at": "2026-10-02T05:58:18.515395+00:00"
-    },
-    {
-      "headline": "Bihar to release 44 prisoners on Mahatma Gandhi’s birth anniversary",
-      "sent_at": "2026-10-02T05:58:18.515395+00:00"
-    },
-    {
       "headline": "China’s PLA establishes new military academy colleges for AI and drones",
       "sent_at": "2026-10-02T12:31:18.879209+00:00"
     },
@@ -91,6 +71,30 @@
     {
       "headline": "Hindu temple in US attacked with bricks, windows shattered",
       "sent_at": "2026-10-03T05:33:41.301170+00:00"
+    },
+    {
+      "headline": "Chinese Troops Participate in Russia's Tsentr-2026 Exercise",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
+    },
+    {
+      "headline": "Meta Releases Muse AI Code for Free",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
+    },
+    {
+      "headline": "Anthropic Releases Claude Sonnet 5.5 AI Model",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
+    },
+    {
+      "headline": "Indian Startups Raise Over $233 Million This Week",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
+    },
+    {
+      "headline": "India Men's Hockey Team Wins Asian Games Gold, Secures LA28 Olympics Spot",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
+    },
+    {
+      "headline": "UK Children Study Space-Traveled Rocket Seeds",
+      "sent_at": "2026-10-03T12:31:13.094729+00:00"
     }
   ]
 }
