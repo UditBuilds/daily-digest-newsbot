@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US blast simulation targets China’s alleged secret nuclear testing",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "Anthropic to invest $100 million to train AI engineer talent",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "IPO-Bound JSW One’s FY26 Loss Narrows 51% YoY To ₹107 Cr, Revenue Jumps 45%",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "To counter China, India formally puts Gogra, Hot Spring & others on map",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "Ghana Seeks to Become Africa’s Hub for Space Science and Satellite Technology",
-      "sent_at": "2026-10-03T00:31:13.834637+00:00"
-    },
-    {
-      "headline": "Flydubai co-pilot previously barred by Oman over extremist views",
-      "sent_at": "2026-10-03T05:33:41.301170+00:00"
-    },
-    {
-      "headline": "Meta open sources code for Muse AI gadgets",
-      "sent_at": "2026-10-03T05:33:41.301170+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Sonnet 5.5 and $100M training program",
-      "sent_at": "2026-10-03T05:33:41.301170+00:00"
-    },
-    {
-      "headline": "Indian startups raised over $233 Mn this week",
-      "sent_at": "2026-10-03T05:33:41.301170+00:00"
-    },
-    {
-      "headline": "Hindu temple in US attacked with bricks, windows shattered",
-      "sent_at": "2026-10-03T05:33:41.301170+00:00"
-    },
-    {
       "headline": "Chinese Troops Participate in Russia's Tsentr-2026 Exercise",
       "sent_at": "2026-10-03T12:31:13.094729+00:00"
     },
@@ -115,6 +67,30 @@
     {
       "headline": "Apple removes Bitchat app from India App Store 'after government order'",
       "sent_at": "2026-10-04T00:31:11.546890+00:00"
+    },
+    {
+      "headline": "IT sector faces muted quarter due to pricing pressure, geopolitics",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
+    },
+    {
+      "headline": "OpenAI safety leader resigns, warns of 'broken culture'",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
+    },
+    {
+      "headline": "Trump taps Jay Clayton as AI czar",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
+    },
+    {
+      "headline": "Andhra Pradesh plans Rs 500 Cr deeptech fund, targets 25 startups by 2030",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
+    },
+    {
+      "headline": "India finishes fourth at Asian Games 2026 with 85 medals",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
+    },
+    {
+      "headline": "UWA student makes history with NASA internship",
+      "sent_at": "2026-10-04T06:09:39.551269+00:00"
     }
   ]
 }

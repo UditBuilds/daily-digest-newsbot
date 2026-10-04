@@ -10467,6 +10467,50 @@
         "YourStory"
       ],
       "sent_at": "2026-10-04T06:01:11+05:30"
+    },
+    {
+      "date": "2026-10-04",
+      "slot": "evening",
+      "theme": "OpenAI faces internal dissent over safety, while India's Andhra Pradesh plans a significant deeptech fund.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "IT sector faces muted quarter due to pricing pressure, geopolitics"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI safety leader resigns, warns of 'broken culture'"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump taps Jay Clayton as AI czar"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Andhra Pradesh plans Rs 500 Cr deeptech fund, targets 25 startups by 2030"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India finishes fourth at Asian Games 2026 with 85 medals"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "UWA student makes history with NASA internship"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-04T11:39:39+05:30"
     }
   ]
 }
