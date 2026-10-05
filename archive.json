@@ -10497,6 +10497,52 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-10-05T06:01:10+05:30"
+    },
+    {
+      "date": "2026-10-05",
+      "slot": "evening",
+      "theme": "Spain's Prime Minister calls a snap election amidst a housing crisis, while Indian startups like Ola Electric and PhysicsWallah make significant financial moves.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump chooses top spy boss to run new AI taskforce"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI introduces new visual ad format in ChatGPT and expands measurement tools"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bhavish Aggarwal Pledges 4.32% Ola Electric Stake To Fund Rights Issue Subscription"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC seeks EC response on changes during SIR: Why Form 6 has become a flashpoint"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-05T18:01:15+05:30"
     }
   ]
 }
