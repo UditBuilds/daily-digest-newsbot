@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan for first time",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
-      "headline": "North Korea test-fires intermediate-range missile amid mine blast tensions",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
-      "headline": "An OpenAI safety employee has quit and is sounding the alarm",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
-      "headline": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
-      "headline": "AAP suspends Punjab MLA after he flags teacher shortage in emotional video",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
-      "headline": "Scientists just made a superconductor stronger using “empty space”",
-      "sent_at": "2026-10-03T16:35:02.875671+00:00"
-    },
-    {
       "headline": "Latvian leader poised for big win in election shadowed by Putin",
       "sent_at": "2026-10-04T00:31:11.546890+00:00"
     },
@@ -95,6 +71,18 @@
     {
       "headline": "Shenzhou-23 crew conduct space science experiments, equipment maintenance, health checks",
       "sent_at": "2026-10-04T12:31:15.836851+00:00"
+    },
+    {
+      "headline": "France to close up to 500 schools on Monday over student protests",
+      "sent_at": "2026-10-05T00:31:10.725244+00:00"
+    },
+    {
+      "headline": "US Air Force removes all bombers from UK airbase targeted by suspected terror attack",
+      "sent_at": "2026-10-05T00:31:10.725244+00:00"
+    },
+    {
+      "headline": "Next-generation GST aimed at boosting India's next phase of growth",
+      "sent_at": "2026-10-05T00:31:10.725244+00:00"
     }
   ]
 }
