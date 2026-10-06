@@ -10492,6 +10492,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-06T06:01:22+05:30"
+    },
+    {
+      "date": "2026-10-06",
+      "slot": "evening",
+      "theme": "India strengthens military ties with the US while Chinese defense technology expands in Central Asia.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India sizes up US F-35 stealth jets in landmark first on home turf"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Turkmenistan grows its arsenal of Chinese air defences as Russia’s role shrinks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Kicks Off 28-Day Release Marathon: GPT-6 Speeds Up 50%, Text Watermarks and Image Ads Debut"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Beyond Appliances Raises ₹110 Cr To Expand Product Portfolio, Boost Manufacturing"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Four nations, four drills, one month: How the army is expanding its military partnerships"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-06T12:09:42+05:30"
     }
   ]
 }
