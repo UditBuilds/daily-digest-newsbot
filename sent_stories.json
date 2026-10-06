@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
-      "sent_at": "2026-10-05T12:31:15.584221+00:00"
-    },
-    {
-      "headline": "Trump chooses top spy boss to run new AI taskforce",
-      "sent_at": "2026-10-05T12:31:15.584221+00:00"
-    },
-    {
-      "headline": "OpenAI introduces new visual ad format in ChatGPT and expands measurement tools",
-      "sent_at": "2026-10-05T12:31:15.584221+00:00"
-    },
-    {
-      "headline": "Bhavish Aggarwal Pledges 4.32% Ola Electric Stake To Fund Rights Issue Subscription",
-      "sent_at": "2026-10-05T12:31:15.584221+00:00"
-    },
-    {
-      "headline": "SC seeks EC response on changes during SIR: Why Form 6 has become a flashpoint",
-      "sent_at": "2026-10-05T12:31:15.584221+00:00"
-    },
-    {
       "headline": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
       "sent_at": "2026-10-06T00:31:22.382467+00:00"
     },
@@ -71,6 +51,22 @@
     {
       "headline": "Four nations, four drills, one month: How the army is expanding its military partnerships",
       "sent_at": "2026-10-06T06:39:42.569132+00:00"
+    },
+    {
+      "headline": "India opposition lawmakers detained over protest against election chief",
+      "sent_at": "2026-10-06T12:31:18.180009+00:00"
+    },
+    {
+      "headline": "Mistral CEO says new AI model beats Chinese ones in some areas",
+      "sent_at": "2026-10-06T12:31:18.180009+00:00"
+    },
+    {
+      "headline": "Cabinet Clears ₹10,000 Cr SME Fund To Back Manufacturing, Tech Focused SMEs",
+      "sent_at": "2026-10-06T12:31:18.180009+00:00"
+    },
+    {
+      "headline": "MEA condemns attacks on vessels in Black Sea, Hormuz; urges end to hostilities",
+      "sent_at": "2026-10-06T12:31:18.180009+00:00"
     }
   ]
 }

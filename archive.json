@@ -10540,6 +10540,44 @@
         "YourStory"
       ],
       "sent_at": "2026-10-06T12:09:42+05:30"
+    },
+    {
+      "date": "2026-10-06",
+      "slot": "evening",
+      "theme": "India's government approves a ₹10,000 Cr SME fund while its opposition protests the election chief.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India opposition lawmakers detained over protest against election chief"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Mistral CEO says new AI model beats Chinese ones in some areas"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Cabinet Clears ₹10,000 Cr SME Fund To Back Manufacturing, Tech Focused SMEs"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MEA condemns attacks on vessels in Black Sea, Hormuz; urges end to hostilities"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-06T18:01:18+05:30"
     }
   ]
 }
