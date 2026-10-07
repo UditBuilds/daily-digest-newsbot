@@ -10571,6 +10571,67 @@
         "YourStory"
       ],
       "sent_at": "2026-10-07T06:01:15+05:30"
+    },
+    {
+      "date": "2026-10-07",
+      "slot": "evening",
+      "theme": "Russia attacks Kyiv as Israel marks three years since October 7, while Mistral and Google DeepMind release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russian barrage hits Kyiv hours after Zelensky warns of impending attack"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel marks 3 years since October 7 attack that sparked war in Gaza"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI drops another batch of mathematical breakthroughs"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral Large 4 \"Le Chonk\": 1.05T Param AI Model"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "RBI raises interest rates, hikes FY27 growth forecast by 40 bps and inflation by 20 bps"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Dr. Sabrina Berger-Marcelo brings Filipino flavor to space science"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-07T11:46:51+05:30"
     }
   ]
 }

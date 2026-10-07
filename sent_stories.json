@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "US accuses mainland China of targeting Taiwan leader’s family in surveillance case",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "Anthropic takes Claude inference live in India, opens path to regulated AI deployments",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "Flipkart Acquires Minority Stake In Travel Tech Startup TravClan To Scale Offerings",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "SIR row: Will annul EC orders not in keeping with law, says Supreme Court",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
-      "headline": "In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor",
-      "sent_at": "2026-10-06T00:31:22.382467+00:00"
-    },
-    {
       "headline": "India sizes up US F-35 stealth jets in landmark first on home turf",
       "sent_at": "2026-10-06T06:39:42.569132+00:00"
     },
@@ -107,6 +79,38 @@
     {
       "headline": "Ukrainian drone attack sets fire to oil tanker carrying 23 Indians off Russia",
       "sent_at": "2026-10-07T00:31:15.978137+00:00"
+    },
+    {
+      "headline": "Russian barrage hits Kyiv hours after Zelensky warns of impending attack",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "Israel marks 3 years since October 7 attack that sparked war in Gaza",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "OpenAI drops another batch of mathematical breakthroughs",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "Mistral Large 4 \"Le Chonk\": 1.05T Param AI Model",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "RBI raises interest rates, hikes FY27 growth forecast by 40 bps and inflation by 20 bps",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
+    },
+    {
+      "headline": "Dr. Sabrina Berger-Marcelo brings Filipino flavor to space science",
+      "sent_at": "2026-10-07T06:16:51.714818+00:00"
     }
   ]
 }
