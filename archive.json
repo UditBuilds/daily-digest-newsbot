@@ -10683,6 +10683,70 @@
         "YourStory"
       ],
       "sent_at": "2026-10-07T18:01:18+05:30"
+    },
+    {
+      "date": "2026-10-08",
+      "slot": "evening",
+      "theme": "Singapore faces severe haze from Indonesian wildfires, while AI companies like Anthropic and OpenAI release new models and features.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Singapore's Air Pollution Reaches World's Worst Levels Amid Haze"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Proposes US$70,000 Fee for Foreign Students in Post-Graduation Work Programs"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta Rolls Out New AI Tools to Detect Child Sexual Abuse Material Ads"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Releases Claude Haiku 5.5, Cuts Small-Model API Prices"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Introduces College Planner to ChatGPT for Teens"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric's ₹1,000 Cr Rights Issue Opens October 22 at ₹27 Per Share"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Lumio Raises $12 Million in Series A Funding for Consumer Electronics"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "IndiGo Flight Hit by Lightning, Lands Safely in Lucknow"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "China's Thorium-229 Nuclear Clock Beats Vienna's in Stability"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-08T00:32:11+05:30"
     }
   ]
 }

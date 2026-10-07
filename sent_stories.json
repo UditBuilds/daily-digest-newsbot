@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump suggests Iran could attack US cities, drawing criticism",
-      "sent_at": "2026-10-06T18:32:16.029899+00:00"
-    },
-    {
-      "headline": "Anthropic offers free Claude Team access to startups",
-      "sent_at": "2026-10-06T18:32:16.029899+00:00"
-    },
-    {
-      "headline": "Mistral AI releases Mistral Large 4 (Le Chonk) with 1.05T parameters",
-      "sent_at": "2026-10-06T18:32:16.029899+00:00"
-    },
-    {
-      "headline": "FirstCry-backed Swara Baby Products receives SEBI approval for ₹1,000 Cr IPO",
-      "sent_at": "2026-10-06T18:32:16.029899+00:00"
-    },
-    {
-      "headline": "Rahul Gandhi and Congress leaders detained during protest against CEC appointment",
-      "sent_at": "2026-10-06T18:32:16.029899+00:00"
-    },
-    {
       "headline": "Catalan separatist leader Puigdemont set for Spain return after arrest warrant lifted",
       "sent_at": "2026-10-07T00:31:15.978137+00:00"
     },
@@ -95,6 +75,42 @@
     {
       "headline": "NASA sent 10 million cinnamon basil seeds into orbit aboard Endeavour in 2007",
       "sent_at": "2026-10-07T12:31:18.849889+00:00"
+    },
+    {
+      "headline": "Singapore's Air Pollution Reaches World's Worst Levels Amid Haze",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "US Proposes US$70,000 Fee for Foreign Students in Post-Graduation Work Programs",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "Meta Rolls Out New AI Tools to Detect Child Sexual Abuse Material Ads",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "Anthropic Releases Claude Haiku 5.5, Cuts Small-Model API Prices",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "OpenAI Introduces College Planner to ChatGPT for Teens",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "Ola Electric's ₹1,000 Cr Rights Issue Opens October 22 at ₹27 Per Share",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "Lumio Raises $12 Million in Series A Funding for Consumer Electronics",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "IndiGo Flight Hit by Lightning, Lands Safely in Lucknow",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
+    },
+    {
+      "headline": "China's Thorium-229 Nuclear Clock Beats Vienna's in Stability",
+      "sent_at": "2026-10-07T19:02:11.738947+00:00"
     }
   ]
 }
