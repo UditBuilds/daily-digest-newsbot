@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russian barrage hits Kyiv hours after Zelensky warns of impending attack",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "Israel marks 3 years since October 7 attack that sparked war in Gaza",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "OpenAI drops another batch of mathematical breakthroughs",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "Mistral Large 4 \"Le Chonk\": 1.05T Param AI Model",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "RBI raises interest rates, hikes FY27 growth forecast by 40 bps and inflation by 20 bps",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
-      "headline": "Dr. Sabrina Berger-Marcelo brings Filipino flavor to space science",
-      "sent_at": "2026-10-07T06:16:51.714818+00:00"
-    },
-    {
       "headline": "Yemen’s Houthis attack Aden airport amid intensified fighting",
       "sent_at": "2026-10-07T12:31:18.849889+00:00"
     },
@@ -115,6 +83,26 @@
     {
       "headline": "1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth",
       "sent_at": "2026-10-08T00:31:19.424534+00:00"
+    },
+    {
+      "headline": "North Korea rejects South Korea's medical aid offer",
+      "sent_at": "2026-10-08T06:26:28.790961+00:00"
+    },
+    {
+      "headline": "Meta's AI agent Muse launches on iPad",
+      "sent_at": "2026-10-08T06:26:28.790961+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model",
+      "sent_at": "2026-10-08T06:26:28.790961+00:00"
+    },
+    {
+      "headline": "India's quick commerce market expected to reach $90 billion",
+      "sent_at": "2026-10-08T06:26:28.790961+00:00"
+    },
+    {
+      "headline": "Indian government rejects Elon Musk's Starlink claims",
+      "sent_at": "2026-10-08T06:26:28.790961+00:00"
     }
   ]
 }

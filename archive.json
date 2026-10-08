@@ -10741,6 +10741,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-08T06:01:19+05:30"
+    },
+    {
+      "date": "2026-10-08",
+      "slot": "evening",
+      "theme": "Anthropic launches a new AI model, while North Korea rejects South Korean aid and India refutes Elon Musk's Starlink claims.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea rejects South Korea's medical aid offer"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta's AI agent Muse launches on iPad"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India's quick commerce market expected to reach $90 billion"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian government rejects Elon Musk's Starlink claims"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-08T11:56:28+05:30"
     }
   ]
 }
