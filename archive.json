@@ -10786,6 +10786,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-08T11:56:28+05:30"
+    },
+    {
+      "date": "2026-10-08",
+      "slot": "evening",
+      "theme": "Geopolitical tensions challenge global expansion for Chinese EV makers, while Anthropic releases a new, more affordable AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "BYD executive states geopolitics is biggest challenge to expansion"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Samsung's profits reach record $80 billion driven by AI chip demand"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Haiku 5.5, reducing token prices by up to 90%"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PM Modi calls for global framework to tackle cyber fraud"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "GST Council scraps tax officers' arrest powers, raises prosecution threshold to Rs 5 crore"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-08T18:01:18+05:30"
     }
   ]
 }
