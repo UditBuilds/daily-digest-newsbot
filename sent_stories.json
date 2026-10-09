@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "BYD executive states geopolitics is biggest challenge to expansion",
-      "sent_at": "2026-10-08T12:31:18.727387+00:00"
-    },
-    {
-      "headline": "Samsung's profits reach record $80 billion driven by AI chip demand",
-      "sent_at": "2026-10-08T12:31:18.727387+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Haiku 5.5, reducing token prices by up to 90%",
-      "sent_at": "2026-10-08T12:31:18.727387+00:00"
-    },
-    {
-      "headline": "PM Modi calls for global framework to tackle cyber fraud",
-      "sent_at": "2026-10-08T12:31:18.727387+00:00"
-    },
-    {
-      "headline": "GST Council scraps tax officers' arrest powers, raises prosecution threshold to Rs 5 crore",
-      "sent_at": "2026-10-08T12:31:18.727387+00:00"
-    },
-    {
       "headline": "UK Royal Navy sailor charged with spying for Russia",
       "sent_at": "2026-10-09T00:31:18.218335+00:00"
     },
@@ -95,6 +75,26 @@
     {
       "headline": "NASA astronauts splash down after 100 million miles in space",
       "sent_at": "2026-10-09T12:31:16.895664+00:00"
+    },
+    {
+      "headline": "US sanctions ICC after former judge wins Nobel Peace Prize",
+      "sent_at": "2026-10-09T18:27:38.321718+00:00"
+    },
+    {
+      "headline": "Omani co-pilot planned to crash Flydubai plane into Israeli airport",
+      "sent_at": "2026-10-09T18:27:38.321718+00:00"
+    },
+    {
+      "headline": "Bewakoof's FY26 net loss jumps 20% to ₹87.4 Cr; revenue crosses ₹200 Cr",
+      "sent_at": "2026-10-09T18:27:38.321718+00:00"
+    },
+    {
+      "headline": "Govt orders internet suspension in New Delhi amid protests",
+      "sent_at": "2026-10-09T18:27:38.321718+00:00"
+    },
+    {
+      "headline": "Trump awards Elon Musk National Medal of Science",
+      "sent_at": "2026-10-09T18:27:38.321718+00:00"
     }
   ]
 }

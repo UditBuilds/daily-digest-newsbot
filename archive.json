@@ -10880,6 +10880,52 @@
         "YourStory"
       ],
       "sent_at": "2026-10-09T18:01:16+05:30"
+    },
+    {
+      "date": "2026-10-09",
+      "slot": "evening",
+      "theme": "The US sanctions the ICC after a former judge wins the Nobel Peace Prize, while the UAE uncovers a plot to crash a Flydubai plane into an Israeli airport.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US sanctions ICC after former judge wins Nobel Peace Prize"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Omani co-pilot planned to crash Flydubai plane into Israeli airport"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bewakoof's FY26 net loss jumps 20% to ₹87.4 Cr; revenue crosses ₹200 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Govt orders internet suspension in New Delhi amid protests"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Trump awards Elon Musk National Medal of Science"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India Startups",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-09T23:57:38+05:30"
     }
   ]
 }
