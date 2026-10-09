@@ -1,66 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Yemen’s Houthis attack Aden airport amid intensified fighting",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "US and China must set rules before autonomous fighters cross paths",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "Mistral unveils 'Le Chonk' to compete with Chinese open-weight AI models",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "Deeptech startup Quanfluence raises $10M led by Chiratae Ventures",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "‘Rising Together’: India unveils vision for 2036 Olympics and Paralympics bid",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "NASA sent 10 million cinnamon basil seeds into orbit aboard Endeavour in 2007",
-      "sent_at": "2026-10-07T12:31:18.849889+00:00"
-    },
-    {
-      "headline": "Singapore's Air Pollution Reaches World's Worst Levels Amid Haze",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "US Proposes US$70,000 Fee for Foreign Students in Post-Graduation Work Programs",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "Meta Rolls Out New AI Tools to Detect Child Sexual Abuse Material Ads",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "Anthropic Releases Claude Haiku 5.5, Cuts Small-Model API Prices",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "OpenAI Introduces College Planner to ChatGPT for Teens",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "Ola Electric's ₹1,000 Cr Rights Issue Opens October 22 at ₹27 Per Share",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "Lumio Raises $12 Million in Series A Funding for Consumer Electronics",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "IndiGo Flight Hit by Lightning, Lands Safely in Lucknow",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
-      "headline": "China's Thorium-229 Nuclear Clock Beats Vienna's in Stability",
-      "sent_at": "2026-10-07T19:02:11.738947+00:00"
-    },
-    {
       "headline": "Japan explores ‘ownership’ of nuclear submarines as regional rivalries worsen",
       "sent_at": "2026-10-08T00:31:19.424534+00:00"
     },
@@ -123,6 +63,30 @@
     {
       "headline": "GST Council scraps tax officers' arrest powers, raises prosecution threshold to Rs 5 crore",
       "sent_at": "2026-10-08T12:31:18.727387+00:00"
+    },
+    {
+      "headline": "UK Royal Navy sailor charged with spying for Russia",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
+    },
+    {
+      "headline": "Google integrates agentic AI into Gemini for businesses",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
+    },
+    {
+      "headline": "Anthropic releases Claude Haiku 5.5 with lower AI pricing",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
+    },
+    {
+      "headline": "D2C lifestyle brand DailyObjects raises ₹332 Cr to expand offline presence",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
+    },
+    {
+      "headline": "GST Council scraps tax officers' arrest powers, eases refund rules",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
+    },
+    {
+      "headline": "NASA sent glow-in-the-dark squid to the space station to study gravity's effect",
+      "sent_at": "2026-10-09T00:31:18.218335+00:00"
     }
   ]
 }
