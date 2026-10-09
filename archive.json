@@ -10823,6 +10823,63 @@
         "YourStory"
       ],
       "sent_at": "2026-10-09T11:57:41+05:30"
+    },
+    {
+      "date": "2026-10-09",
+      "slot": "evening",
+      "theme": "Elon Musk's Starlink faces challenges in India and competition from China, while OpenAI's new model impacts mathematics.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Elon Musk’s Starlink row in India exposes Asia’s deeper battle over satellite power"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Chinese researchers make Arctic-to-Antarctic call using rival to Musk’s Starlink"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump calls people using term ‘Artificial Intelligence’ ‘THE ENEMY’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Claude Haiku 5.5: Anthropic's fastest model is also free to use"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Amazon Layoffs: At Least 100 Employees In India Hit By Latest Global Job Cuts"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Complete stoppage of metro, rail services unacceptable': SC to Centre ahead of CJP stir"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA astronauts splash down after 100 million miles in space"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-09T18:01:16+05:30"
     }
   ]
 }
