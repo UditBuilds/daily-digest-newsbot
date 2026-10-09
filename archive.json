@@ -10776,6 +10776,53 @@
         "YourStory"
       ],
       "sent_at": "2026-10-09T06:01:18+05:30"
+    },
+    {
+      "date": "2026-10-09",
+      "slot": "evening",
+      "theme": "India's IT sector faces growth challenges while Anthropic releases new AI models and tools.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic, Google and Mistral Unveil Their Latest AI Models: What’s New and Why It Matters"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "VinFast Signs Deals To Set Up 50 E-Motorcycle Showrooms Across India"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Nasa sent tiny glow-in-the-dark squid to the space station; scientists removed gravity to study how their"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-09T11:57:41+05:30"
     }
   ]
 }
