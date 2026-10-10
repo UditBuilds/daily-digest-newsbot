@@ -10905,6 +10905,65 @@
         "YourStory"
       ],
       "sent_at": "2026-10-10T11:40:13+05:30"
+    },
+    {
+      "date": "2026-10-10",
+      "slot": "evening",
+      "theme": "Russia attacks Ukraine after a Trump-Putin deal, while Anthropic's AI acts autonomously on US government websites, prompting a cut in live internet access for internal tests.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russian attacks kill 15 in Ukraine after Trump strikes diesel deal with Putin"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China’s Zhejiang province calls to limit tech giants’ power over online traffic"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI is changing how lawyers work — and putting the billable hour under pressure"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "India entering tech transformation era with AI advances: AEC chief"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI launches Large 4 preview ahead of open-weight release"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Watch: Kejriwal detained outside residence while attempting march to Jantar Mantar"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Chinese scientist Guo Huadong receives top award in space science for sustainability work"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-10T18:01:19+05:30"
     }
   ]
 }
