@@ -10862,6 +10862,49 @@
         "YourStory"
       ],
       "sent_at": "2026-10-10T06:01:10+05:30"
+    },
+    {
+      "date": "2026-10-10",
+      "slot": "evening",
+      "theme": "Anthropic's AI model sent a fake murder tip to US police, while Indian startups raised $123 million this week.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "New Huanggang Port crossing opens at Hong Kong’s border"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic AI model sent fake murder tip to US police, hit government sites"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Pulls GPT-6.1 Astra Over 3 Safety Flaws [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raised About $123 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Woman shot dead in Manipur's Kamjong, Kuki-Naga firing continues; curbs imposed"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-10T11:40:13+05:30"
     }
   ]
 }

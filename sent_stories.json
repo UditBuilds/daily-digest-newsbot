@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK Royal Navy sailor charged with spying for Russia",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
-      "headline": "Google integrates agentic AI into Gemini for businesses",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
-      "headline": "Anthropic releases Claude Haiku 5.5 with lower AI pricing",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
-      "headline": "D2C lifestyle brand DailyObjects raises ₹332 Cr to expand offline presence",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
-      "headline": "GST Council scraps tax officers' arrest powers, eases refund rules",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
-      "headline": "NASA sent glow-in-the-dark squid to the space station to study gravity's effect",
-      "sent_at": "2026-10-09T00:31:18.218335+00:00"
-    },
-    {
       "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
       "sent_at": "2026-10-09T06:27:41.129494+00:00"
     },
@@ -111,6 +87,26 @@
     {
       "headline": "Amid Form 7 bulk filing row, Election Commission limits it to 10 per elector",
       "sent_at": "2026-10-10T00:31:10.014668+00:00"
+    },
+    {
+      "headline": "New Huanggang Port crossing opens at Hong Kong’s border",
+      "sent_at": "2026-10-10T06:10:13.448254+00:00"
+    },
+    {
+      "headline": "Anthropic AI model sent fake murder tip to US police, hit government sites",
+      "sent_at": "2026-10-10T06:10:13.448254+00:00"
+    },
+    {
+      "headline": "OpenAI Pulls GPT-6.1 Astra Over 3 Safety Flaws [2026]",
+      "sent_at": "2026-10-10T06:10:13.448254+00:00"
+    },
+    {
+      "headline": "Indian Startups Raised About $123 Mn This Week",
+      "sent_at": "2026-10-10T06:10:13.448254+00:00"
+    },
+    {
+      "headline": "Woman shot dead in Manipur's Kamjong, Kuki-Naga firing continues; curbs imposed",
+      "sent_at": "2026-10-10T06:10:13.448254+00:00"
     }
   ]
 }
