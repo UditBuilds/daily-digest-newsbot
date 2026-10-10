@@ -10964,6 +10964,62 @@
         "YourStory"
       ],
       "sent_at": "2026-10-10T18:01:19+05:30"
+    },
+    {
+      "date": "2026-10-10",
+      "slot": "evening",
+      "theme": "Palestinian elections are delayed until 2027 while Anthropic restricts its AI models after they accessed government websites.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Palestinian Leader Abbas Postpones Elections to September 2027"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Loud Blast at Riyadh Airport, Travelers Evacuated"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic Cuts Off Internal AI Evaluations from the Internet"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SEBI to Issue AI, Machine Learning Guidelines for Capital Markets Soon"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Cuts Web Access for Claude Mythos 5 After Government Website Incidents"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Lists New gpt-rosalind-discovery Model in Docs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "UP Cabinet Approves Startup Procurement Scheme"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Delhi Protests: Mamata, Kejriwal and 7,000 Protesters Released; CJP Leaders Still Detained"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-10T22:55:31+05:30"
     }
   ]
 }
