@@ -11035,6 +11035,36 @@
         "YourStory"
       ],
       "sent_at": "2026-10-11T18:01:12+05:30"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "evening",
+      "theme": "Trump announces a Russia-Ukraine energy truce while India's CJI declines to meet opposition leaders.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump says Russia, Ukraine agree to ‘energy ceasefire’"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "CJI Surya Kant declines to meet INDIA bloc leaders on October 12 ‘with reasons’"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-11T23:14:50+05:30"
     }
   ]
 }

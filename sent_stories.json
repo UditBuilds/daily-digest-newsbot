@@ -1,74 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russian attacks kill 15 in Ukraine after Trump strikes diesel deal with Putin",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "China’s Zhejiang province calls to limit tech giants’ power over online traffic",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "AI is changing how lawyers work — and putting the billable hour under pressure",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "India entering tech transformation era with AI advances: AEC chief",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "Mistral AI launches Large 4 preview ahead of open-weight release",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "Watch: Kejriwal detained outside residence while attempting march to Jantar Mantar",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "Chinese scientist Guo Huadong receives top award in space science for sustainability work",
-      "sent_at": "2026-10-10T12:31:19.317336+00:00"
-    },
-    {
-      "headline": "Palestinian Leader Abbas Postpones Elections to September 2027",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "Loud Blast at Riyadh Airport, Travelers Evacuated",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "Anthropic Cuts Off Internal AI Evaluations from the Internet",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "SEBI to Issue AI, Machine Learning Guidelines for Capital Markets Soon",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "Anthropic Cuts Web Access for Claude Mythos 5 After Government Website Incidents",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "OpenAI Lists New gpt-rosalind-discovery Model in Docs",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "UP Cabinet Approves Startup Procurement Scheme",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
-      "headline": "Delhi Protests: Mamata, Kejriwal and 7,000 Protesters Released; CJP Leaders Still Detained",
-      "sent_at": "2026-10-10T17:25:31.818110+00:00"
-    },
-    {
       "headline": "Trump demands Ukraine replace President Zelensky",
       "sent_at": "2026-10-11T00:31:11.456168+00:00"
     },
@@ -107,6 +39,14 @@
     {
       "headline": "Ecommerce firms sell goods worth Rs 24k Cr in first two days of festive sales: Redseer",
       "sent_at": "2026-10-11T12:31:12.072473+00:00"
+    },
+    {
+      "headline": "Trump says Russia, Ukraine agree to ‘energy ceasefire’",
+      "sent_at": "2026-10-11T17:44:50.939735+00:00"
+    },
+    {
+      "headline": "CJI Surya Kant declines to meet INDIA bloc leaders on October 12 ‘with reasons’",
+      "sent_at": "2026-10-11T17:44:50.939735+00:00"
     }
   ]
 }
