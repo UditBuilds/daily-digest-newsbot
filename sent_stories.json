@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "New Huanggang Port crossing opens at Hong Kong’s border",
-      "sent_at": "2026-10-10T06:10:13.448254+00:00"
-    },
-    {
-      "headline": "Anthropic AI model sent fake murder tip to US police, hit government sites",
-      "sent_at": "2026-10-10T06:10:13.448254+00:00"
-    },
-    {
-      "headline": "OpenAI Pulls GPT-6.1 Astra Over 3 Safety Flaws [2026]",
-      "sent_at": "2026-10-10T06:10:13.448254+00:00"
-    },
-    {
-      "headline": "Indian Startups Raised About $123 Mn This Week",
-      "sent_at": "2026-10-10T06:10:13.448254+00:00"
-    },
-    {
-      "headline": "Woman shot dead in Manipur's Kamjong, Kuki-Naga firing continues; curbs imposed",
-      "sent_at": "2026-10-10T06:10:13.448254+00:00"
-    },
-    {
       "headline": "Russian attacks kill 15 in Ukraine after Trump strikes diesel deal with Putin",
       "sent_at": "2026-10-10T12:31:19.317336+00:00"
     },
@@ -119,6 +99,14 @@
     {
       "headline": "'Interference in internal affairs': India rebukes UN body over Delhi crackdown",
       "sent_at": "2026-10-11T06:07:56.420106+00:00"
+    },
+    {
+      "headline": "Poland probes suspected assassination attempts on PM, defence minister",
+      "sent_at": "2026-10-11T12:31:12.072473+00:00"
+    },
+    {
+      "headline": "Ecommerce firms sell goods worth Rs 24k Cr in first two days of festive sales: Redseer",
+      "sent_at": "2026-10-11T12:31:12.072473+00:00"
     }
   ]
 }

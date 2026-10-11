@@ -11005,6 +11005,36 @@
         "YourStory"
       ],
       "sent_at": "2026-10-11T11:37:56+05:30"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "evening",
+      "theme": "Poland investigates assassination attempts on its leaders, while Indian e-commerce platforms record significant festive sales.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Poland probes suspected assassination attempts on PM, defence minister"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ecommerce firms sell goods worth Rs 24k Cr in first two days of festive sales: Redseer"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-11T18:01:12+05:30"
     }
   ]
 }
