@@ -10968,6 +10968,43 @@
         "YourStory"
       ],
       "sent_at": "2026-10-11T06:01:11+05:30"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "evening",
+      "theme": "Saudi Arabia faces airport attack while China's AI developers neglect safety tests.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic tests Claude Health for web and mysterious \"iggy\""
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Interference in internal affairs': India rebukes UN body over Delhi crackdown"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-11T11:37:56+05:30"
     }
   ]
 }
