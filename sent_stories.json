@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US sanctions ICC after former judge wins Nobel Peace Prize",
-      "sent_at": "2026-10-09T18:27:38.321718+00:00"
-    },
-    {
-      "headline": "Omani co-pilot planned to crash Flydubai plane into Israeli airport",
-      "sent_at": "2026-10-09T18:27:38.321718+00:00"
-    },
-    {
-      "headline": "Bewakoof's FY26 net loss jumps 20% to ₹87.4 Cr; revenue crosses ₹200 Cr",
-      "sent_at": "2026-10-09T18:27:38.321718+00:00"
-    },
-    {
-      "headline": "Govt orders internet suspension in New Delhi amid protests",
-      "sent_at": "2026-10-09T18:27:38.321718+00:00"
-    },
-    {
-      "headline": "Trump awards Elon Musk National Medal of Science",
-      "sent_at": "2026-10-09T18:27:38.321718+00:00"
-    },
-    {
-      "headline": "US slaps sanctions on ICC, hours after ex-judge wins Nobel",
-      "sent_at": "2026-10-10T00:31:10.014668+00:00"
-    },
-    {
-      "headline": "Anthropic can’t reliably control its AI agents, cuts off internal evals from live internet",
-      "sent_at": "2026-10-10T00:31:10.014668+00:00"
-    },
-    {
-      "headline": "Peak XV Sells Awfis Shares Via ₹30 Cr Bulk Deal",
-      "sent_at": "2026-10-10T00:31:10.014668+00:00"
-    },
-    {
-      "headline": "Amid Form 7 bulk filing row, Election Commission limits it to 10 per elector",
-      "sent_at": "2026-10-10T00:31:10.014668+00:00"
-    },
-    {
       "headline": "New Huanggang Port crossing opens at Hong Kong’s border",
       "sent_at": "2026-10-10T06:10:13.448254+00:00"
     },
@@ -123,6 +87,22 @@
     {
       "headline": "Delhi Protests: Mamata, Kejriwal and 7,000 Protesters Released; CJP Leaders Still Detained",
       "sent_at": "2026-10-10T17:25:31.818110+00:00"
+    },
+    {
+      "headline": "Trump demands Ukraine replace President Zelensky",
+      "sent_at": "2026-10-11T00:31:11.456168+00:00"
+    },
+    {
+      "headline": "Microsoft CEO Satya Nadella calls for AI 'emergency brake'",
+      "sent_at": "2026-10-11T00:31:11.456168+00:00"
+    },
+    {
+      "headline": "Nat Habit raises ₹142 Cr in Series C funding",
+      "sent_at": "2026-10-11T00:31:11.456168+00:00"
+    },
+    {
+      "headline": "Indian government foils major protest, detains thousands",
+      "sent_at": "2026-10-11T00:31:11.456168+00:00"
     }
   ]
 }
