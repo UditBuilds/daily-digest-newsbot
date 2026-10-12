@@ -11009,6 +11009,51 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-10-12T06:01:16+05:30"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "evening",
+      "theme": "Houthi strikes target Riyadh, while India's Zetwerk prepares for a ₹5,012 Cr IPO.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Pakistani National Killed in Second Houthi Strike on Riyadh Airport"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon in Talks to Acquire AI Startup Decart"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Grok 4.7 Released with New Pricing and Benchmarks"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zetwerk Sets IPO Price Band at ₹143-₹151 for ₹5,012 Cr Issue"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian National Killed in Missile Attack on Riyadh Airport"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-12T11:46:59+05:30"
     }
   ]
 }

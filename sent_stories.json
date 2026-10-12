@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "sent_at": "2026-10-11T06:07:56.420106+00:00"
-    },
-    {
-      "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
-      "sent_at": "2026-10-11T06:07:56.420106+00:00"
-    },
-    {
-      "headline": "Anthropic tests Claude Health for web and mysterious \"iggy\"",
-      "sent_at": "2026-10-11T06:07:56.420106+00:00"
-    },
-    {
-      "headline": "'Interference in internal affairs': India rebukes UN body over Delhi crackdown",
-      "sent_at": "2026-10-11T06:07:56.420106+00:00"
-    },
-    {
       "headline": "Poland probes suspected assassination attempts on PM, defence minister",
       "sent_at": "2026-10-11T12:31:12.072473+00:00"
     },
@@ -55,6 +39,26 @@
     {
       "headline": "Don't detain peaceful protesters, says SC; hundreds still taken away on Day 2",
       "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "Pakistani National Killed in Second Houthi Strike on Riyadh Airport",
+      "sent_at": "2026-10-12T06:16:59.949302+00:00"
+    },
+    {
+      "headline": "Amazon in Talks to Acquire AI Startup Decart",
+      "sent_at": "2026-10-12T06:16:59.949302+00:00"
+    },
+    {
+      "headline": "Grok 4.7 Released with New Pricing and Benchmarks",
+      "sent_at": "2026-10-12T06:16:59.949302+00:00"
+    },
+    {
+      "headline": "Zetwerk Sets IPO Price Band at ₹143-₹151 for ₹5,012 Cr Issue",
+      "sent_at": "2026-10-12T06:16:59.949302+00:00"
+    },
+    {
+      "headline": "Indian National Killed in Missile Attack on Riyadh Airport",
+      "sent_at": "2026-10-12T06:16:59.949302+00:00"
     }
   ]
 }
