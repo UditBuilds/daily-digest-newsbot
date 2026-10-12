@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Trump demands Ukraine replace President Zelensky",
-      "sent_at": "2026-10-11T00:31:11.456168+00:00"
-    },
-    {
-      "headline": "Microsoft CEO Satya Nadella calls for AI 'emergency brake'",
-      "sent_at": "2026-10-11T00:31:11.456168+00:00"
-    },
-    {
-      "headline": "Nat Habit raises ₹142 Cr in Series C funding",
-      "sent_at": "2026-10-11T00:31:11.456168+00:00"
-    },
-    {
-      "headline": "Indian government foils major protest, detains thousands",
-      "sent_at": "2026-10-11T00:31:11.456168+00:00"
-    },
-    {
       "headline": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "sent_at": "2026-10-11T06:07:56.420106+00:00"
     },
@@ -47,6 +31,30 @@
     {
       "headline": "CJI Surya Kant declines to meet INDIA bloc leaders on October 12 ‘with reasons’",
       "sent_at": "2026-10-11T17:44:50.939735+00:00"
+    },
+    {
+      "headline": "Pakistan President imposes emergency rule in Imran Khan’s provincial government",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "Microsoft President: Britain Should Write World's AI Rules",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "OpenAI updates ChatGPT with interactive graphics",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "Anthropic halved Sonnet 5.5 cache reads, and its own tool showed the old price for two days",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
+    },
+    {
+      "headline": "Don't detain peaceful protesters, says SC; hundreds still taken away on Day 2",
+      "sent_at": "2026-10-12T00:31:16.088119+00:00"
     }
   ]
 }
