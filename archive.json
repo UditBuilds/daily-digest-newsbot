@@ -11054,6 +11054,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-12T11:46:59+05:30"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "evening",
+      "theme": "Saudi Arabia faces new Houthi attacks while Indian opposition leaders demand the election chief's resignation.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi Arabia faces more drone, missile attacks after Houthi’s fatal airport strikes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "IMF says AI investment keeps global growth around 3% but brings massive disruption"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Grok 4.7 Release: Pricing, Benchmarks vs Claude 5.5"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian opposition leaders march to top court to demand election chief resign"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space Week: Why Predicting Solar Storms Remains One of Science’s Biggest Challenges"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-12T18:01:21+05:30"
     }
   ]
 }
