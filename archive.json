@@ -11076,6 +11076,55 @@
         "YourStory"
       ],
       "sent_at": "2026-10-13T06:04:47+05:30"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "evening",
+      "theme": "Geopolitical tensions impact global markets as Anthropic and Meta release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Asian Stocks Dive Amid Geopolitical Risks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic Reduces AI Distillation Attacks on Claude"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta Launches Muse Wonder AI Models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "MakeO Raises ₹90 Crore for Expansion"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "SC Stays Criminal Defamation Trial Against Rahul Gandhi"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Science City Celebrates Space Exploration with Students"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-13T12:27:38+05:30"
     }
   ]
 }
