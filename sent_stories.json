@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Pakistan President imposes emergency rule in Imran Khan’s provincial government",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
-      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
-      "headline": "Microsoft President: Britain Should Write World's AI Rules",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
-      "headline": "OpenAI updates ChatGPT with interactive graphics",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
-      "headline": "Anthropic halved Sonnet 5.5 cache reads, and its own tool showed the old price for two days",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
-      "headline": "Don't detain peaceful protesters, says SC; hundreds still taken away on Day 2",
-      "sent_at": "2026-10-12T00:31:16.088119+00:00"
-    },
-    {
       "headline": "Pakistani National Killed in Second Houthi Strike on Riyadh Airport",
       "sent_at": "2026-10-12T06:16:59.949302+00:00"
     },
@@ -87,6 +63,26 @@
     {
       "headline": "At 5.5%, retail inflation hits 9-month high on food prices",
       "sent_at": "2026-10-12T21:21:22.991844+00:00"
+    },
+    {
+      "headline": "Hackers heat French supermarket fridges, sparking fires and spoiling food in cyberattack",
+      "sent_at": "2026-10-13T00:34:47.922196+00:00"
+    },
+    {
+      "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "sent_at": "2026-10-13T00:34:47.922196+00:00"
+    },
+    {
+      "headline": "Meta releases its first frontier model, Muse Wonder",
+      "sent_at": "2026-10-13T00:34:47.922196+00:00"
+    },
+    {
+      "headline": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
+      "sent_at": "2026-10-13T00:34:47.922196+00:00"
+    },
+    {
+      "headline": "INDIA bloc seeks complete files, objections by ECs to SIR, access logs, meeting minutes",
+      "sent_at": "2026-10-13T00:34:47.922196+00:00"
     }
   ]
 }
