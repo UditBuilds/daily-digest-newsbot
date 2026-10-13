@@ -11125,6 +11125,56 @@
         "YourStory"
       ],
       "sent_at": "2026-10-13T12:27:38+05:30"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "evening",
+      "theme": "Geopolitical tensions rise with concerns over satellite networks and Asian market instability, while Anthropic and Mistral release new AI models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Satellite Network A 'Geopolitical Control Tool': Think Tank Seeks Starlink Curbs"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches fastest and affordable Claude Haiku model yet"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "'I look to China as gurus': Zoho's Sridhar Vembu"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘No amount of denial can change the fact’: MEA's firm message to China on Ladakh"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Watch: Nasa launches over 2,000 kg food, supplies, science tests to astronauts"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-13T18:01:20+05:30"
     }
   ]
 }
