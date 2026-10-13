@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Saudi Arabia faces more drone, missile attacks after Houthi’s fatal airport strikes",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
-      "headline": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
-      "headline": "Grok 4.7 Release: Pricing, Benchmarks vs Claude 5.5",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
-      "headline": "Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
-      "headline": "Indian opposition leaders march to top court to demand election chief resign",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
-      "headline": "Space Week: Why Predicting Solar Storms Remains One of Science’s Biggest Challenges",
-      "sent_at": "2026-10-12T12:31:21.418559+00:00"
-    },
-    {
       "headline": "Ukraine’s EU accession bid advances after Kyiv passes minority rights law",
       "sent_at": "2026-10-12T21:21:22.991844+00:00"
     },
@@ -111,6 +87,34 @@
     {
       "headline": "Watch: Nasa launches over 2,000 kg food, supplies, science tests to astronauts",
       "sent_at": "2026-10-13T12:31:20.924367+00:00"
+    },
+    {
+      "headline": "China sentences 3 Myanmar crime bosses to death for telecoms fraud",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "Philippines rejects China’s calls for direct contact amid 'miscalculation' warnings",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "Facebook gives users more control over their algorithm",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "Meta launches Muse Wonder, catching OpenAI, Anthropic",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "Google releases Gemini 4 Argon, built to solve hard problems",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "Freshworks to acquire Torii to expand AI spend governance",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
+    },
+    {
+      "headline": "SpaceX launches NASA science and cargo to International Space Station",
+      "sent_at": "2026-10-13T19:26:26.149718+00:00"
     }
   ]
 }

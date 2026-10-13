@@ -11175,6 +11175,61 @@
         "YourStory"
       ],
       "sent_at": "2026-10-13T18:01:20+05:30"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "evening",
+      "theme": "China cracks down on Myanmar crime bosses while major tech companies release new AI models and features.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China sentences 3 Myanmar crime bosses to death for telecoms fraud"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Philippines rejects China’s calls for direct contact amid 'miscalculation' warnings"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Facebook gives users more control over their algorithm"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta launches Muse Wonder, catching OpenAI, Anthropic"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google releases Gemini 4 Argon, built to solve hard problems"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Freshworks to acquire Torii to expand AI spend governance"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "SpaceX launches NASA science and cargo to International Space Station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-14T00:56:26+05:30"
     }
   ]
 }
