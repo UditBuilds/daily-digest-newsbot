@@ -11218,6 +11218,61 @@
         "YourStory"
       ],
       "sent_at": "2026-10-14T10:40:18+05:30"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "evening",
+      "theme": "India prepares for geopolitical shifts while Taiwan strengthens its defenses against China, and AI companies like Scimplify secure significant funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "India Must Prepare For Geopolitical Shifts, Says Ashwini Vaishnaw"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Taiwan Acquires US Drone Boats to Monitor Chinese Sea Activity"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Scimplify Raises $25M to Challenge China's Grip on Critical Materials with AI"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Only 6.7% of Indian Companies Scale AI Across Workflows"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Says New Safeguards Cut Claude Distillation by 90-99%"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "The Stack Raises ₹21.5 Cr to Broaden Supplements Portfolio"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MEA Condemns Attack on Saudi Airport, Oil Facilities; Four Indians in ICU"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-14T18:01:25+05:30"
     }
   ]
 }
