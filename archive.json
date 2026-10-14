@@ -11173,6 +11173,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-14T06:01:15+05:30"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "morning",
+      "theme": "Meta releases a new AI model while an Indian AI startup secures $2.5M in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Indonesia's Bali hit by fuel crisis as huge queues form at petrol stations"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Anti-CEC protest LIVE | CJP’s Saurav Das and Ashutosh Ranka sent to 5 days judicial custody in trespassing case"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-14T10:40:18+05:30"
     }
   ]
 }
