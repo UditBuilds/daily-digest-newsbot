@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China sentences 3 Myanmar crime bosses to death for telecoms fraud",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "Philippines rejects China’s calls for direct contact amid 'miscalculation' warnings",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "Facebook gives users more control over their algorithm",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "Meta launches Muse Wonder, catching OpenAI, Anthropic",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "Google releases Gemini 4 Argon, built to solve hard problems",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "Freshworks to acquire Torii to expand AI spend governance",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "SpaceX launches NASA science and cargo to International Space Station",
-      "sent_at": "2026-10-13T19:26:26.149718+00:00"
-    },
-    {
-      "headline": "US fines Bank of America US$1.2 billion for money laundering and sanctions violations",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "Younger Japanese fear Trump's US more than China",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "Google announces Gemini 4 Argon AI model",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "Houthis used Anthropic’s Claude AI for weapon development",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "GreenCell Mobility raises ₹330 Cr to expand electric bus fleet",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
-      "headline": "EAM Jaishankar underlines need for stable border for normal ties with China",
-      "sent_at": "2026-10-14T00:31:15.677596+00:00"
-    },
-    {
       "headline": "Indonesia's Bali hit by fuel crisis as huge queues form at petrol stations",
       "sent_at": "2026-10-14T05:10:18.061858+00:00"
     },
@@ -103,6 +47,30 @@
     {
       "headline": "MEA Condemns Attack on Saudi Airport, Oil Facilities; Four Indians in ICU",
       "sent_at": "2026-10-14T12:31:25.540216+00:00"
+    },
+    {
+      "headline": "Musk suggests US government behind Starshield slowdown in Ukraine",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
+    },
+    {
+      "headline": "YouTube Music launches new labels for AI-generated music",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
+    },
+    {
+      "headline": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
+    },
+    {
+      "headline": "Jio Platforms Sets Stage For India’s Largest IPO At ₹10.3 Lakh Cr Valuation",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
+    },
+    {
+      "headline": "India to Starlink: Comply with rules before entering market",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
+    },
+    {
+      "headline": "NASA’s SpaceX resupply mission delivers science experiments and solar arrays to space station",
+      "sent_at": "2026-10-15T00:31:23.931686+00:00"
     }
   ]
 }
