@@ -11215,6 +11215,64 @@
         "YourStory"
       ],
       "sent_at": "2026-10-15T06:01:23+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "morning",
+      "theme": "North Korea tests submarine missiles, while Europe strengthens its stance against China, and Indian startups secure significant funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea tests submarine-launched cruise missiles, heightening tensions with Seoul"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Emboldened by hybrid car deal, Europe coalesces around tougher China stance"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "YouTube Music launches new labels as AI-generated music floods streaming platforms"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "GPT-5.6 Sol Helps Researchers Break Chrome In Six Days, Then Google Pays Up"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IPO-Bound Tonbo Imaging Nets ₹255 Cr From Anchor Investors"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘Mass shooting’ plot at Illinois Hindu temple: India welcomes US action against teen"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "WNC SCIENCE EXPERIMENT ON SPACE X"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-15T10:28:46+05:30"
     }
   ]
 }
