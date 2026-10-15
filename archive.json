@@ -11323,6 +11323,52 @@
         "YourStory"
       ],
       "sent_at": "2026-10-15T18:01:21+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "evening",
+      "theme": "The EU targets Chinese imports with new trade curbs while Shopify expands its accelerated checkout service to India.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "EU Leaders Back More Trade Curbs Against Chinese Imports"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Shopify to Launch Shop Pay Accelerated Checkout in India by Q1 2027"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zetwerk IPO Subscribed 23% on Day 1"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Actor Imran Khan Faces Deportation from India by October 28"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "'Space Tsunamis' Reveal Solar Storm Strike Zones, Threatening Power Grids"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-15T22:45:20+05:30"
     }
   ]
 }
