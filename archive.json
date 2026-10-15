@@ -11273,6 +11273,56 @@
         "YourStory"
       ],
       "sent_at": "2026-10-15T10:28:46+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "evening",
+      "theme": "WTO warns of lasting trade impacts from Middle East conflicts while Google's new AI model, Gemini 4 Argon, challenges OpenAI and Anthropic in coding and reasoning.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "WTO chief sees lasting impact on trade from Middle East war and geopolitics"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon’s Bee launches two new personal AI devices, starting at $75"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google’s Gemini 4 Argon takes on OpenAI, Anthropic with focus on coding, research and reasoning"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zetwerk IPO Subscribed 8% On Day 1 So Far"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Centre Directs Telcos To Display Caller Names From November 1"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Astronomers Have Detected A Mysterious Signal Coming From Empty Space. Nobody Knows What It Is."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-15T18:01:21+05:30"
     }
   ]
 }
