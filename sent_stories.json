@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Musk suggests US government behind Starshield slowdown in Ukraine",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
-      "headline": "YouTube Music launches new labels for AI-generated music",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
-      "headline": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
-      "headline": "Jio Platforms Sets Stage For India’s Largest IPO At ₹10.3 Lakh Cr Valuation",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
-      "headline": "India to Starlink: Comply with rules before entering market",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
-      "headline": "NASA’s SpaceX resupply mission delivers science experiments and solar arrays to space station",
-      "sent_at": "2026-10-15T00:31:23.931686+00:00"
-    },
-    {
       "headline": "North Korea tests submarine-launched cruise missiles, heightening tensions with Seoul",
       "sent_at": "2026-10-15T04:58:46.946262+00:00"
     },
@@ -123,6 +99,22 @@
     {
       "headline": "If every citizen becomes a journalist, it will create problems for all, says SC",
       "sent_at": "2026-10-16T00:31:21.463480+00:00"
+    },
+    {
+      "headline": "Anthropic grants METR researchers employee-level access to its AI models",
+      "sent_at": "2026-10-16T04:48:15.284130+00:00"
+    },
+    {
+      "headline": "Grok Voice 3.0 tops speech index but responds slower than 2.0",
+      "sent_at": "2026-10-16T04:48:15.284130+00:00"
+    },
+    {
+      "headline": "Shopify prepares to launch Shop Pay in India",
+      "sent_at": "2026-10-16T04:48:15.284130+00:00"
+    },
+    {
+      "headline": "Reliance welcomes Starlink competition in India's satellite communications market",
+      "sent_at": "2026-10-16T04:48:15.284130+00:00"
     }
   ]
 }
