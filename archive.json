@@ -11397,6 +11397,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-16T18:01:20+05:30"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "evening",
+      "theme": "Ukraine seeks $79 billion from the EU for its war effort, while India's Cult.fit secures SEBI approval for its ₹950 Cr IPO.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Zelensky asks EU for extra $79 billion to sustain Ukraine’s war effort"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ethnic Wear Brand Libas Adds 9 New Stores In Offline Expansion Push"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "6,000 cops, 2 notices, Dipke among 150 detained: How unrest unfolded in central Delhi"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "'White' dwarf stars can be purple, pink and even green, surprising new study finds"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-16T22:21:12+05:30"
     }
   ]
 }
