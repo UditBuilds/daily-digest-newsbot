@@ -11494,6 +11494,50 @@
         "YourStory"
       ],
       "sent_at": "2026-10-17T18:01:19+05:30"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "evening",
+      "theme": "Taiwan enhances its defense against China with AI satellites, while Meta adjusts its AI data scraping policies after user backlash.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Taiwan to deploy AI satellite system for early warning against PLA"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta removes language allowing AI to scrape news sites"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic to release Claude Fable 5.5 next week"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart's logistics arm Ekart cuts FY26 loss by 98% to ₹26 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Madras High Court: Covid 'destroyed' marriage, pandemic disputes need separate treatment"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-17T21:18:31+05:30"
     }
   ]
 }
