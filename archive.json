@@ -11407,6 +11407,50 @@
         "YourStory"
       ],
       "sent_at": "2026-10-17T06:01:26+05:30"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "morning",
+      "theme": "Brazil achieves record Amazon deforestation reduction while Indian startups secure $236 million in funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Brazil sees record fall in Amazon deforestation as key election looms"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Replit is no longer working with Anthropic, CEO says"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "xAI’s Grok Voice 3.0 Brings AI Phone Agents To $0.08 A Minute"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Trump waives Russia oil curbs amid 100% tariff threat: What it means for India"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-17T10:17:37+05:30"
     }
   ]
 }
