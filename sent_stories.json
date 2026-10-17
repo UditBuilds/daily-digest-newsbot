@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Anthropic grants METR researchers employee-level access to its AI models",
-      "sent_at": "2026-10-16T04:48:15.284130+00:00"
-    },
-    {
-      "headline": "Grok Voice 3.0 tops speech index but responds slower than 2.0",
-      "sent_at": "2026-10-16T04:48:15.284130+00:00"
-    },
-    {
-      "headline": "Shopify prepares to launch Shop Pay in India",
-      "sent_at": "2026-10-16T04:48:15.284130+00:00"
-    },
-    {
-      "headline": "Reliance welcomes Starlink competition in India's satellite communications market",
-      "sent_at": "2026-10-16T04:48:15.284130+00:00"
-    },
-    {
       "headline": "Singapore targets 7 companies over Indonesian wildfires",
       "sent_at": "2026-10-16T12:31:20.157404+00:00"
     },
@@ -123,6 +107,26 @@
     {
       "headline": "Trump waives Russia oil curbs amid 100% tariff threat: What it means for India",
       "sent_at": "2026-10-17T04:47:37.868704+00:00"
+    },
+    {
+      "headline": "UK deports Romanian convicted of arson at ex-PM Starmer’s homes",
+      "sent_at": "2026-10-17T12:31:19.028082+00:00"
+    },
+    {
+      "headline": "Trump's AI Task Force To Commission Report On Technology's Risks",
+      "sent_at": "2026-10-17T12:31:19.028082+00:00"
+    },
+    {
+      "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "sent_at": "2026-10-17T12:31:19.028082+00:00"
+    },
+    {
+      "headline": "ixigo Swings To ₹63 Cr Profit In Q2, Revenue Rises 13% YoY",
+      "sent_at": "2026-10-17T12:31:19.028082+00:00"
+    },
+    {
+      "headline": "‘Cheap foreign labour’: US Congressman claims H-1B visa holders from India, China replacing American graduates",
+      "sent_at": "2026-10-17T12:31:19.028082+00:00"
     }
   ]
 }

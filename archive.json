@@ -11451,6 +11451,49 @@
         "YourStory"
       ],
       "sent_at": "2026-10-17T10:17:37+05:30"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "evening",
+      "theme": "US Congressman raises concerns about H-1B visas while India's ixigo reports strong Q2 profits.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK deports Romanian convicted of arson at ex-PM Starmer’s homes"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump's AI Task Force To Commission Report On Technology's Risks"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "ixigo Swings To ₹63 Cr Profit In Q2, Revenue Rises 13% YoY"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘Cheap foreign labour’: US Congressman claims H-1B visa holders from India, China replacing American graduates"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-17T18:01:19+05:30"
     }
   ]
 }
