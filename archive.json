@@ -1,99 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-19",
-      "slot": "morning",
-      "theme": "Iran's attack on a US base in Jordan kills two American troops, escalating tensions between the two nations.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "2 US troops dead, 1 missing after Iran attacks base in Jordan"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "GPT-5.6 Sol, Terra, and Luna are here"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Zoomies raises ₹5 crore to scale clean-label pet food play in India"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Despite 35 minute delay Vikram-1 keeps date with Indian space history with Mission Aagaman success"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Vikram-1 rocket successfully launches into low Earth orbit"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-19T06:01:08+05:30"
-    },
-    {
-      "date": "2026-07-19",
-      "slot": "evening",
-      "theme": "Russia launches a major ballistic missile attack on Ukrainian cities, while the US and Iran exchange strikes, and China makes significant moves in the AI sector.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Russia launches major ballistic missile attack on Ukrainian cities"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "China rebuts AI distillation claims as Kimi K3 launch intensifies tech rivalry"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic’s Claude Fable 5 access plans change from July 20"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Sotrue Crosses ₹100 Crore ARR, Signals Next Phase of India’s D2C Beauty Growth"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-19T18:01:08+05:30"
-    },
-    {
       "date": "2026-07-20",
       "slot": "evening",
       "theme": "Israel and Hamas are escalating tensions in the Middle East, while Anthropic and xAI are making significant moves in the AI industry.",
@@ -11538,6 +11445,49 @@
         "YourStory"
       ],
       "sent_at": "2026-10-17T21:18:31+05:30"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "morning",
+      "theme": "China expands influence in Central Asia as Anthropic prepares to launch a new AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China gains ground in Central Asia beyond EVs"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta updates terms to address AI scraping concerns"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic prepares to release Claude Fable 5.5 next week"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Urban Company proposes ₹2,500 Cr fundraise"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "19 dead, 25 hurt in stampede at India religious festival"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-10-18T06:01:16+05:30"
     }
   ]
 }
