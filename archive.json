@@ -11525,6 +11525,37 @@
         "YourStory"
       ],
       "sent_at": "2026-10-18T10:24:05+05:30"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "evening",
+      "theme": "Saudi Arabia faces Houthi attacks while India's satellite internet competition heats up.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Starlink, Jio & OneWeb: Untangling The Satcom Queue"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Unacceptable': Paswan defends 'Leave India' notice to Imran Khan over Mumbai stir"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-18T18:01:12+05:30"
     }
   ]
 }
