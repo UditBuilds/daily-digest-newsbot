@@ -11488,6 +11488,43 @@
         "Times of India Top Stories"
       ],
       "sent_at": "2026-10-18T06:01:16+05:30"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "morning",
+      "theme": "Israeli settlers attack European diplomats in the West Bank while Meta adjusts its AI data policies.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli settlers attack European diplomats, beat up French mayor in West Bank"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta removes language that raised scraping and AI training concerns"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Burma Burma Parent’s FY26 Loss Surges 31X YoY To ₹15 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "12 killed after speeding truck runs over devotees near temple in Gwalior"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-18T10:24:05+05:30"
     }
   ]
 }

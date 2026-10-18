@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China warns EU on trade, Brussels confirms 'kill switch' plans",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "North Korea claims test of new AI-powered torpedo weapon system",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "Replit ends partnership with Anthropic due to cost and other reasons",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "India reports rogue AI agent activity in exposed app configurations",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Opus 5.5 fast mode now available without access request",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "FSSAI issues show-cause notices to BigBasket, Flipkart over misleading claims",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "Zetwerk IPO subscribed 31% on Day 2, QIB portion at 37%",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "PM Modi and Trump to meet in Manila next month",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "NASA's Hubble Space Telescope spies spiral galaxy's edge",
-      "sent_at": "2026-10-17T00:31:26.432137+00:00"
-    },
-    {
-      "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "sent_at": "2026-10-17T04:47:37.868704+00:00"
-    },
-    {
-      "headline": "Replit is no longer working with Anthropic, CEO says",
-      "sent_at": "2026-10-17T04:47:37.868704+00:00"
-    },
-    {
-      "headline": "xAI’s Grok Voice 3.0 Brings AI Phone Agents To $0.08 A Minute",
-      "sent_at": "2026-10-17T04:47:37.868704+00:00"
-    },
-    {
-      "headline": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
-      "sent_at": "2026-10-17T04:47:37.868704+00:00"
-    },
-    {
-      "headline": "Trump waives Russia oil curbs amid 100% tariff threat: What it means for India",
-      "sent_at": "2026-10-17T04:47:37.868704+00:00"
-    },
-    {
       "headline": "UK deports Romanian convicted of arson at ex-PM Starmer’s homes",
       "sent_at": "2026-10-17T12:31:19.028082+00:00"
     },
@@ -115,6 +59,22 @@
     {
       "headline": "19 dead, 25 hurt in stampede at India religious festival",
       "sent_at": "2026-10-18T00:31:16.475212+00:00"
+    },
+    {
+      "headline": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+      "sent_at": "2026-10-18T04:54:05.649654+00:00"
+    },
+    {
+      "headline": "Meta removes language that raised scraping and AI training concerns",
+      "sent_at": "2026-10-18T04:54:05.649654+00:00"
+    },
+    {
+      "headline": "Burma Burma Parent’s FY26 Loss Surges 31X YoY To ₹15 Cr",
+      "sent_at": "2026-10-18T04:54:05.649654+00:00"
+    },
+    {
+      "headline": "12 killed after speeding truck runs over devotees near temple in Gwalior",
+      "sent_at": "2026-10-18T04:54:05.649654+00:00"
     }
   ]
 }
