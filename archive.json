@@ -11600,6 +11600,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-19T10:32:38+05:30"
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "evening",
+      "theme": "The World Food Programme cuts aid to Gaza, while China increases pressure on Taiwan and Indian startups raise capital.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Taiwan coastguard wards off 16 mainland ships as Beijing turns up the pressure"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zerodha Launches US Stock Investing, Offers Access To 2,000 Stocks"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "MeitY Asks Meta To Review Content Recommendation Algorithms"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-19T18:01:24+05:30"
     }
   ]
 }

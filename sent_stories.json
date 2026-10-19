@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen",
-      "sent_at": "2026-10-18T12:31:12.720534+00:00"
-    },
-    {
-      "headline": "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
-      "sent_at": "2026-10-18T12:31:12.720534+00:00"
-    },
-    {
-      "headline": "'Unacceptable': Paswan defends 'Leave India' notice to Imran Khan over Mumbai stir",
-      "sent_at": "2026-10-18T12:31:12.720534+00:00"
-    },
-    {
       "headline": "India needs more fighter jets but cannot build them fast enough",
       "sent_at": "2026-10-19T00:31:24.800171+00:00"
     },
@@ -55,6 +43,30 @@
     {
       "headline": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
       "sent_at": "2026-10-19T05:02:38.257944+00:00"
+    },
+    {
+      "headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
+    },
+    {
+      "headline": "Taiwan coastguard wards off 16 mainland ships as Beijing turns up the pressure",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
+    },
+    {
+      "headline": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
+    },
+    {
+      "headline": "Zerodha Launches US Stock Investing, Offers Access To 2,000 Stocks",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
+    },
+    {
+      "headline": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
+    },
+    {
+      "headline": "MeitY Asks Meta To Review Content Recommendation Algorithms",
+      "sent_at": "2026-10-19T12:31:24.667687+00:00"
     }
   ]
 }
