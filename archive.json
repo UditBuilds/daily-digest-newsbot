@@ -11648,6 +11648,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-19T18:01:24+05:30"
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "evening",
+      "theme": "The US warns citizens about China detentions while India's Zetwerk IPO closes oversubscribed.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US issues 'wrongful detention' warning for China travel"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Tenstorrent secures $1.5B funding, reaches $6.2B valuation"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral releases Timestral, a 209M model outperforming TimesFM-3"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zetwerk's IPO closes with 3.06X subscription"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Manipur experiences renewed violence, 3 CRPF troops hurt, 3 villagers killed"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-20T00:17:54+05:30"
     }
   ]
 }
