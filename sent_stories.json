@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
-      "sent_at": "2026-10-18T04:54:05.649654+00:00"
-    },
-    {
-      "headline": "Meta removes language that raised scraping and AI training concerns",
-      "sent_at": "2026-10-18T04:54:05.649654+00:00"
-    },
-    {
-      "headline": "Burma Burma Parent’s FY26 Loss Surges 31X YoY To ₹15 Cr",
-      "sent_at": "2026-10-18T04:54:05.649654+00:00"
-    },
-    {
-      "headline": "12 killed after speeding truck runs over devotees near temple in Gwalior",
-      "sent_at": "2026-10-18T04:54:05.649654+00:00"
-    },
-    {
       "headline": "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen",
       "sent_at": "2026-10-18T12:31:12.720534+00:00"
     },
@@ -51,6 +35,26 @@
     {
       "headline": "Japan's MMX mission aims to return first samples from a Martian moon",
       "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "Lula and Bolsonaro trade barbs in fiery Brazil run-off debate",
+      "sent_at": "2026-10-19T05:02:38.257944+00:00"
+    },
+    {
+      "headline": "China's economic growth picks up as AI boom boosts exports",
+      "sent_at": "2026-10-19T05:02:38.257944+00:00"
+    },
+    {
+      "headline": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "sent_at": "2026-10-19T05:02:38.257944+00:00"
+    },
+    {
+      "headline": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
+      "sent_at": "2026-10-19T05:02:38.257944+00:00"
+    },
+    {
+      "headline": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
+      "sent_at": "2026-10-19T05:02:38.257944+00:00"
     }
   ]
 }

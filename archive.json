@@ -11555,6 +11555,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-19T06:01:24+05:30"
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "morning",
+      "theme": "Brazil's presidential candidates debate fiercely while Mistral AI releases a new forecasting model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Lula and Bolsonaro trade barbs in fiery Brazil run-off debate"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "China's economic growth picks up as AI boom boosts exports"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-19T10:32:38+05:30"
     }
   ]
 }
