@@ -1,66 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK deports Romanian convicted of arson at ex-PM Starmer’s homes",
-      "sent_at": "2026-10-17T12:31:19.028082+00:00"
-    },
-    {
-      "headline": "Trump's AI Task Force To Commission Report On Technology's Risks",
-      "sent_at": "2026-10-17T12:31:19.028082+00:00"
-    },
-    {
-      "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "sent_at": "2026-10-17T12:31:19.028082+00:00"
-    },
-    {
-      "headline": "ixigo Swings To ₹63 Cr Profit In Q2, Revenue Rises 13% YoY",
-      "sent_at": "2026-10-17T12:31:19.028082+00:00"
-    },
-    {
-      "headline": "‘Cheap foreign labour’: US Congressman claims H-1B visa holders from India, China replacing American graduates",
-      "sent_at": "2026-10-17T12:31:19.028082+00:00"
-    },
-    {
-      "headline": "Taiwan to deploy AI satellite system for early warning against PLA",
-      "sent_at": "2026-10-17T15:48:31.504975+00:00"
-    },
-    {
-      "headline": "Meta removes language allowing AI to scrape news sites",
-      "sent_at": "2026-10-17T15:48:31.504975+00:00"
-    },
-    {
-      "headline": "Anthropic to release Claude Fable 5.5 next week",
-      "sent_at": "2026-10-17T15:48:31.504975+00:00"
-    },
-    {
-      "headline": "Flipkart's logistics arm Ekart cuts FY26 loss by 98% to ₹26 Cr",
-      "sent_at": "2026-10-17T15:48:31.504975+00:00"
-    },
-    {
-      "headline": "Madras High Court: Covid 'destroyed' marriage, pandemic disputes need separate treatment",
-      "sent_at": "2026-10-17T15:48:31.504975+00:00"
-    },
-    {
-      "headline": "China gains ground in Central Asia beyond EVs",
-      "sent_at": "2026-10-18T00:31:16.475212+00:00"
-    },
-    {
-      "headline": "Meta updates terms to address AI scraping concerns",
-      "sent_at": "2026-10-18T00:31:16.475212+00:00"
-    },
-    {
-      "headline": "Anthropic prepares to release Claude Fable 5.5 next week",
-      "sent_at": "2026-10-18T00:31:16.475212+00:00"
-    },
-    {
-      "headline": "Urban Company proposes ₹2,500 Cr fundraise",
-      "sent_at": "2026-10-18T00:31:16.475212+00:00"
-    },
-    {
-      "headline": "19 dead, 25 hurt in stampede at India religious festival",
-      "sent_at": "2026-10-18T00:31:16.475212+00:00"
-    },
-    {
       "headline": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
       "sent_at": "2026-10-18T04:54:05.649654+00:00"
     },
@@ -87,6 +27,30 @@
     {
       "headline": "'Unacceptable': Paswan defends 'Leave India' notice to Imran Khan over Mumbai stir",
       "sent_at": "2026-10-18T12:31:12.720534+00:00"
+    },
+    {
+      "headline": "India needs more fighter jets but cannot build them fast enough",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "Anthropic commits 5% of its shares to a 'public benefit fund'",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "OpenAI tests new \"Aurora\" GPT-Image model on Arena",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "Cabinet approves Go-Delhi Foundation to support young innovators and startups",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "Ladakh gets its own High Court bench almost a century after J&K HC was set up",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
+    },
+    {
+      "headline": "Japan's MMX mission aims to return first samples from a Martian moon",
+      "sent_at": "2026-10-19T00:31:24.800171+00:00"
     }
   ]
 }
