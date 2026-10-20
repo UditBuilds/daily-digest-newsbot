@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "India needs more fighter jets but cannot build them fast enough",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "Anthropic commits 5% of its shares to a 'public benefit fund'",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "OpenAI tests new \"Aurora\" GPT-Image model on Arena",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "Cabinet approves Go-Delhi Foundation to support young innovators and startups",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "Ladakh gets its own High Court bench almost a century after J&K HC was set up",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "Japan's MMX mission aims to return first samples from a Martian moon",
-      "sent_at": "2026-10-19T00:31:24.800171+00:00"
-    },
-    {
-      "headline": "Lula and Bolsonaro trade barbs in fiery Brazil run-off debate",
-      "sent_at": "2026-10-19T05:02:38.257944+00:00"
-    },
-    {
-      "headline": "China's economic growth picks up as AI boom boosts exports",
-      "sent_at": "2026-10-19T05:02:38.257944+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
-      "sent_at": "2026-10-19T05:02:38.257944+00:00"
-    },
-    {
-      "headline": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
-      "sent_at": "2026-10-19T05:02:38.257944+00:00"
-    },
-    {
-      "headline": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
-      "sent_at": "2026-10-19T05:02:38.257944+00:00"
-    },
-    {
       "headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
       "sent_at": "2026-10-19T12:31:24.667687+00:00"
     },
@@ -127,6 +83,30 @@
     {
       "headline": "Watch: Japan launches historic mission to explore Mars’ moons and bring back samples",
       "sent_at": "2026-10-20T00:31:16.859041+00:00"
+    },
+    {
+      "headline": "Saudi Arabia postpones ‘Davos in the Desert’ summit to 2027 after deadly attacks",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
+    },
+    {
+      "headline": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
+    },
+    {
+      "headline": "Claude Code stops prompt suggestions spending your credits, and stable has neither fix",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
+    },
+    {
+      "headline": "Private defence tech in Operation Sindoor; NCW report calls for overhaul of India’s childcare framework",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
+    },
+    {
+      "headline": "‘India ultimate target of Western regime-change forces’: RSS chief Mohan Bhagwat",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
+    },
+    {
+      "headline": "Japan launches uncrewed space mission to become first to gather samples from Mars' moon Phobos",
+      "sent_at": "2026-10-20T05:05:45.195616+00:00"
     }
   ]
 }
