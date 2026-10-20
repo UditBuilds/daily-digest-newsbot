@@ -11704,6 +11704,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-20T10:35:45+05:30"
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "evening",
+      "theme": "UK deploys fighter jets to Saudi Arabia, while China establishes a state-owned firm for AI data and Flipkart plans a food delivery launch.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UK to deploy fighter planes to help Saudi Arabia’s defence against Houthis"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China creates state-owned firm in Xiongan to develop nation’s AI data resources"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI prepares GPT-6.1 Terra for the upcoming release"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart Eyes October-End Launch For Food Delivery Service: Report"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Will happen shortly': Rubio on US trade deal; calls India 'refining superpower'"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-20T18:01:18+05:30"
     }
   ]
 }
