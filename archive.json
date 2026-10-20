@@ -11752,6 +11752,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-20T18:01:18+05:30"
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "evening",
+      "theme": "The US orders federal agencies to remove China's DeepSeek AI, while Meta's AI companion Muse reaches 10 million US downloads.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "First Quad leaders’ summit in two years confirmed for Manila"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "US orders federal agencies to remove China’s DeepSeek AI from systems"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta’s Muse AI companion hits 10M US downloads in 40 days"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude designs protein binders against scorpion neurotoxins"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Apple India’s FY26 profit jumps 66% YoY to ₹5,311 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi calls for unity and self-reliance to defeat forces against India"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "$200K prelaunch bond could prevent space junk disaster"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-20T22:55:27+05:30"
     }
   ]
 }
