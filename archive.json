@@ -11843,6 +11843,56 @@
         "YourStory"
       ],
       "sent_at": "2026-10-21T18:01:17+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "evening",
+      "theme": "OpenAI expands its models to Google Cloud and ChatGPT ads globally, while India faces El Niño's weather impact.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump faces fresh questions over ties to ‘humanitarian’ Putin"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI promises productivity, but for managers, it’s mostly a headache for now"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI models are coming to Google Cloud"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "SBI Flags Exposure Of 3,897 Customer Records On Dark Web"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Monsoon's gone, El Nino isn't: Why India's weather worries are far from over"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-21T23:01:07+05:30"
     }
   ]
 }
