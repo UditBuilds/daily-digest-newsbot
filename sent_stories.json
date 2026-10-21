@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US issues 'wrongful detention' warning for China travel",
-      "sent_at": "2026-10-19T18:47:54.533212+00:00"
-    },
-    {
-      "headline": "Tenstorrent secures $1.5B funding, reaches $6.2B valuation",
-      "sent_at": "2026-10-19T18:47:54.533212+00:00"
-    },
-    {
-      "headline": "Mistral releases Timestral, a 209M model outperforming TimesFM-3",
-      "sent_at": "2026-10-19T18:47:54.533212+00:00"
-    },
-    {
-      "headline": "Zetwerk's IPO closes with 3.06X subscription",
-      "sent_at": "2026-10-19T18:47:54.533212+00:00"
-    },
-    {
-      "headline": "Manipur experiences renewed violence, 3 CRPF troops hurt, 3 villagers killed",
-      "sent_at": "2026-10-19T18:47:54.533212+00:00"
-    },
-    {
       "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "sent_at": "2026-10-20T00:31:16.859041+00:00"
     },
@@ -135,6 +115,30 @@
     {
       "headline": "$200K prelaunch bond could prevent space junk disaster",
       "sent_at": "2026-10-20T17:25:27.597108+00:00"
+    },
+    {
+      "headline": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
+    },
+    {
+      "headline": "OpenAI acquires startup Orchestra Bio to beef up its biotech business",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
+    },
+    {
+      "headline": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
+    },
+    {
+      "headline": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
+    },
+    {
+      "headline": "India, US ‘perfectly aligned’ on key issues: Rubio; defends ties with Pakistan",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
+    },
+    {
+      "headline": "New comet accidentally discovered by space telescope",
+      "sent_at": "2026-10-21T00:31:11.523939+00:00"
     }
   ]
 }
