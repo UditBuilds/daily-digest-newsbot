@@ -11799,6 +11799,50 @@
         "YourStory"
       ],
       "sent_at": "2026-10-21T10:36:32+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "evening",
+      "theme": "OpenAI expands cloud partnerships while Mistral AI launches new voice models.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "EU will 'pull its punches' on China despite growing trade war talk: analysts"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Eternal’s Q2 Profit Surges 92% YoY to ₹125 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India To Bring New AI Law? What Top Government Adviser Told NDTV"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-21T18:01:17+05:30"
     }
   ]
 }
