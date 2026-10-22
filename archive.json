@@ -11940,6 +11940,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-22T18:01:26+05:30"
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "evening",
+      "theme": "China and the UK clash over Hong Kong, while Anthropic launches a new AI agent and Swiggy narrows its losses.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Beijing Slams UK's 'Irresponsible Remarks' on Hong Kong"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "DeepSeek Reportedly Raises $15B Amid US Restrictions"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Claude Duet AI Agent"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Swiggy's Q2 Loss Narrows 16% to ₹922 Cr, Revenue Jumps 36%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi Calls for Stronger Global Institutions"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Earth and Mars May Have Formed in Different Ways"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-22T22:58:22+05:30"
     }
   ]
 }
