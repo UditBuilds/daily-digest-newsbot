@@ -11844,6 +11844,53 @@
         "YourStory"
       ],
       "sent_at": "2026-10-22T06:01:18+05:30"
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "morning",
+      "theme": "Russia and Ukraine exchange drone attacks while Anthropic launches a new AI agent to compete with Meta.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia and Ukraine trade major attacks as Trump touts progress"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CureBay Bags ₹100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘Glaring inaccuracies’: India rebukes UN over ‘India-based’ tag for Dawood’s D-Company"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-22T10:39:28+05:30"
     }
   ]
 }

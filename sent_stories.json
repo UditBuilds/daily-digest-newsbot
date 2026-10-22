@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK re-arrests two men for assisting Iranian intelligence",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
-      "headline": "Google and Amazon challenge Nvidia's AI GPU dominance",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude AI designs hundreds of thousands of proteins in 64 hours",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
-      "headline": "Jio Platforms IPO sees QIB quota fully subscribed within minutes",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
-      "headline": "Tamil Nadu schools declare holiday due to intense rainfall",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
-      "headline": "NASA prepares ROSES-27 to advance American science and leadership in space",
-      "sent_at": "2026-10-21T05:06:32.639727+00:00"
-    },
-    {
       "headline": "EU will 'pull its punches' on China despite growing trade war talk: analysts",
       "sent_at": "2026-10-21T12:31:17.241403+00:00"
     },
@@ -91,6 +67,26 @@
     {
       "headline": "ESA’s Euclid Telescope discovered a new comet completely by accident",
       "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "Russia and Ukraine trade major attacks as Trump touts progress",
+      "sent_at": "2026-10-22T05:09:28.043273+00:00"
+    },
+    {
+      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "sent_at": "2026-10-22T05:09:28.043273+00:00"
+    },
+    {
+      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "sent_at": "2026-10-22T05:09:28.043273+00:00"
+    },
+    {
+      "headline": "CureBay Bags ₹100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings",
+      "sent_at": "2026-10-22T05:09:28.043273+00:00"
+    },
+    {
+      "headline": "‘Glaring inaccuracies’: India rebukes UN over ‘India-based’ tag for Dawood’s D-Company",
+      "sent_at": "2026-10-22T05:09:28.043273+00:00"
     }
   ]
 }
