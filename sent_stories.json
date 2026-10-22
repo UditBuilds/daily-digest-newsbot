@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
-      "headline": "OpenAI acquires startup Orchestra Bio to beef up its biotech business",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
-      "headline": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
-      "headline": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
-      "headline": "India, US ‘perfectly aligned’ on key issues: Rubio; defends ties with Pakistan",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
-      "headline": "New comet accidentally discovered by space telescope",
-      "sent_at": "2026-10-21T00:31:11.523939+00:00"
-    },
-    {
       "headline": "UK re-arrests two men for assisting Iranian intelligence",
       "sent_at": "2026-10-21T05:06:32.639727+00:00"
     },
@@ -91,6 +67,30 @@
     {
       "headline": "Monsoon's gone, El Nino isn't: Why India's weather worries are far from over",
       "sent_at": "2026-10-21T17:31:07.238598+00:00"
+    },
+    {
+      "headline": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "Walmart invites AI agents to shop for customers, contrasting with Amazon's block",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "Anthropic unveils Claude Duet AI agent app",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "Peak XV-backed AI startup Blacksmith nets $66 Mn at unicorn valuation",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "SBI confirms data leak, says 4,000 customer records identified on dark web",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
+    },
+    {
+      "headline": "ESA’s Euclid Telescope discovered a new comet completely by accident",
+      "sent_at": "2026-10-22T00:31:18.294983+00:00"
     }
   ]
 }
