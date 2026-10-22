@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "EU will 'pull its punches' on China despite growing trade war talk: analysts",
-      "sent_at": "2026-10-21T12:31:17.241403+00:00"
-    },
-    {
-      "headline": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-      "sent_at": "2026-10-21T12:31:17.241403+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
-      "sent_at": "2026-10-21T12:31:17.241403+00:00"
-    },
-    {
-      "headline": "Eternal’s Q2 Profit Surges 92% YoY to ₹125 Cr",
-      "sent_at": "2026-10-21T12:31:17.241403+00:00"
-    },
-    {
-      "headline": "India To Bring New AI Law? What Top Government Adviser Told NDTV",
-      "sent_at": "2026-10-21T12:31:17.241403+00:00"
-    },
-    {
       "headline": "Trump faces fresh questions over ties to ‘humanitarian’ Putin",
       "sent_at": "2026-10-21T17:31:07.238598+00:00"
     },
@@ -87,6 +67,30 @@
     {
       "headline": "‘Glaring inaccuracies’: India rebukes UN over ‘India-based’ tag for Dawood’s D-Company",
       "sent_at": "2026-10-22T05:09:28.043273+00:00"
+    },
+    {
+      "headline": "Europe lacks a clear, unified strategy on China amidst trade tensions",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
+    },
+    {
+      "headline": "Barclays cuts 5,000 jobs, increasing reliance on AI",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude Duet, a proactive AI agent for task management",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
+    },
+    {
+      "headline": "TravClan raises $5 million from Flipkart and August One",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
+    },
+    {
+      "headline": "Houthis claim Saudi Arabia targeted a boat carrying 14 Indians",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
+    },
+    {
+      "headline": "Thai scientists plan space tests on bacteria for coral conservation",
+      "sent_at": "2026-10-22T12:31:26.553709+00:00"
     }
   ]
 }

@@ -11891,6 +11891,55 @@
         "YourStory"
       ],
       "sent_at": "2026-10-22T10:39:28+05:30"
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "evening",
+      "theme": "Europe struggles to define its China strategy while Anthropic releases a new AI agent for managing tasks.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Europe lacks a clear, unified strategy on China amidst trade tensions"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Barclays cuts 5,000 jobs, increasing reliance on AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude Duet, a proactive AI agent for task management"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "TravClan raises $5 million from Flipkart and August One"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Houthis claim Saudi Arabia targeted a boat carrying 14 Indians"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Thai scientists plan space tests on bacteria for coral conservation"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-22T18:01:26+05:30"
     }
   ]
 }
