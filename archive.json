@@ -11937,6 +11937,58 @@
         "YourStory"
       ],
       "sent_at": "2026-10-23T06:01:22+05:30"
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "morning",
+      "theme": "Japan drafts social media rules for elections, while OpenAI seeks a $30B raise at a $1.25T valuation.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan drafts social media rules ahead of local elections"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Uber rival inDrive plans 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches Decisions API for faster, focused AI decisions"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Zetwerk makes NSE debut at 5.5% premium after ₹5,012 Cr IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "ITBP chief flags ‘ongoing’ China faceoff along Arunachal border"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Black holes could destroy atmospheres across vast distances"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-23T10:39:22+05:30"
     }
   ]
 }
