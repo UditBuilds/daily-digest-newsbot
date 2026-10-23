@@ -12041,6 +12041,58 @@
         "YourStory"
       ],
       "sent_at": "2026-10-23T18:01:22+05:30"
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "evening",
+      "theme": "China proposes new space governance while Anthropic releases new AI tools for developers.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China warns against space arms race, urges equal rights for all in outer space"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta delays new business terms after publisher pushback on AI scraping"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude now writes code and proves it safe automatically"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘A crime’: UP CEO on 10,470 voter records altered after SIR final roll in Pilibhit"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "ISRO Sets Space Science Agenda for ESTIC 2026 as National Innovation Conclave Approaches"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-23T22:51:26+05:30"
     }
   ]
 }

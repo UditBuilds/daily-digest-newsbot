@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Europe lacks a clear, unified strategy on China amidst trade tensions",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
-      "headline": "Barclays cuts 5,000 jobs, increasing reliance on AI",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude Duet, a proactive AI agent for task management",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
-      "headline": "TravClan raises $5 million from Flipkart and August One",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
-      "headline": "Houthis claim Saudi Arabia targeted a boat carrying 14 Indians",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
-      "headline": "Thai scientists plan space tests on bacteria for coral conservation",
-      "sent_at": "2026-10-22T12:31:26.553709+00:00"
-    },
-    {
       "headline": "Beijing Slams UK's 'Irresponsible Remarks' on Hong Kong",
       "sent_at": "2026-10-22T17:28:22.626819+00:00"
     },
@@ -123,6 +99,34 @@
     {
       "headline": "India to Build Atmospheric & Space Science Research Facility in Odisha",
       "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "China warns against space arms race, urges equal rights for all in outer space",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude now writes code and proves it safe automatically",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "‘A crime’: UP CEO on 10,470 voter records altered after SIR final roll in Pilibhit",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "ISRO Sets Space Science Agenda for ESTIC 2026 as National Innovation Conclave Approaches",
+      "sent_at": "2026-10-23T17:21:26.260323+00:00"
     }
   ]
 }
