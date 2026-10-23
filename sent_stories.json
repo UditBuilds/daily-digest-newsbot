@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Russia and Ukraine trade major attacks as Trump touts progress",
-      "sent_at": "2026-10-22T05:09:28.043273+00:00"
-    },
-    {
-      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "sent_at": "2026-10-22T05:09:28.043273+00:00"
-    },
-    {
-      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "sent_at": "2026-10-22T05:09:28.043273+00:00"
-    },
-    {
-      "headline": "CureBay Bags ₹100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings",
-      "sent_at": "2026-10-22T05:09:28.043273+00:00"
-    },
-    {
-      "headline": "‘Glaring inaccuracies’: India rebukes UN over ‘India-based’ tag for Dawood’s D-Company",
-      "sent_at": "2026-10-22T05:09:28.043273+00:00"
-    },
-    {
       "headline": "Europe lacks a clear, unified strategy on China amidst trade tensions",
       "sent_at": "2026-10-22T12:31:26.553709+00:00"
     },
@@ -115,6 +95,34 @@
     {
       "headline": "Black holes could destroy atmospheres across vast distances",
       "sent_at": "2026-10-23T05:09:22.911709+00:00"
+    },
+    {
+      "headline": "China's Shipbuilding Lead Over US Raises Taiwan War Concerns",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Cambricon's Q3 Profit Surges 148% Amid Push to Replace Nvidia Chips",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Indian Workers Film Their Work to Train AI",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Anthropic Launches Claude Duet for US Subscribers",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Tonbo Imaging Debuts at 66% Premium on Stock Market",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "Anti-SIR Protesters Detained Marching to Election Commission HQ",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
+    },
+    {
+      "headline": "India to Build Atmospheric & Space Science Research Facility in Odisha",
+      "sent_at": "2026-10-23T12:31:22.336547+00:00"
     }
   ]
 }

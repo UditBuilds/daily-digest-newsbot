@@ -11989,6 +11989,58 @@
         "YourStory"
       ],
       "sent_at": "2026-10-23T10:39:22+05:30"
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "evening",
+      "theme": "China expands its naval power and AI chip production while India's defense tech sector sees growth.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China's Shipbuilding Lead Over US Raises Taiwan War Concerns"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Cambricon's Q3 Profit Surges 148% Amid Push to Replace Nvidia Chips"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Indian Workers Film Their Work to Train AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Launches Claude Duet for US Subscribers"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Tonbo Imaging Debuts at 66% Premium on Stock Market"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Anti-SIR Protesters Detained Marching to Election Commission HQ"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "India to Build Atmospheric & Space Science Research Facility in Odisha"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-23T18:01:22+05:30"
     }
   ]
 }
