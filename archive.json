@@ -12145,6 +12145,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-24T10:22:25+05:30"
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "evening",
+      "theme": "North Korea's Kim Jong-un visits China, while Indonesia cuts gas supply to Singapore amid regional haze.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korean leader Kim Jong-un visits Chinese border city of Dandong"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raised Over $184 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Our neighbour protecting us': Farooq makes shocking remark on J&K; BJP hits back"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "University of Scranton awarded nearly $5.5 million NASA grant for space science education"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-24T18:01:20+05:30"
     }
   ]
 }

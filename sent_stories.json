@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Japan drafts social media rules ahead of local elections",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
-      "headline": "Uber rival inDrive plans 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
-      "headline": "OpenAI launches Decisions API for faster, focused AI decisions",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
-      "headline": "Zetwerk makes NSE debut at 5.5% premium after ₹5,012 Cr IPO",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
-      "headline": "ITBP chief flags ‘ongoing’ China faceoff along Arunachal border",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
-      "headline": "Black holes could destroy atmospheres across vast distances",
-      "sent_at": "2026-10-23T05:09:22.911709+00:00"
-    },
-    {
       "headline": "China's Shipbuilding Lead Over US Raises Taiwan War Concerns",
       "sent_at": "2026-10-23T12:31:22.336547+00:00"
     },
@@ -135,6 +111,34 @@
     {
       "headline": "Elon Musk’s influence on outer space raises concerns",
       "sent_at": "2026-10-24T04:52:25.373697+00:00"
+    },
+    {
+      "headline": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "Indian Startups Raised Over $184 Mn This Week",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "'Our neighbour protecting us': Farooq makes shocking remark on J&K; BJP hits back",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "University of Scranton awarded nearly $5.5 million NASA grant for space science education",
+      "sent_at": "2026-10-24T12:31:20.223075+00:00"
     }
   ]
 }
