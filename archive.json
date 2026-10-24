@@ -12092,6 +12092,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-24T06:01:19+05:30"
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "morning",
+      "theme": "China investigates Turkey's rare earth deposits while OpenAI shifts its AI training strategy.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China investigates Turkey’s largest rare earth deposit"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google updates privacy policy for targeted ads with AI features"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI will no longer train AI models on the live internet"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Chinese AI model Kimi K3.1 Pro approaches Anthropic's Claude Opus 5.5 in performance"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian startups raised over $184 million this week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Kerala Governor's 'veg-only kitchen' diktat sparks controversy"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Elon Musk’s influence on outer space raises concerns"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-24T10:22:25+05:30"
     }
   ]
 }
