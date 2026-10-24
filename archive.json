@@ -1,60 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-25",
-      "slot": "morning",
-      "theme": "Israel escalates conflict in Lebanon while Anthropic launches a new AI model, Claude Opus 5, as a cost-efficient alternative to Fable 5.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Saudi Arabia strikes Houthi sites in Yemen"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Nvidia, Palantir, and Meta warn against premature restrictions on open-weight AI models"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic launches Claude Opus 5, a cheaper AI model for coding and enterprise workflows"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "CHOSEN secures $5 million Series A to expand science-backed skincare portfolio"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "SC agrees to hear PIL against police excesses on Monday"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Long gap in rocket launches by ISRO upsets scientists"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-25T06:01:10+05:30"
-    },
-    {
       "date": "2026-07-26",
       "slot": "morning",
       "theme": "Indonesia plans to build a financial centre to rival Singapore, while Anthropic launches Claude Opus 5, a new AI model.",
@@ -12093,6 +12039,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-23T22:51:26+05:30"
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "morning",
+      "theme": "Israel escalates West Bank operations following a deadly attack, while major AI firms like OpenAI and Anthropic adjust their model training and release new AI agents.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israel locks down occupied West Bank after Hebron shooting"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US, allies and China vie for influence through Pacific security deals"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI now trains its frontier AI models with no internet access"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic debuts Claude Duet personal AI agent"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "China’s patrolling deviations disturb border: MEA on ITBP DG's face-offs remark"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "India Plans Rs. 9.06-Crore Atmospheric and Space Science Research Facility in Odisha"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-24T06:01:19+05:30"
     }
   ]
 }

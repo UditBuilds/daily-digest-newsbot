@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Beijing Slams UK's 'Irresponsible Remarks' on Hong Kong",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
-      "headline": "DeepSeek Reportedly Raises $15B Amid US Restrictions",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
-      "headline": "Anthropic Launches Claude Duet AI Agent",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
-      "headline": "Swiggy's Q2 Loss Narrows 16% to ₹922 Cr, Revenue Jumps 36%",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
-      "headline": "PM Modi Calls for Stronger Global Institutions",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
-      "headline": "Earth and Mars May Have Formed in Different Ways",
-      "sent_at": "2026-10-22T17:28:22.626819+00:00"
-    },
-    {
       "headline": "IEA Chief Warns Energy is Becoming a Geopolitical Weapon",
       "sent_at": "2026-10-23T00:31:22.130901+00:00"
     },
@@ -127,6 +103,34 @@
     {
       "headline": "ISRO Sets Space Science Agenda for ESTIC 2026 as National Innovation Conclave Approaches",
       "sent_at": "2026-10-23T17:21:26.260323+00:00"
+    },
+    {
+      "headline": "Israel locks down occupied West Bank after Hebron shooting",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "US, allies and China vie for influence through Pacific security deals",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "Anthropic debuts Claude Duet personal AI agent",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "China’s patrolling deviations disturb border: MEA on ITBP DG's face-offs remark",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
+    },
+    {
+      "headline": "India Plans Rs. 9.06-Crore Atmospheric and Space Science Research Facility in Odisha",
+      "sent_at": "2026-10-24T00:31:19.400937+00:00"
     }
   ]
 }
