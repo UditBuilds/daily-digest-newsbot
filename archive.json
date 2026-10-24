@@ -12193,6 +12193,49 @@
         "YourStory"
       ],
       "sent_at": "2026-10-24T18:01:20+05:30"
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "evening",
+      "theme": "Saudi Arabia and Yemen engage in renewed conflict while Indian tech companies report mixed financial results.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Block’s new voice model sounds eerily human"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Meta has finally launched its ChatGPT competitor"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Act of treason': BJP slams Farooq Abdullah for 'Pak protecting Kashmiris' remark"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Meta AI",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-24T21:39:39+05:30"
     }
   ]
 }

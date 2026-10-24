@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "China's Shipbuilding Lead Over US Raises Taiwan War Concerns",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "Cambricon's Q3 Profit Surges 148% Amid Push to Replace Nvidia Chips",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "Indian Workers Film Their Work to Train AI",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "Anthropic Launches Claude Duet for US Subscribers",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "Tonbo Imaging Debuts at 66% Premium on Stock Market",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "Anti-SIR Protesters Detained Marching to Election Commission HQ",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
-      "headline": "India to Build Atmospheric & Space Science Research Facility in Odisha",
-      "sent_at": "2026-10-23T12:31:22.336547+00:00"
-    },
-    {
       "headline": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city",
       "sent_at": "2026-10-23T17:21:26.260323+00:00"
     },
@@ -139,6 +111,26 @@
     {
       "headline": "University of Scranton awarded nearly $5.5 million NASA grant for space science education",
       "sent_at": "2026-10-24T12:31:20.223075+00:00"
+    },
+    {
+      "headline": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
+      "sent_at": "2026-10-24T16:09:39.965064+00:00"
+    },
+    {
+      "headline": "Block’s new voice model sounds eerily human",
+      "sent_at": "2026-10-24T16:09:39.965064+00:00"
+    },
+    {
+      "headline": "Meta has finally launched its ChatGPT competitor",
+      "sent_at": "2026-10-24T16:09:39.965064+00:00"
+    },
+    {
+      "headline": "Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss",
+      "sent_at": "2026-10-24T16:09:39.965064+00:00"
+    },
+    {
+      "headline": "'Act of treason': BJP slams Farooq Abdullah for 'Pak protecting Kashmiris' remark",
+      "sent_at": "2026-10-24T16:09:39.965064+00:00"
     }
   ]
 }
