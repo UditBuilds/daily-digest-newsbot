@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Israel locks down occupied West Bank after Hebron shooting",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "US, allies and China vie for influence through Pacific security deals",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "OpenAI now trains its frontier AI models with no internet access",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "Anthropic debuts Claude Duet personal AI agent",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "China’s patrolling deviations disturb border: MEA on ITBP DG's face-offs remark",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "India Plans Rs. 9.06-Crore Atmospheric and Space Science Research Facility in Odisha",
-      "sent_at": "2026-10-24T00:31:19.400937+00:00"
-    },
-    {
-      "headline": "China investigates Turkey’s largest rare earth deposit",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "Google updates privacy policy for targeted ads with AI features",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "OpenAI will no longer train AI models on the live internet",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "Chinese AI model Kimi K3.1 Pro approaches Anthropic's Claude Opus 5.5 in performance",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "Indian startups raised over $184 million this week",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "Kerala Governor's 'veg-only kitchen' diktat sparks controversy",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
-      "headline": "Elon Musk’s influence on outer space raises concerns",
-      "sent_at": "2026-10-24T04:52:25.373697+00:00"
-    },
-    {
       "headline": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
       "sent_at": "2026-10-24T12:31:20.223075+00:00"
     },
@@ -119,6 +63,22 @@
     {
       "headline": "No EC nod needed for voter to sue candidate over false information: Supreme Court",
       "sent_at": "2026-10-25T00:31:17.652135+00:00"
+    },
+    {
+      "headline": "Obama criticizes Trump while campaigning for Democrats",
+      "sent_at": "2026-10-25T05:03:24.745147+00:00"
+    },
+    {
+      "headline": "OpenAI’s GPT-6.1 Sol dramatically improves legacy code migration",
+      "sent_at": "2026-10-25T05:03:24.745147+00:00"
+    },
+    {
+      "headline": "Indian brands Superminis, Nayam by Lakshita, and Broadstar scale nationally with Myntra",
+      "sent_at": "2026-10-25T05:03:24.745147+00:00"
+    },
+    {
+      "headline": "Operation Trident exposes ₹100 crore hawala transactions, 18 arrested in drug crackdown",
+      "sent_at": "2026-10-25T05:03:24.745147+00:00"
     }
   ]
 }
