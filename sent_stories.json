@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "Indian Startups Raised Over $184 Mn This Week",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "'Our neighbour protecting us': Farooq makes shocking remark on J&K; BJP hits back",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
-      "headline": "University of Scranton awarded nearly $5.5 million NASA grant for space science education",
-      "sent_at": "2026-10-24T12:31:20.223075+00:00"
-    },
-    {
       "headline": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
       "sent_at": "2026-10-24T16:09:39.965064+00:00"
     },
@@ -79,6 +51,30 @@
     {
       "headline": "Operation Trident exposes ₹100 crore hawala transactions, 18 arrested in drug crackdown",
       "sent_at": "2026-10-25T05:03:24.745147+00:00"
+    },
+    {
+      "headline": "China’s Liaoning aircraft carrier and USS Theodore Roosevelt converge in Philippine Sea",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "Google’s AI search changes upended online publishing",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026]",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "Flipkart’s Summer Of Discontent",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "NCERT Launches New AI & CT Module For High School Students",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "Shenzhou-23 crew conduct space science experiments, equipment maintenance, health checks",
+      "sent_at": "2026-10-25T12:31:22.787295+00:00"
     }
   ]
 }

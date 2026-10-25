@@ -12220,6 +12220,52 @@
         "YourStory"
       ],
       "sent_at": "2026-10-25T10:33:24+05:30"
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "evening",
+      "theme": "China and the US project naval power in the Philippine Sea while India's NCERT introduces AI education for high school students.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China’s Liaoning aircraft carrier and USS Theodore Roosevelt converge in Philippine Sea"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google’s AI search changes upended online publishing"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Flipkart’s Summer Of Discontent"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "NCERT Launches New AI & CT Module For High School Students"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Shenzhou-23 crew conduct space science experiments, equipment maintenance, health checks"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-25T18:01:22+05:30"
     }
   ]
 }
