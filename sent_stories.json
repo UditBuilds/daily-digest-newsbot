@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
-      "sent_at": "2026-10-24T16:09:39.965064+00:00"
-    },
-    {
-      "headline": "Block’s new voice model sounds eerily human",
-      "sent_at": "2026-10-24T16:09:39.965064+00:00"
-    },
-    {
-      "headline": "Meta has finally launched its ChatGPT competitor",
-      "sent_at": "2026-10-24T16:09:39.965064+00:00"
-    },
-    {
-      "headline": "Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss",
-      "sent_at": "2026-10-24T16:09:39.965064+00:00"
-    },
-    {
-      "headline": "'Act of treason': BJP slams Farooq Abdullah for 'Pak protecting Kashmiris' remark",
-      "sent_at": "2026-10-24T16:09:39.965064+00:00"
-    },
-    {
       "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
       "sent_at": "2026-10-25T00:31:17.652135+00:00"
     },
@@ -75,6 +55,26 @@
     {
       "headline": "Shenzhou-23 crew conduct space science experiments, equipment maintenance, health checks",
       "sent_at": "2026-10-25T12:31:22.787295+00:00"
+    },
+    {
+      "headline": "Japan reopens debate over nuclear-powered submarines amid China's naval expansion",
+      "sent_at": "2026-10-25T16:40:36.399486+00:00"
+    },
+    {
+      "headline": "Reddit's r/opensource community bans AI-related projects and non-English content",
+      "sent_at": "2026-10-25T16:40:36.399486+00:00"
+    },
+    {
+      "headline": "Anthropic delayed \"Mythos\" model release after finding 10,000+ flaws",
+      "sent_at": "2026-10-25T16:40:36.399486+00:00"
+    },
+    {
+      "headline": "Five Indian companies plan IPOs next week to raise nearly Rs 2,600 crore",
+      "sent_at": "2026-10-25T16:40:36.399486+00:00"
+    },
+    {
+      "headline": "Former Supreme Court judge questions ex-CJI Chandrachud's approach to appointments",
+      "sent_at": "2026-10-25T16:40:36.399486+00:00"
     }
   ]
 }

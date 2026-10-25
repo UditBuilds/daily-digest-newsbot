@@ -12266,6 +12266,47 @@
         "YourStory"
       ],
       "sent_at": "2026-10-25T18:01:22+05:30"
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "evening",
+      "theme": "Japan considers nuclear submarines to counter China, while Indian startups prepare for five IPOs next week.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Japan reopens debate over nuclear-powered submarines amid China's naval expansion"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Reddit's r/opensource community bans AI-related projects and non-English content"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic delayed \"Mythos\" model release after finding 10,000+ flaws"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Five Indian companies plan IPOs next week to raise nearly Rs 2,600 crore"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Former Supreme Court judge questions ex-CJI Chandrachud's approach to appointments"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-25T22:10:36+05:30"
     }
   ]
 }
