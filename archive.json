@@ -1,100 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-26",
-      "slot": "morning",
-      "theme": "Indonesia plans to build a financial centre to rival Singapore, while Anthropic launches Claude Opus 5, a new AI model.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US pauses nightly Iran strikes, as Houthis clash with Saudis"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic Launches Claude Opus 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Clarity Labs raises seed capital as investors bet on simpler, outcome-led personal care"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Sarnath joins Unesco World Heritage list"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-07-26T06:01:14+05:30"
-    },
-    {
-      "date": "2026-07-26",
-      "slot": "evening",
-      "theme": "Israeli settlers clash with Palestinians in the West Bank, while China's tech firms show caution in AI development and India's startup scene sees new funding rounds.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "China's DeepSeek pauses new fundraising days after founder Liang Wenfeng's AI remarks go viral"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "BlissClub Set To Raise Rs 250 Crore Funding At Rs 750 Crore Valuation"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Scientists just found sugar in space. Here's why that matters"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-26T18:01:05+05:30"
-    },
-    {
       "date": "2026-07-27",
       "slot": "morning",
       "theme": "India and the world witness significant developments in geopolitics, AI, and business, with India's international influence and domestic policies making headlines.",
@@ -12236,6 +12142,45 @@
         "YourStory"
       ],
       "sent_at": "2026-10-24T21:39:39+05:30"
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "morning",
+      "theme": "Brazil prepares for a pivotal election, while India's tech stocks face a significant downturn.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Pennsylvania will require labels on AI-generated ads"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "New-Age Tech Stocks Tumble This Week, Swiggy Leads Sell-Off With 24.5% Fall"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "No EC nod needed for voter to sue candidate over false information: Supreme Court"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Geopolitics",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-25T06:01:17+05:30"
     }
   ]
 }

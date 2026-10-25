@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "China warns against space arms race, urges equal rights for all in outer space",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude now writes code and proves it safe automatically",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "‘A crime’: UP CEO on 10,470 voter records altered after SIR final roll in Pilibhit",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
-      "headline": "ISRO Sets Space Science Agenda for ESTIC 2026 as National Innovation Conclave Approaches",
-      "sent_at": "2026-10-23T17:21:26.260323+00:00"
-    },
-    {
       "headline": "Israel locks down occupied West Bank after Hebron shooting",
       "sent_at": "2026-10-24T00:31:19.400937+00:00"
     },
@@ -131,6 +103,22 @@
     {
       "headline": "'Act of treason': BJP slams Farooq Abdullah for 'Pak protecting Kashmiris' remark",
       "sent_at": "2026-10-24T16:09:39.965064+00:00"
+    },
+    {
+      "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "sent_at": "2026-10-25T00:31:17.652135+00:00"
+    },
+    {
+      "headline": "Pennsylvania will require labels on AI-generated ads",
+      "sent_at": "2026-10-25T00:31:17.652135+00:00"
+    },
+    {
+      "headline": "New-Age Tech Stocks Tumble This Week, Swiggy Leads Sell-Off With 24.5% Fall",
+      "sent_at": "2026-10-25T00:31:17.652135+00:00"
+    },
+    {
+      "headline": "No EC nod needed for voter to sue candidate over false information: Supreme Court",
+      "sent_at": "2026-10-25T00:31:17.652135+00:00"
     }
   ]
 }
