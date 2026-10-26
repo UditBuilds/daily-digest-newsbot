@@ -12359,6 +12359,53 @@
         "YourStory"
       ],
       "sent_at": "2026-10-26T18:01:28+05:30"
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "evening",
+      "theme": "Anthropic files for IPO, revealing its strategy for enterprise AI, while India's Andhra Pradesh and Odisha prepare for Cyclone Arnab.",
+      "stories": [
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Tata Comm to invest $450M in high-speed fibre network to connect AI data centres"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA is overhauling how it selects science missions"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-27T00:17:54+05:30"
     }
   ]
 }

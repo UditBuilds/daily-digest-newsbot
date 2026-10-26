@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Japan reopens debate over nuclear-powered submarines amid China's naval expansion",
-      "sent_at": "2026-10-25T16:40:36.399486+00:00"
-    },
-    {
-      "headline": "Reddit's r/opensource community bans AI-related projects and non-English content",
-      "sent_at": "2026-10-25T16:40:36.399486+00:00"
-    },
-    {
-      "headline": "Anthropic delayed \"Mythos\" model release after finding 10,000+ flaws",
-      "sent_at": "2026-10-25T16:40:36.399486+00:00"
-    },
-    {
-      "headline": "Five Indian companies plan IPOs next week to raise nearly Rs 2,600 crore",
-      "sent_at": "2026-10-25T16:40:36.399486+00:00"
-    },
-    {
-      "headline": "Former Supreme Court judge questions ex-CJI Chandrachud's approach to appointments",
-      "sent_at": "2026-10-25T16:40:36.399486+00:00"
-    },
-    {
       "headline": "Lula wins Brazil's presidential run-off against Bolsonaro ally",
       "sent_at": "2026-10-26T00:31:20.835246+00:00"
     },
@@ -91,6 +71,26 @@
     {
       "headline": "NASA overhauls science mission selection for faster, cheaper projects",
       "sent_at": "2026-10-26T12:31:28.952615+00:00"
+    },
+    {
+      "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "sent_at": "2026-10-26T18:47:54.896193+00:00"
+    },
+    {
+      "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "sent_at": "2026-10-26T18:47:54.896193+00:00"
+    },
+    {
+      "headline": "Tata Comm to invest $450M in high-speed fibre network to connect AI data centres",
+      "sent_at": "2026-10-26T18:47:54.896193+00:00"
+    },
+    {
+      "headline": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land",
+      "sent_at": "2026-10-26T18:47:54.896193+00:00"
+    },
+    {
+      "headline": "NASA is overhauling how it selects science missions",
+      "sent_at": "2026-10-26T18:47:54.896193+00:00"
     }
   ]
 }
