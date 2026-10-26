@@ -12310,6 +12310,55 @@
         "YourStory"
       ],
       "sent_at": "2026-10-26T10:36:47+05:30"
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "evening",
+      "theme": "Jordan confronts a deadly church attack while India boosts its defense capabilities with a major acquisition deal.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Jordan arrests three suspects in deadly church attack"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Infosys cuts FY27 revenue growth forecast due to AI pressure"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude AI accessed Georgia voter data"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ather Energy achieves profitability in Q2 FY27"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India clears ₹2.12 lakh crore defence acquisition deal"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA overhauls science mission selection for faster, cheaper projects"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-26T18:01:28+05:30"
     }
   ]
 }
