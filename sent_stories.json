@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Obama criticizes Trump while campaigning for Democrats",
-      "sent_at": "2026-10-25T05:03:24.745147+00:00"
-    },
-    {
-      "headline": "OpenAI’s GPT-6.1 Sol dramatically improves legacy code migration",
-      "sent_at": "2026-10-25T05:03:24.745147+00:00"
-    },
-    {
-      "headline": "Indian brands Superminis, Nayam by Lakshita, and Broadstar scale nationally with Myntra",
-      "sent_at": "2026-10-25T05:03:24.745147+00:00"
-    },
-    {
-      "headline": "Operation Trident exposes ₹100 crore hawala transactions, 18 arrested in drug crackdown",
-      "sent_at": "2026-10-25T05:03:24.745147+00:00"
-    },
-    {
       "headline": "China’s Liaoning aircraft carrier and USS Theodore Roosevelt converge in Philippine Sea",
       "sent_at": "2026-10-25T12:31:22.787295+00:00"
     },
@@ -83,6 +67,30 @@
     {
       "headline": "BJP calls for nationwide protest over Kharge’s ‘baap’ remark",
       "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
+    },
+    {
+      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
+    },
+    {
+      "headline": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance Benchmarks?",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
+    },
+    {
+      "headline": "Growth Vs Profitability: Swiggy’s Tug-Of-War",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
+    },
+    {
+      "headline": "Deep depression intensifies into cyclonic storm 'Arnab'; rains continue in Tamil Nadu | LIVE",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
+    },
+    {
+      "headline": "Pune college students explore AI, space science programmes in Russia",
+      "sent_at": "2026-10-26T05:06:47.423189+00:00"
     }
   ]
 }

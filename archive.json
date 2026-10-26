@@ -12261,6 +12261,55 @@
         "YourStory"
       ],
       "sent_at": "2026-10-26T06:01:20+05:30"
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "morning",
+      "theme": "India faces a cyclonic storm while OpenAI releases a new model and Anthropic's Claude faces legal trouble.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Venezuelan opposition leader María Machado returns after months in exile"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance Benchmarks?"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Growth Vs Profitability: Swiggy’s Tug-Of-War"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Deep depression intensifies into cyclonic storm 'Arnab'; rains continue in Tamil Nadu | LIVE"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Pune college students explore AI, space science programmes in Russia"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-26T10:36:47+05:30"
     }
   ]
 }
