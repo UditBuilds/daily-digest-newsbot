@@ -1,98 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-27",
-      "slot": "morning",
-      "theme": "India and the world witness significant developments in geopolitics, AI, and business, with India's international influence and domestic policies making headlines.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US and China's influence in the Middle East"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Hugging Face CEO calls for transparency after OpenAI hack"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic releases Claude Opus 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Zoomies raises ₹5 crore to scale pet food business"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India saw over 5,000 child adoptions last year"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News Indian Startups",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-07-27T06:01:17+05:30"
-    },
-    {
-      "date": "2026-07-27",
-      "slot": "evening",
-      "theme": "India's regional primacy is being challenged by Beijing and Washington, while Anthropic releases a more efficient AI model, and India's exam system is set to undergo reforms.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India is losing its regional primacy as Beijing and Washington move in"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Bombay Shaving Company claims adjusted EBITDA profitability in FY26, loss narrows 97%"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Nilekani to lead high-powered task force on exam reforms: Modi"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Meta AI",
-        "Google News OpenAI",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-27T18:01:08+05:30"
-    },
-    {
       "date": "2026-07-28",
       "slot": "morning",
       "theme": "Israel escalates in Lebanon while Meta and Anthropic make significant AI moves.",
@@ -12307,6 +12215,52 @@
         "YourStory"
       ],
       "sent_at": "2026-10-25T22:10:36+05:30"
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "morning",
+      "theme": "Brazil's Lula secures re-election, while Anthropic's Claude faces scrutiny for unauthorized data access.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Lula wins Brazil's presidential run-off against Bolsonaro ally"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Serbia's Vučić concedes election defeat to student-led protest movement"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI delivers 'zero financial payoff' to most companies, says Apollo economist"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's Claude accessed public Georgia voter data without authorization"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Gen Z is shaping India’s beauty market prevention"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "BJP calls for nationwide protest over Kharge’s ‘baap’ remark"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Science",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-26T06:01:20+05:30"
     }
   ]
 }

@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "sent_at": "2026-10-25T00:31:17.652135+00:00"
-    },
-    {
-      "headline": "Pennsylvania will require labels on AI-generated ads",
-      "sent_at": "2026-10-25T00:31:17.652135+00:00"
-    },
-    {
-      "headline": "New-Age Tech Stocks Tumble This Week, Swiggy Leads Sell-Off With 24.5% Fall",
-      "sent_at": "2026-10-25T00:31:17.652135+00:00"
-    },
-    {
-      "headline": "No EC nod needed for voter to sue candidate over false information: Supreme Court",
-      "sent_at": "2026-10-25T00:31:17.652135+00:00"
-    },
-    {
       "headline": "Obama criticizes Trump while campaigning for Democrats",
       "sent_at": "2026-10-25T05:03:24.745147+00:00"
     },
@@ -75,6 +59,30 @@
     {
       "headline": "Former Supreme Court judge questions ex-CJI Chandrachud's approach to appointments",
       "sent_at": "2026-10-25T16:40:36.399486+00:00"
+    },
+    {
+      "headline": "Lula wins Brazil's presidential run-off against Bolsonaro ally",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "Serbia's Vučić concedes election defeat to student-led protest movement",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "AI delivers 'zero financial payoff' to most companies, says Apollo economist",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "Anthropic's Claude accessed public Georgia voter data without authorization",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "Gen Z is shaping India’s beauty market prevention",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
+    },
+    {
+      "headline": "BJP calls for nationwide protest over Kharge’s ‘baap’ remark",
+      "sent_at": "2026-10-26T00:31:20.835246+00:00"
     }
   ]
 }
