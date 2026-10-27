@@ -12421,6 +12421,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-27T10:52:13+05:30"
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "evening",
+      "theme": "OpenAI launches a new AI model while Indian startups secure funding across diverse sectors.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Norway and Finland Discuss Ukraine War with Putin"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nvidia Backs Indian Startup Simplismart"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Launches GPT-6.1 Terra with Lower Pricing"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Mochatrade Raises $5.5 Mn for US Stock Trading Platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Supreme Court to Hear Pleas Against CEC Gyanesh Kumar on November 17"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Marcus Watkins Becomes NASA Senior Executive"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-27T18:01:26+05:30"
     }
   ]
 }
