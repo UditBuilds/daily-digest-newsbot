@@ -12472,6 +12472,58 @@
         "YourStory"
       ],
       "sent_at": "2026-10-27T18:01:26+05:30"
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "evening",
+      "theme": "India exports defense equipment to Europe, while AI companies release new models and secure significant funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Norway, Finland Leaders Hold ‘Frank’ Talk with Putin on Ending Ukraine War"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Trump Says He Will Ban Term Artificial Intelligence"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Expands Partnership with Oracle to Bring its Apps to ChatGPT"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India Exported Over $850M Worth of Arms to Europe Since Start of Ukraine-Russia War"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space Scientists Spot Stars Brewing in Halloween-Like Cosmic Cauldron"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-27T23:39:20+05:30"
     }
   ]
 }

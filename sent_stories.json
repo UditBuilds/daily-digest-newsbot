@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Jordan arrests three suspects in deadly church attack",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
-      "headline": "Infosys cuts FY27 revenue growth forecast due to AI pressure",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude AI accessed Georgia voter data",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
-      "headline": "Ather Energy achieves profitability in Q2 FY27",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
-      "headline": "India clears ₹2.12 lakh crore defence acquisition deal",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
-      "headline": "NASA overhauls science mission selection for faster, cheaper projects",
-      "sent_at": "2026-10-26T12:31:28.952615+00:00"
-    },
-    {
       "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "sent_at": "2026-10-26T18:47:54.896193+00:00"
     },
@@ -119,6 +95,30 @@
     {
       "headline": "Marcus Watkins Becomes NASA Senior Executive",
       "sent_at": "2026-10-27T12:31:26.063146+00:00"
+    },
+    {
+      "headline": "Norway, Finland Leaders Hold ‘Frank’ Talk with Putin on Ending Ukraine War",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "Trump Says He Will Ban Term Artificial Intelligence",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "OpenAI Expands Partnership with Oracle to Bring its Apps to ChatGPT",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "India Exported Over $850M Worth of Arms to Europe Since Start of Ukraine-Russia War",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "Space Scientists Spot Stars Brewing in Halloween-Like Cosmic Cauldron",
+      "sent_at": "2026-10-27T18:09:20.302161+00:00"
     }
   ]
 }
