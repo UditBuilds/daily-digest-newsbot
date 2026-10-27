@@ -12368,6 +12368,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-27T06:01:27+05:30"
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "morning",
+      "theme": "Jordan retaliates with a deadly strike in Syria while OpenAI upgrades its models and an Indian EV startup turns profitable.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ather Cracks Profitability In Q2, But Can It Sustain The Momentum?"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Cyclone ‘Arnab’ LIVE updates | ‘Arnab’ hurtling towards Andhra; Kakinada in the grip of fear"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA's Swift Space Telescope Wraps Up Its Historic Mission"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-27T10:52:13+05:30"
     }
   ]
 }

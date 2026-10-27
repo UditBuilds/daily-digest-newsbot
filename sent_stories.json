@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
-      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
-      "headline": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance Benchmarks?",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
-      "headline": "Growth Vs Profitability: Swiggy’s Tug-Of-War",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
-      "headline": "Deep depression intensifies into cyclonic storm 'Arnab'; rains continue in Tamil Nadu | LIVE",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
-      "headline": "Pune college students explore AI, space science programmes in Russia",
-      "sent_at": "2026-10-26T05:06:47.423189+00:00"
-    },
-    {
       "headline": "Jordan arrests three suspects in deadly church attack",
       "sent_at": "2026-10-26T12:31:28.952615+00:00"
     },
@@ -95,6 +71,30 @@
     {
       "headline": "New simulation of the early universe offers massive detail",
       "sent_at": "2026-10-27T00:31:27.631772+00:00"
+    },
+    {
+      "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
+    },
+    {
+      "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
+    },
+    {
+      "headline": "OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
+    },
+    {
+      "headline": "Ather Cracks Profitability In Q2, But Can It Sustain The Momentum?",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
+    },
+    {
+      "headline": "Cyclone ‘Arnab’ LIVE updates | ‘Arnab’ hurtling towards Andhra; Kakinada in the grip of fear",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
+    },
+    {
+      "headline": "NASA's Swift Space Telescope Wraps Up Its Historic Mission",
+      "sent_at": "2026-10-27T05:22:13.920864+00:00"
     }
   ]
 }
