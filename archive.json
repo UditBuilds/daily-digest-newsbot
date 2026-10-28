@@ -12522,6 +12522,58 @@
         "YourStory"
       ],
       "sent_at": "2026-10-28T18:01:30+05:30"
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "evening",
+      "theme": "Google expands AI capabilities while India's Meesho narrows losses and a new dwarf planet is potentially discovered.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Real Madrid apologizes to China over Mbappe’s Mao remarks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Chrome’s AI-powered Autofill now accesses Gmail for form completion"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind releases Genie 4 World Model with real-time editing and audio"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Meesho's Q2 loss narrows 68% YoY to ₹132 Cr, revenue jumps 34%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Delhi High Court upholds 67% passport fee hike for Indians abroad"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "New dwarf planet potentially spotted beyond Pluto"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-28T23:56:03+05:30"
     }
   ]
 }
