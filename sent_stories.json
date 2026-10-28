@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "sent_at": "2026-10-26T18:47:54.896193+00:00"
-    },
-    {
-      "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-      "sent_at": "2026-10-26T18:47:54.896193+00:00"
-    },
-    {
-      "headline": "Tata Comm to invest $450M in high-speed fibre network to connect AI data centres",
-      "sent_at": "2026-10-26T18:47:54.896193+00:00"
-    },
-    {
-      "headline": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land",
-      "sent_at": "2026-10-26T18:47:54.896193+00:00"
-    },
-    {
-      "headline": "NASA is overhauling how it selects science missions",
-      "sent_at": "2026-10-26T18:47:54.896193+00:00"
-    },
-    {
       "headline": "Jordan launches air strikes in Syria after fatal church shooting",
       "sent_at": "2026-10-27T00:31:27.631772+00:00"
     },
@@ -119,6 +99,30 @@
     {
       "headline": "Space Scientists Spot Stars Brewing in Halloween-Like Cosmic Cauldron",
       "sent_at": "2026-10-27T18:09:20.302161+00:00"
+    },
+    {
+      "headline": "US reluctant to give South Korea wartime control of its troops",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
+    },
+    {
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached daughter off seizure medication",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
+    },
+    {
+      "headline": "Retell uses OpenAI models to power 100M monthly calls",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
+    },
+    {
+      "headline": "Healthy snack brand Troovy raises ₹100 Cr in Series B round led by Fireside Ventures",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
+    },
+    {
+      "headline": "Government working on bill to curb child & revenge porn: Solicitor general in SC",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
+    },
+    {
+      "headline": "China’s super-secret space plane visible in clearest photo yet",
+      "sent_at": "2026-10-28T00:31:21.303123+00:00"
     }
   ]
 }
