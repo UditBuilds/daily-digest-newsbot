@@ -12471,6 +12471,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-28T06:01:21+05:30"
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "evening",
+      "theme": "North Korea's Kim Jong-un visits China's border, while India's government increases employee allowances and Google DeepMind releases a new world model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Kim Jong-un Visits China Border City Dandong"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Amazon Set to Gain Significantly from Anthropic's IPO"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Google DeepMind Releases Genie 4 World Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Cognizant Reportedly in Talks to Invest in Sarvam AI"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Union Cabinet Approves 3% DA Increase for Central Government Employees"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Ecommerce Series",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-28T18:01:30+05:30"
     }
   ]
 }
