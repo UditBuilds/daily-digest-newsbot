@@ -1,50 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Kim Jong-un Visits China Border City Dandong",
-      "sent_at": "2026-10-28T12:31:30.549147+00:00"
-    },
-    {
-      "headline": "Amazon Set to Gain Significantly from Anthropic's IPO",
-      "sent_at": "2026-10-28T12:31:30.549147+00:00"
-    },
-    {
-      "headline": "Google DeepMind Releases Genie 4 World Model",
-      "sent_at": "2026-10-28T12:31:30.549147+00:00"
-    },
-    {
-      "headline": "Cognizant Reportedly in Talks to Invest in Sarvam AI",
-      "sent_at": "2026-10-28T12:31:30.549147+00:00"
-    },
-    {
-      "headline": "Union Cabinet Approves 3% DA Increase for Central Government Employees",
-      "sent_at": "2026-10-28T12:31:30.549147+00:00"
-    },
-    {
-      "headline": "Real Madrid apologizes to China over Mbappe’s Mao remarks",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
-      "headline": "Chrome’s AI-powered Autofill now accesses Gmail for form completion",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
-      "headline": "Google DeepMind releases Genie 4 World Model with real-time editing and audio",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
-      "headline": "Meesho's Q2 loss narrows 68% YoY to ₹132 Cr, revenue jumps 34%",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
-      "headline": "Delhi High Court upholds 67% passport fee hike for Indians abroad",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
-      "headline": "New dwarf planet potentially spotted beyond Pluto",
-      "sent_at": "2026-10-28T18:26:03.704965+00:00"
-    },
-    {
       "headline": "UN condemns US embargo of Cuba for 34th year",
       "sent_at": "2026-10-29T00:31:31.188835+00:00"
     },
@@ -91,6 +47,30 @@
     {
       "headline": "US military releases first clear image of China's secret 'Shenlong' space plane",
       "sent_at": "2026-10-29T06:09:30.828940+00:00"
+    },
+    {
+      "headline": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "'Transgressions by China happen, it's not new': Arunachal CM says no intrusion along LAC",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "James Webb telescope discovers ultra-rare ring galaxy just 2 billion years after the Big Bang",
+      "sent_at": "2026-10-29T18:35:56.915939+00:00"
     }
   ]
 }

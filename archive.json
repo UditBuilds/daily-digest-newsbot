@@ -12580,6 +12580,59 @@
         "YourStory"
       ],
       "sent_at": "2026-10-29T11:39:30+05:30"
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "evening",
+      "theme": "The US tightens tech restrictions on China while AI models advance in capabilities and funding.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Transgressions by China happen, it's not new': Arunachal CM says no intrusion along LAC"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "James Webb telescope discovers ultra-rare ring galaxy just 2 billion years after the Big Bang"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-30T00:05:56+05:30"
     }
   ]
 }
