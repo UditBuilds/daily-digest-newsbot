@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US reluctant to give South Korea wartime control of its troops",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
-      "headline": "Parents sue OpenAI, alleging GPT-4o coached daughter off seizure medication",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
-      "headline": "Retell uses OpenAI models to power 100M monthly calls",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
-      "headline": "Healthy snack brand Troovy raises ₹100 Cr in Series B round led by Fireside Ventures",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
-      "headline": "Government working on bill to curb child & revenge porn: Solicitor general in SC",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
-      "headline": "China’s super-secret space plane visible in clearest photo yet",
-      "sent_at": "2026-10-28T00:31:21.303123+00:00"
-    },
-    {
       "headline": "Kim Jong-un Visits China Border City Dandong",
       "sent_at": "2026-10-28T12:31:30.549147+00:00"
     },
@@ -67,6 +43,30 @@
     {
       "headline": "New dwarf planet potentially spotted beyond Pluto",
       "sent_at": "2026-10-28T18:26:03.704965+00:00"
+    },
+    {
+      "headline": "UN condemns US embargo of Cuba for 34th year",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
+    },
+    {
+      "headline": "Microsoft reports $33.2 billion in Azure revenue and $10 billion from OpenAI partnerships",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
+    },
+    {
+      "headline": "Anthropic launches Claude for Legal Artifacts, new tools for legal users",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
+    },
+    {
+      "headline": "Meesho narrows loss by 68% while revenue rises 34% in Q2 FY27",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
+    },
+    {
+      "headline": "Rajnath Singh warns US against supplying sensitive tech to Pakistan",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
+    },
+    {
+      "headline": "US military releases first clear image of China's secret 'Shenlong' space plane",
+      "sent_at": "2026-10-29T00:31:31.188835+00:00"
     }
   ]
 }

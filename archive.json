@@ -1,102 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-30",
-      "slot": "morning",
-      "theme": "Microsoft and Meta compete in AI, while India's InCred Finance sees significant profit jump and Rajya Sabha passes Vande Mataram bill.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "US Federal Reserve holds interest rates steady despite Warsh’s inflation vow"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Accelerating scientific discovery with ChatGPT for Academic Researchers"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "InCred Finance Q1: Profit Jumps 82% YoY To ₹172 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Amid opposition walkout, Rajya Sabha gives approval to Vande Mataram bill"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-30T06:01:21+05:30"
-    },
-    {
-      "date": "2026-07-30",
-      "slot": "evening",
-      "theme": "Trump considers AI controls as the European Union invests €10 billion in AI gigafactories, while India's Swiggy achieves contribution margin breakeven in its quick commerce arm.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "European Union aims for seven AI gigafactories with €10 billion plan"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Trump considering AI controls after OpenAI hacking incidents"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI GPT Transcribe Unveiled With Smarter AI Audio Tools"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Swiggy’s Instamart Hits Contribution Margin Breakeven In Q1 FY27"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Opposition attacks BJP for India Hockey's saffron jersey"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News D2C Funding",
-        "Google News Geopolitics",
-        "Google News India Startups",
-        "Google News Indian Startups",
-        "Google News OpenAI",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-30T18:01:18+05:30"
-    },
-    {
       "date": "2026-07-31",
       "slot": "morning",
       "theme": "Israel and Palestine conflict escalates, while Anthropic's AI model faces scrutiny and India's SEBI introduces a new framework for fund launches.",
@@ -12574,6 +12478,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-28T23:56:03+05:30"
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "morning",
+      "theme": "Microsoft reports strong revenue driven by AI, while Anthropic targets the legal sector with new tools.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "UN condemns US embargo of Cuba for 34th year"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft reports $33.2 billion in Azure revenue and $10 billion from OpenAI partnerships"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic launches Claude for Legal Artifacts, new tools for legal users"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Meesho narrows loss by 68% while revenue rises 34% in Q2 FY27"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Rajnath Singh warns US against supplying sensitive tech to Pakistan"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "US military releases first clear image of China's secret 'Shenlong' space plane"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-29T06:01:31+05:30"
     }
   ]
 }
