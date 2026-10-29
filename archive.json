@@ -12529,6 +12529,57 @@
         "YourStory"
       ],
       "sent_at": "2026-10-29T06:01:31+05:30"
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "evening",
+      "theme": "North Korea launches missiles while OpenAI cuts token prices and India's Kissht doubles profit.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "North Korea fires missile barrage after rejecting South Korea's border talks"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Microsoft reports $33.2 billion in Azure revenue and $10 billion from OpenAI partnerships"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI cuts token prices with GPT-6.1 Terra, fueling AI price war"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Kissht's profit doubles to ₹125 Cr, revenue jumps 45% YoY in Q2"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Uttar Pradesh government bars individuals involved in violent activities from state jobs"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "US military releases first clear image of China's secret 'Shenlong' space plane"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-29T11:39:30+05:30"
     }
   ]
 }
