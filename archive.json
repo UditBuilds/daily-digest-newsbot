@@ -12599,6 +12599,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-30T06:01:33+05:30"
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "evening",
+      "theme": "China's Communist Party targets corruption while Mistral AI releases new models for coding and cyber defense.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "‘Unwritten rules’ become newest target in Communist Party’s war on corruption"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Weights for the 1T-Parameter Mistral Large 4 Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Pine Labs Q2 net profit soars 6.5x; Cognizant trims 2026 growth outlook"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "DVAC searches premises linked to ex-Minister K.N. Nehru"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-30T11:39:45+05:30"
     }
   ]
 }
