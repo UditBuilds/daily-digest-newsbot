@@ -12691,6 +12691,60 @@
         "YourStory"
       ],
       "sent_at": "2026-10-30T18:01:27+05:30"
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "evening",
+      "theme": "Geopolitical tensions rise with a Russia-Ukraine truce and US concerns over Iran, while AI security faces a major breach affecting Anthropic's Claude users.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russia and Ukraine agree to a temporary truce for aid in Oleshky"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US Senators briefed on Trump's potential plan to restart war on Iran"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google's first data center satellite is online and writing poetry"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Tanker with 27 Indian seafarers targeted in first-ever limpet mine attack in Hormuz"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA ponders a Hubble servicing mission or a controlled deorbit"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-30T23:38:14+05:30"
     }
   ]
 }
