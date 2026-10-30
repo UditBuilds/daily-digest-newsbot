@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "UN condemns US embargo of Cuba for 34th year",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
-      "headline": "Microsoft reports $33.2 billion in Azure revenue and $10 billion from OpenAI partnerships",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
-      "headline": "Anthropic launches Claude for Legal Artifacts, new tools for legal users",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
-      "headline": "Meesho narrows loss by 68% while revenue rises 34% in Q2 FY27",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
-      "headline": "Rajnath Singh warns US against supplying sensitive tech to Pakistan",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
-      "headline": "US military releases first clear image of China's secret 'Shenlong' space plane",
-      "sent_at": "2026-10-29T00:31:31.188835+00:00"
-    },
-    {
       "headline": "North Korea fires missile barrage after rejecting South Korea's border talks",
       "sent_at": "2026-10-29T06:09:30.828940+00:00"
     },
@@ -71,6 +47,42 @@
     {
       "headline": "James Webb telescope discovers ultra-rare ring galaxy just 2 billion years after the Big Bang",
       "sent_at": "2026-10-29T18:35:56.915939+00:00"
+    },
+    {
+      "headline": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "OpenAI-backed Thrive Holdings acquires ADT for $15.3 billion",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Meta launches AI fashion app Style Sketch",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Mistral releases Large 4 open-weight AI model for cybersecurity",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "OpenAI updates Model Spec for more capable and beneficial AI",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Bijnis rebrands as Zorit, raises ₹27 Cr for B2B quick commerce",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Spacetech soonicorn Pixxel eyes US expansion with new subsidiary",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Supreme Court states NCLT, NCLAT hijacked by corporate affairs ministry",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
+    },
+    {
+      "headline": "Rare picture of China's secret 'Shenlong' space plane found in US government report",
+      "sent_at": "2026-10-30T00:31:33.301158+00:00"
     }
   ]
 }

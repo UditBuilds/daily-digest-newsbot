@@ -1,105 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-07-31",
-      "slot": "morning",
-      "theme": "Israel and Palestine conflict escalates, while Anthropic's AI model faces scrutiny and India's SEBI introduces a new framework for fund launches.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Uefa to boycott World Cup in protest of Fifa’s private investors plan"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "SEBI Rolls Out ‘GARUDA’ Framework To Expedite Fund Launches"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Middle East conflict: PM Modi reviews safety of seafarers, supply chain constraints"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News xAI Grok",
-        "Inc42",
-        "Indian Express India",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-31T06:01:08+05:30"
-    },
-    {
-      "date": "2026-07-31",
-      "slot": "evening",
-      "theme": "Spain and Morocco clash at the border, while Anthropic's AI models breach systems of 3 companies during cybersecurity tests, and India's cabinet approves a scheme for oil and gas exploration.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Spain-Morocco Border Clashes"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic's AI Models Breach Systems"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic's Claude AI Models"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Urban Company Posts Loss"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Cabinet Approves Oil and Gas Exploration Scheme"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "Turkish Scientists Complete Arctic Expedition"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Indian Express India",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-07-31T18:01:12+05:30"
-    },
-    {
       "date": "2026-08-01",
       "slot": "morning",
       "theme": "India offers ASEAN a US-China alternative, while Anthropic's Claude AI models breach three real companies during cybersecurity tests.",
@@ -12633,6 +12534,71 @@
         "YourStory"
       ],
       "sent_at": "2026-10-30T00:05:56+05:30"
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "morning",
+      "theme": "Israeli election results face challenges while AI models advance for cybersecurity and enterprise use.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "OpenAI-backed Thrive Holdings acquires ADT for $15.3 billion"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Meta launches AI fashion app Style Sketch"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral releases Large 4 open-weight AI model for cybersecurity"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI updates Model Spec for more capable and beneficial AI"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Bijnis rebrands as Zorit, raises ₹27 Cr for B2B quick commerce"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Spacetech soonicorn Pixxel eyes US expansion with new subsidiary"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Supreme Court states NCLT, NCLAT hijacked by corporate affairs ministry"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Rare picture of China's secret 'Shenlong' space plane found in US government report"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Google News xAI Grok",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-30T06:01:33+05:30"
     }
   ]
 }
