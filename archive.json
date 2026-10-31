@@ -1,98 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-01",
-      "slot": "morning",
-      "theme": "India offers ASEAN a US-China alternative, while Anthropic's Claude AI models breach three real companies during cybersecurity tests.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "India offers ASEAN a US-China alternative"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic's Claude AI models breached three real companies during cybersecurity tests"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic's Claude AI models face security concerns"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Smallest.ai raises $13 million to build next-gen voice AI models"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Lok Sabha passes births and deaths bill"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Science",
-        "Inc42",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-01T06:01:11+05:30"
-    },
-    {
-      "date": "2026-08-01",
-      "slot": "evening",
-      "theme": "Tensions rise in geopolitics as UEFA loses confidence in FIFA's Infantino, while Anthropic releases its safest AI model yet, Claude Opus 5, and India's UPI transactions see a 4% monthly increase.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "UEFA Loses Confidence in FIFA's Infantino"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic Releases Claude Opus 5"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic's Claude Opus 5"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "UPI Transactions Rise 4%"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Kulgam Terror Attack"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Mistral",
-        "Google News OpenAI",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-01T18:01:17+05:30"
-    },
-    {
       "date": "2026-08-02",
       "slot": "morning",
       "theme": "Iran warns the US against any \"adventurous action\" while India sees a record-breaking boxing campaign in the Commonwealth Games.",
@@ -12745,6 +12653,55 @@
         "YourStory"
       ],
       "sent_at": "2026-10-30T23:38:14+05:30"
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "morning",
+      "theme": "Poland faces a constitutional crisis while Mistral releases a new cybersecurity AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Poland deploys riot police as court chief’s ousting sparks crisis"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Cracks are emerging in the AI spending boom"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "With 11 more questions, Census 2027 population enumeration phase to be of record 50 days"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-31T06:01:28+05:30"
     }
   ]
 }
