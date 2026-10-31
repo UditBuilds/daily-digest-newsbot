@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "‘Unwritten rules’ become newest target in Communist Party’s war on corruption",
-      "sent_at": "2026-10-30T06:09:45.018615+00:00"
-    },
-    {
-      "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "sent_at": "2026-10-30T06:09:45.018615+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Weights for the 1T-Parameter Mistral Large 4 Model",
-      "sent_at": "2026-10-30T06:09:45.018615+00:00"
-    },
-    {
-      "headline": "Pine Labs Q2 net profit soars 6.5x; Cognizant trims 2026 growth outlook",
-      "sent_at": "2026-10-30T06:09:45.018615+00:00"
-    },
-    {
-      "headline": "DVAC searches premises linked to ex-Minister K.N. Nehru",
-      "sent_at": "2026-10-30T06:09:45.018615+00:00"
-    },
-    {
       "headline": "Beijing Drills Water Cannons and Drones Near Disputed South China Sea Shoals",
       "sent_at": "2026-10-30T12:31:27.325748+00:00"
     },
@@ -111,6 +91,30 @@
     {
       "headline": "PM Modi pays tribute to Sardar Patel at Statue of Unity on 151st birth anniversary",
       "sent_at": "2026-10-31T06:08:53.644836+00:00"
+    },
+    {
+      "headline": "US, South Korea, and Japan Reaffirm North Korea Denuclearisation Stance",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
+    },
+    {
+      "headline": "Cognizant Establishes OpenAI Frontier Capability Group",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
+    },
+    {
+      "headline": "Mistral AI Releases Large 4 Model, Targets Cybersecurity",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
+    },
+    {
+      "headline": "Walmart Probes Flipkart Employees Over Alleged ₹150 Cr Kickbacks",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
+    },
+    {
+      "headline": "INDIA Bloc Initiates Impeachment Against CEC Gyanesh Kumar",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
+    },
+    {
+      "headline": "ISRO Launches NVS-03 Satellite, PM Praises Scientists",
+      "sent_at": "2026-10-31T12:31:27.277288+00:00"
     }
   ]
 }

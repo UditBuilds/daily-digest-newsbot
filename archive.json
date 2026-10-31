@@ -12741,6 +12741,54 @@
         "YourStory"
       ],
       "sent_at": "2026-10-31T11:38:53+05:30"
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "evening",
+      "theme": "US allies reaffirm North Korea denuclearization while Mistral AI releases a new model for cybersecurity.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US, South Korea, and Japan Reaffirm North Korea Denuclearisation Stance"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Cognizant Establishes OpenAI Frontier Capability Group"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral AI Releases Large 4 Model, Targets Cybersecurity"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Walmart Probes Flipkart Employees Over Alleged ₹150 Cr Kickbacks"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "INDIA Bloc Initiates Impeachment Against CEC Gyanesh Kumar"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "ISRO Launches NVS-03 Satellite, PM Praises Scientists"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-31T18:01:27+05:30"
     }
   ]
 }
