@@ -12789,6 +12789,44 @@
         "YourStory"
       ],
       "sent_at": "2026-10-31T18:01:27+05:30"
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "evening",
+      "theme": "Quad nations prepare for a leaders' summit, while Indian startups secure funding for manufacturing and fintech.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Quad diplomats finalise first leaders’ summit in two years before Trump-Xi meeting"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "IPO-Bound StockGro’s FY26 Profit Jumps 3.3X YoY To ₹113 Cr, Revenue Doubles"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Musalmaan hone ki saza': Azam Khan arrested by ED minutes after he gets out of jail"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-31T22:49:15+05:30"
     }
   ]
 }
