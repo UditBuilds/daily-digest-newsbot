@@ -12702,6 +12702,45 @@
         "YourStory"
       ],
       "sent_at": "2026-10-31T06:01:28+05:30"
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "evening",
+      "theme": "The US strengthens Ukraine's defenses and restricts China's tech access, while Apple brings AI to China.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US approves sale of 500 Patriot missiles to Ukraine"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Beijing blasts US ban on device testing in China, warns of supply chain disruptions"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple Intelligence is finally coming to China with iOS 27.3"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Indian Startups Raised Over $132 Mn This Week"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "PM Modi pays tribute to Sardar Patel at Statue of Unity on 151st birth anniversary"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-10-31T11:38:53+05:30"
     }
   ]
 }
