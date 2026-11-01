@@ -12832,6 +12832,52 @@
         "YourStory"
       ],
       "sent_at": "2026-11-01T12:04:33+05:30"
+    },
+    {
+      "date": "2026-11-01",
+      "slot": "evening",
+      "theme": "India's opposition protests electoral chief, while DeepSeek challenges Anthropic with a new coding AI.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Indian opposition unites to demand Modi electoral chief’s resignation"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "'Terrible' to have RAM sitting in PCs: Sam Altman’s controversial take amid global memory crisis"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "DeepSeek Unveils Open-Source 'Super-Agent' Coding Tool in Direct Challenge to Anthropic's Claude Code"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Prosus investment in Sachin Bansal's Navi gets CCI nod"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'After Gyanesh, you're next': Rahul Gandhi warns PM Modi, Amit Shah over 'vote chori'"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space Shuttle Endeavour's new home unveiled at California Science Center's Samuel Oschin Air and Space Center in Exposition Park"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Science",
+        "Inc42",
+        "South China Morning Post",
+        "The Hindu National",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-01T18:01:20+05:30"
     }
   ]
 }
