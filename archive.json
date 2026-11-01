@@ -1,94 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-02",
-      "slot": "morning",
-      "theme": "Iran warns the US against any \"adventurous action\" while India sees a record-breaking boxing campaign in the Commonwealth Games.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Iran’s foreign minister warns of any ‘adventurous action’ by US"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Ministry of Ayush and IndiaAI Join Hands to Harness Artificial Intelligence for Future of Traditional Medicine"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Ten advances in mathematics and theoretical computer science - OpenAI"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Zepto Confirms IPO Pause, Plans Pre-IPO Fundraise"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "India win seven gold medals to cap record-breaking boxing campaign in CWG"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "How India and the US are Shaping the Future Through Science, Technology and Space Cooperation"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-02T06:01:20+05:30"
-    },
-    {
-      "date": "2026-08-02",
-      "slot": "evening",
-      "theme": "Trump cancels Iran strikes, OpenAI announces new AI model, and India develops a 350kg turbojet engine.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "EU enforces world’s toughest AI law"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Startup eyes AI search boom; VC slowdown tests startups"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Built for tomorrow's wars: How India's 350kg turbojet reshapes warfare"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Reuters World",
-        "South China Morning Post",
-        "The Hindu National",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-02T18:01:13+05:30"
-    },
-    {
       "date": "2026-08-03",
       "slot": "morning",
       "theme": "Trump calls off strikes against Iran, while India's crude oil imports from Russia surge to a record high.",
@@ -12827,6 +12739,51 @@
         "YourStory"
       ],
       "sent_at": "2026-10-31T22:49:15+05:30"
+    },
+    {
+      "date": "2026-11-01",
+      "slot": "morning",
+      "theme": "North Korea faces FBI accusations of a major crypto hack, while India's EAM Jaishankar advocates for diversified energy supply chains at the G20.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "FBI blames North Korea for stolen billions from Binance in biggest hack in history"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "G20 foreign ministers end Atlanta meeting without consensus on key issues"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Claude Duet Links 6 Work Apps for Pro, Max Users [2026]"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "'Politicisation of energy flows harmful': EAM calls for diversified supply chains at G20"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Inc42",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-11-01T06:01:23+05:30"
     }
   ]
 }
