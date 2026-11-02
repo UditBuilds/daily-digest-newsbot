@@ -12934,6 +12934,58 @@
         "YourStory"
       ],
       "sent_at": "2026-11-02T18:01:30+05:30"
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "evening",
+      "theme": "Russia bombs Ukraine aid centers while OpenAI tests a new GPT model and an Indian health tech startup raises $12.5M.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Runs Gray-Scale Test of GPT-6.2 Astra, With About 20% of Requests Routed to New Model"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Navy rescues 20 crew members of fishing vessel from pirates over 3,000 km from Mumbai"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "James Webb telescope catches an invisible hand reaching for the Cat's Head Nebula 7,500 light-years from Earth"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-03T03:21:38+05:30"
     }
   ]
 }
