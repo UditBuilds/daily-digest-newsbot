@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Indian opposition unites to demand Modi electoral chief’s resignation",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
-      "headline": "'Terrible' to have RAM sitting in PCs: Sam Altman’s controversial take amid global memory crisis",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
-      "headline": "DeepSeek Unveils Open-Source 'Super-Agent' Coding Tool in Direct Challenge to Anthropic's Claude Code",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
-      "headline": "Prosus investment in Sachin Bansal's Navi gets CCI nod",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
-      "headline": "'After Gyanesh, you're next': Rahul Gandhi warns PM Modi, Amit Shah over 'vote chori'",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
-      "headline": "Space Shuttle Endeavour's new home unveiled at California Science Center's Samuel Oschin Air and Space Center in Exposition Park",
-      "sent_at": "2026-11-01T12:31:20.977990+00:00"
-    },
-    {
       "headline": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility",
       "sent_at": "2026-11-02T00:31:26.321482+00:00"
     },
@@ -75,6 +51,30 @@
     {
       "headline": "Delhi's vehicle ban faces big test at borders: Can enforcement keep up?",
       "sent_at": "2026-11-02T06:34:43.768008+00:00"
+    },
+    {
+      "headline": "Taiwan alters draft exemption rules to add thousands to armed forces",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
+    },
+    {
+      "headline": "OpenAI seeks Samsung, SK partnerships amid chip supply crisis",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
+    },
+    {
+      "headline": "DeepSeek launches Super-Agent AI to challenge Anthropic's Claude Code",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
+    },
+    {
+      "headline": "MobiKwik Reports ₹11.8 Cr Profit In Q2, Revenue Rises 9% YoY",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
+    },
+    {
+      "headline": "SC permits green crackers in Delhi-NCR on Diwali; blanket ban kicks in from Nov 9",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
+    },
+    {
+      "headline": "NASA satellite to plunge back to Earth after 22 years in space",
+      "sent_at": "2026-11-02T12:31:30.798946+00:00"
     }
   ]
 }
