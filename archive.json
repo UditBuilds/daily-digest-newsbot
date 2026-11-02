@@ -1,96 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-03",
-      "slot": "morning",
-      "theme": "Trump calls off strikes against Iran, while India's crude oil imports from Russia surge to a record high.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump says new talks with Iran to begin on Monday after calling off strikes"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Russian crude imports in July highest since Ukraine war"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "39 medals, top-five finish: India ends CWG 2026 with several historic firsts"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories"
-      ],
-      "sent_at": "2026-08-03T06:01:23+05:30"
-    },
-    {
-      "date": "2026-08-03",
-      "slot": "evening",
-      "theme": "China and the US are escalating their tech rivalry, while India's edtech and EV sectors see significant investments and growth.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "China tightens chip-design protection and clarifies rights to spur innovation"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Alibaba takes another swipe at America’s AI supremacy"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "IPO-Bound Imarticus Learning Acquires Singapore’s BELLS Institute For ₹800 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "BJP retains Manjalpur seat as Satish Patel defeats Congress by over 30,000 votes"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-03T18:01:10+05:30"
-    },
-    {
       "date": "2026-08-04",
       "slot": "morning",
       "theme": "Trump warns Iran of last chance for nuclear deal, while Anthropic and OpenAI make significant moves in AI.",
@@ -12878,6 +12788,44 @@
         "YourStory"
       ],
       "sent_at": "2026-11-01T18:01:20+05:30"
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "morning",
+      "theme": "Anthropic restricts AI model use while India considers a significant defense acquisition from Israel.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Apple CEO John Ternus defends AI strategy: ‘Don't want to ship AI for AI's sake’"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic orders AI tool Claude to stop remaking video games"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Israel's IAI on verge of winning $900m deal for six refuelling aircraft for IAF: Reports"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "Times of India Top Stories"
+      ],
+      "sent_at": "2026-11-02T06:01:26+05:30"
     }
   ]
 }

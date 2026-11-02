@@ -1,70 +1,6 @@
 {
   "sent": [
     {
-      "headline": "US, South Korea, and Japan Reaffirm North Korea Denuclearisation Stance",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "Cognizant Establishes OpenAI Frontier Capability Group",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "Mistral AI Releases Large 4 Model, Targets Cybersecurity",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "Walmart Probes Flipkart Employees Over Alleged ₹150 Cr Kickbacks",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "INDIA Bloc Initiates Impeachment Against CEC Gyanesh Kumar",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "ISRO Launches NVS-03 Satellite, PM Praises Scientists",
-      "sent_at": "2026-10-31T12:31:27.277288+00:00"
-    },
-    {
-      "headline": "Quad diplomats finalise first leaders’ summit in two years before Trump-Xi meeting",
-      "sent_at": "2026-10-31T17:19:15.553327+00:00"
-    },
-    {
-      "headline": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play",
-      "sent_at": "2026-10-31T17:19:15.553327+00:00"
-    },
-    {
-      "headline": "IPO-Bound StockGro’s FY26 Profit Jumps 3.3X YoY To ₹113 Cr, Revenue Doubles",
-      "sent_at": "2026-10-31T17:19:15.553327+00:00"
-    },
-    {
-      "headline": "'Musalmaan hone ki saza': Azam Khan arrested by ED minutes after he gets out of jail",
-      "sent_at": "2026-10-31T17:19:15.553327+00:00"
-    },
-    {
-      "headline": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
-      "headline": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
-      "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
-      "headline": "Claude Duet Links 6 Work Apps for Pro, Max Users [2026]",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
-      "headline": "E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
-      "headline": "'Politicisation of energy flows harmful': EAM calls for diversified supply chains at G20",
-      "sent_at": "2026-11-01T00:31:23.081882+00:00"
-    },
-    {
       "headline": "Kazakhstan balances US and China for AI development",
       "sent_at": "2026-11-01T06:34:33.384926+00:00"
     },
@@ -111,6 +47,22 @@
     {
       "headline": "Space Shuttle Endeavour's new home unveiled at California Science Center's Samuel Oschin Air and Space Center in Exposition Park",
       "sent_at": "2026-11-01T12:31:20.977990+00:00"
+    },
+    {
+      "headline": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility",
+      "sent_at": "2026-11-02T00:31:26.321482+00:00"
+    },
+    {
+      "headline": "Apple CEO John Ternus defends AI strategy: ‘Don't want to ship AI for AI's sake’",
+      "sent_at": "2026-11-02T00:31:26.321482+00:00"
+    },
+    {
+      "headline": "Anthropic orders AI tool Claude to stop remaking video games",
+      "sent_at": "2026-11-02T00:31:26.321482+00:00"
+    },
+    {
+      "headline": "Israel's IAI on verge of winning $900m deal for six refuelling aircraft for IAF: Reports",
+      "sent_at": "2026-11-02T00:31:26.321482+00:00"
     }
   ]
 }
