@@ -13006,6 +13006,78 @@
         "YourStory"
       ],
       "sent_at": "2026-11-03T12:34:43+05:30"
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "evening",
+      "theme": "China accuses Philippine politicians of \"intolerable\" conduct while the US ends military aid to Israel, and Mistral releases a new open-weight AI model.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump axes US$3.8 billion annual military aid for Israel"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google will let schools disable its AI tools, but not without sacrificing Search"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Mistral launches open-weight AI model ML4 to rival top systems"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic adds new rule to Claude Code for game clones"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Sachin Tendulkar Backs Hitwicket Parent Metasports"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Ola Electric Allots Rights Equity Shares For ₹1,000 Cr Fundraise"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Asim Munir flags Hindu-Jewish ties threat to Pakistan and Muslim world, reveals Iran"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "US Elections 2026: Four Indian-origin candidates chase key milestones"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Rats showed more heart scarring after space radiation exposure — Live Science"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Mistral",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-04T01:12:21+05:30"
     }
   ]
 }

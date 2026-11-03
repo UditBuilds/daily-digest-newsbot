@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Taiwan alters draft exemption rules to add thousands to armed forces",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
-      "headline": "OpenAI seeks Samsung, SK partnerships amid chip supply crisis",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
-      "headline": "DeepSeek launches Super-Agent AI to challenge Anthropic's Claude Code",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
-      "headline": "MobiKwik Reports ₹11.8 Cr Profit In Q2, Revenue Rises 9% YoY",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
-      "headline": "SC permits green crackers in Delhi-NCR on Diwali; blanket ban kicks in from Nov 9",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
-      "headline": "NASA satellite to plunge back to Earth after 22 years in space",
-      "sent_at": "2026-11-02T12:31:30.798946+00:00"
-    },
-    {
       "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "sent_at": "2026-11-02T21:51:38.270232+00:00"
     },
@@ -107,6 +83,50 @@
     {
       "headline": "NASA's Swift telescope predicted to plummet back to Earth tomorrow",
       "sent_at": "2026-11-03T07:04:43.260798+00:00"
+    },
+    {
+      "headline": "Trump axes US$3.8 billion annual military aid for Israel",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Mistral launches open-weight AI model ML4 to rival top systems",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Anthropic adds new rule to Claude Code for game clones",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Sachin Tendulkar Backs Hitwicket Parent Metasports",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Ola Electric Allots Rights Equity Shares For ₹1,000 Cr Fundraise",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Asim Munir flags Hindu-Jewish ties threat to Pakistan and Muslim world, reveals Iran",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "US Elections 2026: Four Indian-origin candidates chase key milestones",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
+    },
+    {
+      "headline": "Rats showed more heart scarring after space radiation exposure — Live Science",
+      "sent_at": "2026-11-03T19:42:21.000437+00:00"
     }
   ]
 }
