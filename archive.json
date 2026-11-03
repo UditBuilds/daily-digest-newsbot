@@ -1,99 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-04",
-      "slot": "morning",
-      "theme": "Trump warns Iran of last chance for nuclear deal, while Anthropic and OpenAI make significant moves in AI.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Congress’ favorite AI tool? ChatGPT"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Win For Apple? Govt Moves To Extend Tax Sops For Contract Manufacturers Till 2041"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "SC expands ambit of Sec 498A to cover cruelty in live-ins too"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-04T06:01:13+05:30"
-    },
-    {
-      "date": "2026-08-04",
-      "slot": "evening",
-      "theme": "Israel and Lebanon are on the brink of war, while India's tech industry is seeing significant developments in AI and ecommerce.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Japan sounds alarm over China’s expanding Pacific footprint, vows defence boost"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "EON wants to move the data superhighway from ocean fiber to space lasers"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Anthropic expands India presence with in-country Claude inference, strengthens enterprise partnerships"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Nykaa To Acquire Majority Stake In D2C Skincare Brand Aminu"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "'Will do whatever is necessary': India after Pak deploys 250 Chinese Howitzers"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News OpenAI",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-04T18:01:13+05:30"
-    },
-    {
       "date": "2026-08-05",
       "slot": "morning",
       "theme": "Israel and Lebanon are on the brink of war, while Meta and Anthropic make significant moves in the AI space.",
@@ -12986,6 +12893,57 @@
         "YourStory"
       ],
       "sent_at": "2026-11-03T03:21:38+05:30"
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "morning",
+      "theme": "US political dynamics shift ahead of elections while Anthropic expands AI watermarking and India's PowerUp Money secures $10M.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Trump administration asks Supreme Court to set aside 20,000 disputed California ballots"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic expands text watermarking to older Claude versions beginning November 3"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "PowerUp Money Raises $10 Mn To Expand Wealth Management Services"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Severe Cyclone Murasu: Landfall commences near Ongole"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "The Swift Observatory Is Dropping Back to Earth This Week. Here’s What to Know"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-03T06:01:23+05:30"
     }
   ]
 }
