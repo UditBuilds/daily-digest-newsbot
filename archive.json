@@ -12944,6 +12944,68 @@
         "YourStory"
       ],
       "sent_at": "2026-11-03T06:01:23+05:30"
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "evening",
+      "theme": "China streamlines cross-border trade while India becomes ChatGPT's largest market.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China simplifies forex settlements to boost cross-border business"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Israeli forces release Al Jazeera journalist in occupied West Bank"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI retires ChatGPT Classic app, combines Chat and Work tabs"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "India becomes ChatGPT’s largest market globally, user base doubles since January"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "LenDenClub parent Vartis Platforms launches UdhaarSaathi for small business loans"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian national killed in attack on ship in Oman, MEA calls for end to targeting civilian infrastructure"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian national killed as helicopters collide near Mount Everest"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA's Swift telescope predicted to plummet back to Earth tomorrow"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-03T12:34:43+05:30"
     }
   ]
 }
