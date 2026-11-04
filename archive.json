@@ -13069,6 +13069,61 @@
         "YourStory"
       ],
       "sent_at": "2026-11-04T12:19:28+05:30"
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "evening",
+      "theme": "Indonesia navigates ASEAN diplomatic tensions while Indian startups like Lenskart and Nykaa report strong profits.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Indonesia urges continued ASEAN diplomacy amid Singapore row"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google struggles to monetize AI like its search engine"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic loses three Claude Code team members"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Lenskart's Q2 Profit Jumps 125% YoY to ₹233 Cr"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Nykaa's Q2 Profit More Than Triples to ₹101 Cr"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Iran exempts Indian vessels from Hormuz curbs for medicine imports"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Government extends Agniveer tenure by two years"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-04T18:01:29+05:30"
     }
   ]
 }
