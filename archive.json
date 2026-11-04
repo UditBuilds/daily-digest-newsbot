@@ -13030,6 +13030,45 @@
         "YourStory"
       ],
       "sent_at": "2026-11-04T06:01:33+05:30"
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "evening",
+      "theme": "Democrats achieve significant US midterm election victories while Indian businesses like Razorpay secure major regulatory approvals.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Democrats achieve historic wins in US midterm elections, flipping key seats"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Razorpay receives SEBI approval for ₹6,000 Cr IPO"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Indian-American candidates secure significant wins in US midterm elections"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-04T12:19:28+05:30"
     }
   ]
 }
