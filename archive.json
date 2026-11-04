@@ -13124,6 +13124,58 @@
         "YourStory"
       ],
       "sent_at": "2026-11-04T18:01:29+05:30"
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "evening",
+      "theme": "US political shifts impact AI development and India's NPCI expands into new tech ventures.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Democratic Sweep in US Congress Could Slow AI Growth, Benefit China"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Google Faces Backlash Over AI Policy for Schools"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI Acquires Pierre Computer Company to Enhance Code Tools"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "NPCI Launches New Subsidiary for AI and Blockchain"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "India Considers Options in New Moon Contest Amid Trump's Space Declaration"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "NASA Races to Save Hubble Space Telescope"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News Indian Startups",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "OpenAI Blog",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-05T01:27:36+05:30"
     }
   ]
 }
