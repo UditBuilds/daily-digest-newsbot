@@ -1,104 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-05",
-      "slot": "morning",
-      "theme": "Israel and Lebanon are on the brink of war, while Meta and Anthropic make significant moves in the AI space.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "China Raises $2.22 Billion Through Sovereign Bond Auction"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "Anthropic Signs $10 Billion Deal with AI Cloud Startup Volta"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "White House to Meet with Meta, OpenAI, Google, and Anthropic on AI Safety Testing"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Elevation Capital Offloads Paytm Shares Worth ₹2,038 Crore"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Government May Allow Fees on UPI Payments Above ₹2,000"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "No significant science news today"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google AI Blog",
-        "Google News AI",
-        "Google News Anthropic",
-        "Google News Geopolitics",
-        "Google News Mistral",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-05T06:01:13+05:30"
-    },
-    {
-      "date": "2026-08-05",
-      "slot": "evening",
-      "theme": "Israel and Russia escalate tensions in the Middle East, while India's startup scene sees significant funding rounds and developments in the electric vehicle sector.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "Mistral AI has released 'Shieldstral,' a small moderation AI capable of analyzing text and images using natural language rules."
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Zuckerberg apologies to Centre: Meta admits 'money paid to boost certain content'"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News Mistral",
-        "Google News OpenAI",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-05T18:01:16+05:30"
-    },
-    {
       "date": "2026-08-06",
       "slot": "morning",
       "theme": "Israel escalates in the West Bank, while Meta and Anthropic compete in AI coding agents.",
@@ -13078,6 +12980,56 @@
         "YourStory"
       ],
       "sent_at": "2026-11-04T01:12:21+05:30"
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "morning",
+      "theme": "China expands its security influence in the Solomon Islands while Indian startups DevX and IndiQube show strong financial performance.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "China training Solomon Islands police to use water cannons under security pact"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Netflix’s new AI Discover tab helps you find something to watch based on your mood"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "CERT-In gets access to Anthropic's Claude Mythos to test cybersecurity vulnerabilities"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "DevX Q2: Profit Zooms To ₹5.5 Cr, Revenue Surges 55% YoY"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "Rank-based merit list to replace percentile for NEET PG: Panel to SC"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Space tech Astrobase to invest ₹500 crore in Karnataka rocket engine facility"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News DeepMind",
+        "Google News Geopolitics",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-04T06:01:33+05:30"
     }
   ]
 }
