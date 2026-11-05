@@ -13124,6 +13124,61 @@
         "YourStory"
       ],
       "sent_at": "2026-11-05T06:01:27+05:30"
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "evening",
+      "theme": "China purges former officials as US asset managers expand into Hong Kong, while India's Supreme Court clarifies arrest rules.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "US asset manager Federated Hermes opens Hong Kong office to tap China’s tech rise"
+        },
+        {
+          "category": "GEOPOLITICS",
+          "headline": "Ex-Politburo member Ma Xingrui’s corruption charges extend to end of last century"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "Anthropic's text watermark is easy to bypass on several older Claude models"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "24-hour arrest clock starts from detention, not formal arrest: Supreme Court"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "After 22 years in space, NASA’s 3,200-pound Swift space telescope crashes back to Earth over Indonesia af - The Times of India"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Ken",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-05T12:38:51+05:30"
     }
   ]
 }
