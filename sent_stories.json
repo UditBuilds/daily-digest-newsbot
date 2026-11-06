@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Japan considers doubling defense spending to US$500 billion",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
-      "headline": "Meta acquires AI coding startup Conductor",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
-      "headline": "OpenAI acquires Pierre Computer Company to enhance Codex",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
-      "headline": "Indian Cabinet approves ₹2,814 Cr scheme for lithium and nickel processing",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
-      "headline": "Supreme Court questions two-child norm for local elections, refers to larger bench",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
-      "headline": "NASA's Swift satellite telescope falls from orbit after 22 years",
-      "sent_at": "2026-11-05T00:31:27.950729+00:00"
-    },
-    {
       "headline": "US asset manager Federated Hermes opens Hong Kong office to tap China’s tech rise",
       "sent_at": "2026-11-05T07:08:51.846550+00:00"
     },
@@ -91,6 +67,30 @@
     {
       "headline": "Chinese scientists chill atoms to record low on Tiangong space station",
       "sent_at": "2026-11-05T20:11:28.527815+00:00"
+    },
+    {
+      "headline": "California Governor Newsom granting clemency to all 548 death row inmates in state",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
+    },
+    {
+      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
+    },
+    {
+      "headline": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
+    },
+    {
+      "headline": "‘Speedy trial is fundamental right’: SC says Constitution has primacy over spl laws",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
+    },
+    {
+      "headline": "Record-low temperature created on China’s space station",
+      "sent_at": "2026-11-06T00:31:31.595260+00:00"
     }
   ]
 }

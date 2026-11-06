@@ -1,108 +1,6 @@
 {
   "briefs": [
     {
-      "date": "2026-08-07",
-      "slot": "morning",
-      "theme": "Trump signs orders targeting birthright citizenship, while OpenAI makes major upgrades for ChatGPT users and India's Lok Sabha passes a bill to simplify tax rules.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "OpenAI makes major upgrades for free and paid ChatGPT users"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "GPT-5 turning one as OpenAI shares new Agent Plugins standard"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Wakefit Q1 Profit Increases 19% YoY To ₹23.4 Cr, Revenue Crosses ₹400 Cr"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Lok Sabha passes bill for government to make changes to tax rules"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "First views of SpaceX rocket crash site on moon released"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News OpenAI",
-        "Google News Science",
-        "Inc42",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Verge AI",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-07T06:01:15+05:30"
-    },
-    {
-      "date": "2026-08-07",
-      "slot": "evening",
-      "theme": "Saudi Arabia, Turkey, and Pakistan sign a joint defense agreement, while OpenAI introduces unlimited text chats for free users and expands GPT-5.6 Luna access.",
-      "stories": [
-        {
-          "category": "GEOPOLITICS",
-          "headline": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil"
-        },
-        {
-          "category": "AI & TECH",
-          "headline": "ByteDance targets mega AI model nearing Anthropic’s Mythos"
-        },
-        {
-          "category": "AI RELEASES",
-          "headline": "OpenAI rolls out GPT-5.6 Sol improvements, expands GPT-5.6 Luna access for free users"
-        },
-        {
-          "category": "INDIA BUSINESS",
-          "headline": "Ola Electric Q1: Loss Narrows 22% YoY To ₹336 Cr, Revenue Plunges 45%"
-        },
-        {
-          "category": "INDIA NEWS",
-          "headline": "Saudi Arabia, Pakistan & Turkey sign 'Mecca' pact for mutual defence; India reacts"
-        },
-        {
-          "category": "SCIENCE & SPACE",
-          "headline": "How NASA is powering the Voyager 2 probe from a galaxy away"
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "BBC News",
-        "Google News AI",
-        "Google News DeepMind",
-        "Google News Geopolitics",
-        "Google News India National",
-        "Google News OpenAI",
-        "Google News Science",
-        "Google News xAI Grok",
-        "Inc42",
-        "OpenAI Blog",
-        "Reuters World",
-        "South China Morning Post",
-        "TechCrunch AI",
-        "The Hindu National",
-        "The Ken",
-        "Times of India Top Stories",
-        "YourStory"
-      ],
-      "sent_at": "2026-08-07T18:01:09+05:30"
-    },
-    {
       "date": "2026-08-08",
       "slot": "morning",
       "theme": "India and the US are navigating complex geopolitical landscapes, while AI advancements and Indian business developments continue to shape their respective industries.",
@@ -13274,6 +13172,58 @@
         "YourStory"
       ],
       "sent_at": "2026-11-06T01:41:28+05:30"
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "morning",
+      "theme": "OpenAI releases a new cybersecurity model while India's Supreme Court upholds fundamental rights.",
+      "stories": [
+        {
+          "category": "GEOPOLITICS",
+          "headline": "California Governor Newsom granting clemency to all 548 death row inmates in state"
+        },
+        {
+          "category": "AI & TECH",
+          "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+        },
+        {
+          "category": "AI RELEASES",
+          "headline": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws"
+        },
+        {
+          "category": "INDIA BUSINESS",
+          "headline": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine"
+        },
+        {
+          "category": "INDIA NEWS",
+          "headline": "‘Speedy trial is fundamental right’: SC says Constitution has primacy over spl laws"
+        },
+        {
+          "category": "SCIENCE & SPACE",
+          "headline": "Record-low temperature created on China’s space station"
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "BBC News",
+        "Google AI Blog",
+        "Google News AI",
+        "Google News Anthropic",
+        "Google News Ecommerce Series",
+        "Google News Geopolitics",
+        "Google News India National",
+        "Google News OpenAI",
+        "Google News Science",
+        "Inc42",
+        "Reuters World",
+        "South China Morning Post",
+        "TechCrunch AI",
+        "The Hindu National",
+        "The Verge AI",
+        "Times of India Top Stories",
+        "YourStory"
+      ],
+      "sent_at": "2026-11-06T06:01:31+05:30"
     }
   ]
 }
